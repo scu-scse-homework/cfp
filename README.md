@@ -8,7 +8,7 @@ For each CFP, please follow the steps below:
      `WORKSHOP_SHORT_NAME-XXX-YYY[-ZZZ].md`, where `WORKSHOP_SHORT_NAME` is the
      abbreviation of the workshop while XXX, YYY and optionally ZZZ are the
      last 3 digit of the organizers' student ID.
-  2. The content of the file should follow the same structure as in `cfp/example.md`.
+  2. The content of the file should follow the same structure as in `cfp/example-123-456.md`.
      - `organizers` is the list of organizers, including their names and student
      IDs
      - `title` is the name of the workshop
