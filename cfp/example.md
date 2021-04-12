@@ -8,6 +8,8 @@ organizers:
     id: 2019XXXXXXY
 title: Workshop on Intrusion Detection
 shorttitle: WID
+only-for-homework: false
+accept-chinese-submission: true
 ---
 
 **PUT YOUR CFP CONTENT HERE**
