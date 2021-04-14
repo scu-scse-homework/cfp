@@ -6,10 +6,16 @@ organizers:
   -
     name: 李四
     id: 2019XXXXXXY456
-title: Workshop on Intrusion Detection
-shorttitle: WID
+title: Workshop on INtrusion Detection
+shorttitle: WIND
 only-for-homework: false
 accept-chinese-submission: true
 ---
 
-**PUT YOUR CFP CONTENT HERE**
+This workshop accepts submissions on intrusion detection.
+
+This workshop seeks submission including but not limited to the following topics:
+
+- Intrusion detection for home networks
+- Intrusion detection for data center networks
+- ...
