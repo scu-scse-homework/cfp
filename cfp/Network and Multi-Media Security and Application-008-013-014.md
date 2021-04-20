@@ -14,11 +14,11 @@ shorttitle: NMSA
 only-for-homework: true
 accept-chinese-submission: true
 ---
-<figure align="center">
-<figcaption><i>2021 held in Chengdu China</i></figcaption>
+<div align="center",style='width: 130px; text-align: center;'>2021 held in Chengdu China</div>
+<div align="center">
 <img src="./chengdu-map.jpg.jpg" width="400">
-<figcaption><i>Network and Multi-Media Security and Application</i></figcaption>
-</figure>
+</div>
+<div align="center",style='width: 130px; text-align: center;'>Network and Multi-Media Security and Application</div>
 
 # Background and Topics
   - This is the first year of the Network and Multi-Media Security and Application, our research focusing on network and multi-media security and its applications. Network and Multi-Media Security and Application is organized by the school of Cyber Science and Engineering which have been signed National Cybersecurity Talent Base by chinese goverment. Currently, school of Cyber Science and Engineering is working with multiple national key laboratory.
@@ -45,13 +45,10 @@ accept-chinese-submission: true
   - Friday 20 May (AoE): Camera Ready Papers
   - Monday 24 May– Friday 28 May: Virtual Conference
 
-<figure align="center">
+<div align="center">
 <img src="./Sichuan_University_logo.png" width="48">
-<figcaption>
-<i>
-Sponsored by Sichuan University
-</i>
-</figcaption>
-</figure>
+<div align="center",style='width: 130px; text-align: center;'>Sponsored by Sichuan University</div>
+</div>
+
 
 
