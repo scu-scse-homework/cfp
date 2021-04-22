@@ -43,6 +43,7 @@ With the continuous development of cloud storage technology and big data mining 
 
 This seminar (stdti & ID) is collecting original technical papers to deal with threat identification in various network application scenarios and network topology environment, and network intrusion detection. It is expected to use more intelligent modes and methods, use artificial intelligence technology, optimize the existing detection technology, or solve the main problems of current traffic in storage management, flow, identification and other aspects The requirements include but are not limited to the following topics:
 
+
 ·Collecting and caching for massive network traffic
 ·Scalable and customized protocol restore and load restore for high-speed flow environment
 ·Comprehensive and effective expression of network traffic
