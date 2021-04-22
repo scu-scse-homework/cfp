@@ -44,12 +44,30 @@ With the continuous development of cloud storage technology and big data mining 
 This seminar (stdti & ID) is collecting original technical papers to deal with threat identification in various network application scenarios and network topology environment, and network intrusion detection. It is expected to use more intelligent modes and methods, use artificial intelligence technology, optimize the existing detection technology, or solve the main problems of current traffic in storage management, flow, identification and other aspects The requirements include but are not limited to the following topics:
 
 
-·Collecting and caching for massive network traffic
-·Scalable and customized protocol restore and load restore for high-speed flow environment
-·Comprehensive and effective expression of network traffic
-·Build a network traffic characterization system that can adapt to different use scenarios and different application requirements
-·Solve The problem of sparse samples, small samples and limited samples of unknown samples 
-·Solve the environmental restriction in the network environment such as industrial control network, private network and complex network
-·Solve the problem of fuzzy concept, interpretability and so on
+<center>
+
+**Collecting and caching for massive network traffic
+
+**Scalable and customized protocol restore and load restore for high-speed flow environment
+
+**Comprehensive and effective expression of network traffic
+
+**Build a network traffic characterization system that can adapt to different use scenarios and different application requirements
+
+**Solve The problem of sparse samples, small samples and limited samples of unknown samples
+
+**Solve the environmental restriction in the network environment such as industrial control network, private network and complex network
+
+**Solve the problem of fuzzy concept, interpretability and so on
+
+</center>
+
+·
+·
+·
+·
+· 
+·
+·
 ·Solve the problem of limited data sources in scenarios of encrypted traffic, risk analysis, prediction and early warning
 ·Solve the problem of limited directional, controllable and operable variants of network traffic samples and characteristics
