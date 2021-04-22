@@ -6,7 +6,7 @@ organizers:
   -
     name: 胡益
     id: 2020226XXXX015
-   -
+  -
     name: 董腾飞
     id: 2020226XXXX076
 title: Information and Content Security
@@ -112,8 +112,9 @@ Email: 1160553681@qq.com
 **General chair**  
 Dai JinQiao (SiChuan University)  
 Hu Yi (SiChuan University)  
-Dong TengFei (SiChuan University) 
-
+Dong TengFei (SiChuan University)   
+  
+   
 <div align=left>
 	<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fs16.sinaimg.cn%2Fmw690%2F006Csvefzy78NLTGu8T1f%26690&refer=http%3A%2F%2Fs16.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1621687324&t=f161bceec555038ca4fb53063aaf1f16"/  height = '280'> 
 </div>
