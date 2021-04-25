@@ -119,6 +119,17 @@ Sichuan University,China
 
 </center>
 
+<center>
+
+## Submission Instructions
+
+</center>
+Manuscripts can be written in English and Chinese, and the length is generally 5-20 pages.
+
+The paper will be submitted using easychair system. For detailed requirements, please visit the paper submission column on the official website of the conference:
+
+All submitted materials will go through a double-blind review process, so the author's name or affiliation should not appear on the title page, and the document should avoid showing its identity in the text and document metadata. For each paper accepted by the conference, the author should promise that at least one author will attend the conference for communication. Papers not attending the meeting will not be published. Contributors must provide a valid email address and mobile phone number.
+
 <div align=center>
 
 # 
