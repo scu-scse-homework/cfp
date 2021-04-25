@@ -2,13 +2,13 @@
 organizers:
   -
     name: 刘阳洋
-    id: 2020XXXXXXX0
+    id: 2020XXXXXX043
   -
     name: 苑文昕
-    id: 2020XXXXXXY
+    id: 2020XXXXXX007
   -
     name: 尹曙
-    id: 2020XX
+    id: 2020XXXXXX001
 title: Seminar on Traffic driven network threat identification and intrusion detection 
 shorttitle: STDTI&ID
 only-for-homework: true
@@ -44,7 +44,11 @@ With the continuous development of cloud storage technology and big data mining 
 This seminar (stdti & ID) is collecting original technical papers to deal with threat identification in various network application scenarios and network topology environment, and network intrusion detection. It is expected to use more intelligent modes and methods, use artificial intelligence technology, optimize the existing detection technology, or solve the main problems of current traffic in storage management, flow, identification and other aspects The requirements include but are not limited to the following topics:
 
 
+<center>
 
+## topics：
+
+</center>
 
 <center>
 
@@ -62,8 +66,67 @@ This seminar (stdti & ID) is collecting original technical papers to deal with t
 
 * Solve the problem of fuzzy concept, interpretability and so on
 
+* Solve the problem of limited data sources in scenarios of encrypted traffic, risk analysis, prediction and early warning
+
+* Solve the problem of limited directional, controllable and operable variants of network traffic samples and characteristics
+
+* Using efficient machine learning model to solve traffic classification
+
+* Run artificial intelligence method for traffic mining
+
+* Solve the complexity of feature engineering caused by protocol breadth in malicious traffic detection
+
+* About the new network attack recognition, apt attack recognition, unknown attack recognition
+
+</center>
+Manuscripts should conform to the standard format as indicated in the Information for Authors section of the Paper Submission Guidelines.All manuscripts to be considered for publication must be submitted by the deadline through Manuscript Central.Please refer to the paper writing format of Sichuan University Natural Science Edition for the paper format.
+
+<center>
+
+## Important Dates
+
 </center>
 
-5
-·Solve the problem of limited data sources in scenarios of encrypted traffic, risk analysis, prediction and early warning
-·Solve the problem of limited directional, controllable and operable variants of network traffic samples and characteristics
+
+<center>
+
+**Manuscript Submission Deadline:**  28 May 2021
+
+**Initial Decision Date:**  10  June 2021
+
+**Revised Manuscript Due:**  18 June 2021
+
+**Final Decision Date:**  28 June 2021
+
+**Final Manuscript Due:**  1 July 2022
+
+**Publication Date:**  August 2022
+
+</center>
+
+<center>
+
+## Guest Editors
+
+#LIU YANGYANG
+Sichuan University,China
+
+#YUAN WENXIN
+Sichuan University,China
+
+#YIN SHU
+Sichuan University,China
+
+</center>
+
+<div align=center>
+
+# 
+
+![图片](https://raw.githubusercontent.com/xiaowang-0209/cfp/main/cfp/cyber.png)
+
+---
+
+# Review institution
+
+</div>
