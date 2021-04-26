@@ -1,0 +1,40 @@
+---
+layout: style
+---
+
+.cfp-heading {
+    padding-bottom: 100px;
+}
+
+.cfp-content {
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.meta-list {
+    list-style-type: none;
+    display: inline;
+}
+
+.meta-list label {
+    display: inline-block;
+    width: 100px;
+}
+
+.meta-item ul, .meta-item li {
+    display: inline;
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.cfp-item {
+    padding-top: 40px;
+    padding-bottom: 60px;
+
+    font-weight: bold;
+
+    border-top: 2px solid gray;
+}
