@@ -42,7 +42,7 @@ Technical scope of this special issue includes, but is not limited to:
 
 ## Submission Guidelines
 
-All manuscripts to be considered for publication must be submitted by the deadline through the <a href=mailto:test@163.com>e-mail</a>.
+All manuscripts to be considered for publication must be submitted by the deadline through the <a href=mailto:mkang9464@163.com>e-mail</a>.
 All manuscripts must meet the standards of [Journal of Sichuan University (Engineering Science and Technology)](http://jsuese.ijournals.cn/jsuese_cn/ch/index.aspx)
 
 
