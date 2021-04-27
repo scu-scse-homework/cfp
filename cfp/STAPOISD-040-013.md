@@ -12,7 +12,6 @@ only-for-homework: false
 accept-chinese-submission: true
 ---
 
-**PUT YOUR CFP CONTENT HERE**
 ## Call for Papers
 
 The Internet of Things can bring huge economic opportunities to all walks of life, and can support exciting innovations in various fields, including child care, elderly care, healthcare, energy, manufacturing, and transportation.
