@@ -19,7 +19,7 @@ accept-chinese-submission: true
 
 #### ICS 2021 | BY data_group
 _China Chengdu_  
-_The 1st Meeting of the Information and Content Security_    
+_The 1st Workshop of the Information and Content Security_    
 _ShuangLiu, ChengDu, April 4-28_
 
 [ICS]('#'), the Information and Content Security Special Interest Group on linguistic data and corpus-based approaches to NLP, invites you to submit your papers to ICS 2021 (November 2 – November 4, 2021) in Chengdu, China.
