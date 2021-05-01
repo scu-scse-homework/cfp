@@ -17,7 +17,7 @@ layout: default
     <div class="container">
       <div class="cfp-item text-white" id="{{p.shorttitle}}">
         <div class="cfp-meta">
-          <h4><a data-bs-toggle="collapse" href="#{{cprefix}}{{pc}}" class="link-light" role="button" aria-expanded="false" aria-controls="{{cprefix}}{{pc}}">{{p.title | upcase}}</a></h4>
+            <h3><a data-bs-toggle="collapse" href="#{{cprefix}}{{pc}}" class="link-light text-decoration-none" role="button" aria-expanded="false" aria-controls="{{cprefix}}{{pc}}">{{p.title | upcase}}</a></h3>
           <div class="meta-item text-white">
             <label>ORGANIZERS:</label>
             <ul>
@@ -29,14 +29,13 @@ layout: default
         </div>
         <div id="{{cprefix}}{{pc}}" class="collapse">
           <div class="cfp-content bg-secondary">
-           <a href="{{p.url}}">Click here</a>
            <div class="container">
            <!-- <iframe seamless="seamless" src="{{p.url}}" description="{{p.shorttitle}}">
            </iframe> -->
            {{p.content | markdownify}}
            </div>
 
-           <label data-bs-toggle="collapse" href="#{{cprefix}}{{pc}}" class="colbtn bg-dark" role="button" aria-expanded="false" aria-controls="{{cprefix}}{{pc}}">&#10548;</label>
+           <a class="colbtn bg-dark link-light text-decoration-none" href="#{{p.shorttitle}}">&#10548;</a>
           </div>
         </div>
       </div>
