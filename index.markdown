@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+
 <section id="content" class="bg-dark">
   <div class="cfp-heading">
     <h1 class="section-heading text-center text-white">Call for Papers</h1>
@@ -26,7 +28,12 @@ layout: default
         </div>
         <div id="{{cprefix}}{{pc}}" class="collapse">
           <div class="cfp-content bg-secondary">
-          {{p.content | markdownify}}
+           <a href="{{p.url}}">Click here</a>
+           <div class="container">
+           <!-- <iframe seamless="seamless" src="{{p.url}}" description="{{p.shorttitle}}">
+           </iframe> -->
+           {{p.content | markdownify}}
+           </div>
           </div>
         </div>
       </div>
