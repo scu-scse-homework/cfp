@@ -1,0 +1,57 @@
+---
+organizers:
+  -
+    name: 杨杰
+    id: 2020226240014
+  -
+    name: 关郁婷
+    id: 2020226240012
+  -
+    name:杜林峰
+    id: 2020226245047
+title: Security Issues in Software Defined Networks
+shorttitle: SISDN
+only-for-homework: True
+accept-chinese-submission: true
+
+---
+
+# Call for Papers
+
+### Overview
+
+With the rapid development of Internet-of-Things (IoT), more smart devices can be connected to the Internet, resulting in a dramatic increase of data transmission and communication. **Software-Defined Networking (SDN)**, which separates the control planes and data planes, is considered as a promising solution to provide the scale and versatility necessary for IoT. However, there are still many security issues that need to be addressed in this network architecture before the widespread adoption of SDN.**SISDN** set a goal to become a premier symposium and an international forum for presentation and discussion of cutting-edge research in SDN security. 
+
+### Important Dates
+
++ Anonymity period begins: April 28,2021
++ Submission deadline (long & short papers): May 21, 2021
++ Author reponse period: June 4-18, 2021
++ Notification of acceptance (long &short papers): June 30, 2021
++ Camera-ready papers due (long &short papers)：July 10, 2021
++ Main conference: July 20-22, 2021
++ Workshops and tutorials: July 23-23, 2021
+
+**All deadlines are 11.59 pm UTC - 12h**
+
+### Submissions
+
+we take a broad view of SDN security research, which includes but not limited to the following topics:
+
+- SDN Access Control Mechanisms
+
+- SDN Application Security
+
+- Application risks in the SDN control layer
+
+- Risk of application configuration at SDN control layer
+
+- SDN-based DDoS Attack Defense System
+
+- Challenges of SDN Distributed Control Layer
+
+- SDN southbound & northbound interfaces Security
+
+- Design and implementation of northbound interface of transport-SDN
+
+- Detection and Defense against Timing-based Side Channel Attacks in SDN
