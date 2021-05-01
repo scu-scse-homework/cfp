@@ -9,14 +9,14 @@ organizers:
   -
     name: 尹曙
     id: 2020XXXXXX001
-title: Seminar on Traffic driven network threat identification and intrusion detection 
+title: Seminar on Traffic driven network threat identification and intrusion detection
 shorttitle: STDTI&ID
 only-for-homework: true
 accept-chinese-submission: true
 ---
 
 
-<div align=center>
+<div align=center markdown=1>
 
 # Call for Papers
 
@@ -36,7 +36,7 @@ accept-chinese-submission: true
 
 
 Cyberspace has become the "fifth frontier" after land, ocean, sky and space. As one of the key national information infrastructures, the Internet has played an important role in politics, military, economy, transportation and other fields. At the same time, the frequency and scale of network attacks are increasing year by year. These attacks have caused huge economic losses, and even seriously threatened national security and social stability and development. Therefore, how to effectively prevent attacks from the network has become an urgent problem.
-    
+
 At present, the existing security protection schemes include firewall, data encryption, intrusion detection system and other technologies, which can effectively sense network attacks to a certain extent and provide response decisions for security managers. With the continuous development of network intrusion technology, Trojans, zombies and other means of attack, as well as the diversification of network applications and computer programs, the efficiency of traditional virus library and pattern recognition detection methods has gradually decreased, but no matter what kind of attack methods, as long as the use of the network media, its attack behavior will be shown in the network traffic, the impact of network traffic Mining has become the first defense line of cyberspace protection and the main battlefield of intrusion detection.
 
 With the continuous development of cloud storage technology and big data mining technology, the speed, efficiency and accuracy of online and offline traffic analysis have been improved. With the combination of machine learning and deep learning, migration learning, traffic threat identification and intrusion detection, the main battlefield of network countermeasure of traffic detection has ushered in new development. Researchers in academia and industry are coping with the new challenges in cyberspace with more intelligent and higher speed.
@@ -44,13 +44,7 @@ With the continuous development of cloud storage technology and big data mining 
 This seminar (stdti & ID) is collecting original technical papers to deal with threat identification in various network application scenarios and network topology environment, and network intrusion detection. It is expected to use more intelligent modes and methods, use artificial intelligence technology, optimize the existing detection technology, or solve the main problems of current traffic in storage management, flow, identification and other aspects The requirements include but are not limited to the following topics:
 
 
-<center>
-
 ## topics：
-
-</center>
-
-<center>
 
 * Collecting and caching for massive network traffic
 
@@ -78,17 +72,10 @@ This seminar (stdti & ID) is collecting original technical papers to deal with t
 
 * About the new network attack recognition, apt attack recognition, unknown attack recognition
 
-</center>
 Manuscripts should conform to the standard format as indicated in the Information for Authors section of the Paper Submission Guidelines.All manuscripts to be considered for publication must be submitted by the deadline through Manuscript Central.Please refer to the paper writing format of Sichuan University Natural Science Edition for the paper format.
-
-<center>
 
 ## Important Dates
 
-</center>
-
-
-<center>
 
 **Manuscript Submission Deadline:**  28 May 2021
 
@@ -102,10 +89,6 @@ Manuscripts should conform to the standard format as indicated in the Informatio
 
 **Publication Date:**  August 2022
 
-</center>
-
-<center>
-
 ## Guest Editors
 
 #LIU YANGYANG
@@ -117,27 +100,22 @@ Sichuan University,China
 #YIN SHU
 Sichuan University,China
 
-</center>
-
-<center>
-
 ## Submission Instructions
 
-</center>
 Manuscripts can be written in English and Chinese, and the length is generally 5-20 pages.
 
 The paper will be submitted using easychair system. For detailed requirements, please visit the paper submission column on the official website of the conference:
 
 All submitted materials will go through a double-blind review process, so the author's name or affiliation should not appear on the title page, and the document should avoid showing its identity in the text and document metadata. For each paper accepted by the conference, the author should promise that at least one author will attend the conference for communication. Papers not attending the meeting will not be published. Contributors must provide a valid email address and mobile phone number.
 
-<div align=center>
+<div align=center markdown=1>
 
-# 
+#
 
 ![图片](https://raw.githubusercontent.com/xiaowang-0209/cfp/main/cfp/cyber.png)
 
 ---
 
-# Review institution
+## Review institution
 
 </div>

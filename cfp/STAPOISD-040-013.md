@@ -47,8 +47,9 @@ All manuscripts must meet the standards of [Journal of Sichuan University (Engin
 
 ## Important Dates
 
-**Manuscript Submission Due:**&nbsp;4 Jnue 2021</br>
-**Final Decision:**&nbsp;18 Jnue 2021 
+**Manuscript Submission Due:**&nbsp;4 Jnue 2021
+<br>
+**Final Decision:**&nbsp;18 Jnue 2021
 
 ## Guest Editors
 

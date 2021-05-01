@@ -1,19 +1,19 @@
 ---
 organizers:
   -
-    name:郭迪骁
+    name: 郭迪骁
     id: 2020xxxxxx005
   -
-    name:王雩森
+    name: 王雩森
     id: 2020xxxxxx056
   -
-    name:潘贵
+    name: 潘贵
     id: 2020xxxxxx072
 
-title: Sichuan Academic Norms for Cyber Science and Engineering  
+title: Sichuan Academic Norms for Cyber Science and Engineering
 shorttitle: ANCSE 2021
-only-for-homework: true  
-accept-chinese-submission: true  
+only-for-homework: true
+accept-chinese-submission: true
 
 ---
 
