@@ -75,3 +75,11 @@ img {
 .cfp-meta {
     font-weight: bold;
 }
+
+.shuffle {
+    visibility: hidden;
+}
+
+.shuffle.show {
+    visibility: visible;
+}
