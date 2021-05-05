@@ -38,13 +38,13 @@ Final Decision Date: 15 August 2021
 Final Manuscript Due: 15 September 2021
 Publication Date: January 2022
 
-Guest Editors
-Ziheng He
-Sichuan University, Chengdu, China
+Guest Editors  
+Ziheng He  
+Sichuan University, Chengdu, China  
 
-Hairu Luo
-Sichuan University, Chengdu, China
+Hairu Luo  
+Sichuan University, Chengdu, China  
 
-Yuanxin Zhong
-Sichuan University, Chengdu, China
+Yuanxin Zhong  
+Sichuan University, Chengdu, China  
 
