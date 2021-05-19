@@ -14,7 +14,9 @@ title: Sichuan Academic Norms for Cyber Science and Engineering
 shorttitle: ANCSE 2021
 only-for-homework: true
 accept-chinese-submission: true
-
+score1: 80
+score2: 90
+comments: "概述中主题不够明确"
 ---
 
 # Call for Papers

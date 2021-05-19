@@ -13,6 +13,9 @@ title: Seminar on Traffic driven network threat identification and intrusion det
 shorttitle: STDTI&ID
 only-for-homework: true
 accept-chinese-submission: true
+score1: 85
+score2: 85
+comments: "主题和topics描述清楚，关系紧密，内容比较完整"
 ---
 
 

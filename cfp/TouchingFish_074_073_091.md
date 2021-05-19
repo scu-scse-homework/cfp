@@ -1,4 +1,7 @@
 ---
+score1: 80
+score2: 90
+comments: "主题不够清楚，内容组织完善"
 organizers:
   -
     name: 徐开元

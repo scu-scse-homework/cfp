@@ -10,6 +10,9 @@ title: Security Threats and Protection of IoT
 shorttitle: STAPOISD
 only-for-homework: false
 accept-chinese-submission: true
+score1: 90
+score2: 90
+comments: "主题的描述清楚，topics与主题关系紧密，内容组织完善"
 ---
 
 ## Call for Papers
