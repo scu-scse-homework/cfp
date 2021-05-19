@@ -13,6 +13,7 @@ accept-chinese-submission: true
 score1: 90
 score2: 90
 comments: "主题的描述清楚，topics与主题关系紧密，内容组织完善"
+final: true
 ---
 
 ## Call for Papers
@@ -41,7 +42,7 @@ Technical scope of this special issue includes, but is not limited to:
 - Smart device hardware vulnerability protection technology
 - Smart device hardware fault-tolerant recovery technology
 - Information flow anomaly detection technology on the hardware side of smart devices
-- Mobile and Web Security 
+- Mobile and Web Security
 - Malware and unwanted software for IoT
 - Vulnerability analysis and reverse engineering for IoT
 - IoT Cyber crime
@@ -75,7 +76,7 @@ All submissions must obey the following formatting requirements.
 - Papers must be formatted for printing on Letter-sized (8.5” by 11”) paper. Paper text blocks must follow ACM guidelines: double-column, with each column 9.25” by 3.33”, 0.33” space between columns. Each column must use 10-point font or larger, and contain no more than 55 lines of text.
 - It is your responsibility to ensure that your submission satisfies the above requirements. You must use LaTeX, and you need to make use of [this template for ACM conference proceedings](https://github.com/scyue/ccp-sigcomm18). With the older versions of this template you must add “10pt” to the documentclass command to meet the submission requirements. The current template sets 10pt by default. (Unlike the official template, it only includes an example for conference proceedings.)
 
-Your goal as an author is to produce a clearly readable submission within the above constraints. Authors are strongly discouraged from violating the formatting requirements with the aim of including additional material: **submissions that violate the formatting requirements may not be reviewed**. 
+Your goal as an author is to produce a clearly readable submission within the above constraints. Authors are strongly discouraged from violating the formatting requirements with the aim of including additional material: **submissions that violate the formatting requirements may not be reviewed**.
 
 Please make sure that your submitted paper satisfies the following:
 - Per the anonymity guidelines, you must remove any author names.
@@ -96,7 +97,7 @@ All submitted papers will be judged based on their quality and relevance through
 
 In addition to submitting an anonymized paper, double-blind reviewing requires that both authors and reviewers take care while reviewing is happening.
 
--  Authors are welcome to release their paper in a non-peer-reviewed location, but you should not broadcast information about the publication widely. 
+-  Authors are welcome to release their paper in a non-peer-reviewed location, but you should not broadcast information about the publication widely.
 - All reviewers are expected to not actively attempt to deanonymize papers. In either case, if there is a breach of double-blind reviewing, the author and the reviewer should report it to the chairs.
 
 ### Ethics Considerations

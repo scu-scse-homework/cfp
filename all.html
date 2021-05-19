@@ -10,7 +10,7 @@ layout: default
   <div class="cfp-list shuffle">
   {% assign pc = 0 %}
   {% for p in site.pages %}
-    {% if p.path contains "cfp/" and p.final %}
+    {% if p.path contains "cfp/" %}
     {% assign pc = pc | plus: 1 %}
     {{ pc }}
     {% assign cprefix = "collapse-cfp" %}
@@ -43,6 +43,4 @@ layout: default
     {% endif %}
   {% endfor %}
   </div>
-  <div class="cfp-heading"></div>
-  <div class="cfp-heading"></div>
 </section>
