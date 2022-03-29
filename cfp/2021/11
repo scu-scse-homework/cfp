@@ -1,0 +1,19 @@
+---
+score1: 80
+score2: 90
+comments: "主题不够清楚，内容组织完善"
+organizers:
+  -
+    name: 徐开元
+    id: 2020226XXXX074
+  -
+    name: 乔丹诺
+    id: 2020226XXXX073
+  -
+    name: 刘晓慧
+    id: 2020226XXXX091
+title: Artificial Intelligence and Social Media
+shorttitle: AISM
+only-for-homework: True
+accept-chinese-submission: true
+---
