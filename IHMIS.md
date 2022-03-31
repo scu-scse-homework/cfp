@@ -1,0 +1,115 @@
+---
+organizers:
+  -
+    name: 刘育
+    id: 2018XXXXXX041
+  -
+    name: 胡明智
+    id: 2018XXXXXX012
+title: International Conference on Information Hiding And Multimedia Information Security
+shorttitle: IHMIS
+only-for-homework: False
+accept-chinese-submission: True
+score1: 
+score2: 
+comments: 
+---
+
+## Introdcution
+
+&emsp;&emsp;For more than 20 years, the field of information hiding and multimedia security has combined multidisciplinary advances and accumulated a rich body of knowledge. In view of the current mainstream multimedia security and information hiding typical research direction, information hiding analysis, digital watermarking, multimedia content forensics and multimedia content privacy, etc., have attracted extensive attention. With the rapid development of social network, online media, mobile Internet and Internet of Things, multimedia security and information hiding have posed greater challenges. This workshop aims to showcase and discuss the application of various latest technologies in the field of information hiding and multimedia security and to address existing challenges.
+
+#####<font color='blue'>Conference Subject&emsp;&nbsp;</font>: International Conference on Information Hiding And Multimedia Information Security
+#####<font color='blue'>Conference Organizer</font> : SiChuan University of Cyber Science and Engineering
+#####<font color='blue'>Conference Time&emsp;&emsp;&ensp; </font>: Wednesday July 20, 2022 - Friday July 22, 2022
+#####<font color='blue'>Conference Venue&emsp;&ensp;&nbsp;&ensp;</font>: SiChuan University, ShuangLiu, ChengDu
+#####<font color='blue'>General chair&emsp;&emsp;&emsp;&emsp;&ensp;</font>: Liu Yu (SiChuan University)<br></br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Hu Mingzhi (SiChuan University)
+
+## Call For Papers
+
+&emsp;&emsp;We invite you to submit the papers of **IHMIS2022** main conference. All papers will be reviewed by double-blind method and peer review method, and the approved papers will be submitted at the conference. Topics of interest include but not limited to:
+
+#### Topics of interest
++ Forensics and counterforensics
++ Steganography and steganalysis
++ Watermarking and fingerprinting
++ Anonymity and privacy
++ Copyright protection
++ Digital Rights Management
++ Data hiding and cryptography
++ Forensic watermarking
++ Image coding and compression
++ Video signal processing
++ Signal and image processing
++ Statistical modelling
++ DNN watermarking 
++ Deep learning security and privacy
++ Secure Signal Processing
++ Obfuscation and Privacy-preserving systems
++ Multimedia intelligence
++ Image/video/voice/audio processing
++ Multimedia systems and applications based on Internet of Things (IoT)
++ Multimedia big data analysis
++ Multimedia systems and emerging applications
++ Multimedia and artificial intelligence
++ Multimedia security and content protection
++ Biometrics and deep fake analytics
+
+## Paper Submission Guidelines
+
+### Review Policy
+
+&emsp;&emsp;All papers will be reviewed by double-blind process and peer review process. And all submissions must represent **new and original** work. Published papers are not allowed to participate in this conference.The specific review process is as follows:
+
+##### Dual-Blind Review
+
+&emsp;&emsp;All papers submitted must be anonymous. IHMIS2022 follows the principle of double-blind review. Absolutely, the authors do not know who is commenting on their paper, and jury members do not know who is the author of the submitted paper. Therefore, the submitted papers do not include author information, citations or discussions on relevant works, so as to make the identity of the author obvious.
+
+##### Peer Review Policy
+
+&emsp;&emsp;Each paper should be reviewed by at least two reviewers. Sometimes, a specific manuscript which have big differences about the review opinions will be reviewed by new additional reviewers who invited by the editorial department. To make high-quality, timely, fair and meaningful reviews, the peer reviewers are selected based their professional knowledge and ability.
+&emsp;&emsp;In addition, peer review should also follow the above dual-blind principle. Peer reviewers can not let out the contents of the manuscripts to anyone. Without the  permission of the editors, they must keep the contents of the manuscripts confidential.
+
+### Paper Formatting Requirements
+
++  All papers submitted must be referred in **PDF** format. 
++  All submission documents shall be written in A4 paper format, and the full text shall **be limited to 15 pages**.
++  All documents submitted must use 10 point font, single space, Times New Roman or similar font, A4 size paper, double columns, 6.5 inch wide and 9 inch high text blocks, and numbered pages.
+
+&emsp;**Note: [Click Here to Download The Specific Formatting Requirements](https://www.latextemplates.com/template/a0poster-portrait-poster).**
+
+### Publication and Presentation
+
+&emsp;&emsp;After all the submitted papers are reviewed by the review department, the accepted papers will be published in the conference proceedings, which is authorized and certified by the school of Cyberspace Security of Sichuan University. The chairmen of all departments and committee members of the conference will select excellent papers from the accepted papers and publish them in the *IHMIS2022 special edition of the school of Cyberspace Security of Sichuan University*.
+
+### Submission Site
+
+&emsp;&emsp;The paper submission site is now online at [https://gitee.com/scu-ccse-kaigao/cfp](https://gitee.com/scu-ccse-kaigao/cfp).<br></br>
+&emsp;&emsp;**Welcome to contribute!**
+
+## Important Dates
+
+| Matter | Deadline  |
+|  ----  | ----  |
+| Paper Submission Start Date	 | Friday April 1, 2022  |
+| Abstract Submission Deadline	 | Saturday April 30, 2022  |
+| Full Paper Submission Deadline  | Friday	May 20, 2022   |
+| Acceptance or Rejection Notification  | Monday	June 20, 2022 |
+| Camera-Ready Submission Deadline  | Sunday	July 10, 2022 |
+| Main conference Date |  Wednesday	July 20, 2022 - Friday July 22, 2022|
+
+**Note: All deadlines are in accordance with Beijing time (BKG -7h).**
+
+##Contact Information
+&emsp;&emsp;If you have any questions about this submission, you can contact us through the following email.
+
+#####&emsp;&emsp;Email: 
+&emsp;&emsp;2206042466@qq.com
+
+&emsp;&emsp;924736213@qq.com
+
+
+## Supported By
+
+[<p align="center" bgcolor='red'><img src="Sichuan_University_logo.png" width="150" height="150"></p>](http://scu.edu.cn)
+
