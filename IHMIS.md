@@ -27,7 +27,7 @@ comments:
 
 ##### Workshop Venue&emsp;&ensp;&nbsp;&ensp;: SiChuan University, ShuangLiu, ChengDu
 
-##### General chair&emsp;&emsp;&emsp;&emsp;&ensp;: Liu Yu (SiChuan University)<br></br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hu Mingzhi (SiChuan University)
+##### General chair&emsp;&emsp;&emsp;&emsp;: Liu Yu (SiChuan University)<br></br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Hu Mingzhi (SiChuan University)
 
 ## Call For Papers
 
