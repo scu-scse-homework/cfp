@@ -19,7 +19,7 @@ comments:
 
 &emsp;&emsp;For more than 20 years, the field of information hiding and multimedia security has combined multidisciplinary advances and accumulated a rich body of knowledge. In view of the current mainstream multimedia security and information hiding typical research direction, information hiding analysis, digital watermarking, multimedia content forensics and multimedia content privacy, etc., have attracted extensive attention. With the rapid development of social network, online media, mobile Internet and Internet of Things, multimedia security and information hiding have posed greater challenges. This workshop aims to showcase and discuss the application of various latest technologies in the field of information hiding and multimedia security and to address existing challenges.
 
-##### Workshop Subject&emsp;&ensp;: SCU Workshop on Information Hiding And Multimedia Security
+##### Workshop Subject&emsp;&ensp; : SCU Workshop on Information Hiding And Multimedia Security
 
 ##### Workshop Organizer &nbsp;: SiChuan University of Cyber Science and Engineering
 
