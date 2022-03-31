@@ -33,13 +33,12 @@ comments:
 
 &emsp;&emsp;We invite you to submit the papers of **IHMS2022** main conference. All papers will be reviewed by double-blind method and peer review method, and the approved papers will be submitted at the conference. Topics of interest include but not limited to:
 
-#### Topics of interest
 + Forensics and counterforensics
 + Steganography and steganalysis
 + Watermarking and fingerprinting
 + Anonymity and privacy
 + Copyright protection
-+ Digital Rights Management
++ Digital rights management
 + Data hiding and cryptography
 + Forensic watermarking
 + Image coding and compression
@@ -48,10 +47,10 @@ comments:
 + Statistical modelling
 + DNN watermarking 
 + Deep learning security and privacy
-+ Secure Signal Processing
-+ Obfuscation and Privacy-preserving systems
++ Secure signal processing
++ Obfuscation and privacy-preserving systems
 + Multimedia intelligence
-+ Image/video/voice/audio processing
++ Image/Video/Voice/Audio processing
 + Multimedia systems and applications based on Internet of Things (IoT)
 + Multimedia big data analysis
 + Multimedia systems and emerging applications
