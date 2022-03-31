@@ -19,15 +19,15 @@ comments:
 
 &emsp;&emsp;For more than 20 years, the field of information hiding and multimedia security has combined multidisciplinary advances and accumulated a rich body of knowledge. In view of the current mainstream multimedia security and information hiding typical research direction, information hiding analysis, digital watermarking, multimedia content forensics and multimedia content privacy, etc., have attracted extensive attention. With the rapid development of social network, online media, mobile Internet and Internet of Things, multimedia security and information hiding have posed greater challenges. This workshop aims to showcase and discuss the application of various latest technologies in the field of information hiding and multimedia security and to address existing challenges.
 
-#####Conference Subject&emsp;&nbsp;: International Conference on Information Hiding And Multimedia Information Security
+##### Conference Subject&emsp;&nbsp;: International Conference on Information Hiding And Multimedia Information Security
 
-#####Conference Organizer : SiChuan University of Cyber Science and Engineering
+##### Conference Organizer : SiChuan University of Cyber Science and Engineering
 
-#####Conference Time&emsp;&emsp;&ensp; : Wednesday July 20, 2022 - Friday July 22, 2022
+##### Conference Time&emsp;&emsp;&ensp; : Wednesday July 20, 2022 - Friday July 22, 2022
 
-#####Conference Venue&emsp;&ensp;&nbsp;&ensp;: SiChuan University, ShuangLiu, ChengDu
+##### Conference Venue&emsp;&ensp;&nbsp;&ensp;: SiChuan University, ShuangLiu, ChengDu
 
-#####General chair&emsp;&emsp;&emsp;&emsp;&ensp;: Liu Yu (SiChuan University)<br></br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Hu Mingzhi (SiChuan University)
+##### General chair&emsp;&emsp;&emsp;&emsp;&ensp;: Liu Yu (SiChuan University)<br></br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Hu Mingzhi (SiChuan University)
 
 ## Call For Papers
 
@@ -108,7 +108,7 @@ comments:
 
 &emsp;&emsp;If you have any questions about this submission, you can contact us through the following email.
 
-#####Email: 
+##### Email
 
 &emsp;&emsp;2206042466@qq.com
 
