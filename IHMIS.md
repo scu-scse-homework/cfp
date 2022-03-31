@@ -23,7 +23,7 @@ comments:
 
 ##### Workshop Organizer &nbsp;: SiChuan University of Cyber Science and Engineering
 
-##### Workshop Time&emsp;&emsp;&ensp;&nbsp; : Wednesday July 20, 2022 - Friday July 22, 2022
+##### Workshop Time&emsp;&emsp;&ensp;&nbsp;: Wednesday July 20, 2022 - Friday July 22, 2022
 
 ##### Workshop Venue&emsp;&ensp;&nbsp;&ensp;: SiChuan University, ShuangLiu, ChengDu
 
