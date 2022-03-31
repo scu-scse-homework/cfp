@@ -6,8 +6,8 @@ organizers:
   -
     name: 胡明智
     id: 2018XXXXXX012
-title: International Conference on Information Hiding And Multimedia Information Security
-shorttitle: IHMIS
+title: SCU Workshop on Information Hiding And Multimedia  Security
+shorttitle: IHMS
 only-for-homework: False
 accept-chinese-submission: True
 score1: 
@@ -19,19 +19,19 @@ comments:
 
 &emsp;&emsp;For more than 20 years, the field of information hiding and multimedia security has combined multidisciplinary advances and accumulated a rich body of knowledge. In view of the current mainstream multimedia security and information hiding typical research direction, information hiding analysis, digital watermarking, multimedia content forensics and multimedia content privacy, etc., have attracted extensive attention. With the rapid development of social network, online media, mobile Internet and Internet of Things, multimedia security and information hiding have posed greater challenges. This workshop aims to showcase and discuss the application of various latest technologies in the field of information hiding and multimedia security and to address existing challenges.
 
-##### Conference Subject&emsp;&nbsp;: International Conference on Information Hiding And Multimedia Information Security
+##### Workshop Subject&emsp;&nbsp;: SCU Workshop on Information Hiding And Multimedia Security
 
-##### Conference Organizer : SiChuan University of Cyber Science and Engineering
+##### Workshop Organizer : SiChuan University of Cyber Science and Engineering
 
-##### Conference Time&emsp;&emsp;&ensp; : Wednesday July 20, 2022 - Friday July 22, 2022
+##### Workshop Time&emsp;&emsp;&ensp; : Wednesday July 20, 2022 - Friday July 22, 2022
 
-##### Conference Venue&emsp;&ensp;&nbsp;&ensp;: SiChuan University, ShuangLiu, ChengDu
+##### Workshop Venue&emsp;&ensp;&nbsp;&ensp;: SiChuan University, ShuangLiu, ChengDu
 
 ##### General chair&emsp;&emsp;&emsp;&emsp;&ensp;: Liu Yu (SiChuan University)<br></br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hu Mingzhi (SiChuan University)
 
 ## Call For Papers
 
-&emsp;&emsp;We invite you to submit the papers of **IHMIS2022** main conference. All papers will be reviewed by double-blind method and peer review method, and the approved papers will be submitted at the conference. Topics of interest include but not limited to:
+&emsp;&emsp;We invite you to submit the papers of **IHMS2022** main conference. All papers will be reviewed by double-blind method and peer review method, and the approved papers will be submitted at the conference. Topics of interest include but not limited to:
 
 #### Topics of interest
 + Forensics and counterforensics
