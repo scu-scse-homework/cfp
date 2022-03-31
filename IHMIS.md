@@ -27,7 +27,7 @@ comments:
 
 ##### Conference Venue&emsp;&ensp;&nbsp;&ensp;: SiChuan University, ShuangLiu, ChengDu
 
-##### General chair&emsp;&emsp;&emsp;&emsp;&ensp;: Liu Yu (SiChuan University)<br></br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Hu Mingzhi (SiChuan University)
+##### General chair&emsp;&emsp;&emsp;&emsp;&ensp;: Liu Yu (SiChuan University)<p></p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Hu Mingzhi (SiChuan University)
 
 ## Call For Papers
 
@@ -108,7 +108,7 @@ comments:
 
 &emsp;&emsp;If you have any questions about this submission, you can contact us through the following email.
 
-##### Email
+##### Email:
 
 &emsp;&emsp;2206042466@qq.com
 
