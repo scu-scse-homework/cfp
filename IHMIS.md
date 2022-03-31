@@ -100,10 +100,11 @@ comments:
 
 **Note: All deadlines are in accordance with Beijing time (BKG -7h).**
 
-##Contact Information
+## Contact Information
+
 &emsp;&emsp;If you have any questions about this submission, you can contact us through the following email.
 
-#####&emsp;&emsp;Email: 
+#####Email: 
 &emsp;&emsp;2206042466@qq.com
 
 &emsp;&emsp;924736213@qq.com
