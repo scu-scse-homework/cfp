@@ -1,15 +1,15 @@
 ---
 organizers:
   -
-    name: Chen Hongsen
+    name: 陈洪森
     id: 2021XXXXXXX019
 
 title: International Conference on Machine Learning Confidentiality, Integrity and Availability
 shorttitle: MLCIA
 only-for-homework: true
 accept-chinese-submission: true
-score1: 
-score2: 
+score1:
+score2:
 comments: ""
 ---
 
@@ -34,7 +34,7 @@ Topics of interest include, but are not limited to:
 - Secure model processing platforms
 - Privacy-preserving machine learning techniques
 
-Submitted articles must not have been previously published or currently submitted for conference/journal publication elsewhere. 
+Submitted articles must not have been previously published or currently submitted for conference/journal publication elsewhere.
 
 ### Paper Categories
 Full papers, presenting novel and mature research results, are limited to 20 pages in double-column [ACM CCS format](https://www.overleaf.com/latex/templates/sample-acm-ccs/hqrzvbjgvfvz), including bibliography and appendices.

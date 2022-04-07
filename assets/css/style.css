@@ -58,6 +58,10 @@ img {
     width: 100px;
 }
 
+.meta-item {
+    padding-top: 20px;
+}
+
 .meta-item ul, .meta-item li {
     display: inline;
     list-style-type: none;
@@ -82,4 +86,11 @@ img {
 
 .shuffle.show {
     visibility: visible;
+}
+
+.ofh {
+    float: right;
+    display: inline;
+    width: 10%;
+    z-index: 100;
 }
