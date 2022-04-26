@@ -13,6 +13,7 @@ layout: default
     {% if p.path contains "cfp/2022" %}
     {% assign pc = pc | plus: 1 %}
     {{ pc }}
+    {% if p.final %}
     {% assign cprefix = "collapse-cfp" %}
     <div class="container">
       <div class="cfp-item text-white" id="{{p.shorttitle}}">
@@ -44,6 +45,7 @@ layout: default
         </div>
       </div>
     </div>
+    {% endif %}
     {% endif %}
   {% endfor %}
   </div>
