@@ -4,16 +4,17 @@ layout: default
 
 <section id="content" class="bg-dark">
   <div class="cfp-heading">
-    <h1 class="section-heading text-center text-white">Call for Papers 2022</h1>
+    <h1 class="section-heading text-center text-white">Call for Papers {{site.year}}</h1>
     <h3 class="section-subheading text-center text-white">School of Cyber Science and Engineering, Sichuan University</h3>
   </div>
   <div class="cfp-list shuffle">
   {% assign pc = 0 %}
+  {% capture prefix%}cfp/{{site.year}}{% endcapture %}
   {% for p in site.pages %}
-    {% if p.path contains "cfp/2022" %}
+    {% if p.path contains prefix %}
     {% assign pc = pc | plus: 1 %}
     {{ pc }}
-    {% if p.final %}
+    {% if p.final or site.stage == "submission" %}
     {% assign cprefix = "collapse-cfp" %}
     <div class="container">
       <div class="cfp-item text-white" id="{{p.shorttitle}}">
