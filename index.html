@@ -4,16 +4,17 @@ layout: default
 
 <section id="content" class="bg-dark">
   <div class="cfp-heading">
-    <h1 class="section-heading text-center text-white">Call for Papers 2022</h1>
+    <h1 class="section-heading text-center text-white">Call for Papers {{site.year}}</h1>
     <h3 class="section-subheading text-center text-white">School of Cyber Science and Engineering, Sichuan University</h3>
   </div>
   <div class="cfp-list shuffle">
   {% assign pc = 0 %}
+  {% capture prefix%}cfp/{{site.year}}{% endcapture %}
   {% for p in site.pages %}
-    {% if p.path contains "cfp/2022" %}
+    {% if p.path contains prefix %}
     {% assign pc = pc | plus: 1 %}
     {{ pc }}
-    {% if p.final %}
+    {% if p.final or site.stage == "submission" %}
     {% assign cprefix = "collapse-cfp" %}
     <div class="container">
       <div class="cfp-item text-white" id="{{p.shorttitle}}">
@@ -50,12 +51,10 @@ layout: default
   {% endfor %}
   </div>
 
+  <div class="cfp-heading section-subheading text-center text-white">
+    <h5>CFP总数：{{ pc }}, 扫描二维码进入投票</h5>
+    <br>
+    <img style="max-width: 200px" src="/assets/img/qrcode-{{site.year}}.png" />
+  </div>
   <div class="cfp-heading"></div>
-  <div class="cfp-heading"></div>
-  <script>
-    var ul = document.querySelector('ul');
-    for (var i = ul.children.length; i >= 0; i--) {
-      ul.appendChild(ul.children[Math.random() * i | 0]);
-    }
-  </script>
 </section>
