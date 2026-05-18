@@ -1,0 +1,35 @@
+I">
+<h2 id="call-for-papers">Call for Papers</h2>
+
+<p>The Internet of Things (IoT) is gradually involving every aspect of human’s daily life. The fact that IoT devices will accumulate more than 70 billion in the next 5 years, in which every threat to the IoT may pose a threat to the physical assets of the system, and these threats may even translate into the loss of human lives, also poses a whole new challenge to device security. While IoT technologies (e.g., communication protocols) and intrusion prevention systems (e.g., network firewalls) provide some security, the 24/7 unattended nature of most IoT devices still presents opportunities for attackers, such as attacks against botnet-recruiting devices. In addition, how to prevent private, sensitive data in the IoT from leaving the network and ensure that IoT systems react quickly to malicious activity is also a key concern today.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>This special issue aims to provide a comprehensive overview of the latest developments in the security of IoT systems; it also aims to explore new concepts and practices with fully automated IoT security intrusion detection systems through technological advances in the widespread use of artificial intelligence. Our focus is on data protection for IoT and system security with high quality research papers on.</p>
+
+<ul>
+  <li>Data Mining for IoT and Big Data Analytics</li>
+  <li>Security and privacy protection in the Internet of Things</li>
+  <li>Network protocol-based security mechanisms for IoT</li>
+  <li>Secure authentication and authorization mechanisms for IoT</li>
+  <li>Forensic techniques for IoT</li>
+  <li>Innovative architecture and algorithm design for smart IoT</li>
+  <li>Intrusion detection and threat discovery for resource-saving IoT</li>
+  <li>Malware monitoring for IoT</li>
+  <li>Adversarial Learning for IoT</li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<p>Submitted papers must contain original work that has not been previously published and is not currently under review by another journal or conference. Previously published or accepted conference papers must contain at least 40% new material to be considered for inclusion in the special issue.
+All papers will be peer-reviewed by at least three independent reviewers. For more information, please contact the appropriate guest editor.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>Submission deadline. June 4, 2022</li>
+  <li>Initial notification. June 5, 2022</li>
+  <li>Notification of final acceptance/rejection. 18 June , 2022</li>
+</ul>
+
+:ET

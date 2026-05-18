@@ -1,0 +1,69 @@
+I"�<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>We are pleased to announce the first edition of AISP 2026, a premier international conference dedicated to the security, privacy, and trustworthy aspects of Artificial Intelligence systems. As AI technologies, especially large language models and deep learning systems, are increasingly deployed in security-critical domains, understanding and mitigating their vulnerabilities has become a pressing research priority. AISP aims to bring together researchers, practitioners, and industry leaders to advance the frontiers of AI security research and applications.</p>
+
+<p>We invite submissions of high-quality, original research papers that address theoretical, technical, or practical aspects of artificial intelligence security and privacy.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>Submissions are solicited in all areas related to AI Security and Privacy, including but not limited to:</p>
+
+<ul>
+  <li>Adversarial Attacks and Defenses</li>
+  <li>Privacy-Preserving Machine Learning</li>
+  <li>Robustness and Fairness of AI Systems</li>
+  <li>AI for Cybersecurity and Threat Detection</li>
+  <li>Interpretability and Explainability of AI</li>
+  <li>Model Stealing and Inversion Attacks</li>
+  <li>Federated Learning Security</li>
+  <li>Alignment and Safety of Large Language Models</li>
+  <li>Deepfake Detection and Content Authentication</li>
+  <li>Ethics, Policy and Societal Impact of AI Security</li>
+</ul>
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<ul>
+  <li><strong>Paper Format</strong>: Please submit your paper in PDF format using IEEE double-column conference format (available at https://www.ieee.org/conferences/publishing/templates.html ).</li>
+  <li><strong>Paper Length</strong>: There will be a strict upper limit of 9 pages for the main text of the submission, with unlimited additional pages for citations.</li>
+  <li><strong>Review Process</strong>: Submissions will be double-blind reviewed. Authors must anonymize their submissions by removing author names, affiliations, and acknowledgments. Self-citations should be written in the third person.</li>
+  <li><strong>Language</strong>: Papers should be written in English and proofread by professionals for language and grammar. We encourage authors to use clear and concise language, and ensure that the text body is complete and self-contained.</li>
+  <li><strong>Originality</strong>: Submissions must be original and not concurrently submitted to or published in any other venue.</li>
+  <li><strong>Number of Keywords</strong>: Between 5~8 keywords for each paper.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>IMPORTANT DATE</th>
+      <th>DATE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Full Paper Submission Deadline</td>
+      <td>June 10, 2026</td>
+    </tr>
+    <tr>
+      <td>Notification of Acceptance</td>
+      <td>July 5, 2026</td>
+    </tr>
+    <tr>
+      <td>Deadline for Final Version</td>
+      <td>July 20, 2026</td>
+    </tr>
+    <tr>
+      <td>Conference Dates</td>
+      <td>August 15-17, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="organizers">Organizers</h2>
+
+<p>Xinhe Feng, Sichuan University
+Yuhang Wang，Sichuan University
+Shike Chen，Sichuan University</p>
+:ET

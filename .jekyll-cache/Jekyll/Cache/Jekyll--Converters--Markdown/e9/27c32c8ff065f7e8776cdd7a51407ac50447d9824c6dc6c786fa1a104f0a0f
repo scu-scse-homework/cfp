@@ -1,0 +1,78 @@
+I"�<h1 id="call-for-paper">Call for Paper</h1>
+<p>By the end of 2022, the emergence of large language models (LLMs) represented by ChatGPT heralded the imminent arrival of the singularity moment. 
+Their outstanding performance in tasks such as knowledge learning, text translation, and text generation has shed new light for researchers.</p>
+
+<p>Currently, LLMs are being explored for applications in tasks such as code evaluation, program analysis, and vulnerability discovery, yielding certain achievements while also introducing new inherent security issues such as sample poisoning and information leakage.</p>
+
+<p>Therefore, ensuring the security of LLMs and applying them in areas such as software supply chain, network security, and privacy protection is of significant importance for enhancing software quality and strengthening cybersecurity.</p>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Review of the development roadmap of LLMs or their integration with security;</li>
+  <li>Evaluation of LLMs on security issues;</li>
+  <li>Inherent security issues of LLMs, including model security assessment methods and indicators, secure content generation detection, training data privacy leakage, etc.;</li>
+  <li>Application of LLMs in fuzz testing;</li>
+  <li>Application of LLMs in vulnerability patching;</li>
+  <li>Application of LLMs in the field of code analysis;</li>
+  <li>Jailbreaking attacks against LLMs.</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ul>
+  <li>The review process will be double-blind. The authors must remove their names and affiliations in the submitted document.</li>
+  <li>The submitted paper must be the PDF format, usually no more than 12 pages, including the references and appendices.</li>
+  <li>The submitted papers are submitted directly by e-mail, and the e-mail address includes:
+    <ul>
+      <li><a href="mailto:2023xxxxxx094@stu.scu.edu.cn">2023xxxxxx094@stu.scu.edu.cn</a></li>
+      <li><a href="mailto:2023xxxxxx084@stu.scu.edu.cn">2023xxxxxx084@stu.scu.edu.cn</a></li>
+    </ul>
+  </li>
+  <li>For each submission, one of the following decisions will be made:
+    <ul>
+      <li>Accept: Papers belonging to this category will be deemed suitable for publication in the workshop’s proceedings and presentation, possibly requiring minor modifications under the guidance of a shepherd.</li>
+      <li>Major Revision: Papers classified under this category are regarded as promising but require further work, such as additional experiments, proofs, or implementations. Authors will have the opportunity to resubmit their papers with appropriate revisions, including a clearly marked appendix that addresses the reviewers’ comments. The revised paper will then undergo re-evaluation and may be either accepted or rejected.</li>
+      <li>Reject: Papers falling into this category will not be considered for inclusion in the workshop. Papers that were rejected in the first review cycle cannot be submitted again, even if revised, in the second review cycle.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Matter</th>
+      <th>Deadline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Submissions due</td>
+      <td>Friday May 24, 2024</td>
+    </tr>
+    <tr>
+      <td>Notification of acceptance</td>
+      <td>Friday June 7, 2024</td>
+    </tr>
+    <tr>
+      <td>Main workshop</td>
+      <td>Saturday June 22, 2024</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Note: All deadlines are in accordance with Beijing time (GMT+8).</strong></p>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>
+    <p>Workshop co-chair(s): Jianguo Zhao, Zhiye Yu</p>
+  </li>
+  <li>
+    <p>Invited talk: Kai Gao</p>
+  </li>
+</ul>
+:ET

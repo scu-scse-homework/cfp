@@ -1,0 +1,105 @@
+I"�<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>CSBT welcomes academic and industrial papers in systems and storage, broadly construed. SYSTOR encourages submissions that describe results from experimental system prototypes, as well as experience papers describing practical deployments, and valuable lessons learned from them.</p>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Big Data infrastructure</li>
+  <li>Cloud, edge, data center, and distributed systems</li>
+  <li>Embedded and real-time systems</li>
+  <li>Fault tolerance, reliability, and availability</li>
+  <li>File and storage systems</li>
+  <li>Networked, mobile, wireless, peer-to-peer, and sensor systems</li>
+  <li>Operating systems, computer architecture, and their interactions</li>
+  <li>Performance evaluation and workload characterization</li>
+  <li>Runtime systems and compiler/programming-language support</li>
+  <li>System deployment, usage, and experience</li>
+  <li>System design or adaptation for emerging storage technologies</li>
+  <li>System security and trust</li>
+  <li>Systems for machine learning/machine learning for systems</li>
+  <li>Virtualization and containers</li>
+</ul>
+
+<p>CSBT 2023 solicits submissions in four separate categories:</p>
+
+<ul>
+  <li>Full Papers Track – original research, at most 12 pages, excluding references</li>
+  <li>Short Papers Track – original research, at most 5 pages, excluding references</li>
+  <li>Highlight Papers Track – papers accepted at top-tier conferences</li>
+  <li>Posters with Extended Abstract Track – original work presented as a poster, accompanied by an extended abstract in the conference proceedings</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p><strong>Review Process</strong></p>
+
+<p>The program committee will review submissions to the Research Track in a double-blind manner. All submissions should be properly anonymized, removing all identifiable information whenever possible including obvious self-references. Papers not properly anonymized may be rejected without review.</p>
+
+<p>Any submissions accompanied by a non-disclosure agreement will be returned without review. Since the conference will be physical, by submitting a paper, you agree that at least the presenting author will physically present the work.</p>
+
+<p><strong>Copyright and originality of the work</strong></p>
+
+<p>CSBT will enforce ACM’s Plagiarism policy regarding copying and resubmission of prior work. Simultaneous submissions are not allowed: any work submitted to SYSTOR must not be under consideration for another workshop, conference, or journal.</p>
+
+<p>AUTHORS TAKE NOTE: The official publication date is the earlier of either the first day of the conference or the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work.</p>
+
+<p><strong>Formatting instructions</strong></p>
+
+<p>Papers should be submitted electronically as a PDF. All text and figures must fit within a 7”x9” text block, centered on the page, using two columns with .33 inches of separation. The paper should be typeset using a 10-point font (Times New Roman or similar) with a 12-point (single-spaced) leading.</p>
+
+<p>For the Full and Short Paper Tracks, please follow paper formatting instructions. The author kit, which contains the Latex style and template, is available here.</p>
+
+<p>For the Posters Track, please follow poster formatting instructions. The author kit, which contains the Latex style and template, is available here.</p>
+
+<p>Please ensure that your paper satisfies all the above requirements for content and formatting before submission; if you have a question about any of these issues, please email the program chairs:  Dejan Kostic and Yossi Gilad.</p>
+
+<p>Additional instructions regarding camera-ready versions of accepted papers will be sent directly to the corresponding authors and will appear here after the notification to authors.</p>
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Matter</th>
+      <th>Deadline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Submission deadline</td>
+      <td>Sun 30 Apr 2023</td>
+    </tr>
+    <tr>
+      <td>Author response</td>
+      <td>Mon 29 - Tue 30 May 2023</td>
+    </tr>
+    <tr>
+      <td>Notification of accetpance</td>
+      <td>Fri 30 Jun 2023</td>
+    </tr>
+    <tr>
+      <td>Camera-ready deadline</td>
+      <td>Sun 30 Jul 2023</td>
+    </tr>
+    <tr>
+      <td>Conference</td>
+      <td>Mon 28 - Tue 29 Aug 2023</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li><strong>Organizer</strong>: International Automated Software Testing Workshop</li>
+  <li><strong>Hosts</strong>: Sichuan University, School of Cyber Science and Engineering</li>
+  <li><strong>General Chairs</strong>:
+    <ul>
+      <li>Jiao Liu,Sichaun University,&lt;2022xxxxxx070.scu.edu.cn&gt;</li>
+      <li>Wenhao Gong,Sichaun University,&lt;2022xxxxxx057.scu.edu.cn&gt;</li>
+      <li>Xiangming Li,Sichaun University,&lt;2022xxxxxx063.scu.edu.cn&gt;</li>
+    </ul>
+  </li>
+</ul>
+
+:ET

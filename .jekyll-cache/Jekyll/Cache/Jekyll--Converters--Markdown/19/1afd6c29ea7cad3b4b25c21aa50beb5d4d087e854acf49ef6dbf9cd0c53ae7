@@ -1,0 +1,57 @@
+I"~<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The industrial landscape is becoming increasingly reliant on interconnected systems and automation, making industrial control network security a paramount concern. This call for papers invites researchers and practitioners to contribute their insights, innovations, and solutions to address the evolving challenges in industrial control network security. We seek submissions that explore novel approaches, methodologies, case studies, and best practices in safeguarding critical infrastructure, mitigating cyber threats, and ensuring resilience in industrial control systems.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>This track invites submissions that delve into various aspects of industrial control network security, including threat modeling, risk assessment, intrusion detection and prevention, secure communication protocols, cyber-physical system security, and more. We encourage contributions that address the unique challenges posed by SCADA and PLC systems, as well as those that explore the role of emerging technologies such as artificial intelligence and machine learning in enhancing industrial control network security.</p>
+
+<p>Additionally, submissions discussing regulatory compliance, standards, incident response strategies, and real-world case studies are welcomed. This track aims to provide a platform for researchers, practitioners, and industry experts to share their insights, innovations, and best practices in safeguarding critical infrastructure and ensuring the integrity and security of industrial control systems.Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Threat modeling and risk assessment in industrial control networks</li>
+  <li>Intrusion detection and prevention systems for industrial environments</li>
+  <li>Secure communication protocols for industrial IoT devices</li>
+  <li>Cyber-physical system security and resilience</li>
+  <li>Security challenges in SCADA and PLC systems</li>
+  <li>Vulnerability analysis and penetration testing in industrial networks</li>
+  <li>Secure firmware and software development for industrial systems</li>
+  <li>Incident response and recovery strategies for industrial cyber attacks</li>
+  <li>Role of artificial intelligence and machine learning in industrial control network security</li>
+  <li>Regulatory compliance and standards for industrial cybersecurity</li>
+  <li>Case studies, real-world deployments, and lessons learned in industrial security</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p><strong>Submission Instructions:</strong></p>
+
+<p>The submission process for the International Conference on Industrial Control Network Security (ICNS) has been updated to incorporate three submission deadlines. Each submission will receive one of the following decisions:</p>
+
+<ul>
+  <li><strong>Acceptance:</strong> Papers in this category will be accepted for publication in the conference proceedings and presentation at the event. Upon acceptance, authors must submit a camera-ready copy within one month, incorporating feedback from the reviewers. Accepted papers will be promptly published as open access in the conference’s digital library. They may be cited as To appear in the “International Conference on Industrial Control Network Security, 2024”.</li>
+  <li><strong>Conditional Acceptance:</strong> Papers in this category are provisionally accepted pending minor revisions suggested by reviewers. Authors are expected to address these revisions before the camera-ready deadline. Minor revisions typically involve straightforward editorial changes and do not require new experiments or analyses.</li>
+  <li><strong>Major Revision:</strong> A select number of papers will be invited to submit a major revision. Authors will receive specific expectations for the revision and must clearly explain how the revisions address reviewers’ comments in a well-marked appendix. The revised paper will be re-evaluated, and either accepted or rejected. Authors can submit the revised paper to the next two submission deadlines after the initial notification.</li>
+  <li><strong>Reject:</strong> Papers in this category are not accepted for inclusion in the conference. Rejected papers must wait for one year from the date of original submission before resubmission to ICNS. If there is substantial overlap (more than 40%) between the original submission and a resubmitted paper, it will be considered a resubmission.</li>
+</ul>
+
+<p>All papers accepted by the specified date will be included in the conference proceedings and invited to present their work. This includes papers submitted in previous rounds that were accepted without revision, as well as those that underwent major revisions and resubmissions. For example, papers submitted in June, 2024 and accepted without revision, or papers submitted in May 2023, underwent major revisions, and were resubmitted in subsequent rounds.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li><strong>Paper Submission Deadline:</strong> June 21, 2024</li>
+  <li><strong>Notification of Acceptance:</strong> Aug 5, 2024</li>
+  <li><strong>Camera Ready Submission Deadline:</strong> Aug 18 , 2024</li>
+  <li><strong>Conference:</strong> Aug 22 - 25 , 2024</li>
+</ul>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Chihang Xu, Sichuan University</li>
+  <li>Wenyu Yang, Sichuan University</li>
+  <li>Tao Li, Sichuan University</li>
+</ul>
+
+:ET

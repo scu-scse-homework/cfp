@@ -1,0 +1,54 @@
+I"�<h1 id="call-for-papers">Call for Papers</h1>
+
+<p>In cybersecurity, a vulnerability is an weakness that can be exploited by cybercriminals to gain unauthorized access to a computer system. It can impact popular software, leading to people who using the software at a heightened risk of a <em>data breach</em> or supply <em>chain attack</em>. For example, WannaCry, EternalBlue and other security attacks bring enormous economic damage. Moreover, with the emergence of 5G, the Internet of Things and more applications, the complexity and diversity of vulnerabilities have become a greater challenge, attracting the interest of many scholars.</p>
+
+<p>International Workshop of Vulnerability Discovery(IWVD) is a new but dynamic seminar, The 1st IWVD seeks  submissions presenting new contributions on vulnerability discovery. Aiming to bring together academic researchers and industry practitioners to discuss the open challenges, potential solutions, and best practices to promote the research progress in the field of vulnerability mining.</p>
+
+<h2 id="topics-of-interest-for-the-call-for-papers">Topics of Interest for the Call For Papers</h2>
+
+<p>Papers in the main technical program must describe original research. Topics of interest include all aspects of vulnerabilities including, but not limited to:</p>
+
+<ul>
+  <li>Vulnerability discovery</li>
+  <li>Supply Chain Attack</li>
+  <li>Advanced exploitation techniques:
+    <ul>
+      <li>Browsers Exploitation</li>
+      <li>OS Kernel Exploitation</li>
+      <li>Mobile Exploitation</li>
+      <li>Revolutionary Web Hacking Technique</li>
+    </ul>
+  </li>
+  <li>Mitigation bypass techniques</li>
+  <li>Hardware reverse engineering</li>
+  <li>Software reverse engineering</li>
+  <li>Protocol reverse engineering</li>
+  <li>Attacks on cryptography in hardware and/or software</li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<p>We welcome different types of papers, including:</p>
+
+<ul>
+  <li>Novel research papers</li>
+  <li>Work-in-progress papers</li>
+  <li>Visionary and position papers</li>
+</ul>
+
+<p>We ask the authors to clearly specify the paper type in the abstract to help reviewers assess the contributions.  Authors must select one or more “topics” that reflect the content of the paper. These topics will affect which PC members will review the paper. The main content of the paper should be 22-28 single-column pages of content with unlimited number of pages for appendices and references. Each submission will be single-blind reviewed by at least 3 PC members.</p>
+
+<h2 id="important-deadlines">Important deadlines</h2>
+
+<ul>
+  <li>Paper registration deadline: May 28, 2022 (11:59PM Pacific Time)</li>
+  <li>Paper submission deadline: June 4, 2022 (11:59PM Pacific Time)</li>
+  <li>Acceptance notification: July 2, 2022 (11:59PM Pacific Time)</li>
+  <li>Main Conference: July 30, 2022 (11:59PM Pacific Time)</li>
+</ul>
+
+<h2 id="workshop-chairs">Workshop Chairs</h2>
+
+<p>Yixuan Li, Sichuan University, Chengdu, China
+Mingxu Sun, Sichuan University, Chengdu, China</p>
+:ET

@@ -1,0 +1,119 @@
+I"<h1 id="call-for-papers">Call for Papers</h1>
+
+<h2 id="the-12th-international-symposium-on-system-and-network-security-sns-2025"><strong>The 12th International Symposium on System and Network Security (SNS 2025)</strong></h2>
+
+<p><strong>Location:</strong> Chengdu, Sichuan, China<br />
+<strong>Date:</strong> June 19–25, 2025</p>
+
+<hr />
+
+<h3 id="about-sns">About SNS</h3>
+
+<p>The <strong>International Symposium on System and Network Security (SNS)</strong> is a premier forum for researchers, practitioners, and policy-makers to present and discuss the most recent innovations, trends, results, experiences, and challenges in the field of <strong>computer systems and network security</strong>.</p>
+
+<p>Since its inception in 2014, SNS has provided a vibrant and inclusive platform for the security community, attracting contributions from academia, industry, and government sectors. It has earned a reputation for high-quality peer review, thought-provoking keynotes, and impactful discussions that shape the future of secure systems design.</p>
+
+<p>SNS 2025 invites submissions that explore theoretical foundations, practical systems, and real-world deployment of secure computer and network systems.</p>
+
+<hr />
+
+<h3 id="topics-of-interest">Topics of Interest</h3>
+
+<p>We invite high-quality original research papers in, but not limited to, the following categories:</p>
+
+<h4 id="1-operating-system-and-platform-security">1. Operating System and Platform Security</h4>
+<ul>
+  <li>Secure OS architectures and kernel security</li>
+  <li>Secure boot and firmware integrity</li>
+  <li>Virtualization and container security</li>
+  <li>Trusted Execution Environments (TEEs), e.g., Intel SGX, ARM TrustZone</li>
+  <li>Mobile OS and app sandboxing</li>
+</ul>
+
+<h4 id="2-network-and-distributed-systems-security">2. Network and Distributed Systems Security</h4>
+<ul>
+  <li>Secure communication protocols (TLS, QUIC, VPNs)</li>
+  <li>Software-defined networking (SDN) and NFV security</li>
+  <li>Network intrusion detection and response</li>
+  <li>DoS/DDoS mitigation techniques</li>
+  <li>Blockchain and decentralized systems security</li>
+</ul>
+
+<h4 id="3-cloud-edge-and-iot-security">3. Cloud, Edge, and IoT Security</h4>
+<ul>
+  <li>Cloud-native application security</li>
+  <li>Multi-tenant data isolation and access control</li>
+  <li>Edge computing and fog layer threats</li>
+  <li>Security of IoT operating systems and protocols (e.g., MQTT, CoAP)</li>
+  <li>Supply-chain security in embedded and constrained devices</li>
+</ul>
+
+<h4 id="4-system-level-threat-modeling-and-attack-techniques">4. System-level Threat Modeling and Attack Techniques</h4>
+<ul>
+  <li>Reverse engineering and binary exploitation</li>
+  <li>Rootkits, bootkits, and firmware-level threats</li>
+  <li>Advanced persistent threats (APTs) in system-level environments</li>
+  <li>Memory corruption, ROP/JOP attacks, and mitigation bypasses</li>
+  <li>Malware and botnet analysis</li>
+</ul>
+
+<h4 id="5-formal-methods-and-program-analysis-for-security">5. Formal Methods and Program Analysis for Security</h4>
+<ul>
+  <li>Static and dynamic analysis of software</li>
+  <li>Automated vulnerability detection and patch generation</li>
+  <li>Formal verification of security-critical components</li>
+  <li>Secure programming languages and compilers</li>
+  <li>Symbolic execution and fuzz testing advances</li>
+</ul>
+
+<h4 id="6-applied-cryptography-in-systems-and-networks">6. Applied Cryptography in Systems and Networks</h4>
+<ul>
+  <li>Secure protocols design and cryptographic engineering</li>
+  <li>Side-channel attack mitigations at system/network level</li>
+  <li>Privacy-preserving systems (e.g., differential privacy, homomorphic encryption)</li>
+  <li>Usability of cryptographic interfaces in real systems</li>
+</ul>
+
+<h4 id="7-security-of-ai-and-ai-for-security">7. Security of AI and AI for Security</h4>
+<ul>
+  <li>Attacks against machine learning systems (e.g., adversarial examples, model inversion)</li>
+  <li>ML-based system and network anomaly detection</li>
+  <li>Robustness and trustworthiness in AI-enabled systems</li>
+  <li>LLM security and its system-level implications</li>
+</ul>
+
+<h4 id="8-measurement-and-empirical-studies">8. Measurement and Empirical Studies</h4>
+<ul>
+  <li>Large-scale measurement of vulnerabilities or malware</li>
+  <li>Deployment studies of security patches, protocols, or tools</li>
+  <li>User studies on system/network security usability</li>
+  <li>Empirical evaluations of defense effectiveness in the wild</li>
+</ul>
+
+<hr />
+
+<h3 id="submission-details">Submission Details</h3>
+
+<ul>
+  <li>All submissions must be <strong>original and not under concurrent review</strong> at another venue.</li>
+  <li>Submitted papers must be written in <strong>English</strong>, formatted using the <strong>ACM double-column format</strong>, and must not exceed <strong>12 pages</strong>, excluding references and appendices.</li>
+  <li><strong>Double-blind review</strong> process: author names and affiliations must be anonymized.</li>
+</ul>
+
+<hr />
+
+<h3 id="important-dates">Important Dates</h3>
+
+<ul>
+  <li><strong>Paper Submission Deadline:</strong> June 4, 2025 (23:59 Beijing Time)</li>
+  <li><strong>Notification of Acceptance:</strong> June 18, 2025</li>
+  <li><strong>Camera-Ready Version Due:</strong> June 21, 2025</li>
+  <li><strong>Conference Dates:</strong> June 19–25, 2025</li>
+</ul>
+
+<hr />
+<h3 id="contact--more-information">Contact &amp; More Information</h3>
+<p>Visit the official conference website at https://easychair.org/cfp/SNS2025
+Please submit your paper at https://easychair.org/conferences/?conf=sns2025</p>
+
+:ET

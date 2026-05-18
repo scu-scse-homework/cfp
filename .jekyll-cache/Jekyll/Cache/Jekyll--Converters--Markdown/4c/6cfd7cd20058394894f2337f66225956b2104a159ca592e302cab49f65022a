@@ -1,0 +1,102 @@
+I"�<h1 id="call-for-papers">Call For Papers</h1>
+<h2 id="wccs-2022">WCCS 2022</h2>
+
+<p><em>China Chengdu</em>
+<em>The 1st Meeting of the Workshop on Cloud Computing Security
+ShuangLiu, ChengDu, April 4, 2022</em></p>
+
+<p>Cloud computing is another new innovation in the information age after computers and the Internet. With its high flexibility, scalability, resource pooling and other characteristics, cloud computing is widely used in various fields, including finance, travel, education, government agencies, commercial companies, etc.</p>
+
+<p>Under the cloud computing architecture, cloud computing open network and business sharing scenarios are more complex and changeable, and security challenges are more severe. Security issues have become the main factor hindering the development of cloud computing.</p>
+
+<p>The focus of this workshop is the research on cloud computing security, including virtualization security, trusted cloud, cloud platform intrusion detection and anomaly detection, cloud data security and privacy, cloud security technology. If you are as interested in the above questions as we are, you are welcome to contribute.</p>
+
+<p>Topics of interest include (but not limited to) the following areas:</p>
+
+<p><strong>Virtualization Security</strong></p>
+<ul>
+  <li>Host virtualization security</li>
+  <li>Network virtualization security</li>
+  <li>Hypervisor security mechanism</li>
+  <li>Container virtualization security</li>
+  <li>Virtual machine escape technology</li>
+  <li>Virtual machine isolation mechanism</li>
+  <li>Virtual machine security monitoring</li>
+</ul>
+
+<p><strong>Network Intrusion Detection</strong></p>
+<ul>
+  <li>DDos attack detection</li>
+  <li>User behavior analysis and exception discovery</li>
+  <li>Machine learning and network security</li>
+  <li>Feature extraction and recognition of encrypted traffic</li>
+  <li>Tracing and positioning of network attack</li>
+  <li>Small sample attack feature extraction and detection</li>
+  <li>Host behavior analysis and anomaly detection</li>
+  <li>Unknown attack detection</li>
+</ul>
+
+<p><strong>Trusted Cloud</strong></p>
+<ul>
+  <li>Trust chain of trusted system</li>
+  <li>Trusted measurement mechanism</li>
+  <li>Trust construction of trusted terminal</li>
+  <li>Remote attestation</li>
+  <li>Trusted network connection</li>
+  <li>Trusted computing applications</li>
+  <li>Trusted computing evaluation</li>
+  <li>Virtual machine trusted operating environment</li>
+  <li>Remote verification and management of trusted virtual machine</li>
+  <li>Trustworthy computing software and hardware to secure networks and systems</li>
+  <li>Security of open source software</li>
+</ul>
+
+<p><strong>Data Security And Privacy</strong></p>
+<ul>
+  <li>Access control, Authorization, Authentication</li>
+  <li>Assurance, Audit, Certification, Compliance</li>
+  <li>Fault tolerance, High availability, Reliability</li>
+  <li>Cryptographic algorithms and protocols</li>
+  <li>Privacy-aware data management</li>
+  <li>Application of distributed ledger technologies to cloud</li>
+</ul>
+
+<hr />
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+
+<p><strong>Language:</strong> English or Chinese
+<strong>Paper size:</strong>  A4, 3-5 pages without references
+<strong>Paper format:</strong></p>
+<ul>
+  <li>English paper template: <a href="https://www.ieee.org/conferences/publishing/templates.html">Two-column format in the IEEE style</a></li>
+  <li>中文稿件模板：<a href="https://jsuese.scu.edu.cn/jsuese_cn/ch/reader/view_news.aspx?id=20171225053712633">四川大学学报工程科学版模板</a></li>
+</ul>
+
+<p><strong>Number of Keywords:</strong> between five to eight keywords for each paper
+<strong>File format:</strong> Limit the size of a single PDF file to be 6MB</p>
+
+<p><strong>Anonymous Submissions:</strong> We implement a double-blind reviewing process.  Author names and affiliations should not appear in the paper. The authors should make a reasonable effort not to reveal their identities of institutional affiliations in the text, figures, photos, links, or other data that is contained in the paper. Authors’ prior work should be preferably referred to in the third person; if this is not feasible, the references should be blinded. Submissions that violate these requirements will be rejected without review. The list of authors cannot be changed after the acceptance decision is made unless approved by the Program Chairs.</p>
+
+<p>All submitted manuscripts will be peer-reviewed by at least three members of the program committee.</p>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<ul>
+  <li>Paper submissions due: May 24, 2022</li>
+  <li>Final notification to authors: June 1, 2022</li>
+  <li>Publication: June 19 - 25, 2022</li>
+</ul>
+
+<h3 id="contact-information">Contact Information</h3>
+
+<p>Please send your paper to 2365626697@qq.com</p>
+
+<h3 id="general-chairs">General chairs</h3>
+
+<ul>
+  <li>Liao Yongyi (Sichuan University,Chengdu,China)</li>
+  <li>Huang Guosheng (Sichuan University,Chengdu,China)</li>
+  <li>Zhang Shuya (Sichuan University,Chengdu,China)</li>
+</ul>
+:ET

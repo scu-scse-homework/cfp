@@ -1,0 +1,98 @@
+I"ô<h1 id="call-for-paper">Call for Paper</h1>
+
+<h2 id="acspp-2025">ACSPP 2025</h2>
+
+<p>The Symposium on AI-Driven Cyber Security and Privacy Preservation aims to bring together researchers, practitioners, and others interested in the latest advances in the AI-driven cyber security and privacy preservation from the global cybersecurity community to jointly explore AI-driven cyber security technologies and privacy protection strategies, promoting the deep integration and innovative development of AI and cybersecurity.</p>
+
+<hr />
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>Refereed paper submissions are solicited in all areas relating to systems research in cyber security and privacy preservation. This topic list is not meant to be exhaustive; ACSPP is interested in all aspects of AI-driven cyber security and privacy preservation. Papers without a clear application to cyber security or privacy preservation driven by AI, however, will be considered out of scope and may be rejected without full review.</p>
+
+<p><strong>AI-Driven Threat Detection and Defense</strong></p>
+
+<ul>
+  <li>Machine learning-based malware detection</li>
+  <li>Application of deep learning in intrusion detection systems</li>
+  <li>AI-driven network traffic analysis and anomaly detection</li>
+  <li>Automated network attack response and defense strategies</li>
+</ul>
+
+<p><strong>Privacy Protection and Data Security</strong></p>
+
+<ul>
+  <li>Application of differential privacy in cybersecurity</li>
+  <li>Practice of homomorphic encryption and secure multi-party computation in privacy protection</li>
+  <li>Privacy leakage risks and protection mechanisms in AI models</li>
+  <li>Data encryption and access control technologies</li>
+</ul>
+
+<p><strong>Security of AI Models</strong></p>
+
+<ul>
+  <li>Adversarial attacks and defense mechanisms</li>
+  <li>Explainability and transparency of AI models</li>
+  <li>Security assessment and certification of AI models</li>
+  <li>Robustness and reliability of AI systems</li>
+</ul>
+
+<hr />
+
+<h2 id="instructions-for-paper-submission">Instructions for Paper Submission</h2>
+
+<ul>
+  <li>All submissions must be original work;</li>
+  <li>The submitter must clearly document any overlap with previously published or simultaneously submitted papers from any of the authors;</li>
+  <li>Simultaneous submission of the same paper to another venue with proceedings or a journal is not allowed and will be grounds for automatic rejection.</li>
+  <li>All submissions must be written in English.</li>
+  <li>All submissions should not exceed 20 pages, including reference and appendices.</li>
+  <li>All submissions should follow the IEEE conference paper style. You can get it in <a href="https://www.ieee.org/conferences/publishing/templates.html">https://www.ieee.org/conferences/publishing/templates.html</a>.</li>
+  <li>The review process will be double-blind. Authors must remove their names and affiliations form the submissions.</li>
+</ul>
+
+<hr />
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Full paper submission deadline</th>
+      <th>June 20, 2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Notification of paper acceptance</td>
+      <td>July 20, 2025</td>
+    </tr>
+    <tr>
+      <td>Camera-ready of accepted papers</td>
+      <td>July 30, 2025</td>
+    </tr>
+    <tr>
+      <td>Symposium</td>
+      <td>August 10-11, 2025</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Note: All deadlines are in accordance with Beijing time (BKG -7h).</p>
+
+<hr />
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>Yuke Wang (Sichuan University,Chengdu,China)</li>
+  <li>Lisha Yuan (Sichuan University,Chengdu,China)</li>
+</ul>
+
+<hr />
+
+<h2 id="contact-information">Contact Information</h2>
+
+<p>Email: <a href="mailto:xxxxxx@acspp.com">xxxxxx@acspp.com</a></p>
+
+:ET

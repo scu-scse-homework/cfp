@@ -1,0 +1,102 @@
+I"Ý<h1 id="call-for-papers">Call for Papers</h1>
+
+<h2 id="llmsec-2026-2026-international-conference-on-security-and-privacy-in-large-language-models">LLMSec 2026: 2026 International Conference on Security and Privacy in Large Language Models</h2>
+
+<h2 id="conference-overview">Conference Overview</h2>
+
+<p>The 2026 International Conference on Security and Privacy in Large Language Models (LLMSec 2026) is the premier international forum dedicated to the emerging field of large language model (LLM) security and privacy. As LLMs become the foundational technology of generative AI and are increasingly deployed in critical applications, their security vulnerabilities and privacy risks have become one of the most pressing challenges in computer science and cybersecurity.</p>
+
+<p>LLMSec 2026 aims to bring together leading researchers, practitioners, and industry experts from around the world to present cutting-edge research findings, exchange innovative ideas, and discuss practical solutions to the security and privacy challenges posed by large language models. The conference will feature keynote speeches from renowned scholars, technical paper presentations, panel discussions, and hands-on workshops.</p>
+
+<p>We welcome high-quality original research papers that have not been published previously and are not under consideration for publication elsewhere. All submissions will undergo a rigorous double-blind peer review process.</p>
+
+<p>##</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>LLMSec 2026 solicits original, high-quality papers in all areas of large language model security and privacy, including but not limited to the following topics:</p>
+
+<h3 id="a-llm-vulnerabilities-and-attacks">A. LLM Vulnerabilities and Attacks</h3>
+
+<ul>
+  <li>Prompt injection attacks (direct, indirect, jailbreaking)</li>
+  <li>Model alignment failures and adversarial prompting</li>
+  <li>Data poisoning attacks on LLM training data</li>
+  <li>Backdoor attacks and trojaning of LLMs</li>
+  <li>Model stealing and extraction attacks</li>
+  <li>Membership inference attacks</li>
+  <li>Training data extraction and memorization</li>
+  <li>Adversarial examples for LLMs</li>
+  <li>Multi-modal LLM vulnerabilities</li>
+</ul>
+
+<h3 id="b-llm-defense-and-mitigation-techniques">B. LLM Defense and Mitigation Techniques</h3>
+
+<ul>
+  <li>Prompt injection detection and prevention</li>
+  <li>LLM alignment and safety fine-tuning</li>
+  <li>Robust training methods for LLMs</li>
+  <li>Input sanitization and filtering</li>
+  <li>Output moderation and content safety</li>
+  <li>Model watermarking and provenance tracking</li>
+  <li>LLM security hardening techniques</li>
+  <li>Defense-in-depth strategies for LLM systems</li>
+  <li>Adversarial training for LLMs</li>
+</ul>
+
+<h3 id="c-llm-security-evaluation-and-testing">C. LLM Security Evaluation and Testing</h3>
+
+<ul>
+  <li>Benchmarks for LLM security and safety</li>
+  <li>Automated vulnerability scanning for LLMs</li>
+  <li>Red teaming and penetration testing of LLM systems</li>
+  <li>Formal verification of LLM properties</li>
+  <li>Risk assessment frameworks for LLM deployments</li>
+  <li>Measurement studies of LLM vulnerabilities</li>
+  <li>Comparative analysis of LLM security</li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<p>Authors are invited to submit original, unpublished research papers that are not currently under review elsewhere. All submissions should be written in English and prepared according to the conference paper template.</p>
+
+<p>Papers may be submitted in the following categories:</p>
+
+<ul>
+  <li><strong>Full Papers:</strong> 8-10 pages, presenting completed research with substantial results.</li>
+  <li><strong>Short Papers:</strong> 4-6 pages, presenting preliminary findings, innovative ideas, or work in progress.</li>
+  <li><strong>Poster Papers:</strong> 2-4 pages, presenting early-stage research or practical applications.</li>
+</ul>
+
+<p>All submitted papers will undergo a double-blind peer review process. Authors should ensure that submissions do not contain information that directly identifies the authors.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li><strong>Paper Submission Deadline:</strong> May 15, 2026</li>
+  <li><strong>Notification of Acceptance:</strong> June 30, 2026</li>
+  <li><strong>Camera-Ready Submission Deadline:</strong> July 20, 2026</li>
+  <li><strong>Author Registration Deadline:</strong> July 25, 2026</li>
+  <li><strong>Conference Dates:</strong> September 10-12, 2026</li>
+</ul>
+
+<h2 id="review-criteria">Review Criteria</h2>
+
+<p>Submissions will be evaluated based on the following criteria:</p>
+
+<ul>
+  <li>Originality and significance of the research</li>
+  <li>Technical quality and methodological soundness</li>
+  <li>Clarity of presentation</li>
+  <li>Relevance to the conference theme</li>
+  <li>Practical or theoretical contribution</li>
+  <li>Validity of results and conclusions</li>
+</ul>
+
+<h2 id="organizer">Organizer</h2>
+
+<p>Tong Yue (Sichuan University)</p>
+
+<p>XinLin Zou (Sichuan University)</p>
+
+:ET

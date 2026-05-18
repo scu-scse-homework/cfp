@@ -1,0 +1,83 @@
+I"y<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The offensive and defensive game in cyberspace always exhibits the evolutionary characteristics of a dynamic balance. Each leap in security defense technology often gives rise to more groundbreaking attack methods. Currently, the security field is undergoing a transformation in three dimensions:</p>
+
+<p>At the basic defense level, the traditional protection system based on feature matching has obvious blind spots when dealing with encrypted communication flows. However, intelligent monitoring technology based on an adaptive learning model can, by constructing multi-dimensional behavior baselines, capture latent threats that are difficult to detect with traditional methods.</p>
+
+<p>In terms of the reconstruction of the cryptography system, the breakthrough in quantum computing capabilities is shaking the reliability of the cornerstone of traditional encryption. The engineering application of a new generation of quantum-resistant algorithms faces the dual challenges of protocol adaptation and computing power consumption. Especially, the performance optimization in high-concurrency scenarios remains a problem to be solved.</p>
+
+<p>In the Internet of Everything ecosystem, the ubiquity of edge devices has significantly expanded the attack surface, and the attack chain presents a new pattern of “terminal penetration - lateral movement”. This drives the security architecture to extend towards the hardware root of trust. By relying on a trusted execution environment, a protection system covering the entire data life cycle is constructed, ensuring that key operations are always within the verifiable security boundaries. This paradigm shift from software-defined to hardware-strengthened is redefining the defense benchmark in the digital age.</p>
+
+<p>In the network security ecosystem, human factors always constitute a crucial vulnerable interface. Configuration deviations during the system deployment phase, operational oversights in policy execution, and regulatory loopholes in the authority management process often give rise to an exploitable attack surface that goes beyond pure technical defects. This type of human-induced failure mode is fundamentally different from protocol vulnerabilities or cryptographic defects. It cannot be repaired through the traditional patching mechanism and requires the construction of a deep defense system with full-domain linkage.</p>
+
+<p>Therefore, continuously understanding the technologies and mechanisms adopted in the fields of risk analysis, behavior-based security, and socially-based attacks is helpful for formulating effective defense strategies.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>This special issue invites research on cybersecurity attacks and defenses, including:</p>
+
+<ul>
+  <li>
+    <p>Attack strategies (APTs, ransomware) in networks and systems</p>
+  </li>
+  <li>
+    <p>Automated incident response in cloud/virtualized environments</p>
+  </li>
+  <li>
+    <p>Trusted computing and secure execution environments</p>
+  </li>
+  <li>
+    <p>IoT/embedded system security (vehicular networks, medical devices)</p>
+  </li>
+  <li>
+    <p>Authentication, zero-trust architectures, decentralized identity</p>
+  </li>
+  <li>
+    <p>ML/DL for attack/malware detection (explainable, evasion-resistant)</p>
+  </li>
+  <li>
+    <p>Post-quantum algorithm integration (protocols, hybrid systems)</p>
+  </li>
+  <li>
+    <p>Trust management (blockchain accountability, threat intelligence)</p>
+  </li>
+  <li>
+    <p>Novel intrusion detection (behavioral anomalies, quantum-resistant tools)</p>
+  </li>
+  <li>
+    <p>Privacy technologies (homomorphic encryption, secure computation)</p>
+  </li>
+  <li>
+    <p>Emerging paradigms (5G, edge computing, metaverse security)</p>
+  </li>
+  <li>
+    <p>Software supply chain security (CI/CD pipelines, artifact signing)</p>
+  </li>
+  <li>
+    <p>Human-centric security (cognitive bias mitigation, neurosecurity)</p>
+  </li>
+  <li>
+    <p>Legal compliance (GDPR/CCPA, ethical AI governance)</p>
+  </li>
+</ul>
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<p>Original research articles, case studies, and systematic reviews aligned with the above topics are welcome.Manuscripts must adhere to the journal’s formatting standards and undergo a double-blind peer-review process.</p>
+
+<h2 id="timeline">Timeline</h2>
+
+<p><strong>Submission Open Date：</strong>10/04/2025</p>
+
+<p><strong>Final Manuscript Submission Deadline：</strong>25/10/2025</p>
+
+<p><strong>Editorial Acceptance Deadline：</strong>15/02/2026</p>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>Yan Liang, Sichuan University, Email: <a href="mailto:2910166005@qq.com">2910166005@qq.com</a></li>
+  <li>Mengying Pan, Sichuan University, Email: <a href="mailto:3186389611@qq.com">3186389611@qq.com</a></li>
+  <li>Chenke Zhang, Sichuan University, Email: <a href="mailto:851612465@qq.com">851612465@qq.com</a></li>
+</ul>
+:ET

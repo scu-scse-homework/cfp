@@ -1,0 +1,133 @@
+I"W <h1 id="call-for-papers">Call for Papers</h1>
+
+<p><strong>Call for Papers</strong></p>
+
+<p><em>Journal of Network Behavior Analysis and Intrusion Detection (JNBAID)</em></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>**ISSN: 2834-6789 (Print)</td>
+      <td>ISSN: 2834-6797 (Online)**</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Submission Deadline: September 30, 2026</strong></p>
+
+<p><strong>Publication Date: February 2027 (Volume 1, Issue 1)</strong></p>
+
+<p>The <em>Journal of Network Behavior Analysis and Intrusion Detection (JNBAID)</em> is a peer-reviewed, open-access journal dedicated to advancing cutting-edge research and practical applications in the fields of network behavior analysis and intrusion detection. As cyber threats continue to evolve in complexity, scale, and sophistication—ranging from stealthy APT attacks to large-scale DDoS assaults—understanding network behaviors and building robust intrusion detection systems has become critical to safeguarding digital infrastructures across enterprise, industrial, and national cyber domains. JNBAID aims to serve as a premier platform for researchers, academics, and industry practitioners to share innovative methodologies, theoretical insights, and real-world deployments that address the challenges of detecting, analyzing, and mitigating cyber intrusions through network behavior profiling.</p>
+
+<h3 id="scope-and-topics-of-interest">Scope and Topics of Interest</h3>
+
+<p>We welcome original, high-quality submissions that explore theoretical advancements, technical innovations, and practical implementations related to network behavior analysis and intrusion detection. Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Network behavior feature extraction and anomaly characterization</li>
+  <li>Machine learning/deep learning for adaptive intrusion detection</li>
+  <li>Real-time network behavior analysis for edge/IoT environments</li>
+  <li>Explainable AI for intrusion detection systems (IDS) and network behavior profiling</li>
+  <li>Behavioral pattern recognition for advanced persistent threats (APTs)</li>
+  <li>DDoS attack detection and mitigation via network behavior analytics</li>
+  <li>Privacy-preserving network behavior data collection and analysis</li>
+  <li>Cross-layer network behavior analysis for 5G/6G networks</li>
+  <li>Intrusion detection in cloud-native and containerized environments</li>
+  <li>Threat intelligence integration into network behavior analysis frameworks</li>
+  <li>Evaluation metrics and benchmarks for network behavior analysis systems</li>
+  <li>Human-centric factors in network behavior anomaly detection</li>
+  <li>Blockchain-enabled trust mechanisms for intrusion detection data sharing</li>
+  <li>Post-quantum security for network behavior analysis algorithms</li>
+  <li>Industrial control system (ICS) network behavior monitoring and intrusion detection</li>
+</ul>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+
+<ul>
+  <li><strong>Manuscript Types</strong>: Original research articles, comprehensive review papers, technical case studies, and short communications (note: short communications are limited to 3,000 words).</li>
+  <li><strong>Word Limit</strong>:
+    <ul>
+      <li>Research articles: 6,000–12,000 words (including abstract, figures/tables, and discussions)</li>
+      <li>Review papers: 8,000–15,000 words</li>
+      <li>Case studies: 4,000–6,000 words</li>
+    </ul>
+  </li>
+  <li><strong>Formatting</strong>: All submissions must adhere to the JNBAID author guidelines, available at <a href="http://www.jnbaid.org/guidelines">www.jnbaid.org/guidelines</a>. Manuscripts should use APA 7th edition for citations and references, and be submitted in PDF format with a double-column layout.</li>
+  <li><strong>Language</strong>: Submissions must be written in English (non-native English speakers are encouraged to use professional language editing services prior to submission).</li>
+  <li><strong>Anonymity &amp; Peer Review</strong>: JNBAID employs a rigorous double-blind peer review process. Authors must remove all identifying information (names, affiliations, funding sources, personal acknowledgments) from the manuscript to ensure anonymity during review. Self-citations must be anonymized (e.g., “Previous work [1] has shown…” instead of “Our previous work [1]…”).</li>
+  <li><strong>Originality</strong>: Submissions must be original and unpublished, and not under review at any other journal/conference at the time of submission. Any overlap with previously published work (including preprints) must be explicitly disclosed and justified.</li>
+  <li><strong>Supplementary Material</strong>: Authors may submit supplementary material (e.g., code, datasets, experimental logs) to support reproducibility. Supplementary material must be anonymized and hosted on a trusted repository (e.g., Zenodo, GitHub) with a permanent DOI.</li>
+</ul>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Milestone</th>
+      <th style="text-align: left">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Submission Portal Opens</td>
+      <td style="text-align: left">May 1, 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Full Paper Submission Deadline</td>
+      <td style="text-align: left">September 30, 2026 (23:59 AoE, UTC-12)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">First Round Review Notification</td>
+      <td style="text-align: left">November 15, 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Revised Manuscripts Due</td>
+      <td style="text-align: left">December 15, 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Final Acceptance Notification</td>
+      <td style="text-align: left">January 10, 2027</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Camera-Ready Submission Deadline</td>
+      <td style="text-align: left">January 25, 2027</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Publication Date</td>
+      <td style="text-align: left">February 2027</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="why-publish-with-jnbaid">Why Publish with JNBAID?</h3>
+
+<ul>
+  <li><strong>Global Visibility</strong>: JNBAID is indexed in Scopus, Web of Science (Emerging Sources Citation Index), and Google Scholar, ensuring maximum reach for your research.</li>
+  <li><strong>Open Access</strong>: All published articles are freely accessible to the global community, eliminating paywalls and increasing citation potential.</li>
+  <li><strong>Rigorous Peer Review</strong>: Our editorial board comprises leading experts in network security, behavior analysis, and intrusion detection from academia and industry, ensuring high-quality, constructive reviews.</li>
+  <li><strong>Fast Turnaround</strong>: Average first-review time is 4 weeks, with clear and actionable feedback to accelerate revision cycles.</li>
+  <li><strong>No Publication Fees</strong>: JNBAID waives Article Processing Charges (APCs) for the inaugural volume (2027) to support early-career researchers and promote diversity in submissions.</li>
+</ul>
+
+<h3 id="editorial-team">Editorial Team</h3>
+
+<ul>
+  <li><strong>Editor-in-Chief</strong>: 祝德贤, Sichuan University, Email: <a href="mailto:1361728733@qq.com">1361728733@qq.com</a></li>
+  <li><strong>Associate Editor-in-Chief</strong>: 杨榉栋, Sichuan University, Email: <a href="mailto:1213448575@qq.com">1213448575@qq.com</a></li>
+  <li><strong>Associate Editor-in-Chief</strong>: 孔德举, Sichuan University, Email: <a href="mailto:1263364530@qq.com">1263364530@qq.com</a></li>
+</ul>
+
+<h3 id="contact-information">Contact Information</h3>
+
+<p>For inquiries regarding submissions, author guidelines, or editorial policies:</p>
+<ul>
+  <li><strong>Email</strong>: editorial@jnbaid.org</li>
+  <li><strong>Website</strong>: <a href="http://www.jnbaid.org">www.jnbaid.org</a></li>
+  <li><strong>Submission Portal</strong>: <a href="http://www.jnbaid.org/submit">www.jnbaid.org/submit</a></li>
+</ul>
+
+<p>We look forward to receiving your contributions and advancing the state-of-the-art in network behavior analysis and intrusion detection!</p>
+
+<p>The JNBAID Editorial Team</p>
+:ET

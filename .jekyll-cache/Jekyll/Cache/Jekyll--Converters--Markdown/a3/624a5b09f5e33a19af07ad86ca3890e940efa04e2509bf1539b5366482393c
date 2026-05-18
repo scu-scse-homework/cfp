@@ -1,0 +1,103 @@
+I"R<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The <strong>Communication Security and Data Protection (CSDP 2025)</strong> conference aims to bring together researchers, practitioners, and industry experts to discuss the latest advancements, challenges, and solutions in the fields of <strong>cybersecurity, data privacy, secure communication protocols, and emerging threats</strong>.</p>
+
+<p>This conference provides a platform for sharing cutting-edge research, fostering collaborations, and exploring innovative approaches to safeguarding digital communication and sensitive data in an increasingly interconnected world.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<ul>
+  <li>
+    <p>We invite submissions on (but not limited to) the following topics:</p>
+
+    <h3 id="1-communication-security"><strong>1. Communication Security</strong></h3>
+
+    <ul>
+      <li>Secure network protocols (TLS, VPNs, etc.)</li>
+      <li>Authentication and access control mechanisms</li>
+      <li>Intrusion detection and prevention systems</li>
+      <li>Side-channel attacks and mitigations</li>
+      <li>Quantum-safe cryptography</li>
+    </ul>
+
+    <h3 id="2-data-protection--privacy"><strong>2. Data Protection &amp; Privacy</strong></h3>
+
+    <ul>
+      <li>Encryption techniques (homomorphic, post-quantum, etc.)</li>
+      <li>GDPR, CCPA, and regulatory compliance</li>
+      <li>Privacy-preserving data analytics</li>
+      <li>Anonymization and pseudonymization techniques</li>
+      <li>Secure multi-party computation</li>
+    </ul>
+
+    <h3 id="3-emerging-threats--countermeasures"><strong>3. Emerging Threats &amp; Countermeasures</strong></h3>
+
+    <ul>
+      <li>AI/ML in cybersecurity (attack vs. defense)</li>
+      <li>Ransomware, phishing, and social engineering attacks</li>
+      <li>IoT and edge security challenges</li>
+      <li>Blockchain for security and trust</li>
+      <li>Zero-trust architecture</li>
+    </ul>
+
+    <h3 id="4-human--organizational-aspects"><strong>4. Human &amp; Organizational Aspects</strong></h3>
+
+    <ul>
+      <li>Security awareness and training</li>
+      <li>Insider threats and behavioral analysis</li>
+      <li>Risk management and governance</li>
+      <li>Ethical hacking and penetration testing</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p>We welcome the following types of submissions:</p>
+
+<ul>
+  <li><strong>Full Papers</strong> (8–12 pages): Original research contributions.</li>
+  <li><strong>Short Papers</strong> (4–6 pages): Work-in-progress or case studies.</li>
+  <li><strong>Posters/Demos</strong> (2-page abstract): Early-stage research or practical implementations.</li>
+  <li>Authors must use the provided two-column format for CSDP conferences and submit their work in PDF format. Non-adherence to submission guidelines will result in automatic rejection.</li>
+  <li>Manuscripts should be submitted via email to the journal’s editorial office at mjxvtxtk1@gmail.com. Authors are required to provide contact information for all contributors and to prefix the submission title with “CSDP2025”.</li>
+</ul>
+
+<p><strong>Formatting:</strong> Submissions must follow <strong>[IEEE/ACM/Springer] template</strong> (specify if applicable).</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">IMPORTANT DATE</th>
+      <th style="text-align: center">DATE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Paper Submission Deadline</td>
+      <td style="text-align: center">June 15, 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Notification of Acceptance</td>
+      <td style="text-align: center">August 1, 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Camera-Ready Submission</td>
+      <td style="text-align: center">September 1, 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Conference Dates</td>
+      <td style="text-align: center">October 5-8, 2025</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Workshop co-chair(s): Xuan Tian, Junyi Liu</li>
+</ul>
+
+:ET

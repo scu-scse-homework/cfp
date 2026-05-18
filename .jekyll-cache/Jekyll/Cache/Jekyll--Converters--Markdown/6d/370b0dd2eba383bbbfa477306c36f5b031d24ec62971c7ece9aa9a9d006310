@@ -1,0 +1,40 @@
+I"3<h1 id="workshop-on-intelligent-simulation-and-ai-driven-discovery-in-electrochemical-engineering-isaidee-2026">Workshop on Intelligent Simulation and AI-Driven Discovery in Electrochemical Engineering (ISAIDEE 2026)</h1>
+
+<h2 id="1-introduction-and-scope">1. Introduction and Scope</h2>
+<p>The transition toward a sustainable energy future heavily relies on advanced electrochemical systems, such as Alkaline Water Electrolyzers (AWE) for green hydrogen production and Carbon Dioxide Reduction Reaction (CO2RR) technologies. Traditionally, understanding and optimizing these complex, multi-physics, and multi-phase systems depend on computationally expensive Computational Fluid Dynamics (CFD) simulations.</p>
+
+<p>This workshop aims to bridge the gap between Chemical Engineering and Artificial Intelligence. We focus on the integration of AI models (e.g., Physics-Informed Neural Networks, surrogate models) with rigorous computational methods (e.g., Fluent-based CFD) to achieve intelligent, accelerated, and high-fidelity simulations. ISAIDEE 2026 provides a platform for researchers to share breakthroughs in data-driven electrochemical reactor design, smart simulation workflows, and AI-accelerated catalyst discovery.</p>
+
+<h2 id="2-topics-of-interest">2. Topics of Interest</h2>
+<p>We welcome original research and work-in-progress papers covering, but not limited to, the following areas:</p>
+<ul>
+  <li><strong>AI-Accelerated CFD in Electrochemistry</strong>: Machine learning surrogate models for multi-phase flow and mass transfer in Alkaline Electrolyzers.</li>
+  <li><strong>Intelligent Modeling of CO2RR</strong>: Data-driven prediction of reaction pathways, catalyst screening, and micro-environment simulations for CO2 reduction.</li>
+  <li><strong>Physics-Informed Neural Networks (PINNs)</strong>: Application of PINNs in solving coupled electrochemical and fluid dynamic equations.</li>
+  <li><strong>Digital Twins for Energy Systems</strong>: Real-time monitoring and predictive maintenance of industrial-scale electrochemical reactors.</li>
+  <li><strong>Data-Driven Cell Design</strong>: Topology optimization and structural design of electrodes and flow fields using reinforcement learning or generative AI.</li>
+</ul>
+
+<h2 id="3-submission-instructions">3. Submission Instructions</h2>
+<ul>
+  <li>All submissions must be written in English and formatted according to the standard IEEE double-column conference template.</li>
+  <li>Papers should not exceed 6 pages (including references).</li>
+  <li>Reviewing will be <strong>Double-Blind</strong>. Authors must ensure their identities and affiliations are removed from the submitted PDF.</li>
+  <li>Submissions must be made via the official EasyChair portal for ISAIDEE 2026.</li>
+</ul>
+
+<h2 id="4-important-dates">4. Important Dates</h2>
+<ul>
+  <li><strong>Paper Submission Deadline</strong>: July 15, 2026, 23:59 AoE</li>
+  <li><strong>Notification of Acceptance</strong>: August 20, 2026</li>
+  <li><strong>Camera-Ready Version</strong>: September 5, 2026</li>
+  <li><strong>Workshop Date</strong>: October 10, 2026</li>
+</ul>
+
+<h2 id="5-organizing-committee">5. Organizing Committee</h2>
+<ul>
+  <li>黄彦强, 2025<strong>**</strong>098 Sichuan University School of Chemical Engineering</li>
+  <li>(only applicable when only-for-homework is false)</li>
+  <li>Invited talk: Yanqiang Huang</li>
+</ul>
+:ET

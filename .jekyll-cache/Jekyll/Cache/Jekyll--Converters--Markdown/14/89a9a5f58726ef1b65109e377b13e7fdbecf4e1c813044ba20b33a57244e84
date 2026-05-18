@@ -1,0 +1,135 @@
+I"�&<h1 id="icaai-2025-call-for-papers">ICAAI 2025 Call for Papers</h1>
+
+<p>We cordially invite all members of the global artificial intelligence research community to submit their most original and impactful work to the <strong>1st International Conference on Advanced Artificial Intelligence (ICAAI-2025)</strong>, to be held from <strong>September 20 to 25, 2025</strong>, in <strong>Chengdu, China</strong>.</p>
+
+<p>Artificial intelligence is reshaping human society at an unprecedented pace. With significant advances in large-scale pre-trained models, multimodal learning, generative AI, and trustworthy AI, the field is undergoing a paradigm shift from <em>perceptual intelligence</em> to <em>cognitive intelligence</em>. However, these advancements also bring forth complex challenges, including privacy protection, algorithmic bias, ethical scrutiny, computational efficiency, and broader societal implications.</p>
+
+<p>ICAAI-2025 aims to bring together researchers, developers, and industry practitioners from around the world to explore the latest breakthroughs, cutting-edge applications, and future directions in artificial intelligence. The conference seeks to foster a deep integration between foundational research and real-world deployment.</p>
+
+<p>The conference will be held in person. We welcome high-quality submissions across all areas of AI. All papers will undergo a <strong>double-blind peer review</strong> process, evaluated based on <strong>originality, technical depth, practical relevance, reproducibility, and academic contribution</strong>. Accepted papers will be presented as <strong>oral presentations</strong> or <strong>poster/focus sessions</strong>—the presentation format will be based on scheduling logistics and does not reflect the scientific merit of the submission.</p>
+
+<h2 id="topics">Topics</h2>
+
+<p>We welcome submissions in all areas of artificial intelligence, and especially encourage work that aligns with the following key tracks and their subthemes:</p>
+
+<p><strong>Foundations and Algorithms</strong></p>
+
+<ul>
+  <li>Theoretical foundations of machine learning and deep learning</li>
+  <li>Reinforcement learning and meta-learning</li>
+  <li>Probabilistic reasoning and modeling under uncertainty</li>
+  <li>Graph neural networks and structured representation learning</li>
+  <li>Federated learning and privacy-preserving machine learning</li>
+</ul>
+
+<p><strong>Perception and Multimodal AI</strong></p>
+
+<ul>
+  <li>Computer vision and image understanding</li>
+  <li>Natural language processing and large language models (LLMs)</li>
+  <li>Multimodal learning and cross-modal reasoning</li>
+  <li>Speech recognition and synthesis</li>
+  <li>Generative AI (AIGC) and creative applications</li>
+</ul>
+
+<p><strong>Intelligent Systems and Human-AI Collaboration</strong></p>
+
+<ul>
+  <li>Robotics and embodied intelligence</li>
+  <li>Multi-agent systems and swarm intelligence</li>
+  <li>Planning and sequential decision-making</li>
+  <li>Human-centered AI and human-computer interaction</li>
+  <li>Explainable AI and model transparency</li>
+</ul>
+
+<p><strong>Additional Emerging Topics (Highly Encouraged)</strong></p>
+
+<ul>
+  <li>AI applications in vertical domains such as healthcare, finance, agriculture, and education</li>
+  <li>Efficient training, compression, and inference acceleration for large models</li>
+  <li>AI for scientific discovery</li>
+  <li>Intersection of AI and quantum computing</li>
+  <li>Intelligent agents and autonomous systems</li>
+  <li>Open-source AI platforms and dataset development</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p>The review process will be double-blind. The authors must remove their names and affiliations in the submitted document.</p>
+
+<ul>
+  <li><strong>Language and Format:</strong> All submissions must be written in English and formatted according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE LaTeX template</a> for double-blind review. The main body of the paper is limited to 8 pages, with a maximum of 1 additional page permitted for references.</li>
+  <li><strong>Typesetting:</strong> Excessive use of typesetting tricks to fit content is not permitted. Do not modify the style files or layout parameters.</li>
+  <li><strong>Abstract Registration:</strong> Registering an abstract (around 100-300 words in plain text) is required in advance of the paper submission deadline. You will be asked to provide additional information (such as keywords) at that time.</li>
+  <li><strong>Submission Website:</strong> Please submit your paper via <a href="https://ICAAI-2025">ICAAI-2025</a>.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li><strong>Submission Site Opens:</strong> Tuesday, April 15, 2025</li>
+  <li><strong>Paper Submission Deadline:</strong> Thursday, May 15, 2025</li>
+  <li><strong>Rebuttal Period:</strong> Monday–Wednesday, June 23–25, 2025 (72 hours)</li>
+  <li><strong>Author Notification:</strong> Thursday, July 10, 2025</li>
+  <li><strong>Early Registration Deadline:</strong> TBC</li>
+</ul>
+
+<p><em>All deadlines are 11:59 PM AoE (Anywhere on Earth, UTC-12) on the date specified.</em></p>
+
+<p><strong>Note:</strong> Requests to formally withdraw a paper from review may take up to one week to process and may not be accommodated if received after June 25, 2025.</p>
+
+<h2 id="supplementary-material">Supplementary Material</h2>
+
+<p>You may accompany your submission with supplementary material (e.g., technical appendix, code, data) up to 50 MB.</p>
+
+<ul>
+  <li><strong>Important:</strong> Supplementary material is optional and will be reviewed at the discretion of reviewers.</li>
+  <li><strong>Anonymity:</strong> Ensure the supplementary material does not compromise the anonymity of your submission.</li>
+  <li><strong>Availability:</strong> Accepted papers should make supplementary material available in archival form (e.g., via Zenodo or arXiv) and reference it in the camera-ready version.</li>
+</ul>
+
+<h2 id="resubmission-from-other-conferences">Resubmission from Other Conferences</h2>
+
+<p>If your paper was previously rejected from another conference with archival proceedings and double-blind review within the last 12 months ), you may supplement your submission with a single PDF document containing:</p>
+
+<ol>
+  <li>A cover letter (up to 1 page) summarizing your response to the previous reviews and improvements made.</li>
+  <li>All anonymised reviews, including any meta-review (a screenshot from the submission system is acceptable).</li>
+  <li>An unedited copy of the earlier submission.</li>
+</ol>
+
+<p>This is voluntary and intended to help reviewers appreciate the improvements made.</p>
+
+<h1 id="ethics-statement">Ethics Statement</h1>
+
+<p>Research reported at ICAAI 2025 should avoid harm, be honest and trustworthy, fair and non-discriminatory, and respect privacy and intellectual property. Where relevant, authors should include in the main body of their paper, or on the reference page, a short ethics statement that addresses ethical issues regarding the research and its broader impact.</p>
+
+<p>Reviewers will flag possible violations of ethical principles, and such submissions will be reviewed by a senior member of the programme committee. Authors may be asked to revise their paper to include discussions of potential ethical concerns and their mitigations.</p>
+
+<h1 id="policies">Policies</h1>
+
+<p>By submitting to ICAAI-2025, you confirm that you agree to the following policies:</p>
+
+<ul>
+  <li><strong>Originality:</strong> Submissions must not have substantial overlap with work previously accepted as a full paper in another archival forum. Workshops (without archival proceedings) and preprints are acceptable.</li>
+  <li><strong>Concurrent Submission:</strong> Work submitted must not be under review elsewhere between submission and notification.</li>
+  <li><strong>Anonymity:</strong> Maintain double-blind review standards by removing any identifying information from the submission.</li>
+  <li><strong>Links:</strong> Do not include pointers to supplementary material on the web that cannot be guaranteed unaltered during the review process.</li>
+  <li><strong>Social Media:</strong> Actively promoting a submission on social media during the review period is discouraged.</li>
+  <li><strong>Reproducibility:</strong> Submit relevant code and data as supplementary material where feasible.</li>
+  <li><strong>Confidentiality:</strong> Submissions, including author information and reviews, will be treated confidentially. However, they may be shared with organisers of other AI conferences to prevent duplicate submissions.</li>
+  <li><strong>Abstract Integrity:</strong> Abstracts must not be significantly altered after submission.</li>
+  <li><strong>Authorship:</strong> Only individuals who have made significant contributions should be listed as authors. Author order cannot be changed after submission.</li>
+  <li><strong>Submission Limit:</strong> No individual may be listed as an author on more than 8 submissions to ICAAI-2025.</li>
+  <li><strong>Generative AI:</strong> The use of AI systems to generate text is allowed only if properly documented. Assistance with polishing human-authored text is permissible.</li>
+  <li><strong>Attendance:</strong> At least one author of each accepted paper must register and intend to present the paper.</li>
+  <li><strong>Reviewing:</strong> Authors may be asked to help with reviewing papers for ICAAI-2025. Waivers may be granted in exceptional circumstances.</li>
+</ul>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li><strong>Workshop Co-Chairs</strong>: Jiayan Wang, Xinyi Jin, Xinghua Lu</li>
+  <li>For inquiries, please contact us at <a href="mailto:xxxxx@163.com">xxxxx@icaai2025.org</a> or visit the <a href="https://sites.google.com/view/ICAAI-2025-faq">FAQ page</a>.</li>
+</ul>
+:ET

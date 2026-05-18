@@ -1,0 +1,58 @@
+I"ì<h1 id="call-for-papers">Call For Papers</h1>
+<h2 id="-mlcs-2022-"><strong>| MLCS 2022 |</strong></h2>
+
+<p><em>The 1st Meeting of Machine Learing in Cyberspace Security<br />
+May 25-27, 2022</em><br />
+<strong><em>ShuangLiu, ChengDu, China</em></strong></p>
+
+<hr />
+
+<p>In todayâ€™s increasingly interdependent global world, Cyberspace Security has gradually become the focus of public attention. With the expansion of network scale, due to the lack of consideration of security and reliability at the beginning of network structure and protocol design, information transmission and data protection have been greatly threatened. Cyberspace Security mainly includes three levels: system security, network security and application security. The traditional security solutions become inefficient in the face of massive data. With the birth of emerging technologies, more technical means need to be introduced. Among them, machine learning is a powerful and effective method. With its strong adaptability and self-learning ability, it provides a series of effective analysis and decision-making tools for the security field, which has attracted extensive attention and in-depth research in academia and industry in recent years.</p>
+
+<p>The objective of MLCs 2022 workshop is to bring researchers and practitioners together to share how they can apply machine learning based defense methods to the field of Cyberspace Security.Contributions on machine learning, deep learning, and data-driven approaches in general to the problems in cyber threat detection, prediction and defense issues are particularly welcome.</p>
+
+<p>Although not limited, papers are solicited for the following main topics:</p>
+
+<ul>
+  <li><strong>System hardware and physical environment security</strong><br />
+Hardware equipment identity authentication is a common security problem of system hardware. The application of machine learning in equipment identity authentication technology mainly includes three kinds of fingerprint features: transient signal, modulation signal and spectrum response. In the physical environment, machine learning mainly studies channel attack and pseudo base station detection.</li>
+  <li><strong>system software security</strong><br />
+The research of machine learning in system software security includes vulnerability analysis and mining, malicious code analysis, user identity authentication and virtualization security.</li>
+  <li><strong>network infrastructure security</strong><br />
+Routing system and domain name system are important network infrastructure in cyberspace.The research of machine learning in network infrastructure security includes BGP anomaly detection and DNS malicious attack detection.</li>
+  <li><strong>network security detection</strong><br />
+Application of machine learning technology and network security detection include botnet detection, network intrusion technology and identification of malicious encrypted traffic.</li>
+  <li><strong>application software security</strong><br />
+E-mail, PDF and web pages are the most common software applications. The research of machine learning technology in application software security includes: spam detection, malicious web page identification and malicious PDF document detection.</li>
+  <li><strong>social network security</strong><br />
+The research of machine learning technology in social network security includes: social network abnormal account detection, credit card fraud detection, forensics analysis and network public opinion analysis.</li>
+</ul>
+
+<h2 id="submission-guidelines"><strong>Submission Guidelines</strong></h2>
+
+<p>MLCS 2022 welcomes original, unpublished papers. All submissions must be written in English.</p>
+
+<p>Papers submitted for review must clearly state:</p>
+
+<ul>
+  <li>The purpose of the work</li>
+  <li>How and to what extent it advances the state-of-the art</li>
+  <li>Specific results and their impact</li>
+  <li>Papers must not exceed four A4 pages with all illustrations and references included.</li>
+</ul>
+
+<h2 id="important-dates"><strong>Important Dates</strong></h2>
+
+<p>Papers Submission Deadline: April 15, 2022<br />
+Decision Notification: April 22, 2022</p>
+
+<h2 id="venue-and-contact-details"><strong>VENUE AND CONTACT DETAILS</strong></h2>
+
+<p>MLCS 2022 workshop will be held on May 25-27, 2022. We will let you know when the exact location info becomes available.</p>
+
+<h3 id="organizing-committee"><strong>ORGANIZING COMMITTEE</strong></h3>
+
+<p>He Yuhao, Sichuan University<br />
+Yang Peng, Sichuan University<br />
+Mou Yumeng, Sichuan University</p>
+:ET

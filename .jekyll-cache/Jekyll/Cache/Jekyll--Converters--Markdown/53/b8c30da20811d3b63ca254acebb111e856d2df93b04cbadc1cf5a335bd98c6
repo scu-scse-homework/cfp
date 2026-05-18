@@ -1,0 +1,83 @@
+I"b<h1 id="call-for-papers">Call for Papers</h1>
+
+<p>The Workshop on Generative AI Security and Digital Trust aims to provide a forum for researchers, students, and practitioners to discuss emerging security, privacy, and trust challenges brought by generative artificial intelligence and AI-generated digital content.</p>
+
+<p>Recent advances in large language models, text-to-image generation, voice synthesis, video generation, and multimodal AI systems have greatly changed the way digital content is created and distributed. While these technologies provide powerful tools for education, software development, creative design, scientific research, and human-computer interaction, they also introduce serious risks, including deepfakes, misinformation, privacy leakage, prompt injection, model misuse, AI-assisted phishing, and the abuse of generative AI in cyber attacks.</p>
+
+<p>GenAISec 2026 invites high-quality and original submissions on the detection, analysis, prevention, and mitigation of security threats related to generative AI systems and AI-generated content. The workshop welcomes technical and interdisciplinary studies, including detection methods, defense mechanisms, system designs, measurement studies, surveys, position papers, preliminary results, practical systems, and well-motivated research ideas.</p>
+
+<h1 id="topics-of-interest">Topics of Interest</h1>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Security risks of large language models</li>
+  <li>Prompt injection and jailbreak attacks</li>
+  <li>Deepfake generation and detection</li>
+  <li>AI-generated text, image, audio, and video detection</li>
+  <li>Digital watermarking for AI-generated content</li>
+  <li>Content provenance and digital content authentication</li>
+  <li>Privacy leakage in generative AI systems</li>
+  <li>Data poisoning and model manipulation</li>
+  <li>Misinformation, disinformation, and digital trust</li>
+  <li>Abuse of generative AI in phishing, fraud, and social engineering</li>
+  <li>AI-assisted malware generation and cyber attacks</li>
+  <li>Security evaluation of generative AI applications</li>
+  <li>Robustness and reliability of AI-generated content detectors</li>
+  <li>Trustworthy deployment of generative AI systems</li>
+  <li>Legal, ethical, and social challenges of generative AI security</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ol>
+  <li><strong>Format</strong>: Submissions must be in PDF format. Authors are encouraged to use a standard double-column conference format, such as the ACM sigconf style.</li>
+  <li><strong>Length</strong>: Submissions should normally be 4 to 6 pages, including references. Short papers, position papers, survey papers, system reports, and preliminary research ideas are welcome.</li>
+  <li><strong>Language</strong>: Submissions may be written in English or Chinese. English submissions are encouraged.</li>
+  <li><strong>Originality</strong>: Submissions should present original ideas, methods, systems, analyses, or discussions related to generative AI security and digital trust.</li>
+  <li><strong>Scope</strong>: Each submission should clearly explain its relevance to the workshop theme, including the security problem, research motivation, proposed method or viewpoint, and potential contribution.</li>
+  <li><strong>Review Strategy</strong>: All submitted papers will be reviewed by the organizers or invited reviewers. Reviews will consider relevance, clarity, originality, technical soundness, practical value, and potential for academic discussion.</li>
+  <li><strong>Ethical Considerations</strong>: For papers involving security experiments, user data, AI-generated harmful content, vulnerability analysis, or social impacts, authors should explain how they reduce potential risks and follow responsible research practices.</li>
+</ol>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>IMPORTANT DATE</th>
+      <th>DATE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paper submission deadline</td>
+      <td>Jun 28, 2026</td>
+    </tr>
+    <tr>
+      <td>Notification of early-rejection papers</td>
+      <td>Jul 27, 2026</td>
+    </tr>
+    <tr>
+      <td>Author rebuttal period</td>
+      <td>Aug 18-22, 2026</td>
+    </tr>
+    <tr>
+      <td>Rebuttal deadline</td>
+      <td>Aug 22, 2026</td>
+    </tr>
+    <tr>
+      <td>Author notification</td>
+      <td>Sep 3, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Tingting Pan, <em>Sichuan University</em>, China</li>
+  <li>Yi Zheng, <em>Sichuan University</em>, China</li>
+  <li>Maojia Du, <em>Sichuan University</em>, China</li>
+</ul>
+:ET

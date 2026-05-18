@@ -1,0 +1,169 @@
+I""<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>In an era of rapid technological advancement, the landscape of cybersecurity is constantly evolving, presenting both unprecedented opportunities and formidable challenges. The goal of Sichuan University Cyber Guard Symposium(SCUCGS) is to protect network security, addressing the increasingly complex cyber threats and safeguarding data privacy. With the proliferation of interconnected systems, the rise of sophisticated cyber threats, and the growing concerns surrounding data privacy, ensuring robust security measures has never been more critical.</p>
+
+<p>This conference will encompass a broad spectrum of topics spanning various domains within cybersecurity. Key areas of focus include:</p>
+
+<ul>
+  <li>System Security</li>
+  <li>Network Security</li>
+  <li>Privacy Preservation</li>
+  <li>Machine Learning Applications to Security</li>
+  <li>Cryptographic Protocols</li>
+  <li>Emerging Threats and Online Abuse</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p>All submissions must be received by 11:59 PM AoE (UTC-12) on the corresponding deadline date. It is imperative that submitted papers refrain from substantial overlap with any previously published or accepted works, or those concurrently under consideration by other journals, conferences, or workshops with published proceedings. Ensuring proper anonymization of submissions is crucial; failure to do so may result in rejection without review.</p>
+
+<p>The evaluation process will prioritize the merit of submitted papers, emphasizing their significance in practical computer and communications security and privacy domains, novelty, execution quality, and presentation. Authors addressing potentially ethical concerns are expected to demonstrate adherence to appropriate procedures, such as obtaining IRB approval or practicing responsible disclosure, to mitigate potential harm.</p>
+
+<p>The Program Committee (PC) reserves the right to reject submissions deemed out of scope. Authors with inquiries regarding the suitability of their paper are encouraged to seek clarification from the PC chairs in advance. Once submitted, no alterations to the author list on a paper will be permitted.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Paper submission deadline</strong>:</td>
+      <td><strong>May 3, 2024</strong></td>
+    </tr>
+    <tr>
+      <td>Notification of early-rejection papers:</td>
+      <td><strong>June 2, 2024</strong></td>
+    </tr>
+    <tr>
+      <td>Author rebuttal period:</td>
+      <td><strong>June 22-27, 2024</strong></td>
+    </tr>
+    <tr>
+      <td>Rebuttal deadline:</td>
+      <td><strong>June 27, 2024</strong></td>
+    </tr>
+    <tr>
+      <td>Author notification:</td>
+      <td><strong>July 6, 2024</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="topics-of-interest">Topics of Interest</h1>
+
+<p>Discover the diverse landscape of cybersecurity at our conference. Your submissions should encompass topics related to network security and beyond. While focusing on network security, your contributions can also explore a myriad of related subjects. Join us in exploring the dynamic intersections of cybersecurity and beyond.</p>
+
+<ul>
+  <li>System security
+    <ul>
+      <li>Operating systems security</li>
+      <li>Web security</li>
+      <li>Mobile systems security</li>
+      <li>Distributed systems security</li>
+      <li>Cloud computing security</li>
+    </ul>
+  </li>
+  <li>Network security
+    <ul>
+      <li>Intrusion and anomaly detection and prevention</li>
+      <li>Network infrastructure security</li>
+      <li>Denial-of-service attacks and countermeasures</li>
+    </ul>
+  </li>
+  <li>Wireless security</li>
+  <li>Security analysis
+    <ul>
+      <li>Malware analysis</li>
+      <li>Analysis of network and security protocols</li>
+      <li>Attacks with novel insights, techniques, or results</li>
+      <li>Forensics and diagnostics for security</li>
+      <li>Automated security analysis of hardware designs and implementation</li>
+      <li>Automated security analysis of source code and binaries</li>
+      <li>Program analysis</li>
+      <li>Fuzzing and Vulnerability Discovery</li>
+      <li>Formal methods for Security</li>
+    </ul>
+  </li>
+  <li>Machine learning security and privacy
+    <ul>
+      <li>Machine learning applications to security and privacy</li>
+      <li>Machine learning privacy issues and methods</li>
+      <li>Adversarial machine learning</li>
+    </ul>
+  </li>
+  <li>Data-driven security and measurement studies
+    <ul>
+      <li>Measurements of fraud, malware, spam</li>
+      <li>Measurements of human behavior and security</li>
+    </ul>
+  </li>
+  <li>Privacy
+    <ul>
+      <li>Privacy metrics</li>
+      <li>Anonymity</li>
+      <li>Web and mobile privacy</li>
+      <li>Privacy-preserving computation</li>
+      <li>Privacy attacks</li>
+    </ul>
+  </li>
+  <li>Usable security and privacy
+    <ul>
+      <li>User studies related to security and privacy</li>
+      <li>Human-centered security and privacy design</li>
+    </ul>
+  </li>
+  <li>Language-based security</li>
+  <li>Hardware security
+    <ul>
+      <li>Secure computer architectures</li>
+      <li>Embedded systems security</li>
+      <li>Cyber-physical systems security</li>
+      <li>Methods for detection of malicious or counterfeit hardware</li>
+      <li>Side channels</li>
+    </ul>
+  </li>
+  <li>Research on surveillance and censorship</li>
+  <li>Social issues and security
+    <ul>
+      <li>Research on computer security law and policy</li>
+      <li>Ethics of computer security research</li>
+      <li>Research on security education and training</li>
+      <li>Information manipulation, misinformation, and disinformation</li>
+      <li>Protecting and understanding at-risk users</li>
+      <li>Emerging threats, harassment, extremism, and online abuse</li>
+    </ul>
+  </li>
+  <li>Applications of cryptography
+    <ul>
+      <li>Analysis of deployed cryptography and cryptographic protocols</li>
+      <li>Cryptographic implementation analysis</li>
+      <li>New cryptographic protocols with real-world applications</li>
+      <li>Blockchains and distributed ledger security</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="organizers">Organizers</h1>
+
+<h2 id="workshop-co-chairs">Workshop Co-Chairs</h2>
+
+<ul>
+  <li>
+    <p>Xia Feng, <em>Sichuan University</em></p>
+  </li>
+  <li>
+    <p>Ao Pu, <em>Sichuan University</em></p>
+  </li>
+</ul>
+
+<h2 id="workshop-vice-co-chairs">Workshop Vice Co-Chairs</h2>
+
+<ul>
+  <li>Yuhan Zhang, <em>Sichuan University</em></li>
+</ul>
+:ET

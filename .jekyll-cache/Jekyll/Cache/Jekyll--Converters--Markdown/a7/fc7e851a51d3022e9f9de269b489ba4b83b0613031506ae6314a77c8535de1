@@ -1,0 +1,180 @@
+I"H!<h1 id="call-for-paper">call for paper</h1>
+
+<p>Cloud computing has been widely used in various fields, including medical, education, government agencies, commercial companies, etc. At the same time, with its flexible scaling, resource pooling and other characteristics, many other forms of network are also using the cloud to improve their processing ability. Cloud computing also provides platform and computing support for the current massive data processing. Attack and protection against cloud has become an important part of network security.</p>
+
+<p>The focus of this workshop is the research on cloud computing security, including the security of network system in the cloud, virtualization security, trusted cloud, cloud platform intrusion detection and anomaly detection, cloud native security, disaster recovery backup and chaos engineering, and big data privacy security. If you are as interested in the above questions as we are, you are welcome to contribute.</p>
+
+<p>Topics of interest include (but not limited to) the following areas:</p>
+
+<p><strong>Cloud Security</strong></p>
+<blockquote>
+  <ul>
+    <li>Virtualization security</li>
+    <li>Cloud native security</li>
+    <li>Container security</li>
+    <li>Automated Security Baseline</li>
+    <li>Automatic operation and maintenance</li>
+    <li>Cloud-based multi-party collaborative computing</li>
+    <li>Cloud platform anomaly detection</li>
+    <li>Cloud detection</li>
+    <li>Mirror security</li>
+    <li>Cloud migration security</li>
+    <li>Cloud access control</li>
+    <li>Tenant isolation security</li>
+    <li>Situational awareness and risk assessment</li>
+    <li>Fault localization and cause analysis</li>
+    <li>Social clouds</li>
+    <li>Resource allocation and support</li>
+    <li>Attack paths in cloud environment</li>
+    <li>Hybrid-clouds &amp; multi-clouds integration</li>
+    <li>Cloud platform operating status monitoring</li>
+    <li>Disaster recovery backup</li>
+    <li>The cost efficiency of storage in the cloud</li>
+    <li>The reliability of DR environment</li>
+    <li>The security of the secondary site</li>
+    <li>High availability</li>
+  </ul>
+</blockquote>
+
+<p><strong>Software Defined Network</strong></p>
+<blockquote>
+  <ul>
+    <li>SDN Access Control Mechanisms</li>
+    <li>SDN Application Security</li>
+    <li>Application risks in the SDN control layer</li>
+    <li>Risk of application configuration at SDN control layer</li>
+    <li>SDN-based DDoS Attack Defense System</li>
+    <li>Challenges of SDN Distributed Control Layer</li>
+    <li>SDN southbound &amp; northbound interfaces Security</li>
+    <li>Design and implementation of northbound interface of transport-SDN</li>
+    <li>Detection and Defense against Timing-based Side Channel Attacks in SDN</li>
+  </ul>
+</blockquote>
+
+<p><strong>Network System Security</strong></p>
+<blockquote>
+  <ul>
+    <li>Secure communication protocol</li>
+    <li>Boundary protection</li>
+    <li>Cognitive Security</li>
+    <li>Cyber-attacks Cloud-oriented vs Cyber defense Cloud-oriented</li>
+    <li>Data Center Network Control, Security and Optimization</li>
+    <li>Designing a Security Policy</li>
+    <li>Hardware-Based Attacks</li>
+    <li>Network security design</li>
+    <li>Security in Fog/edge Computing</li>
+    <li>Blockchain security</li>
+    <li>Cyber attack prevention, detection, investigation, and response</li>
+    <li>Cyber-crime defense and forensics</li>
+    <li>Engineering issues of cryptographic protocols and security systems</li>
+  </ul>
+</blockquote>
+
+<p><strong>Chaos Engineering</strong></p>
+<blockquote>
+  <ul>
+    <li>Design of large-scale exercises</li>
+    <li>Simulation of benign or malicious users</li>
+    <li>Event monitoring and evaluation</li>
+    <li>Data management</li>
+    <li>Automated machine configuration and deployment</li>
+    <li>Applications to test cyber security properties</li>
+    <li>Security and privacy challenges</li>
+    <li>Human factors in training and exercises</li>
+    <li>Event operating environments and scenarios modelling</li>
+    <li>Simulation of tools and components from various systems</li>
+  </ul>
+</blockquote>
+
+<p><strong>Network Intrusion Detection</strong></p>
+<blockquote>
+  <ul>
+    <li>User behavior analysis and exception discovery</li>
+    <li>Network traffic monitoring and situation awareness</li>
+    <li>Communication behavior analysis and threat identification</li>
+    <li>Machine learning and network security</li>
+    <li>Feature extraction and recognition of encrypted traffic</li>
+    <li>Tracing and positioning of network attack</li>
+    <li>Small sample attack feature extraction and detection</li>
+    <li>Host behavior analysis and anomaly detection</li>
+    <li>Unknown attack detection</li>
+  </ul>
+</blockquote>
+
+<p><strong>Trusted Cloud</strong></p>
+<blockquote>
+  <ul>
+    <li>Trust chain of trusted system</li>
+    <li>Trusted measurement mechanism</li>
+    <li>Trust construction of trusted terminal</li>
+    <li>Remote proof</li>
+    <li>Trusted network connection</li>
+    <li>Trusted computing applications</li>
+    <li>Trusted computing evaluation</li>
+    <li>Virtual machine trusted operating environment</li>
+    <li>Remote verification and management of trusted virtual machine</li>
+    <li>Trustworthy Computing software and hardware to secure networks and systems</li>
+  </ul>
+</blockquote>
+
+<p><strong>Big Data and Data Security</strong></p>
+<blockquote>
+  <ul>
+    <li>Privacy issues and privacy protection technology</li>
+    <li>Big Data Techniques, models and algorithms</li>
+    <li>Big Data Infrastructure, platform and frameworks</li>
+    <li>Big Data Search and Mining</li>
+    <li>Big Data Security, Privacy and Trust</li>
+    <li>Big Data Applications</li>
+    <li>Machine Learning and AI for Big Data</li>
+    <li>Big Data Analytics and Social Media</li>
+    <li>Cloud and grid computing for Big Data</li>
+    <li>Big Data Tools and systems</li>
+    <li>Numerical and Scientific Computation</li>
+    <li>Data partitioning and resampling</li>
+    <li>Statistical models and data fitting</li>
+    <li>Clustering and classification</li>
+    <li>High-dimensional data analysis</li>
+    <li>Functional data analysis</li>
+    <li>Parametric and semi parametric models</li>
+    <li>Robust statistics</li>
+    <li>Symbolic data analysis</li>
+    <li>Time series analysis</li>
+    <li>Deduplication for cloud backup services</li>
+    <li>Data reduction and encryption of personal data in cloud backup services</li>
+  </ul>
+</blockquote>
+
+<h2 id="manuscript-guidelines-and-submission-information">Manuscript guidelines and submission information</h2>
+<p>Language: English or Chinese</p>
+
+<p>Paper size : A4, 3-4pages without references</p>
+
+<p>Paper format:</p>
+<ul>
+  <li>English paper use IEEE format(you can get it from https://www.ieee.org/conferences/publishing/templates.html)</li>
+  <li>中文投稿使用四川大学学报工程科学版模板(你可以从下方链接获取 http://jsuese.ijournals.cn/uploadfile/news_images/jsuese_cn/2021-03-04/%E3%80%8A%E5%B7%A5%E7%A8%8B%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E3%80%8B%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF%E6%A8%A1%E6%9D%BF.doc)</li>
+</ul>
+
+<p>Anonymous Submissions: We implement a double-blind reviewing process. Author names and affiliations should not appear in the paper. The authors should make a reasonable effort not to reveal their identities of institutional affiliations in the text, figures, photos, links, or other data that is contained in the paper. Authors’ prior work should be preferably referred to in the third person; if this is not feasible, the references should be blinded. Submissions that violate these requirements will be rejected without review. The list of authors cannot be changed after the acceptance decision is made unless approved by the Program Chairs.</p>
+
+<p>All submitted manuscripts will be peer-reviewed by at least three members of the program committee.</p>
+
+<h2 id="submission">Submission:</h2>
+<p>Please send your paper to 2020226240026@stu.scu.edu.cn</p>
+
+<h2 id="important-dates">Important dates:</h2>
+<p>Submission deadline: June 25,2021,23:29:29 UTC+8</p>
+
+<p>Notification: July 12,2021</p>
+
+<p>Workshop date: July 19,2021</p>
+
+<h2 id="editorial-board-members">Editorial Board Members</h2>
+<h4 id="dengzhe-wang">Dengzhe Wang</h4>
+<p>Sichuan University,Chengdu,China</p>
+<h4 id="shengkai-wang">Shengkai Wang</h4>
+<p>Sichuan University,Chengdu,China</p>
+<h4 id="ping-wang">Ping Wang</h4>
+<p>Sichuan University,Chengdu,China</p>
+:ET

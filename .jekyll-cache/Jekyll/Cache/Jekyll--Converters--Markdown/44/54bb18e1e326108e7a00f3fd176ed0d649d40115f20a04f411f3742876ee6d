@@ -1,0 +1,119 @@
+I"Æ<h1 id="call-for-papers">Call for Papers</h1>
+
+<h2 id="nlpei-2025">NLPEI 2025</h2>
+
+<p>With the rapid evolution of Natural Language Processing technologies, this workshop aims to bring together researchers and practitioners to explore cutting-edge advancements, address emerging challenges, and foster interdisciplinary collaborations. We particularly encourage submissions focusing on real-world applications and ethical considerations in NLP systems.</p>
+
+<h2 id="key-topics">Key Topics</h2>
+
+<h3 id="core-technical-areas">Core Technical Areas</h3>
+
+<ol>
+  <li><strong>Large Language Models (LLMs)</strong>
+    <ul>
+      <li>Architecture optimization</li>
+      <li>Efficient fine-tuning strategies</li>
+      <li>Multimodal integration</li>
+    </ul>
+  </li>
+  <li><strong>Low-resource NLP</strong>
+    <ul>
+      <li>Cross-lingual transfer learning</li>
+      <li>Zero-shot/few-shot learning</li>
+      <li>Indigenous language processing</li>
+    </ul>
+  </li>
+  <li><strong>Interpretability &amp; Ethics</strong>
+    <ul>
+      <li>Model explainability frameworks</li>
+      <li>Bias detection and mitigation</li>
+      <li>Environmental impact assessment</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="emerging-applications">Emerging Applications</h3>
+
+<ul>
+  <li>AI-aided education systems</li>
+  <li>Legal document analysis</li>
+  <li>Mental health monitoring</li>
+  <li>Cross-cultural communication tools</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paper Submission Deadline</td>
+      <td>October 15, 2025</td>
+    </tr>
+    <tr>
+      <td>Acceptance Notification</td>
+      <td>November 20, 2025</td>
+    </tr>
+    <tr>
+      <td>Camera-ready Deadline</td>
+      <td>December 10, 2025</td>
+    </tr>
+    <tr>
+      <td>Workshop Date</td>
+      <td>January 25, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<h3 id="format-requirements">Format Requirements</h3>
+
+<ul>
+  <li>Use ACL 2024 style templates</li>
+  <li>Page limits:
+    <ul>
+      <li>Full papers: 8 pages + references</li>
+      <li>Short papers: 4 pages + references</li>
+      <li>Demo papers: 2 pages + references</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="submission-system">Submission System</h3>
+
+<p>All submissions should be made through OpenReview:<br />
+<a href="https://openreview.net/group?id=NLPEI/2024/Workshop">https://openreview.net/group?id=NLPEI/2024/Workshop</a></p>
+
+<h2 id="special-features">Special Features</h2>
+
+<ol>
+  <li><strong>Multilingual Support</strong>
+    <ul>
+      <li>Dedicated session for Chinese NLP research</li>
+      <li>Bilingual review process (Chinese/English)</li>
+    </ul>
+  </li>
+  <li><strong>Early-career Researcher Support</strong>
+    <ul>
+      <li>Mentorship program with senior researchers</li>
+      <li>Best student paper awards (3 categories)</li>
+    </ul>
+  </li>
+  <li><strong>Industry Collaboration</strong>
+    <ul>
+      <li>Shared task on real-world datasets</li>
+      <li>Panel discussion with tech leaders</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="contact-information">Contact Information</h2>
+
+<p>Email: <a href="mailto:xxxx@scu.edu.cn">xxxx@scu.edu.cn</a></p>
+:ET

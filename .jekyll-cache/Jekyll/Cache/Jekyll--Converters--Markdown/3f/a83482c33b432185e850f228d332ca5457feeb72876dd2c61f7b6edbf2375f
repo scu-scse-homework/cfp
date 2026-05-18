@@ -1,0 +1,123 @@
+I"<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>We are pleased to invite researchers, practitioners, and experts from academia and industry to submit original research papers for the 2025 Conference on Computer Immunology and Network Security (CINS). The conference seeks novel contributions related to computer security, privacy, and resilience, with a specific focus on the intersection of cybersecurity and computational immunology. We encourage submissions that explore innovative techniques, theories, and applications in this emerging field. Papers should provide valuable insights into how immunological principles can inspire new security paradigms and solutions to combat evolving cyber threats.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>We welcome submissions on a wide range of topics within the field of computer security and computational immunology, including but not limited to:</p>
+
+<ul>
+  <li><strong>Computer Immunology</strong>
+    <ul>
+      <li>Immunological models for network and system defense</li>
+      <li>Bio-inspired methods for malware detection and prevention</li>
+      <li>Immunological algorithms for adaptive threat detection</li>
+      <li>Self-healing and immune system-inspired security architectures</li>
+      <li>Mathematical models and simulations of immune-inspired security mechanisms</li>
+    </ul>
+  </li>
+  <li><strong>Network Security</strong>
+    <ul>
+      <li>Secure network protocols and communication</li>
+      <li>Attack detection, mitigation, and prevention techniques</li>
+      <li>Intrusion detection and response systems</li>
+      <li>Security of cloud computing, IoT, and other distributed systems</li>
+      <li>Secure software engineering practices for robust networks</li>
+    </ul>
+  </li>
+  <li><strong>Privacy and Data Protection</strong>
+    <ul>
+      <li>Privacy-preserving algorithms and techniques</li>
+      <li>Data anonymization and obfuscation methods</li>
+      <li>Secure data sharing and storage mechanisms</li>
+      <li>Cryptography for privacy in networked systems</li>
+    </ul>
+  </li>
+  <li><strong>Artificial Intelligence and Machine Learning for Security</strong>
+    <ul>
+      <li>AI/ML techniques for intrusion detection and anomaly detection</li>
+      <li>Immunity-based AI models for threat intelligence and prediction</li>
+      <li>Reinforcement learning for adaptive defense mechanisms</li>
+      <li>Explainable AI in the context of cybersecurity</li>
+    </ul>
+  </li>
+  <li><strong>Ethical, Legal, and Social Aspects of Cybersecurity</strong>
+    <ul>
+      <li>Ethical issues in the application of computer immunology</li>
+      <li>Regulatory frameworks for cybersecurity in emerging technologies</li>
+      <li>The role of cybersecurity in societal resilience</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<ul>
+  <li><strong>Originality</strong>: All submissions must be original and not published or under review elsewhere.</li>
+  <li><strong>Format</strong>: Papers should be submitted in PDF format,(maximum 12 pages, including references and appendices). Submissions should be properly anonymized, with authors’ identities hidden during the review process.</li>
+  <li><strong>Artifact Submission</strong>: Authors may submit artifacts (e.g., code, datasets, models) along with their paper. If the paper’s contributions rely on these artifacts, they should be accessible to reviewers.</li>
+  <li><strong>Review Process</strong>: All papers will be peer-reviewed, and acceptance will be based on their novelty, relevance, clarity, quality of execution, and potential impact on the field.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li><strong>Abstract Submission Deadline</strong>: May 10, 2025</li>
+  <li><strong>Full Paper Submission Deadline</strong>: May 17, 2025</li>
+  <li><strong>Notification of Early Rejection</strong>: June 1, 2025</li>
+  <li><strong>Rebuttal Period</strong>: June 5–7, 2025</li>
+  <li><strong>Final Paper Submission Deadline</strong>: June 20, 2025</li>
+  <li><strong>Author Notification</strong>: July 1, 2025</li>
+  <li><strong>Conference Date</strong>: August 15–17, 2025</li>
+</ul>
+
+<h2 id="submission-site">Submission Site</h2>
+
+<p>Please submit your papers via the conference’s submission portal: [Link to Submission Site]</p>
+
+<h2 id="mandatory-reviewing">Mandatory Reviewing</h2>
+
+<p>Authors submitting more than 3 papers will be required to review other papers submitted to the conference. These authors will be asked to provide review preferences and complete an attestation on reviewing ethics. Authors failing to meet this requirement may have their papers rejected.</p>
+
+<h2 id="conference-tracks">Conference Tracks</h2>
+
+<p>The conference will feature several tracks, with each track focusing on a specific aspect of computer immunology and network security. At the time of submission, authors must select the track most relevant to their paper. The tracks will include:</p>
+
+<ul>
+  <li><strong>Immunology-Inspired Security Models</strong></li>
+  <li><strong>Network Defense Mechanisms and Secure Protocols</strong></li>
+  <li><strong>Machine Learning for Cyber Defense</strong></li>
+  <li><strong>Privacy and Data Protection</strong></li>
+  <li><strong>Ethical, Legal, and Societal Impacts of Cybersecurity</strong></li>
+</ul>
+
+<h2 id="artifact-evaluation">Artifact Evaluation</h2>
+
+<p>In line with efforts to improve reproducibility, we will offer an optional artifact evaluation (AE) process for accepted papers. Authors will be encouraged to submit their experimental artifacts (e.g., code, data) to be reviewed by the Artifact Evaluation Committee (AEC). This will help ensure that the contributions can be validated and reproduced by the broader community.</p>
+
+<h2 id="conflict-of-interest">Conflict of Interest</h2>
+
+<p>All authors must disclose any conflicts of interest with members of the program committee. Conflicts include, but are not limited to, current or former advisors, co-authors within the past two years, and close personal or professional relationships. The program chairs reserve the right to exclude any paper with unreported conflicts of interest from review.</p>
+
+<h2 id="diversity-and-inclusion">Diversity and Inclusion</h2>
+
+<p>The Conference on Computer Immunology and Network Security is committed to fostering diversity and inclusion. We encourage authors, reviewers, and attendees to be mindful of the language and examples used in submissions, ensuring they do not perpetuate bias or exclusion of underrepresented groups. We value diversity in all its forms and believe it enhances the overall quality and impact of research.</p>
+
+<h2 id="conference-chair-and-organizers">Conference Chair and Organizers</h2>
+
+<ul>
+  <li><strong>Conference Chair</strong>:
+    <ul>
+      <li>ChenYi Huang, Sichuan University, China</li>
+    </ul>
+  </li>
+  <li><strong>Program Chairs</strong>:
+    <ul>
+      <li>Jing Zhang, Sichuan University, China</li>
+      <li>Ming Gu, Sichuan University, China</li>
+    </ul>
+  </li>
+  <li><strong>Organizers</strong>: School of Cyberspace Security, Sichuan University.</li>
+</ul>
+
+:ET

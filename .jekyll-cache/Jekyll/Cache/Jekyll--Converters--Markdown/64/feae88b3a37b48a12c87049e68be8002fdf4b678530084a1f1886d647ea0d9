@@ -1,0 +1,51 @@
+I"w<h1 id="call-for-papers">Call For Papers</h1>
+<h2 id="cdbdr-2022">CDBDR 2022</h2>
+
+<p><em>China Chengdu</em>
+_The 1st Meeting of the Cloud Data Backup and Disaster Recovery
+ShuangLiu, ChengDu, April 4</p>
+
+<p>With the widespread popularity of the Internet, all walks of life have established their own portals and data centers to store large amounts of data. These important data determine the future development of the enterprise. Due to the increasing importance and societal value of digital data, data backup and disaster recovery/business continuity issues have become increasingly important. Cloud disaster recovery backup integrates cloud computing technology, cloud storage, and cloud disaster recovery features to truly ensure disaster recovery and efficient business continuity management.
+Consumers prefer to store large amounts of private data in the cloud. Unfortunately, if cloud corruption results in the loss of all important and private data, there should be some mechanism in place to back up the data and make it available in the event of cloud failure or data loss. To this end, many different method techniques have been proposed so far. The technical scope of this special issue includes, but is not limited to:</p>
+
+<ul>
+  <li>Fast backup data to the cloud</li>
+  <li>Business Continuity Plan (BCP)</li>
+  <li>Disaster Recovery Plan (DRP)</li>
+  <li>Achieving target recovery requirements in terms of cloud-based recovery time objective (RTO) and recovery point objective (RPO)</li>
+  <li>Deduplication of cloud backup data</li>
+  <li>Cloud storage system based on distributed storage system</li>
+  <li>Cloud backup data security issues</li>
+  <li>Data consistency problems during data transmission</li>
+  <li>Comparison of the performance of backup strategies such as full backup, incremental backup and differential backup in cloud environment</li>
+  <li>Cloud backup data management optimization</li>
+</ul>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+
+<p>CDBDR 2022 welcomes paper submissions. The submission methods are as follows:</p>
+
+<ul>
+  <li>Originality and copyrights：All submissions must be original works and have not been published or recorded in other publications or media. Contributors must obtain prior written authorization from the relevant person if they include any copyrighted material in their manuscript. The authors are solely responsible for the writing, and the opinions expressed by them do not represent the position of this seminar.</li>
+  <li>Authors’ information：Contributors, please list the information of all authors on the first page, including: name, title, affiliation, and contact information (such as address, contact number, fax number and email address, etc.).</li>
+  <li>Style and format：Manuscripts must be written in accordance with the publication guidelines established by CDBDR (Second Edition).</li>
+  <li>Language and length：Manuscripts must be written in English and should be between 5,000 and 7,000 words.</li>
+  <li>The abstract is about 150 to 200 words and should be placed at the beginning of the article. Keywords Up to 5 keywords, placed below the abstract. References are in accordance with the publication guidelines of CDBDR (Second Edition).</li>
+  <li>Submit documents as PDF</li>
+</ul>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<p>Submission Deadline: 10 May 2022, 5:00 pm US Eastern Time
+Decision Notification: 15 June 2022
+Final Version Due：June 30,2022</p>
+
+<h3 id="contact-information">Contact Information</h3>
+
+<p>Email: 1553057065@qq.com</p>
+
+<h3 id="organizing-committee">Organizing Committee</h3>
+
+<p>Cheng Zhiyuan (Sichuan University)
+Chen Hanlin (Sichuan University)</p>
+:ET

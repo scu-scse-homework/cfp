@@ -1,0 +1,227 @@
+I"�<<h1 id="call-for-papers-international-workshop-on-cybersecurity-and-trustworthy-artificial-intelligence-2026-cytai-2026">Call for Papers: International Workshop on Cybersecurity and Trustworthy Artificial Intelligence 2026 (CyTAI 2026)</h1>
+
+<h2 id="网络安全与可信人工智能国际研讨会--international-workshop">网络安全与可信人工智能国际研讨会 / International Workshop</h2>
+
+<p><strong>Dates:</strong> November 18–20, 2026<br />
+<strong>Location:</strong> Chengdu, Sichuan, China (hybrid: in-person sessions in Chengdu with remote participation encouraged)<br />
+<strong>Website:</strong> <code class="language-plaintext highlighter-rouge">https://cytai2026.example.org</code><br />
+<strong>Submission Site:</strong> <code class="language-plaintext highlighter-rouge">https://openreview.net/group?id=CyTAI/2026/Workshop</code> (placeholder)</p>
+
+<p>The <strong>International Workshop on Cybersecurity and Trustworthy Artificial Intelligence 2026 (CyTAI 2026)</strong> invites high-quality submissions on the foundations, systems, measurement, governance, and deployment of secure, reliable, and accountable AI technologies. CyTAI 2026 is a simulated international workshop intended for academic exercise and community planning; it does not represent or impersonate any existing conference. <strong>The in-person program hub will be hosted in Chengdu (Sichuan, China)</strong> to highlight regional cybersecurity and trustworthy-AI ecosystems in western China while remaining globally open online.</p>
+
+<p>Artificial intelligence is now embedded in security operations, software supply chains, identity systems, critical infrastructure, autonomous agents, and decision-making pipelines. At the same time, AI systems have introduced new attack surfaces: prompt injection, model theft, data poisoning, privacy leakage, tool misuse, insecure agentic workflows, and opaque deployment practices. CyTAI 2026 seeks work that treats cybersecurity and trustworthy AI as a coupled problem: AI must be secured, and security practice must be strengthened through responsibly designed AI.</p>
+
+<p>We welcome rigorous empirical studies, principled technical contributions, systems papers, measurement papers, negative results, reproducibility studies, and thoughtful position papers. Submissions should clearly state their threat model, assumptions, limitations, and ethical considerations.</p>
+
+<h2 id="组织者信息课程作业要求">组织者信息（课程作业要求）</h2>
+
+<p>本条对应课程作业文稿需写明的会务组织者信息:</p>
+
+<ul>
+  <li><strong>组织者:</strong> 黄楚锋</li>
+  <li><strong>学号:</strong> 2021xxxxxx225</li>
+  <li><strong>会务联系:</strong> pyuyi233@gmail.com</li>
+</ul>
+
+<h2 id="特邀报告与邀请主讲说明任选环节">特邀报告与邀请主讲说明（任选环节）</h2>
+
+<p>在完成征稿通知撰写的同步，<strong>有意承办会议组织工作的小组</strong>可参考真实会议的惯例，向本校或其它高校<strong>网络空间安全 / 人工智能等相关方向</strong>任课教师发出邀请，商请担任<strong>特邀报告（keynote 或教程式报告/tutorial）</strong>。本环节不以是否实际邀请到教师作为本次作业的硬性完成指标，仅用于体现会议筹办中的常见工作安排。</p>
+
+<hr />
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>CyTAI 2026 solicits papers including, but not limited to, the following areas:</p>
+
+<ul>
+  <li><strong>AI Security and Adversarial Machine Learning</strong>
+    <ul>
+      <li>Evasion, poisoning, backdoor, extraction, inversion, and membership inference attacks</li>
+      <li>Security evaluation of large language models, multimodal models, and foundation models</li>
+      <li>Robust training, certified defenses, red teaming, and attack benchmarking</li>
+      <li>Security of retrieval-augmented generation, tool-use agents, and autonomous workflows</li>
+    </ul>
+  </li>
+  <li><strong>Trustworthy AI Systems</strong>
+    <ul>
+      <li>Reliability, interpretability, accountability, and auditability of AI systems</li>
+      <li>Uncertainty estimation, calibration, monitoring, and failure detection</li>
+      <li>Model governance, provenance, lineage, and lifecycle risk management</li>
+      <li>Trust boundaries for AI-assisted decision systems in high-stakes domains</li>
+    </ul>
+  </li>
+  <li><strong>Cybersecurity with AI</strong>
+    <ul>
+      <li>AI-assisted vulnerability discovery, exploit analysis, and patch generation</li>
+      <li>Malware detection, phishing detection, intrusion detection, and threat intelligence</li>
+      <li>Secure software engineering with AI coding assistants</li>
+      <li>Human-AI collaboration in security operations centers</li>
+    </ul>
+  </li>
+  <li><strong>Privacy, Data Protection, and Confidential Computing</strong>
+    <ul>
+      <li>Privacy-preserving machine learning, federated learning, and secure aggregation</li>
+      <li>Differential privacy, synthetic data risks, and data minimization</li>
+      <li>Secure enclaves, confidential inference, and encrypted computation for AI</li>
+      <li>Privacy risks in model deployment, logging, telemetry, and user interaction traces</li>
+    </ul>
+  </li>
+  <li><strong>Systems, Infrastructure, and Supply Chain Security</strong>
+    <ul>
+      <li>Secure MLOps, model registries, dataset registries, and artifact signing</li>
+      <li>Supply chain risks in pretrained models, plugins, tools, and dependencies</li>
+      <li>Security of AI accelerators, edge AI, cloud inference, and distributed training</li>
+      <li>Incident response and forensic methods for AI-related security events</li>
+    </ul>
+  </li>
+  <li><strong>Policy, Ethics, and Societal Impacts</strong>
+    <ul>
+      <li>Responsible disclosure for AI vulnerabilities</li>
+      <li>Dual-use risk assessment and publication norms</li>
+      <li>Regulatory compliance, standards, and assurance cases</li>
+      <li>Fairness, accessibility, and harms in security-oriented AI systems</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="special-topic-tracks">Special Topic Tracks</h2>
+
+<p>CyTAI 2026 will include at least the following special tracks:</p>
+
+<h3 id="track-a-secure-agentic-ai-and-tool-using-models">Track A: Secure Agentic AI and Tool-Using Models</h3>
+
+<p>This track focuses on the security of AI systems that plan, call tools, browse repositories, operate computers, execute code, or interact with external APIs. Topics include prompt injection, sandboxing, permission models, agent memory risks, delegation safety, secure tool orchestration, and incident analysis for autonomous or semi-autonomous AI agents.</p>
+
+<h3 id="track-b-ai-for-critical-infrastructure-defense">Track B: AI for Critical Infrastructure Defense</h3>
+
+<p>This track focuses on AI-enabled security for energy systems, transportation, healthcare infrastructure, telecommunications, financial networks, and public-sector systems. Papers should address realistic deployment constraints, evaluation methodology, operator trust, resilience under attack, and safety-security interactions.</p>
+
+<h3 id="track-c-model-supply-chain-and-provenance">Track C: Model Supply Chain and Provenance</h3>
+
+<p>This optional special track welcomes work on dataset provenance, model signing, reproducible training, watermarking, SBOM-style documentation for AI artifacts, tamper detection, and verifiable lineage for models and inference services.</p>
+
+<h2 id="submission-categories">Submission Categories</h2>
+
+<p>Authors may submit to one of the following categories:</p>
+
+<ul>
+  <li><strong>Full Research Papers:</strong> Up to 12 pages, excluding references and appendices. Full papers should present mature, technically substantial contributions with clear evaluation.</li>
+  <li><strong>Short Papers:</strong> Up to 6 pages, excluding references and appendices. Short papers may present focused results, early findings, or compact system contributions.</li>
+  <li><strong>Poster and Demo Abstracts:</strong> Up to 2 pages. Suitable for prototypes, datasets, benchmarks, tools, or preliminary empirical findings.</li>
+  <li><strong>Position Papers:</strong> Up to 5 pages. Position papers should make a clear, well-argued claim about research direction, policy, methodology, or community practice.</li>
+  <li><strong>Reproducibility and Negative Results Papers:</strong> Up to 6 pages. Submissions may document failed replications, measurement pitfalls, benchmark limitations, or lessons from non-confirmatory results.</li>
+</ul>
+
+<p>Accepted full and short papers will be presented in oral or spotlight sessions. Posters, demos, and selected position papers will be presented in interactive sessions.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p>All deadlines are <strong>23:59 Anywhere on Earth (AoE)</strong>.</p>
+
+<ul>
+  <li><strong>Abstract Submission Deadline:</strong> July 24, 2026</li>
+  <li><strong>Full Paper Submission Deadline:</strong> July 31, 2026</li>
+  <li><strong>Poster, Demo, and Position Paper Deadline:</strong> August 14, 2026</li>
+  <li><strong>Author Rebuttal Period:</strong> September 18–22, 2026</li>
+  <li><strong>Acceptance Notification:</strong> October 2, 2026</li>
+  <li><strong>Camera-Ready Deadline:</strong> October 23, 2026</li>
+  <li><strong>Workshop Dates:</strong> November 18–20, 2026</li>
+</ul>
+
+<h2 id="formatting-requirements">Formatting Requirements</h2>
+
+<p>Submissions should use a <strong>recommended IEEE or ACM two-column conference template</strong> with 10-point font. Page limits apply to the main body and exclude references and clearly marked appendices. Reviewers are not required to read appendices; the main paper must be self-contained.</p>
+
+<p>Submissions must be in PDF format. Authors should avoid formatting tricks, including reduced margins, compressed spacing, unreadably small figures, or excessive use of appendices to bypass page limits. Papers that substantially violate formatting rules may be rejected without review.</p>
+
+<p>Where appropriate, authors are encouraged to include artifact availability statements, dataset documentation, code release plans, and reproducibility notes.</p>
+
+<h2 id="anonymous-review-policy">Anonymous Review Policy</h2>
+
+<p>CyTAI 2026 will use <strong>double-anonymous peer review</strong> for full papers, short papers, and position papers. Author names, affiliations, acknowledgments, and obvious identifying metadata must be removed from the submitted manuscript.</p>
+
+<p>Authors may cite their own prior work when necessary, but should do so in the third person where feasible. Public preprints are permitted, but authors should not take actions designed to reveal authorship to reviewers during the review period. Poster and demo abstracts may be reviewed single-anonymously at the discretion of the chairs.</p>
+
+<h2 id="ethics-and-conflicts-of-interest">Ethics and Conflicts of Interest</h2>
+
+<p>Submissions involving human subjects, user data, operational systems, malware, vulnerability discovery, or dual-use capabilities must include a clear ethics statement. Authors should describe data collection procedures, consent where applicable, institutional review status where applicable, safeguards, responsible disclosure steps, and potential misuse risks.</p>
+
+<p>Authors must declare conflicts of interest in the submission system. Conflicts include recent collaboration, institutional affiliation, advisor-advisee relationships, close personal relationships, financial interests, or other circumstances that could reasonably affect impartial review. Program committee members with conflicts will not access, discuss, or review conflicted submissions.</p>
+
+<p>CyTAI 2026 reserves the right to reject work that creates unacceptable risk, lacks appropriate authorization, violates privacy, or omits material ethical considerations.</p>
+
+<h2 id="submission-system">Submission System</h2>
+
+<p>Submissions should be uploaded through the CyTAI 2026 submission portal:</p>
+
+<p><code class="language-plaintext highlighter-rouge">https://openreview.net/group?id=CyTAI/2026/Workshop</code></p>
+
+<p>This URL is a placeholder for the simulated workshop. The submission system will collect paper metadata, topic areas, declared conflicts, artifact availability statements, and optional track selections.</p>
+
+<h2 id="program-committee-structure">Program Committee Structure</h2>
+
+<h3 id="general-chairs">General Chairs</h3>
+
+<ul>
+  <li><strong>Dr. Elena Marquez</strong>, Pacific Institute of Technology</li>
+  <li><strong>Prof. Wei-Chen Liu</strong>, National University of Singapore</li>
+</ul>
+
+<h3 id="program-chairs">Program Chairs</h3>
+
+<ul>
+  <li><strong>Dr. Priya Raman</strong>, University of Edinburgh</li>
+  <li><strong>Prof. Daniel Hartmann</strong>, Technical University of Munich</li>
+  <li><strong>Dr. Michael Okafor</strong>, University of Toronto</li>
+</ul>
+
+<h3 id="special-track-chairs">Special Track Chairs</h3>
+
+<ul>
+  <li><strong>Secure Agentic AI:</strong> Dr. Hannah Kwon, Seoul Advanced Institute of Science and Technology</li>
+  <li><strong>Critical Infrastructure Defense:</strong> Prof. Omar El-Sayed, Delft Cyber Systems Lab</li>
+  <li><strong>Model Supply Chain and Provenance:</strong> Dr. Clara Jensen, Nordic Center for Secure AI</li>
+</ul>
+
+<h3 id="steering-and-ethics-advisory-committee">Steering and Ethics Advisory Committee</h3>
+
+<ul>
+  <li><strong>Prof. Nadia Petrova</strong>, University of Amsterdam</li>
+  <li><strong>Dr. Samuel Brooks</strong>, Center for Responsible Computing</li>
+  <li><strong>Prof. Linh Tran</strong>, Melbourne Institute for Digital Trust</li>
+</ul>
+
+<h3 id="technical-program-committee">Technical Program Committee</h3>
+
+<ul>
+  <li>Aisha Benali, University of Montreal</li>
+  <li>Marco Feld, ETH Zurich</li>
+  <li>Yuki Nakamura, Kyoto Institute of Technology</li>
+  <li>Sofia Almeida, University of Lisbon</li>
+  <li>Arjun Mehta, Indian Institute of Science</li>
+  <li>Grace Osei, University of Cape Town</li>
+  <li>Leo Schneider, CISPA Helmholtz Center for Information Security</li>
+  <li>Mei Zhang, Tsinghua University</li>
+  <li>Victor Chen, Georgia Institute of Technology</li>
+  <li>Sara Lindholm, KTH Royal Institute of Technology</li>
+  <li>Fatima Al-Karim, Qatar Computing Research Institute</li>
+  <li>Jonas Becker, University of Stuttgart</li>
+  <li>Irene Castillo, Universidad Politécnica de Madrid</li>
+  <li>Thomas Reed, Northeastern University</li>
+  <li>Min-seo Park, Korea University</li>
+  <li>Beatrice Rossi, University of Bologna</li>
+</ul>
+
+<h2 id="diversity-equity-and-inclusion-statement">Diversity, Equity, and Inclusion Statement</h2>
+
+<p>CyTAI 2026 is committed to fostering an inclusive research environment. We welcome participation from researchers across regions, career stages, disciplines, institutions, and backgrounds. The workshop encourages submissions from underrepresented communities and from authors whose work bridges technical, social, legal, and operational perspectives.</p>
+
+<p>The organizing committee will seek diversity in invited speakers, session chairs, reviewers, and panel participants. Harassment, discrimination, intimidation, and exclusionary conduct are incompatible with the goals of the workshop.</p>
+
+<h2 id="contact">Contact</h2>
+
+<p>For questions about scope, submissions, conflicts, accessibility, special tracks, or submission-system issues, please contact:</p>
+
+<p><strong>CyTAI 2026 Organizing Liaison</strong><br />
+<code class="language-plaintext highlighter-rouge">pyuyi233@gmail.com</code></p>
+:ET

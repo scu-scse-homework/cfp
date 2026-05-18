@@ -1,0 +1,129 @@
+I"�(<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>We cordially invite the global research community in artificial intelligence and cybersecurity to submit their most original and impactful work to the <strong>1st International Conference on Artificial Intelligence and Cybersecurity (ICAIC-2026)</strong>, to be held from <strong>July 10 to 15, 2026</strong>, in <strong>Chengdu, China</strong>, a city known for its vibrant culture, strong digital economy, and rapidly expanding technological innovation ecosystem.</p>
+
+<p>Artificial intelligence is reshaping the landscape of cybersecurity at an unprecedented speed. With the rapid development of machine learning, deep learning, large language models, generative AI, and intelligent automation, AI technologies are increasingly applied to intrusion detection, malware analysis, vulnerability discovery, threat intelligence, and security risk assessment. At the same time, the growing use of AI also introduces new security challenges, including adversarial attacks, data poisoning, model theft, privacy leakage, algorithmic bias, and the malicious use of generative AI.</p>
+
+<p>ICAIC-2026 aims to bring together researchers, developers, cybersecurity experts, and industry practitioners from around the world to explore the latest breakthroughs, practical applications, and future directions at the intersection of artificial intelligence and cybersecurity. The conference seeks to promote the integration of intelligent technologies with secure and trustworthy digital infrastructure.</p>
+
+<p>The conference will be held in person. We welcome high-quality submissions across all areas related to AI and cybersecurity. All papers will undergo a <strong>double-blind peer review</strong> process, with evaluation criteria including <strong>originality, technical depth, practical relevance, reproducibility, and academic contribution</strong>. Accepted papers will be presented either as <strong>oral presentations</strong> or <strong>poster/focus sessions</strong>. Presentation format is not indicative of scientific merit and will be scheduled based on program logistics.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>We welcome submissions in all areas of artificial intelligence and cybersecurity, and especially encourage work that aligns with the following key tracks and their subthemes:</p>
+
+<p><strong>AI-Driven Cybersecurity</strong></p>
+
+<ul>
+  <li>Machine learning for intrusion detection and prevention</li>
+  <li>Deep learning for malware detection and classification</li>
+  <li>AI for network traffic analysis and anomaly detection</li>
+  <li>AI-based phishing, spam, and fraud detection</li>
+  <li>Edge computing and IoT security</li>
+  <li>Intelligent threat intelligence and security analytics</li>
+  <li>Automated vulnerability discovery and risk assessment</li>
+</ul>
+
+<p><strong>Security and Trustworthiness of AI Systems</strong></p>
+
+<ul>
+  <li>Adversarial attacks and defenses</li>
+  <li>Data poisoning and backdoor attacks</li>
+  <li>Model stealing, model inversion, and membership inference attacks</li>
+  <li>Privacy-preserving machine learning</li>
+  <li>Robustness, fairness, and explainability of AI models</li>
+</ul>
+
+<p><strong>Emerging Topics in AI and Cybersecurity</strong></p>
+
+<ul>
+  <li>Security risks of large language models and generative AI</li>
+  <li>Misuse prevention and detection for AIGC technologies</li>
+  <li>AI for digital forensics and incident response</li>
+  <li>Ethical, legal, and social issues in AI security</li>
+  <li>Secure and trustworthy autonomous agents</li>
+</ul>
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<p>The review process will be double-blind. The authors must remove their names and affiliations in the submitted document.</p>
+
+<ul>
+  <li><strong>Language and Format:</strong> All submissions must be written in English and formatted according to the IEEE LaTeX template for double-blind review. The main body of the paper is limited to 5 pages, with a maximum of 1 additional page permitted for references.</li>
+  <li><strong>Typesetting:</strong> Excessive use of typesetting tricks to fit content is not permitted. Do not modify the style files or layout parameters.</li>
+  <li><strong>Abstract Registration:</strong> Registering an abstract, around 100–300 words in plain text, is required in advance of the paper submission deadline. Authors will be asked to provide additional information, such as keywords, at that time.</li>
+  <li><strong>Submission Website:</strong> Please submit your paper via <strong>ICAIC-2026</strong>.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li><strong>Submission Site Opens:</strong> Monday, May 11, 2026</li>
+  <li><strong>Paper Submission Deadline:</strong> Friday, May 29, 2026</li>
+  <li><strong>Rebuttal Period:</strong> Tuesday–Thursday, June 23–25, 2026, 72 hours</li>
+  <li><strong>Author Notification:</strong> Friday, July 10, 2026</li>
+  <li><strong>Early Registration Deadline:</strong> TBC</li>
+</ul>
+
+<p>All deadlines are <strong>11:59 PM AoE</strong>, Anywhere on Earth, UTC-12, on the date specified.</p>
+
+<p><strong>Note:</strong> Requests to formally withdraw a paper from review may take up to one week to process and may not be accommodated if received after June 25, 2025.</p>
+
+<h2 id="supplementary-material">Supplementary Material</h2>
+
+<p>Authors may accompany their submission with supplementary material, such as technical appendix, code, datasets, experimental logs, or security analysis reports, up to 50 MB.</p>
+
+<ul>
+  <li><strong>Important:</strong> Supplementary material is optional and will be reviewed at the discretion of reviewers.</li>
+  <li><strong>Anonymity:</strong> Authors must ensure that the supplementary material does not compromise the anonymity of their submission.</li>
+  <li><strong>Availability:</strong> Accepted papers should make supplementary material available in archival form, such as via Zenodo, GitHub, or arXiv, and reference it in the camera-ready version where appropriate.</li>
+</ul>
+
+<h2 id="resubmission-from-other-conferences">Resubmission from Other Conferences</h2>
+
+<p>If your paper was previously rejected from another conference with archival proceedings and double-blind review within the last 12 months, you may supplement your submission with a single PDF document containing:</p>
+
+<ul>
+  <li>A cover letter, up to 1 page, summarizing your response to the previous reviews and improvements made.</li>
+  <li>All anonymised reviews, including any meta-review. A screenshot from the submission system is acceptable.</li>
+  <li>An unedited copy of the earlier submission.</li>
+</ul>
+
+<p>This is voluntary and intended to help reviewers appreciate the improvements made.</p>
+
+<h2 id="ethics-statement">Ethics Statement</h2>
+
+<p>Research reported at ICAIC-2026 should avoid harm, be honest and trustworthy, fair and non-discriminatory, and respect privacy, security, and intellectual property. Where relevant, authors should include in the main body of their paper, or on the reference page, a short ethics statement that addresses ethical issues regarding the research and its broader impact.</p>
+
+<p>For research involving cybersecurity experiments, vulnerability analysis, attack simulation, malware detection, or generative AI misuse, authors should clearly explain how potential risks are mitigated and how responsible disclosure principles are followed.</p>
+
+<p>Reviewers will flag possible violations of ethical principles, and such submissions will be reviewed by a senior member of the programme committee. Authors may be asked to revise their paper to include discussions of potential ethical concerns and their mitigations.</p>
+
+<h2 id="policies">Policies</h2>
+
+<p>By submitting to ICAIC-2026, you confirm that you agree to the following policies:</p>
+
+<ul>
+  <li><strong>Originality:</strong> Submissions must not have substantial overlap with work previously accepted as a full paper in another archival forum. Workshops without archival proceedings and preprints are acceptable.</li>
+  <li><strong>Concurrent Submission:</strong> Work submitted must not be under review elsewhere between submission and notification.</li>
+  <li><strong>Anonymity:</strong> Maintain double-blind review standards by removing any identifying information from the submission.</li>
+  <li><strong>Links:</strong> Do not include pointers to supplementary material on the web that cannot be guaranteed unaltered during the review process.</li>
+  <li><strong>Social Media:</strong> Actively promoting a submission on social media during the review period is discouraged.</li>
+  <li><strong>Reproducibility:</strong> Submit relevant code, data, experimental settings, and evaluation scripts as supplementary material where feasible.</li>
+  <li><strong>Confidentiality:</strong> Submissions, including author information and reviews, will be treated confidentially. However, they may be shared with organisers of other AI or cybersecurity conferences to prevent duplicate submissions.</li>
+  <li><strong>Abstract Integrity:</strong> Abstracts must not be significantly altered after submission.</li>
+  <li><strong>Authorship:</strong> Only individuals who have made significant contributions should be listed as authors. Author order cannot be changed after submission.</li>
+  <li><strong>Submission Limit:</strong> No individual may be listed as an author on more than 8 submissions to ICAIC-2026.</li>
+  <li><strong>Generative AI:</strong> The use of AI systems to generate text is allowed only if properly documented. Assistance with polishing human-authored text is permissible.</li>
+  <li><strong>Security Responsibility:</strong> Submissions must not include harmful executable code, undisclosed exploit details, or instructions that could enable real-world cyber abuse unless appropriately anonymised, contained, and justified for research purposes.</li>
+  <li><strong>Attendance:</strong> At least one author of each accepted paper must register and intend to present the paper.</li>
+  <li><strong>Reviewing:</strong> Authors may be asked to help with reviewing papers for ICAIC-2026. Waivers may be granted in exceptional circumstances.</li>
+</ul>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li><strong>Workshop Co-Chairs:</strong> Yiran Li, Junxiang Wang, Yu Lu</li>
+  <li>For inquiries, please contact us at <strong>xxxxx@icaic2026.org</strong> or visit the FAQ page.</li>
+</ul>
+:ET

@@ -1,0 +1,178 @@
+I"�'<h1 id="call-for-papers-workshop-on-adversarial-robustness-and-ai-safety-aras-2026">Call for Papers: Workshop on Adversarial Robustness and AI Safety (ARAS 2026)</h1>
+
+<h2 id="workshop-overview">Workshop Overview</h2>
+
+<p>The rapid proliferation of machine learning systems — from image classifiers and large language models to autonomous decision-making agents — has introduced a new class of security vulnerabilities that classical security research is only beginning to address. Adversarial attacks can cause a stop-sign classifier to misread a speed limit, a content moderation system to approve harmful material, or a safety-aligned language model to produce outputs its designers explicitly forbade. These are not hypothetical concerns: they reflect fundamental tensions between the statistical nature of learned models and the deterministic guarantees that security requires.</p>
+
+<p>The <strong>Workshop on Adversarial Robustness and AI Safety (ARAS 2026)</strong> provides a dedicated venue for researchers working at the intersection of machine learning and security. We welcome work that studies how AI systems fail under adversarial conditions, develops principled defenses, characterizes the theoretical limits of robustness, and examines the broader safety implications of deploying AI in high-stakes environments. The workshop deliberately bridges the ML-security community divide: submissions grounded in either tradition are equally welcome, provided they engage seriously with both.</p>
+
+<p>ARAS 2026 will be held at Sichuan University, Chengdu, China, in the summer of 2026.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>We invite original research contributions on all aspects of adversarial robustness and AI safety, including but not limited to:</p>
+
+<h3 id="1-adversarial-examples-and-evasion-attacks">1. Adversarial Examples and Evasion Attacks</h3>
+
+<ul>
+  <li>Gradient-based adversarial attacks (FGSM, PGD, C&amp;W, AutoAttack, etc.)</li>
+  <li>Black-box and query-efficient adversarial attacks</li>
+  <li>Physical-world adversarial examples (patches, wearables, lighting)</li>
+  <li>Adversarial attacks in the frequency domain and feature space</li>
+  <li>Transferability of adversarial perturbations across models</li>
+  <li>Certified and empirical robustness evaluation methodologies</li>
+</ul>
+
+<h3 id="2-backdoor-attacks-and-data-poisoning">2. Backdoor Attacks and Data Poisoning</h3>
+
+<ul>
+  <li>Trigger-based backdoor injection in training data</li>
+  <li>Clean-label and invisible backdoor attacks</li>
+  <li>Backdoor attacks on federated learning systems</li>
+  <li>Poisoning attacks against recommender systems and graph neural networks</li>
+  <li>Detection and mitigation of backdoor threats</li>
+  <li>Supply chain risks in pre-trained model ecosystems</li>
+</ul>
+
+<h3 id="3-model-stealing-and-intellectual-property">3. Model Stealing and Intellectual Property</h3>
+
+<ul>
+  <li>Model extraction via black-box query interfaces</li>
+  <li>Membership inference and training data reconstruction</li>
+  <li>Watermarking and fingerprinting of ML models</li>
+  <li>Defenses against intellectual property theft in ML-as-a-service</li>
+  <li>Privacy risks in model outputs and explanations</li>
+</ul>
+
+<h3 id="4-safety-and-alignment-of-large-language-models">4. Safety and Alignment of Large Language Models</h3>
+
+<ul>
+  <li>Jailbreaking and prompt injection attacks on LLMs</li>
+  <li>Red-teaming methodologies for foundation models</li>
+  <li>Reward hacking and specification gaming in RLHF</li>
+  <li>Robustness of LLM-based agents to adversarial environments</li>
+  <li>Hallucination, factual inconsistency, and their security implications</li>
+  <li>Safety evaluation benchmarks for generative AI systems</li>
+</ul>
+
+<h3 id="5-defenses-and-robustness-certification">5. Defenses and Robustness Certification</h3>
+
+<ul>
+  <li>Adversarial training and its computational trade-offs</li>
+  <li>Certified defenses: randomized smoothing, interval bound propagation, etc.</li>
+  <li>Ensemble and ensemble-free robustness methods</li>
+  <li>Detection-based defenses and their adaptive adversaries</li>
+  <li>Robustness under distribution shift and covariate shift</li>
+  <li>Formal verification of neural network properties</li>
+</ul>
+
+<h3 id="6-ai-safety-in-high-stakes-applications">6. AI Safety in High-Stakes Applications</h3>
+
+<ul>
+  <li>Robustness of AI in autonomous driving, medical imaging, and critical infrastructure</li>
+  <li>Fail-safe mechanisms and out-of-distribution detection</li>
+  <li>Human oversight and corrigibility in deployed AI systems</li>
+  <li>Regulatory frameworks and standards for AI robustness (e.g., EU AI Act, NIST AI RMF)</li>
+  <li>Societal implications of adversarially fragile AI</li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<h3 id="paper-types">Paper Types</h3>
+
+<p>ARAS 2026 accepts the following submission categories:</p>
+
+<ul>
+  <li><strong>Full Papers</strong> (8–12 pages): Complete research with rigorous evaluation and thorough related work. All claims should be supported by experiments or formal proofs.</li>
+  <li><strong>Short Papers</strong> (4–6 pages): Early-stage work, negative results, position papers, or focused technical contributions that stimulate discussion.</li>
+  <li><strong>SoK (Systematization of Knowledge) Papers</strong> (8–14 pages): Papers that systematize, evaluate, and contextualize existing work in a sub-area of adversarial ML or AI safety. SoK papers must provide new insights beyond a literature survey.</li>
+</ul>
+
+<p>Page limits <strong>exclude references</strong>. Appendices are allowed but not guaranteed to be read by reviewers.</p>
+
+<h3 id="formatting">Formatting</h3>
+
+<ul>
+  <li>All submissions must use the <strong>ACM SIGCONF two-column template</strong>. LaTeX authors should begin with <code class="language-plaintext highlighter-rouge">\documentclass[sigconf,anonymous]{acmart}</code>.</li>
+  <li>Language: <strong>English</strong>. Chinese-language submissions are also accepted and will be reviewed by bilingual Program Committee members; Chinese authors should use the <strong>CCF 中文模板</strong>.</li>
+  <li>Submissions must be in <strong>PDF format</strong>.</li>
+  <li>Font size must be no smaller than <strong>9pt</strong>; do not modify margins or line spacing.</li>
+</ul>
+
+<h3 id="review-policy">Review Policy</h3>
+
+<ul>
+  <li>ARAS 2026 uses a <strong>double-blind review</strong> process. All author names, affiliations, acknowledgements, and identifying self-references must be removed from the submission. Violations will result in desk rejection.</li>
+  <li>Each submission will receive at least <strong>three independent reviews</strong> from the Program Committee.</li>
+  <li>Evaluation criteria: novelty and significance of contribution, technical correctness, quality of experimental evaluation (or formal proofs), clarity of writing, and relevance to the workshop scope.</li>
+  <li><strong>Reproducibility</strong>: Authors are strongly encouraged to provide code and/or datasets to support reproducibility. Links to anonymous repositories (e.g., Anonymous GitHub) are permitted.</li>
+  <li><strong>Ethics statement</strong>: Submissions that introduce new attacks, exploit publicly deployed systems, or involve human subjects must include an ethics statement describing potential harms and any responsible disclosure steps taken.</li>
+</ul>
+
+<h3 id="dual-submission-policy">Dual Submission Policy</h3>
+
+<p>Papers must not be simultaneously under review at another venue. Papers that have appeared at workshops without formal proceedings may be submitted. Authors must disclose any substantial overlap with prior or concurrent work.</p>
+
+<h3 id="submission-portal">Submission Portal</h3>
+
+<p>Submit via EasyChair:</p>
+
+<blockquote>
+  <p><strong><a href="https://easychair.org/conferences/?conf=aras2026">https://easychair.org/conferences/?conf=aras2026</a></strong></p>
+</blockquote>
+
+<p>Select the correct paper type (Full / Short / SoK) during submission.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Event</th>
+      <th style="text-align: left">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Paper Submission Deadline</td>
+      <td style="text-align: left"><strong>April 28, 2026</strong> (23:59 AoE, UTC-12)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Author Notification</td>
+      <td style="text-align: left"><strong>June 2, 2026</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Camera-Ready Deadline</td>
+      <td style="text-align: left"><strong>June 22, 2026</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Workshop Date</td>
+      <td style="text-align: left"><strong>July 13–14, 2026</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>All deadlines are strict. No extensions will be granted under any circumstances.</em></p>
+
+<h2 id="publication-and-presentation">Publication and Presentation</h2>
+
+<p>Accepted papers will be published in the workshop proceedings via the ACM Digital Library. At least one author of each accepted paper must register for the workshop and deliver an in-person presentation. Exceptional papers may be invited to submit extended versions to a special issue of a peer-reviewed journal on machine learning security (to be announced at the workshop).</p>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>李文杰, Sichuan University</li>
+  <li>刘旭, Sichuan University</li>
+  <li>郑彦哲, Sichuan University</li>
+</ul>
+
+<h3 id="program-committee-to-be-announced">Program Committee <em>(To Be Announced)</em></h3>
+
+<p>The Program Committee will include researchers from leading universities and industrial AI labs with expertise in adversarial machine learning, AI safety, formal verification, and security. A full list will be posted on the workshop website prior to the submission deadline.</p>
+
+<h2 id="contact">Contact</h2>
+
+<p>For questions regarding paper submissions, scope, or workshop organization:</p>
+
+<p><strong>aras2026@scu.edu.cn</strong></p>
+:ET

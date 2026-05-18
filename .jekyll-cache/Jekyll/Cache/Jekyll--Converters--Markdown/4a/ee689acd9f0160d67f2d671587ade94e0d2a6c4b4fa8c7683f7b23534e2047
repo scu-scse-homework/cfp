@@ -1,0 +1,25 @@
+I"
+<h2 id="call-for-papers">Call For Papers</h2>
+<p>At present, Internet technology has occupied a vital position in political, economic, cultural, military and other fields. However, with the expansion of the application scope of Internet, the problem of network security has become increasingly prominent. Hackers use the vulnerabilities in the program to invade the network, destroy the system and steal information, which seriously endangers network security. Fuzz testing is one of the most effective vulnerability detection technologies at present. In the past 10 years, researchers have used this technology to find thousands of vulnerabilities in applications, OS kernel, protocols, smart contracts, Internet of things systems, databases, compilers and others. Fuzz testing shows great development potential. This special issue focuses on the research and development related to fuzz testing, and aims to solicit original research papers which discuss the latest research results, analysis methods, technologies, and applications in the field of fuzz testing. We welcome all researchers, scientists, engineers and practitioners who study fuzz testing to contribute.</p>
+<h2 id="topics-of-interest">Topics of interest</h2>
+<ul>
+  <li>Seed set selection</li>
+  <li>Seed Schedule</li>
+  <li>Byte Schedule</li>
+  <li>Mutation Operator Schedule</li>
+  <li>Diverse Information For Fitness</li>
+  <li>Evaluation Theory</li>
+  <li>Theory of searching inputs space</li>
+  <li>Automatic Execution of PUTs</li>
+  <li>Automatic Detection of Bugs</li>
+  <li>Improvement of Execution Speed
+    <h2 id="submission-guidelines">Submission Guidelines</h2>
+    <p>This special issue accepts two ways of submission. You can choose to submit drafts or full papers. A draft is a full paper sans the evaluation or experiments. If the draft is accepted, you need to submit the full paper before the final submission deadline. Each submission will be reviewed by at least three committee members with the key objective of providing constructive feedback. Submitted drafts should include no more than 8 pages, excluding references. There are no page limits on the references. Papers must be formatted according to the AFSCU requirements. Templates are available in AFSCU official website.</p>
+    <h2 id="important-dates">Important Dates</h2>
+  </li>
+  <li>Drafts/Full Paper Submission Deadline: March 31, 2022</li>
+  <li>Notification of Acceptance/Rejection: April 14, 2022</li>
+  <li>Final Paper Submission Deadline: August 26, 2022</li>
+  <li>Publication: September 27, 2022</li>
+</ul>
+:ET

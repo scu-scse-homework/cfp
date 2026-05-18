@@ -1,0 +1,91 @@
+I"È<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The Workshop on Secure and Reliable AI Systems (SRAIS 2026) invites submissions on the security, reliability, and governance of artificial intelligence systems. As AI models are increasingly deployed in software engineering, cybersecurity, education, healthcare, finance, and scientific research, their failures can affect not only system performance but also privacy, fairness, safety, and trust. This workshop aims to provide a focused forum for discussing how to build, evaluate, and operate AI systems that remain dependable under real-world constraints.</p>
+
+<p>SRAIS welcomes work from researchers and practitioners in artificial intelligence, cybersecurity, software systems, data governance, and human-computer interaction. We encourage submissions that combine technical depth with clear problem formulation, reproducible evaluation, and practical insight.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Robustness and security evaluation of machine learning and large language models</li>
+  <li>Adversarial examples, prompt injection, data poisoning, and model extraction attacks</li>
+  <li>Privacy-preserving training, inference, and data management for AI systems</li>
+  <li>Security of AI agents, tool-using models, and autonomous workflow systems</li>
+  <li>Reliable deployment, monitoring, rollback, and incident response for AI-enabled services</li>
+  <li>Explainability, interpretability, and auditability of AI decisions</li>
+  <li>Bias, fairness, accountability, and ethical governance in AI applications</li>
+  <li>Dataset quality, benchmark design, and reproducibility of AI security evaluations</li>
+  <li>Human-AI collaboration, misuse prevention, and safe user interaction design</li>
+  <li>Case studies of AI failures, attacks, defenses, and lessons learned from deployment</li>
+</ul>
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<p>Submissions should present original work that has not been published or submitted elsewhere. Authors may submit research papers, short papers, system papers, or position papers.</p>
+
+<ul>
+  <li>Full papers must be no more than 8 pages, excluding references and appendices.</li>
+  <li>Short papers, position papers, and system reports must be no more than 4 pages, excluding references and appendices.</li>
+  <li>Submissions must be in PDF format and follow the USENIX conference paper format.</li>
+  <li>Authors should use the official USENIX LaTeX or MS Word template. Papers must be formatted for U.S. letter-sized pages, in two columns, with a 7-inch by 9-inch text block, 10-point Times Roman or a similar font, and 12-point single-spaced leading.</li>
+  <li>The review process will be double-blind. Author names, affiliations, acknowledgements, and other identifying information must be removed from the submitted manuscript, even if the downloaded USENIX template contains author-name placeholders.</li>
+  <li>Each submission will be reviewed by at least two reviewers. Reviews will consider relevance, novelty, technical soundness, clarity, reproducibility, and potential impact.</li>
+  <li>Accepted papers are expected to be presented by at least one author during the workshop.</li>
+</ul>
+
+<p>Both English and Chinese submissions are accepted. English titles and abstracts are recommended to make the workshop program easier to browse.</p>
+
+<h2 id="academic-integrity-and-ethics">Academic Integrity and Ethics</h2>
+
+<p>Authors are expected to follow standard academic norms throughout submission, review, and presentation.</p>
+
+<ul>
+  <li>Submissions must be original work. Plagiarism, fabricated results, falsified experiments, and duplicate submission to another venue are not allowed.</li>
+  <li>Authors must cite related work and clearly distinguish their own contributions from prior studies, open-source projects, datasets, tools, and benchmark results.</li>
+  <li>If generative AI tools are used for writing, coding, data processing, or analysis, authors remain responsible for the correctness and originality of the submission and should disclose substantive AI assistance when appropriate.</li>
+  <li>Research involving human participants, private data, production systems, or sensitive security experiments must follow applicable ethical review, consent, privacy, and data protection requirements.</li>
+  <li>Security papers that identify vulnerabilities should follow responsible disclosure practices and avoid including exploit details that would create unnecessary harm.</li>
+  <li>Authors and reviewers should declare conflicts of interest. Reviewers are expected to provide evidence-based, constructive, and respectful reviews.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Event</th>
+      <th style="text-align: left">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Paper submission deadline</td>
+      <td style="text-align: left">June 20, 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Notification of acceptance</td>
+      <td style="text-align: left">July 10, 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Camera-ready deadline</td>
+      <td style="text-align: left">July 24, 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Workshop date</td>
+      <td style="text-align: left">August 7, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>All deadlines are at 23:59 AoE unless otherwise specified.</p>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>Gerui Zhang, School of Cyber Science and Engineering, Sichuan University</li>
+</ul>
+
+<p>For questions about submissions or the review process, please contact the workshop organizers.</p>
+:ET

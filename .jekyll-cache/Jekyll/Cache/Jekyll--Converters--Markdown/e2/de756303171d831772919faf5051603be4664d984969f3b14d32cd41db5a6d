@@ -1,0 +1,50 @@
+I"±
+<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>Since its introduction in 2016, Federated Learning (FL) has emerged as a powerful paradigm for collaborative model training across distributed devices while preserving data privacy. However, with the rapid growth of data volume and diversity, coupled with the increasing complexity of modern AI models (e.g., Large Language Models, LLMs), optimizing training efficiency and ensuring robust security in FL systems have become critical challenges.</p>
+
+<p>This workshop seeks to bring together researchers and practitioners to explore innovative solutions for advancing secure, scalable, and efficient federated learning. We invite submissions on theoretical advances, practical implementations, and novel applications addressing the dual challenges of privacy-preserving FL and resource-efficient distributed training.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>We welcome submissions on, but not limited to, the following areas:</p>
+
+<ul>
+  <li>Coded Federated Learning</li>
+  <li>Communication-Efficient FL (compression, aggregation, synchronization)</li>
+  <li>FL in Heterogeneous Networks (device/resources/data variability)</li>
+  <li>Federated Fine-Tuning of LLMs</li>
+  <li>Privacy-Preserving FL (homomorphic encryption, differential privacy, secure aggregation)</li>
+  <li>Scalable and Robust FL Systems</li>
+  <li>Security Threats &amp; Defenses (adversarial attacks, backdoors, poisoning)</li>
+  <li>Trusted Execution Environments (TEEs) for FL</li>
+  <li>Verifiable FL (auditability, fairness, accountability)</li>
+</ul>
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<ul>
+  <li>Format: Papers must follow the ACM Sigconf double-column template (<a href="https://www.acm.org/publications/proceedings-template">download here</a>).</li>
+  <li>Length: Up to 6 pages (including references, figures, and appendices).</li>
+  <li>Blind Review: Submissions must be anonymized (no author names/affiliations). Avoid identifiable self-references.</li>
+  <li>Originality: Work must be unpublished and not concurrently submitted elsewhere. Violations will result in rejection and reporting to relevant venues.</li>
+  <li>Submission Site: <a href="https://edas.info/N33095">EDAS Submission Portal</a>.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>Submission Deadline: August 15, 2025</li>
+  <li>Notification of Acceptance: October 15, 2025</li>
+  <li>Camera-ready Deadline: November 15, 2025</li>
+  <li>Workshop Date: December 10-12, 2025</li>
+</ul>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Pengcheng Kang, Sichuan University</li>
+  <li>Qianyue Zhang, Sichuan University</li>
+  <li>Yanzhen Zhu, Sichuan University</li>
+</ul>
+:ET

@@ -1,0 +1,187 @@
+I"X%<h1 id="etct-2026-workshop-on-encrypted-traffic-analysis-and-covert-threat-detection">ETCT 2026: Workshop on Encrypted Traffic Analysis and Covert Threat Detection</h1>
+
+<h2 id="call-for-papers">Call for Papers</h2>
+
+<p>The <strong>Workshop on Encrypted Traffic Analysis and Covert Threat Detection (ETCT 2026)</strong> will take place in Chengdu, China. This workshop aims to provide a focused forum for researchers, engineers, and practitioners to discuss emerging challenges and recent advances in encrypted traffic analysis, covert communication detection, stealthy attack identification, and AI-enhanced network defense.</p>
+
+<p>With the rapid development of encryption protocols, privacy-preserving communication, cloud services, and intelligent network applications, encrypted traffic has become the dominant form of modern Internet communication. While encryption is essential for protecting user privacy and data security, it also creates new opportunities for malicious actors to hide attacks, command-and-control communication, data exfiltration, botnet activities, and covert channels. Traditional traffic inspection and rule-based detection methods are increasingly limited in such environments.</p>
+
+<p>At the same time, covert and low-rate network threats are becoming more difficult to identify. Attackers may use TLS/SSL, DNS tunneling, HTTPS-based communication, VPNs, proxy services, or other encrypted protocols to conceal malicious behaviors. They may also reduce traffic intensity, imitate normal user behavior, or use long-term stealthy communication patterns to evade detection systems. These trends bring serious challenges to cyberspace security, network governance, and threat intelligence analysis.</p>
+
+<p>ETCT 2026 will highlight both theoretical research and practical solutions for detecting and analyzing encrypted and covert network threats. The workshop encourages interdisciplinary work across network security, artificial intelligence, traffic measurement, cryptography, data mining, and security operations. We welcome original research papers, system papers, dataset papers, benchmark studies, case studies, and survey papers related to encrypted traffic analysis and covert threat detection.</p>
+
+<p>Researchers, students, engineers, industry experts, and policymakers are invited to participate in ETCT 2026 and contribute to discussions on building more secure, trustworthy, and resilient network environments.</p>
+
+<hr />
+
+<h2 id="research-of-interest">Research of Interest</h2>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Encrypted traffic analysis and classification</li>
+  <li>Detection of TLS/SSL-based covert channels</li>
+  <li>Identification of low-rate and stealthy network attacks</li>
+  <li>Traffic analysis of encrypted malicious communications</li>
+  <li>Machine learning and deep learning for encrypted traffic detection</li>
+  <li>Large language models and security agents for traffic analysis</li>
+  <li>Detection of command-and-control communication in encrypted traffic</li>
+  <li>DNS tunneling and covert communication detection</li>
+  <li>VPN, proxy, and Tor traffic identification</li>
+  <li>Malware traffic analysis under encrypted environments</li>
+  <li>Botnet detection based on encrypted network behavior</li>
+  <li>Real-time monitoring and classification of encrypted threats</li>
+  <li>Network anomaly detection without payload inspection</li>
+  <li>Flow-level and packet-level feature extraction for encrypted traffic</li>
+  <li>Robust and generalizable AI models for network threat detection</li>
+  <li>Adversarial attacks and evasion against traffic detection systems</li>
+  <li>Explainable AI for encrypted traffic analysis</li>
+  <li>Privacy-preserving traffic analysis methods</li>
+  <li>Federated learning for network intrusion detection</li>
+  <li>Novel datasets and benchmarking methods for encrypted traffic analysis</li>
+  <li>Evaluation metrics for covert threat detection</li>
+  <li>Security operation platforms for encrypted threat monitoring</li>
+  <li>Cyber threat intelligence for encrypted and covert attacks</li>
+  <li>Case studies of real-world encrypted network threats</li>
+  <li>Network security governance and cyber pollution management</li>
+</ul>
+
+<hr />
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paper Submission Deadline</td>
+      <td>May 20, 2026</td>
+    </tr>
+    <tr>
+      <td>Author Notification</td>
+      <td>May 30, 2026</td>
+    </tr>
+    <tr>
+      <td>Revision Due</td>
+      <td>June 30, 2026</td>
+    </tr>
+    <tr>
+      <td>Final Decisions</td>
+      <td>July 15, 2026</td>
+    </tr>
+    <tr>
+      <td>Camera-ready Submission</td>
+      <td>July 30, 2026</td>
+    </tr>
+    <tr>
+      <td>Workshop Date</td>
+      <td>To be announced</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>All deadlines are based on Beijing Time, UTC+8.</p>
+
+<hr />
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<p>All submissions must be written in <strong>English</strong> and submitted in <strong>PDF format</strong>.</p>
+
+<p>Submitted papers should be complete manuscripts with clear research motivation, technical method, experimental design, evaluation results, and conclusion. The workshop may desk-reject papers that have severe editorial problems, broken references, missing figures, serious grammar errors, incomplete content, or clear violations of the submission requirements.</p>
+
+<h3 id="paper-length">Paper Length</h3>
+
+<p>All submissions must not exceed <strong>10 pages</strong> for the main text, including figures, tables, appendices, and other main content. Up to <strong>2 additional pages</strong> containing only references are permitted.</p>
+
+<p>Accepted papers may be allowed <strong>one extra page</strong> for the main text in the camera-ready version. The final camera-ready paper should not exceed <strong>13 pages</strong>, including references and appendices.</p>
+
+<h3 id="templates">Templates</h3>
+
+<p>Authors should use one of the following templates:</p>
+
+<ul>
+  <li>English paper template: <strong><a href="https://www.acm.org/publications/proceedings-template">ACM Primary Article Template</a></strong></li>
+</ul>
+
+<h3 id="submission-requirements">Submission Requirements</h3>
+
+<p>Authors should ensure that:</p>
+
+<ul>
+  <li>The paper is submitted in PDF format.</li>
+  <li>The paper follows the required template.</li>
+  <li>The paper does not exceed the page limit.</li>
+  <li>The paper is complete and ready for peer review.</li>
+  <li>All figures and tables are clear and properly numbered.</li>
+  <li>References are complete and consistently formatted.</li>
+  <li>The manuscript is within the scope of ETCT 2026.</li>
+  <li>The manuscript has not been published elsewhere.</li>
+  <li>The manuscript is not under review or submitted for review elsewhere during the ETCT 2026 review process.</li>
+</ul>
+
+<p>Papers that violate the concurrent submission policy will be regarded as a serious breach of academic ethics, and appropriate action may be taken.</p>
+
+<hr />
+
+<h2 id="review-policy">Review Policy</h2>
+
+<p>ETCT 2026 will employ a <strong>double-anonymous review process</strong>. Authors must make every effort to ensure that their submissions do not reveal their identities.</p>
+
+<p>Each submitted paper will be reviewed by at least <strong>two reviewers</strong>. The review process will evaluate papers based on the following criteria:</p>
+
+<ul>
+  <li>Relevance to the workshop theme</li>
+  <li>Originality and technical contribution</li>
+  <li>Soundness of methodology</li>
+  <li>Quality of experiments and evaluation</li>
+  <li>Clarity of writing and organization</li>
+  <li>Reproducibility and reliability of results</li>
+  <li>Practical value for encrypted traffic analysis or covert threat detection</li>
+  <li>Compliance with academic integrity and submission requirements</li>
+</ul>
+
+<p>To preserve anonymity, authors should remove names, affiliations, acknowledgements, student IDs, project identifiers, and other information that may reveal their identities. Self-citations should be written in a neutral manner.</p>
+
+<hr />
+
+<h2 id="academic-ethics-and-originality">Academic Ethics and Originality</h2>
+
+<p>Papers submitted to ETCT 2026 must be original work. Authors must not submit papers that have been published previously or are under review elsewhere.</p>
+
+<p>The following behaviors are strictly prohibited:</p>
+
+<ul>
+  <li>Plagiarism</li>
+  <li>Data fabrication or falsification</li>
+  <li>Image or experimental result manipulation</li>
+  <li>Improper authorship</li>
+  <li>Duplicate submission</li>
+  <li>Misleading citation</li>
+  <li>Excessive or undisclosed use of AI-generated content</li>
+</ul>
+
+<p>If AI tools are used for language polishing, translation, code assistance, or content organization, authors should carefully verify the output and remain fully responsible for the final manuscript. The use of AI tools should be disclosed when it has made a substantial contribution to the writing or research process.</p>
+
+<hr />
+
+<h2 id="submission-method">Submission Method</h2>
+
+<p>All manuscripts must be submitted before the submission deadline through email.</p>
+
+<p>Submission email addresses include:</p>
+
+<div class="language-text highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>2022XXXXXX105@stu.scu.edu.cn
+2022XXXXXX060@stu.scu.edu.cn
+2022XXXXXX061@stu.scu.edu.cn
+</code></pre>
+  </div>
+</div>
+:ET

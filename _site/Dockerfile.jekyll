@@ -1,0 +1,6 @@
+FROM ruby:3.2
+RUN gem install jekyll -v '~> 4.2.0' --no-document \
+    && gem install jekyll-feed --no-document \
+    && gem install webrick --no-document
+WORKDIR /srv/jekyll
+ENTRYPOINT ["jekyll"]

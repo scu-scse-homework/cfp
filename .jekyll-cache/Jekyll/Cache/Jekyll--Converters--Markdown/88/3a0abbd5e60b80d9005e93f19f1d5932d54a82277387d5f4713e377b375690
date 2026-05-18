@@ -1,0 +1,69 @@
+I"%<h2 id="conference-themes">Conference Themes</h2>
+
+<p>ISCP 2025 welcomes submissions on a wide range of topics related to cybersecurity and privacy, including but not limited to:</p>
+
+<ul>
+  <li><strong>Network Security</strong>: Intrusion detection, firewalls, secure protocols, and network monitoring.</li>
+  <li><strong>Cryptography</strong>: Novel cryptographic algorithms, cryptanalysis, and secure communication.</li>
+  <li><strong>Privacy Enhancing Technologies</strong>: Data anonymization, differential privacy, and privacy-preserving computation.</li>
+  <li><strong>Cyber Threat Intelligence</strong>: Malware analysis, threat detection, and incident response.</li>
+  <li><strong>IoT Security</strong>: Securing Internet of Things devices, protocols, and ecosystems.</li>
+  <li><strong>Cloud Security</strong>: Secure cloud computing, virtualization security, and data protection.</li>
+  <li><strong>AI and Cybersecurity</strong>: Machine learning for threat detection, adversarial AI, and AI-driven attacks.</li>
+  <li><strong>Human Factors in Security</strong>: Usable security, social engineering, and security awareness.</li>
+  <li><strong>Blockchain and Distributed Ledger Security</strong>: Smart contract security, consensus mechanisms, and blockchain privacy.</li>
+  <li><strong>Cybersecurity Policy and Governance</strong>: Legal, ethical, and regulatory aspects of cybersecurity.</li>
+</ul>
+
+<p>We encourage interdisciplinary submissions that bridge the gap between technical, social, and policy aspects of cybersecurity.</p>
+
+<hr />
+
+<h2 id="paper-submission-guidelines">Paper Submission Guidelines</h2>
+
+<h3 id="format-and-length">Format and Length</h3>
+
+<ul>
+  <li>Submissions must be written in <strong>English</strong> and adhere to the <strong>IEEE conference paper format</strong> (double-column, 10-point font). Templates for LaTeX and Word are available on the conference website.</li>
+  <li>Papers should not exceed <strong>12 pages</strong>, including references, figures, and appendices. Short papers (up to 6 pages) are also welcome.</li>
+</ul>
+
+<h3 id="submission-process">Submission Process</h3>
+
+<ul>
+  <li>All papers must be submitted electronically via the <strong>EasyChair submission system</strong> (link available on the conference website).</li>
+  <li>Submissions must be in <strong>PDF format</strong> and should not include any identifying information (double-blind review process).</li>
+</ul>
+
+<h3 id="review-process">Review Process</h3>
+
+<ul>
+  <li>All submissions will undergo a <strong>rigorous peer-review process</strong> by at least three members of the program committee.</li>
+  <li>Papers will be evaluated based on originality, technical quality, relevance, and clarity of presentation.</li>
+  <li>Accepted papers will be presented at the symposium and published in the <strong>conference proceedings</strong>, which will be indexed in major databases (e.g., IEEE Xplore, Scopus).</li>
+</ul>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<ul>
+  <li><strong>Paper Submission Deadline</strong>: July 15, 2025</li>
+  <li><strong>Notification of Acceptance</strong>: September 1, 2025</li>
+  <li><strong>Camera-Ready Submission</strong>: September 15, 2025</li>
+  <li><strong>Conference Dates</strong>: November 10-12, 2025</li>
+</ul>
+
+<hr />
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>
+    <p><strong>Workshop co-chair(s)</strong>:<br />
+Bocheng Zhang, Siyi Yu Ji, Wenshen Yang.</p>
+  </li>
+  <li>
+    <p><strong>Contact Information</strong>:<br />
+For inquiries, please contact the organizing committee at <strong>info@iscp2025.org</strong>.</p>
+  </li>
+</ul>
+:ET

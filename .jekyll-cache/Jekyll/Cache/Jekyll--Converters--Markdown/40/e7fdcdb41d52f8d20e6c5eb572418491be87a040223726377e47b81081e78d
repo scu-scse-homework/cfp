@@ -1,0 +1,54 @@
+I"Ù
+<h2 id="introduction">Introduction</h2>
+
+<p>Security testing is one of the most effective vulnerability detection techniques for modern software. Among the security testing techniques, fuzz is regarded as the most effective and scalable, which provides various inputs to the program under test (PUT) and monitors for abnormal behaviors (e.g., stack or buffer overflow, invalid read/write, assertion failures, or memory leaks). Since the proposal, fuzzing has gained the popularity in industry and academia, and evolved into different types of fuzzers for different testing scenarios. Fuzzing has detected thousands of bugs and vulnerabilities in various applications. The International Fuzzing Workshop (IFW) solicits submissions of high-quality, original scientific papers presenting latest research findings, empirical analysis, techniques, and developed applications in the area of fuzzing and software testing for automated bug finding.</p>
+
+<h2 id="areas-of-interest">Areas of Interest</h2>
+
+<p>Submissions are solicited in, but not limited to, the following areas:</p>
+
+<ul>
+  <li>Fuzzing</li>
+  <li>Automated Test Generation: Techniques and Tools</li>
+  <li>Mutation Analysis</li>
+  <li>Symbolic / Concolic Execution</li>
+  <li>Static Analysis</li>
+  <li>Taint Analysis</li>
+  <li>Fuzzer Benchmarking / Evaluation</li>
+  <li>Reproducibility Studies</li>
+  <li>Search-based Software Testing</li>
+</ul>
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<ul>
+  <li>Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for this workshop.</li>
+  <li>Submitted report drafts should include no less than 4 pages, <em>excluding</em> references. There are no page limits on the references. Papers must be formatted according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IFW- requirements</a>.</li>
+  <li>Please submit your paper through the online submission system (<a href="https://gitee.com/link?target=https%3A%2F%2Fwww.editorpaperxx.com%2Fsubmit%2F">https://www.ifw2022.com/submit/</a>) before the deadline, and strictly abide by the paper writing specifications and typesetting requirements.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>Title and abstract Submission
+30 April 2022</li>
+  <li>Full Paper Submission deadline
+24 May 2022</li>
+  <li>Notification deadline
+03 June 2022</li>
+  <li>Start of Workshop
+12 June 2022</li>
+  <li>End of Workshop
+13 June 2022</li>
+</ul>
+
+<h2 id="organizer">Organizer</h2>
+
+<p>Sichuan University, School of Cyber Science and Engineering</p>
+
+<h2 id="program-committee">Program Committee</h2>
+
+<p>Chen Xie, Sichuan University, China</p>
+
+<p>Genzuo Ye, Sichuan University, China</p>
+:ET

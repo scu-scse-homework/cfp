@@ -1,0 +1,92 @@
+I"Ä<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The Workshop on Multimodal AI Adversarial Attacks and Defenses (MAAAD) aims to bring together researchers and practitioners from academia and industry to address the growing challenges of adversarial attacks on multimodal AI systems. As AI models become increasingly integrated into critical applications, their robustness against adversarial manipulations has become a paramount concern for researchers and practitioners alike. This workshop seeks to foster discussions, collaborations, and knowledge exchange on developing robust defenses and understanding attack mechanisms across various modalities including vision, language, audio, and their combinations.</p>
+
+<p>The rapid advancement of multimodal AI systems has significantly expanded their capabilities and applications. However, this progress has also exposed vulnerabilities that malicious actors could exploit. The integration of multiple modalities (text, images, audio, video) in modern AI systems creates new attack surfaces and challenges for defense mechanisms. Traditional security approaches often fall short in addressing these emerging threats, necessitating novel methodologies specifically designed for multimodal environments.</p>
+
+<p>Various adversarial techniques have demonstrated concerning capabilities to manipulate AI systems: subtle perturbations to images that cause misclassification while remaining imperceptible to humans; carefully crafted text prompts that can bypass content moderation systems; cross-modal attacks where modifications in one modality affect predictions in another; and universal adversarial perturbations that can transfer across different models and tasks. Understanding these attacks and developing effective countermeasures requires interdisciplinary collaboration and innovative approaches that this workshop aims to catalyze.</p>
+
+<p>The MAAAD program committee solicits original, high-quality submissions related to adversarial attacks and defenses in multimodal AI systems. Specific topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>
+    <p>Novel adversarial attack techniques against multimodal AI systems</p>
+  </li>
+  <li>
+    <p>Robust defense mechanisms for vision-language models</p>
+  </li>
+  <li>
+    <p>Transferability of adversarial examples across modalities and models</p>
+  </li>
+  <li>
+    <p>Detection and mitigation of adversarial inputs in real-time applications</p>
+  </li>
+  <li>
+    <p>Theoretical foundations of adversarial robustness in multimodal settings</p>
+  </li>
+  <li>
+    <p>Benchmarks and evaluation metrics for adversarial robustness</p>
+  </li>
+  <li>
+    <p>Privacy implications of adversarial attacks on multimodal systems</p>
+  </li>
+  <li>
+    <p>Cross-modal attacks targeting voice-face matching systems</p>
+  </li>
+  <li>
+    <p>Robustness evaluation of sentiment analysis models against cross-modal attacks</p>
+  </li>
+  <li>
+    <p>Adversarial robustness in cross-lingual multimodal systems</p>
+  </li>
+  <li>
+    <p>Adversarial attacks on multimodal speech recognition systems</p>
+  </li>
+  <li>
+    <p>Efficient adversarial detection in resource-constrained environments</p>
+  </li>
+  <li>
+    <p>Adversarial training techniques for multimodal models</p>
+  </li>
+  <li>
+    <p>Certified robustness approaches for complex AI systems</p>
+  </li>
+  <li>
+    <p>Explainability and interpretability for adversarial robustness</p>
+  </li>
+  <li>
+    <p>Cross-modal consistency verification for detecting attacks</p>
+  </li>
+  <li>
+    <p>Applications of adversarial robustness in critical domains (healthcare, autonomous vehicles, security)</p>
+  </li>
+  <li>
+    <p>Ethical considerations in adversarial machine learning research</p>
+  </li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p>The review process will be double-blind. The authors must remove their names and affiliations in the submitted document. Furthermore, authors should avoid obvious self-references, and should cite their own previous work in third person, whenever necessary. Papers that are not properly anonymized risk being rejected without review.</p>
+
+<p>Submissions must be original work and may not be under submission to another venue at the time of review. At least one author of each accepted paper is required to physically present the submitted work at the conference, for the paper to be included in the proceedings.</p>
+
+<p>Submissions must be a PDF file in double-column ACM format (see ACM Proceedings Template, using the sigconf style, e.g., \documentclass[sigconf, review, anonymous]{acmart}), no more than 8 pages long, excluding the bibliography, well-marked appendices, and supplementary material. Note that authors should not change the font or the margins of the ACM format. Submissions not following the required format may be rejected without review.</p>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<ul>
+  <li>Title and abstract Submission 16 May 2025</li>
+  <li>Full Paper Submission deadline 25 May 2025</li>
+  <li>Notification deadline 25 July 2025</li>
+  <li>Start of Workshop 15 August 2025</li>
+  <li>End of Workshop 20 August 2025</li>
+</ul>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Workshop co-chair(s): Ziyu Liu</li>
+  <li>Invited talk: Kai Gao</li>
+</ul>
+:ET

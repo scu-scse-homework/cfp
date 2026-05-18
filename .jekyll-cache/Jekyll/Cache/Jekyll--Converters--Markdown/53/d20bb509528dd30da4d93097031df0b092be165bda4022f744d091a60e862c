@@ -1,0 +1,149 @@
+I"�<h1 id="call-for-papers">Call for Papers</h1>
+
+<h1 id="the-1st-international-workshop-on-ai-driven-cybersecurity-for-smart-systems-aicss-2026">The 1st International Workshop on AI-driven Cybersecurity for Smart Systems (AICSS 2026)</h1>
+
+<h3 id="co-located-with-international-conference-on-intelligent-computing-and-security-icics-2026">Co-located with International Conference on Intelligent Computing and Security (ICICS 2026)</h3>
+
+<hr />
+
+<h2 id="-overview">📍 Overview</h2>
+
+<p>The rapid deployment of Artificial Intelligence (AI) in critical infrastructures such as smart grids, intelligent transportation systems, and cyber-physical systems has introduced unprecedented security challenges. While AI enhances system efficiency and adaptability, it also opens new attack surfaces, including adversarial attacks and false data injection (FDI).</p>
+
+<p>The <strong>AICSS 2026 Workshop</strong> aims to provide an international forum for researchers and practitioners to present and discuss the latest advances in AI-driven cybersecurity, with a particular focus on smart systems and critical infrastructure protection.</p>
+
+<hr />
+
+<h2 id="-scope-and-topics">🎯 Scope and Topics</h2>
+
+<p>We solicit high-quality original submissions on (but not limited to) the following topics:</p>
+
+<h3 id="-track-1-ai-for-cybersecurity">🔹 Track 1: AI for Cybersecurity</h3>
+
+<ul>
+  <li>Machine learning for intrusion detection</li>
+  <li>Deep learning-based anomaly detection</li>
+  <li>AI-based threat intelligence</li>
+</ul>
+
+<h3 id="-track-2-security-in-cyber-physical-systems">🔹 Track 2: Security in Cyber-Physical Systems</h3>
+
+<ul>
+  <li>False Data Injection (FDI) attacks and defense</li>
+  <li>Security in smart grids and energy systems</li>
+  <li>Industrial control system (ICS) security</li>
+</ul>
+
+<h3 id="-track-3-trustworthy-and-robust-ai">🔹 Track 3: Trustworthy and Robust AI</h3>
+
+<ul>
+  <li>Adversarial machine learning</li>
+  <li>Explainable AI for security applications</li>
+  <li>Robust and resilient AI models</li>
+</ul>
+
+<h3 id="-track-4-emerging-technologies-and-security">🔹 Track 4: Emerging Technologies and Security</h3>
+
+<ul>
+  <li>Blockchain-based security mechanisms</li>
+  <li>Federated learning security</li>
+  <li>Internet of Things (IoT) security</li>
+  <li>Edge computing security</li>
+</ul>
+
+<hr />
+
+<h2 id="-submission-guidelines">📝 Submission Guidelines</h2>
+
+<ul>
+  <li>Manuscripts must be written in <strong>English</strong></li>
+  <li>Paper length: <strong>6–8 pages</strong>, following <strong>IEEE conference format</strong></li>
+  <li>Submissions must be <strong>anonymous</strong> for double-blind review</li>
+  <li>Papers must present <strong>original work</strong> not submitted elsewhere</li>
+</ul>
+
+<p>All submissions will be peer-reviewed by at least <strong>two Program Committee members</strong>.</p>
+
+<hr />
+
+<h2 id="-important-dates">📅 Important Dates</h2>
+
+<ul>
+  <li><strong>Paper Submission Deadline:</strong> May 11, 2026 (23:59:59)</li>
+  <li><strong>Notification of Acceptance:</strong> May 18, 2026</li>
+  <li><strong>Camera-ready Submission:</strong> May 25, 2026</li>
+  <li><strong>Workshop Date:</strong> June 2026 (To be announced)</li>
+</ul>
+
+<hr />
+
+<h2 id="-publication-and-presentation">🏆 Publication and Presentation</h2>
+
+<ul>
+  <li>Accepted papers will be included in the <strong>AICSS 2026 Proceedings</strong></li>
+  <li>Selected high-quality papers will be invited to submit extended versions to <strong>SCI/EI indexed journals</strong></li>
+  <li>At least one author of each accepted paper must register and present the work</li>
+</ul>
+
+<hr />
+
+<h2 id="-keynote-speakers">🎤 Keynote Speakers</h2>
+
+<p>Invited keynote speakers from academia and industry will deliver talks on cutting-edge topics in AI security and smart systems.</p>
+
+<p>(Speakers to be announced)</p>
+
+<hr />
+
+<h2 id="-organization">👥 Organization</h2>
+
+<h3 id="general-chair">General Chair</h3>
+
+<ul>
+  <li>TBD</li>
+</ul>
+
+<h3 id="program-chairs">Program Chairs</h3>
+
+<ul>
+  <li>TBD</li>
+</ul>
+
+<h3 id="program-committee">Program Committee</h3>
+
+<ul>
+  <li>Researchers from universities, industry, and research institutes worldwide</li>
+</ul>
+
+<hr />
+
+<h2 id="️-sponsors-tentative">🏛️ Sponsors (Tentative)</h2>
+
+<ul>
+  <li>Academic institutions and industry partners in AI and cybersecurity</li>
+</ul>
+
+<hr />
+
+<h2 id="-submission-system">📮 Submission System</h2>
+
+<p>Papers should be submitted via the workshop submission system (e.g., EasyChair / CMT).</p>
+
+<p>👉 Submission Repository:</p>
+
+<p><a href="https://gitee.com/scu-ccse-kaigao/cfp.git">https://gitee.com/scu-ccse-kaigao/cfp.git</a></p>
+
+<hr />
+
+<h2 id="-contact-information">📬 Contact Information</h2>
+
+<p>For inquiries, please contact:</p>
+
+<p>📧 <a href="mailto:aicss2026@conference.org">aicss2026@conference.org</a></p>
+
+<hr />
+
+<h2 id="-keywords">🌐 Keywords</h2>
+
+<p>Artificial Intelligence, Cybersecurity, Smart Systems, FDI Attack, PINN, Smart Grid, Adversarial Learning</p>
+:ET

@@ -1,0 +1,30 @@
+I"É<h2 id="call-for-paper">call for paper</h2>
+
+<p>Blockchain technology originated from the emergence of Bitcoin. With the boom of bitcoin and other digital currencies in the financial market, blockchain technology has drawn wide attention from all walks of life. Consensus mechanism is the core technology to build trust in blockchain. The ledger and data on blockchain are the products of consensus mechanism. Once the security of consensus mechanism is compromised, the availability and credibility of blockchain will be severely hit.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>This special issue aims to provide a comprehensive overview of the latest developments in blockchain consensus mechanism security; It also aims to improve existing consensus algorithms such as proof-of-work mechanism (PoW) and proof-of-interest mechanism (PoS) to resist various attacks, such as 51% attack, and explore a more secure, efficient and energy-saving new consensus mechanism. Our focus is on the security protection of blockchain consensus mechanisms and providing high quality research papers.</p>
+
+<p>-More secure, efficient and energy-saving consensus mechanism design
+-Design and application of novel cryptographic algorithms
+-Improvement of existing PoW, PoS, Dpos and other algorithms
+-Defense against Byzantine attacks, witch attacks, 51% attacks and various new attacks
+-Explore new loopholes in the existing consensus mechanism</p>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<p>The submitted paper must be an original work that has not been previously published and is not currently being reviewed by another journal or conference. Previously published or accepted conference papers must contain at least 40% new material before they can be considered for inclusion in the special issue.</p>
+
+<p>Papers must be in PDF format and no less than 6 pages</p>
+
+<p>All papers will be peer-reviewed by at least three independent reviewers. For more information, please contact the appropriate staff.</p>
+
+<h2 id="important-days">Important Days</h2>
+<ul>
+  <li>Submission deadline. June 4, 2022</li>
+  <li>Initial notification. June 5, 2022</li>
+  <li>Notification of final acceptance/rejection. 18 June , 2022</li>
+</ul>
+
+:ET

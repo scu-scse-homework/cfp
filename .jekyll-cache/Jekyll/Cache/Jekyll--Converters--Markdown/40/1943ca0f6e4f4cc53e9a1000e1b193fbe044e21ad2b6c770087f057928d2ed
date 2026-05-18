@@ -1,0 +1,119 @@
+I""<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The accelerating digitization and proliferation of intelligent systems have made <strong>network security</strong> a daily concern for governments, enterprises and individuals. AI-driven attacks, deepfakes, ransomware and data breaches continue to surge, making cybersecurity one of the most sought‑after research areas. ETNS 2026 seeks to bring together researchers and practitioners from academia and industry to discuss the latest challenges, technologies and practices in network security and to foster collaboration and the exchange of new ideas.</p>
+
+<h2 id="scope-and-topics">Scope and Topics</h2>
+
+<p>We invite original research papers, system practice reports and systematization‑of‑knowledge (SoK) submissions in all areas of network security. Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li><strong>AI‑powered attacks and defences</strong> – adversarial AI models that bypass firewalls and automate attacks; machine‑learning‑based intrusion detection and real‑time anomaly detection; AI‑against‑AI defensive strategies.</li>
+  <li><strong>Deepfake detection and mitigation</strong> – detection models for synthetic audio/video; blockchain‑based verification of digital media; misinformation prevention tools; ethical and legal considerations of generative AI.</li>
+  <li><strong>Post‑quantum cryptography and quantum security</strong> – quantum‑safe encryption algorithms, comparisons of post‑quantum schemes, quantum key distribution (QKD) and the impact of quantum computing on global cybersecurity.</li>
+  <li><strong>Zero‑trust architectures and identity management</strong> – implementation of Zero Trust in cloud environments; ZTA for IoT and 5G networks; multifactor authentication and continuous verification.</li>
+  <li><strong>Intrusion, anomaly detection and denial‑of‑service protection</strong> – network infrastructure protection, distributed denial‑of‑service attack mitigation, wireless security and protocol analysis.</li>
+  <li><strong>Software and system security</strong> – malware analysis, automated security analysis of source code and binaries, program analysis, fuzzing and vulnerability discovery.</li>
+  <li><strong>Machine‑learning security and privacy</strong> – secure ML systems, privacy‑preserving computation, differential privacy and defenses against adversarial ML.</li>
+  <li><strong>Privacy and anonymity</strong> – privacy metrics, anonymity techniques, privacy attacks, censorship and surveillance.</li>
+  <li><strong>Hardware and embedded systems security</strong> – secure computer architectures, embedded/industrial control systems security, detection of malicious or counterfeit hardware, side‑channel attacks.</li>
+  <li><strong>Cryptography and blockchain applications</strong> – analysis of deployed cryptographic protocols, new cryptographic primitives with real‑world applications, blockchain and distributed ledger security.</li>
+  <li><strong>Human factors, policy and education</strong> – usable security and privacy, security education and training, security law/policy and ethics, research into misinformation, harassment and abuse prevention.</li>
+</ul>
+
+<p>We welcome submissions on topics not explicitly listed above, as long as they are clearly relevant to the security or privacy of networked systems.</p>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<h2 id="language-and-format">Language and Format</h2>
+
+<ul>
+  <li><strong>Language</strong>: All submissions must be written in <strong>English</strong>. ETNS 2026 does not accept Chinese‑language submissions.</li>
+  <li><strong>Paper Length</strong>: Full papers should not exceed <strong>10 pages</strong> of main content (including figures and tables but excluding references and appendices).</li>
+  <li><strong>Template</strong>: Authors should use the latest USENIX Security or IEEE conference LaTeX/Word template. Submissions that attempt to alter formatting (e.g., negative vspaces, titlesec, savetrees) may be rejected without review.</li>
+</ul>
+
+<h2 id="doubleblind-review">Double‑Blind Review</h2>
+
+<p>ETNS 2026 follows a double‑blind review process. Submitted papers must not reveal author identities (names, affiliations, funding acknowledgements, self‑references, etc.). Author information can be included in the submission system but must not appear in the PDF. System artefacts or code repositories should be anonymized when possible.</p>
+
+<h2 id="ethics-and-open-science">Ethics and Open Science</h2>
+
+<p>If a submission involves human subjects, user data or potential impact on real systems, the paper must include an <strong>Ethical Considerations</strong> appendix describing how ethical concerns were addressed. Authors must also include an <strong>Open Science</strong> appendix outlining the availability of artefacts (datasets, code, models) used to evaluate the work. Where artefacts cannot be shared, authors should justify the reasons.</p>
+
+<h2 id="originality-and-multiple-submissions">Originality and Multiple Submissions</h2>
+
+<p>Submissions must present original, unpublished work and must not substantially overlap with work currently submitted to another conference or journal. Each author may appear on <strong>no more than three submissions</strong>. Violations will result in the rejection of all associated submissions.</p>
+
+<h2 id="submission-process">Submission Process</h2>
+
+<p>Papers must be <strong>registered</strong> in the online submission system one week before the final deadline, including the complete list of authors, title, abstract and selected topics. The author list cannot be changed after registration. Final submissions should be uploaded in PDF format along with source files. All submissions will be peer reviewed by members of the program committee.</p>
+
+<h2 id="attendance-requirement">Attendance Requirement</h2>
+
+<p>For each accepted paper, at least one author must register for the workshop and present the work. Papers may be accepted outright or conditionally accepted subject to minor revisions (shepherding).</p>
+
+<h2 id="important-dates-utc8">Important Dates (UTC+8)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Stage</th>
+      <th style="text-align: left">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Paper registration deadline</td>
+      <td style="text-align: left">1 July 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Submission deadline</td>
+      <td style="text-align: left">8 July 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Early‑rejection notification</td>
+      <td style="text-align: left">12 August 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Rebuttal period</td>
+      <td style="text-align: left">19–25 August 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Final notification</td>
+      <td style="text-align: left">5 September 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Camera‑ready deadline</td>
+      <td style="text-align: left">15 September 2026</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Workshop date</td>
+      <td style="text-align: left">5 October 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="organizing-committee">Organizing Committee</h2>
+
+<p><strong>General Chair</strong>: TBA (professors or researchers in network security are welcome to apply)</p>
+
+<p><strong>Program Chairs</strong>: TBA</p>
+
+<p><strong>Organizers</strong>:</p>
+
+<ul>
+  <li>Hanlin Sun, School of Cyber Science and Engineering, Sichuan University, Student ID 2025XXXXXX015</li>
+  <li>Kunshu Song,School of Cyber Science and Engineering, Sichuan University, Student ID 2025XXXXXX030</li>
+  <li>Haotian Mou,School of Cyber Science and Engineering, Sichuan University, Student ID 2025XXXXXX054</li>
+</ul>
+
+<p><strong>Contact Email</strong>: <code class="language-plaintext highlighter-rouge">sunhanlin@stu.scu.edu.cn</code></p>
+
+<h2 id="additional-information">Additional Information</h2>
+
+<p>The workshop plans to invite distinguished speakers on topics such as AI security, post‑quantum cryptography and deepfake detection, and will include poster sessions to encourage discussion and collaboration.</p>
+
+<h2 id="copyright">Copyright</h2>
+
+<p>By submitting a paper to ETNS 2026, the authors agree that, if the submission is accepted for publication, at least one author will register for the workshop and present the paper. Authors retain ownership of the copyright, but will grant the workshop organizers the right to publish the paper in the workshop proceedings.</p>
+:ET

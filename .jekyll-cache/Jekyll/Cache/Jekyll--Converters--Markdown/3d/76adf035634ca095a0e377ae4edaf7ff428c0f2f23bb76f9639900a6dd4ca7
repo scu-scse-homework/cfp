@@ -1,0 +1,71 @@
+I"E<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The Conference on Generative Model in Application and Security (CGMAS) invites researchers, academics, and industry professionals to submit their original and unpublished work related to generative models and their applications in security. This conference aims to bring together experts from various fields to discuss the latest advancements, challenges, and opportunities in this rapidly evolving domain. Submissions should focus on innovative research, practical applications, and novel methodologies that contribute to the understanding and development of generative models in security contexts.</p>
+
+<h1 id="topics-of-interest">Topics of interest</h1>
+
+<ul>
+  <li>Generative Models in Cybersecurity</li>
+  <li>Adversarial Attacks and Defense</li>
+  <li>Privacy-Preserving Generative Models</li>
+  <li>Generative Models for Fraud Detection</li>
+  <li>Case Studies and Real-World Applications</li>
+  <li>Generative Models for Secure Authentication</li>
+  <li>Security of Large Language Models (LLMs)</li>
+  <li>Datasets and evaluation</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ol>
+  <li><strong>Format</strong>: Submissions must be in PDF format, using the double-column ACM format (sigconf style). Follow the conference’s formatting guidelines strictly to avoid rejection.</li>
+  <li><strong>Length</strong>: Papers should not exceed 12 pages, including abstract, figures, references, and appendices.</li>
+  <li><strong>Anonymization</strong>: Ensure your submission is anonymized to maintain the integrity of the review process. Papers not properly anonymized may be rejected.</li>
+  <li><strong>References</strong>: Follow the Harvard or APA citation style, ensuring all references are properly formatted and include DOIs where possible.</li>
+  <li><strong>Formatting Compliance</strong>: Do not alter fonts or margins. Submissions not adhering to the required format may be rejected without review.</li>
+</ol>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>IMPORTANT DATE</th>
+      <th>DATE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paper Registration Deadline</td>
+      <td>November 7th, 2025</td>
+    </tr>
+    <tr>
+      <td>Submission Deadline</td>
+      <td>November 14th, 2025</td>
+    </tr>
+    <tr>
+      <td>Supplementary Materials Deadline</td>
+      <td>November 21st,  2025</td>
+    </tr>
+    <tr>
+      <td>Reviews Released</td>
+      <td>January 23rd, 2026</td>
+    </tr>
+    <tr>
+      <td>Rebuttal Period</td>
+      <td>January 23-30, 2026</td>
+    </tr>
+    <tr>
+      <td>Final Decisions</td>
+      <td>February 26th, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Hao Deng, <em>Sichuan University</em>, China</li>
+  <li>Lingfeng Tan, <em>Sichuan University</em>, China</li>
+</ul>
+:ET

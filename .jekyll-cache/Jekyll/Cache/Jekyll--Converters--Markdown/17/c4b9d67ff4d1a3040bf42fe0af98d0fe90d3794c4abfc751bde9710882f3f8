@@ -1,0 +1,93 @@
+I"�<h1 id="call-for-papers">Call For Papers</h1>
+
+<p>Software security plays a crucial role in today’s information technology landscape. However, the advent of emerging technologies such as the Internet of Things (IoT), large language model (LLM) and mobile applications has spurred a new wave of research and development in securing software systems, which has led to a broadened focus on various aspects of software security.</p>
+
+<p>The 1st International Symposium on Software and Security aims to bring together researchers, practitioners, and industry experts to discuss the latest advancements, challenges, and future directions in the field of software security. The symposium provides an excellent platform for sharing innovative ideas, cutting-edge research findings, and practical solutions to secure software systems.</p>
+
+<h1 id="research-of-interest">Research of Interest</h1>
+
+<p>ISOSS welcome submissions addressing topics across the full spectrum of Software Engineering and Security, being inclusive of quantitative, qualitative, and mixed-methods research.</p>
+
+<p>Topics of Interest include:</p>
+
+<h3 id="ai-and-software-engineering">AI and software engineering</h3>
+
+<ul>
+  <li>Machine learning for SE tasks</li>
+  <li>Code generation from machine learning models</li>
+  <li>Program repair</li>
+  <li>Large language model for SE tasks</li>
+  <li>Large Model-Driven Software engineering</li>
+</ul>
+
+<h3 id="analytics">Analytics</h3>
+
+<ul>
+  <li>Apps and app store analysis</li>
+  <li>API misuse detection</li>
+  <li>Supply chain security</li>
+  <li>Malware analysis and detection</li>
+  <li>Safety of Large language model</li>
+  <li>Software Component Analysis</li>
+</ul>
+
+<h3 id="dependability-and-security">Dependability and Security</h3>
+
+<ul>
+  <li>Blockchain security</li>
+  <li>Formal methods</li>
+  <li>Secure coding practices</li>
+  <li>Vulnerability detection to enhance software security</li>
+  <li>Security and Privacy Policies</li>
+  <li>Fuzzing</li>
+</ul>
+
+<h3 id="program-language">Program Language</h3>
+
+<ul>
+  <li>Debugging and fault localization</li>
+  <li>Design for quality, incl. privacy and security by design</li>
+  <li>Program analysis</li>
+  <li>Secure coding practices</li>
+  <li>Software Security Metrics</li>
+</ul>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<ul>
+  <li>Paper Submission Deadline: <code class="language-plaintext highlighter-rouge">April 10, 2024</code></li>
+  <li>Author Notification: April 30, 2024</li>
+  <li>Revision due: May 30, 2024</li>
+  <li>Final Decisions: June 15, 2024</li>
+  <li>Camera-ready: July 15, 2024</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ul>
+  <li>All submissions must not exceed 10 pages for the main text, inclusive of all figures, tables, appendices, etc. Two more pages containing only references are permitted. All submissions must be in PDF. Accepted papers will be allowed one extra page for the main text of the camera-ready version.
+    <ul>
+      <li>English paper template: <a href="https://www.acm.org/publications/proceedings-template">ACM Primary Article Template</a></li>
+      <li>中文稿件模板：<a href="https://jsuese.scu.edu.cn/jsuese_cn/ch/reader/view_news.aspx?id=20171225053712633">四川大学学报工程科学版模板</a></li>
+    </ul>
+  </li>
+  <li>Submissions should be finished, complete papers. We may decide to desk-reject papers that have severe editorial problems (broken references, egregious spelling or grammar errors, missing figures, etc.), are submitted in violation of the Submission Instructions outlined below, are outside of the scope of the symposium, or are deemed clearly of insufficient quality to appear in the program.</li>
+  <li>Papers submitted to ISOSS 2024 must not have been published elsewhere and must not be under review or submitted for review elsewhere whilst under consideration for ISOSS 2024. Contravention of this concurrent submission policy will be deemed a serious breach of scientific ethics, and appropriate action will be taken in all such cases.</li>
+  <li>The ISOSS 2024 Research Track will employ a double-anonymous review process. Thus, no submission may reveal its authors’ identities. The authors must make every effort to honor the double-anonymous review process.</li>
+</ul>
+
+<p>Once accepted, the final version should be no longer than 13 pages, including the bibliography and any appendices.</p>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li><strong>Academic Committee:</strong> The Symposium on Software and Security Academic Committee(ISOSS)</li>
+  <li><strong>Hosts:</strong> Sichuan University, School of Cyber Science and Engineering</li>
+  <li><strong>Symposium Papers Chairs:</strong>
+    <ul>
+      <li>Honghao Yu, Sichuan University, China</li>
+      <li>Jianbin Xu, Sichuan University, China</li>
+    </ul>
+  </li>
+</ul>
+:ET

@@ -1,0 +1,283 @@
+I"[2<h1 id="ccs-2026-cybersecurity-and-safety-workshop">CCS 2026: Cybersecurity and Safety Workshop</h1>
+
+<h2 id="a-student-led-academic-workshop-on-intelligent-secure-and-trustworthy-cyber-systems">A Student-Led Academic Workshop on Intelligent, Secure, and Trustworthy Cyber Systems</h2>
+
+<p><strong>Rethinking Cybersecurity in the Age of Artificial Intelligence</strong></p>
+
+<hr />
+
+<h2 id="overview">Overview</h2>
+
+<p>The <strong>Cybersecurity and Safety Workshop (CCS 2026)</strong> is the first edition of a student-led academic workshop designed for undergraduate and graduate students interested in cybersecurity, artificial intelligence, and trustworthy computing.</p>
+
+<p>As artificial intelligence becomes increasingly integrated into software systems, network infrastructures, and security operations, cybersecurity research is facing two closely related challenges: how AI can be used to improve security, and how AI systems themselves can be secured. This workshop aims to provide a forum for discussing both <strong>AI for Security</strong> and <strong>Security/Safety of AI</strong>, while also welcoming high-quality work in traditional and emerging cybersecurity areas.</p>
+
+<p>As a student-led workshop, CCS 2026 welcomes early-stage ideas, preliminary results, position papers, system prototypes, datasets, benchmarks, and critical surveys, provided that the problem, method, and evidence are clearly presented. The workshop values technical depth, clear academic writing, responsible research practice, and awareness of the broader impact of security technologies.</p>
+
+<hr />
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>We invite submissions on topics including, but not limited to, the following areas.</p>
+
+<h3 id="track-1-ai-for-security">Track 1: AI for Security</h3>
+
+<p>This track focuses on using artificial intelligence, machine learning, or large language models to solve cybersecurity problems.</p>
+
+<p>Relevant topics include:</p>
+
+<ul>
+  <li>AI-assisted vulnerability discovery</li>
+  <li>LLM-assisted program analysis</li>
+  <li>AI for fuzzing and test generation</li>
+  <li>AI-assisted binary analysis and reverse engineering</li>
+  <li>AI for malware detection and analysis</li>
+  <li>Intrusion detection and threat intelligence</li>
+  <li>AI-assisted protocol analysis</li>
+  <li>Security log analysis and incident response</li>
+  <li>AI-based phishing, spam, or abuse detection</li>
+  <li>Intelligent security monitoring and automated defense</li>
+  <li>AI-supported software security auditing</li>
+  <li>AI-driven cyber threat modeling</li>
+</ul>
+
+<h3 id="track-2-security-and-safety-of-ai">Track 2: Security and Safety of AI</h3>
+
+<p>This track focuses on the security, reliability, privacy, and safety of AI systems.</p>
+
+<p>Relevant topics include:</p>
+
+<ul>
+  <li>Adversarial machine learning</li>
+  <li>Data poisoning and training-time attacks</li>
+  <li>Model backdoors and Trojan attacks</li>
+  <li>Model stealing, model extraction, and membership inference</li>
+  <li>Privacy leakage in machine learning systems</li>
+  <li>Prompt injection and jailbreak detection</li>
+  <li>LLM red teaming and safety evaluation</li>
+  <li>Robustness and reliability of AI systems</li>
+  <li>AI supply-chain security</li>
+  <li>Security risks in AI agents and autonomous systems</li>
+  <li>Evaluation of AI safety mechanisms</li>
+  <li>Trustworthy and explainable AI for security-sensitive applications</li>
+</ul>
+
+<h3 id="track-3-traditional-and-emerging-cybersecurity">Track 3: Traditional and Emerging Cybersecurity</h3>
+
+<p>This track welcomes work on classical and emerging cybersecurity problems, especially when connected to modern systems, networks, or privacy challenges.</p>
+
+<p>Relevant topics include:</p>
+
+<ul>
+  <li>Software security</li>
+  <li>System security</li>
+  <li>Network security</li>
+  <li>Protocol security</li>
+  <li>Web security</li>
+  <li>Privacy and anonymity</li>
+  <li>Fuzzing and vulnerability discovery</li>
+  <li>Binary analysis and reverse engineering</li>
+  <li>Malware analysis</li>
+  <li>Intrusion detection</li>
+  <li>Secure system design</li>
+  <li>Cyber-physical system security</li>
+  <li>Security of distributed and cloud systems</li>
+</ul>
+
+<h3 id="track-4-measurement-datasets-and-responsible-evaluation">Track 4: Measurement, Datasets, and Responsible Evaluation</h3>
+
+<p>This track welcomes work that improves how security and AI security research is evaluated.</p>
+
+<p>Relevant topics include:</p>
+
+<ul>
+  <li>Security benchmarks and evaluation frameworks</li>
+  <li>Dataset construction, curation, and auditing</li>
+  <li>Reproducibility studies</li>
+  <li>Comparative studies of security tools or models</li>
+  <li>Measurement of real-world security threats</li>
+  <li>Responsible disclosure case studies</li>
+  <li>Artifact evaluation</li>
+  <li>Survey papers and Systematization of Knowledge (SoK) papers</li>
+  <li>Evaluation methodology for AI security and LLM safety</li>
+</ul>
+
+<hr />
+
+<h2 id="submission-types">Submission Types</h2>
+
+<p>CCS 2026 welcomes multiple types of submissions.</p>
+
+<h3 id="full-papers">Full Papers</h3>
+
+<p>Full papers should present mature research with a clear problem statement, technical contribution, related work discussion, and evaluation or argumentation.</p>
+
+<h3 id="short-papers">Short Papers</h3>
+
+<p>Short papers may present preliminary results, focused technical ideas, early-stage systems, or concise empirical findings.</p>
+
+<h3 id="position-papers">Position Papers</h3>
+
+<p>Position papers should present a clear argument, new perspective, research agenda, or critical reflection on an important topic in cybersecurity, AI security, or trustworthy computing.</p>
+
+<h3 id="demoposter-papers">Demo/Poster Papers</h3>
+
+<p>Demo and poster papers may describe tools, systems, datasets, benchmarks, or practical demonstrations.</p>
+
+<p>There is <strong>no strict page limit</strong> for submissions. However, authors are expected to write clearly, concisely, and proportionally to the contribution of the work. Unnecessarily long submissions may be judged less favorably if they reduce clarity or readability.</p>
+
+<hr />
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<p>Submissions may be written in <strong>Chinese or English</strong>. English submissions will receive additional consideration in the academic writing evaluation.</p>
+
+<p>Submissions should be prepared in <strong>Word or LaTeX</strong> using a clear academic format. Authors are encouraged to follow ACM-style or IEEE-style formatting when possible.</p>
+
+<p>All submissions should include:</p>
+
+<ul>
+  <li>Title</li>
+  <li>Author information</li>
+  <li>Abstract</li>
+  <li>Introduction</li>
+  <li>Main technical content or argument</li>
+  <li>Related work or background discussion when appropriate</li>
+  <li>Evaluation, case study, or supporting evidence when applicable</li>
+  <li>Ethical considerations when applicable</li>
+  <li>References</li>
+</ul>
+
+<p>Submissions should be original and should not present fabricated results, citations, code, or datasets as real. Papers that rely on existing datasets, open-source projects, or previously published results are welcome, but authors must cite the original sources clearly.</p>
+
+<hr />
+
+<h2 id="review-process">Review Process</h2>
+
+<p>CCS 2026 will adopt a <strong>double-blind review process</strong>. Authors should avoid revealing their identities in the main submission whenever possible.</p>
+
+<p>Submissions will be evaluated based on the following criteria:</p>
+
+<ul>
+  <li>Relevance to cybersecurity, AI security, or trustworthy computing</li>
+  <li>Originality and significance of the research problem</li>
+  <li>Technical soundness of the proposed method or argument</li>
+  <li>Quality of evaluation, case study, or supporting evidence</li>
+  <li>Clarity of writing and organization</li>
+  <li>Ethical awareness and responsible disclosure</li>
+  <li>Awareness of AI-specific risks, limitations, and potential misuse</li>
+</ul>
+
+<hr />
+
+<h2 id="artifact-policy">Artifact Policy</h2>
+
+<p>Authors are encouraged to submit artifacts when applicable. Artifacts may include:</p>
+
+<ul>
+  <li>Source code</li>
+  <li>Datasets</li>
+  <li>Model checkpoints</li>
+  <li>Prompts</li>
+  <li>Experimental scripts</li>
+  <li>Configuration files</li>
+  <li>Logs</li>
+  <li>Benchmark descriptions</li>
+  <li>Reproducibility instructions</li>
+  <li>Demo materials</li>
+</ul>
+
+<p>Open-source artifacts, real-world datasets, and reproducible experimental settings will be considered positively during review.</p>
+
+<p>Synthetic datasets, simulated experiments, and prototype systems are welcome when they are clearly labeled and methodologically justified. Authors must not present fabricated code, data, citations, or experimental results as real.</p>
+
+<hr />
+
+<h2 id="use-of-generative-ai-tools">Use of Generative AI Tools</h2>
+
+<p>Authors may use generative AI tools for grammar improvement, brainstorming, code assistance, formatting, or literature organization.</p>
+
+<p>However, authors remain fully responsible for the correctness, originality, and integrity of their submissions. AI-generated text, code, data, or experimental results must be disclosed when they materially affect the work. Generative AI tools must not be listed as authors.</p>
+
+<p>Fabricated citations, unverifiable results, or undisclosed AI-generated content presented as original work are not allowed.</p>
+
+<hr />
+
+<h2 id="ethics-and-responsible-dual-use-research">Ethics and Responsible Dual-Use Research</h2>
+
+<p>Cybersecurity and AI security research may involve dual-use techniques. CCS 2026 requires authors to consider the ethical and social implications of their work.</p>
+
+<p>Submissions involving vulnerability discovery, malware analysis, jailbreaks, prompt injection, exploit generation, red-team evaluation, or other potentially sensitive topics must clearly explain their defensive, analytical, or educational purpose.</p>
+
+<p>Authors should avoid unnecessary operational details that could enable misuse. Work involving real systems, users, or sensitive data must discuss privacy protection, risk mitigation, and responsible disclosure when applicable.</p>
+
+<p>Submissions that primarily enable abuse without clear security, educational, or analytical value will be considered out of scope.</p>
+
+<hr />
+
+<h2 id="out-of-scope">Out of Scope</h2>
+
+<p>The following types of submissions are considered out of scope:</p>
+
+<ul>
+  <li>Papers with no clear connection to cybersecurity, AI security, or trustworthy computing</li>
+  <li>Purely speculative essays without technical argument, evidence, or literature support</li>
+  <li>Submissions that present fabricated experiments, unverified results, or fake citations as real</li>
+  <li>Work that describes harmful techniques without clear defensive, educational, or analytical value</li>
+  <li>Papers that violate privacy, academic integrity, or responsible disclosure principles</li>
+</ul>
+
+<hr />
+
+<h2 id="presentation-and-invitation">Presentation and Invitation</h2>
+
+<p>Accepted submissions will be included in the workshop program. Selected submissions may be invited for oral discussions, poster discussions, or demo sessions, depending on the final course arrangement.</p>
+
+<hr />
+
+<h2 id="invited-talks-and-keynote-sessions">Invited Talks and Keynote Sessions</h2>
+
+<p>Depending on the final course arrangement, CCS 2026 may include invited talks or keynote sessions by instructors, senior students, or researchers in cybersecurity, AI security, or trustworthy computing.</p>
+
+<p>These sessions are intended to introduce research frontiers, academic writing practices, research ethics, and responsible cybersecurity research. They may also provide students with opportunities to discuss early-stage research ideas and receive feedback from more experienced participants.</p>
+
+<hr />
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p>All deadlines are 11:59 PM AoE (UTC-12).</p>
+
+<ul>
+  <li><strong>Call for Papers Released:</strong> May 11,2026</li>
+  <li><strong>Submission Deadline:</strong> June 12,2026</li>
+  <li><strong>Notification of Acceptance:</strong> June 24,2026</li>
+  <li>
+    <h2 id="camera-ready-deadline-june-302026"><strong>Camera-ready Deadline:</strong> June 30,2026</h2>
+  </li>
+</ul>
+
+<h2 id="organizing-committee">Organizing Committee</h2>
+
+<h3 id="workshop-chairs">Workshop Chairs</h3>
+
+<ul>
+  <li>Jiaxing Liu, Sichuan University</li>
+  <li>Yueyao Li, Sichuan University</li>
+  <li>Hui Shi, Sichuan University</li>
+</ul>
+
+<h3 id="program-committee">Program Committee</h3>
+
+<ul>
+  <li>Student reviewers from the Academic Writing Course</li>
+  <li>Invited reviewers from related cybersecurity and AI research groups</li>
+</ul>
+
+<hr />
+
+<h2 id="contact">Contact</h2>
+
+<p>For questions about CCS 2026, please contact the workshop organizing committee.</p>
+
+<hr />
+:ET

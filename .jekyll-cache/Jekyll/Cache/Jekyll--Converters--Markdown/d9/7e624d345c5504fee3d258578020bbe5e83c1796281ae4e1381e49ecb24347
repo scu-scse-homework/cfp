@@ -1,0 +1,68 @@
+I"<p><img src="./hello.png" alt="Gemini_Generated_Image_nxzlmonxzlmonxzl" /></p>
+
+<h1 id="第一届多智能体系统与大模型安全国际研讨会-mass-2026-征稿启事">第一届多智能体系统与大模型安全国际研讨会 (MASS 2026) 征稿启事</h1>
+
+<p><strong>The 1st International Workshop on Multi-Agent System and LLM Security (MASS 2026)</strong><br />
+<strong>会议地点:</strong> 中国·成都 (Chengdu, China)<br />
+<strong>会议时间:</strong> 2026年11月20日–22日<br />
+<strong>官方网站:</strong> <code class="language-plaintext highlighter-rouge">https://mass-conf.org/2026/cfp</code></p>
+
+<hr />
+
+<h2 id="研讨会简介">研讨会简介</h2>
+
+<p>随着大型语言模型（LLM）和大型多模态模型（LMM）的快速演进，基于这些模型构建的多智能体系统（Multi‑Agent Systems, MAS）正被广泛部署于复杂的现实场景中。然而，多智能体之间的交互也为新型恶意攻击提供了温床，系统的鲁棒性面临前所未有的挑战。</p>
+
+<p>MASS 2026 致力于汇聚网络安全与人工智能交叉领域的顶尖研究人员、学者与工程师。本次研讨会将重点关注多智能体环境下的新型对抗性威胁（如跨智能体感染、知识库污染等），并探索下一代主动防御与免疫架构。我们诚挚邀请关于 AI 安全理论基础、实证评估以及创新性防御系统的原创研究论文。</p>
+
+<h2 id="征稿主题">征稿主题</h2>
+
+<p>我们欢迎探讨 AI 安全与多智能体系统鲁棒性相关各个方面的投稿，感兴趣的主题包括但不限于:</p>
+
+<ul>
+  <li><strong>多智能体对抗与防御:</strong> MAS 的威胁建模、鲁棒性分析以及基于内部多角色模拟的对抗防御系统。</li>
+  <li><strong>新型攻击向量:</strong> 感染式越狱（Infectious Jailbreak）攻击在智能体网络中的传播机制与防御。</li>
+  <li><strong>数据与检索安全:</strong> 检索增强生成（RAG）中的投毒攻击分析与数据流净化。</li>
+  <li><strong>主动防御架构:</strong> 前瞻性局部净化（Foresight‑Guided Local Purification, FLP）框架及其他基于信息瓶颈理论、检索熵的安全机制。</li>
+  <li><strong>多模态模型安全:</strong> 针对大型多模态模型（如 LLaVA、Qwen-VL、InternVL2、InstructBLIP 等）的安全评估、越狱检测，以及防御机制的跨架构对比。</li>
+  <li><strong>系统与实现:</strong> AI 基础设施安全，包括基于 LangGraph 等框架的智能体安全通信协议设计。</li>
+</ul>
+
+<h2 id="重要日期">重要日期</h2>
+
+<p><em>所有时间均以北京时间为准（UTC+8）。</em></p>
+
+<ul>
+  <li><strong>摘要注册截止:</strong> 2026年8月15日</li>
+  <li><strong>全文提交截止:</strong> 2026年8月22日</li>
+  <li><strong>录用通知:</strong> 2026年9月30日</li>
+  <li><strong>终稿提交:</strong> 2026年10月15日</li>
+  <li><strong>研讨会召开:</strong> 2026年11月20日–22日</li>
+</ul>
+
+<h2 id="投稿指南">投稿指南</h2>
+
+<p><strong>1. 论文格式</strong><br />
+所有投稿必须使用英文撰写，并严格按照最新的 ACM/IEEE 双栏会议标准 LaTeX 模板排版。常规研究论文篇幅限制为 8–10 页（不含参考文献和附录），超出页数限制的论文将不予评审。</p>
+
+<p><strong>2. 双盲评审</strong><br />
+MASS 2026 采用严格的双盲评审流程。提交的 PDF 文件中不得包含任何可识别作者身份的信息（如作者姓名、所属机构或资助致谢）。在引用自己过去的成果时，请使用第三人称（例如，将“我们在之前的研究[1]中证明了……”替换为“之前的研究[1]证明了……”）。</p>
+
+<p><strong>3. 可复现性要求</strong><br />
+我们强烈鼓励作者在提交论文的同时，附带相关实验的代码和运行环境。考虑到系统实现可能涉及复杂的依赖派生，推荐通过匿名网盘链接提供基于 Python/PyTorch 的源代码，以及打包好的 Docker 镜像文件。</p>
+
+<p><strong>4. 道德准则</strong><br />
+探讨新型攻击手段的论文必须包含负责任披露声明。在公开可能对真实系统造成破坏的漏洞时，作者应证明已采取适当的脱敏措施。</p>
+
+<h2 id="组委会">组委会</h2>
+
+<p><strong>大会总主席</strong><br />
+袁浪 2022141530066</p>
+
+<p><strong>程序委员会主席</strong><br />
+马跃 2022141530075</p>
+
+<h2 id="联系方式">联系方式</h2>
+
+<p>如有关于论文提交或会议的任何疑问,请发送电子邮件至:2022141530075@stu.scu.edu.cn。</p>
+:ET

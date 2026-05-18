@@ -1,0 +1,111 @@
+I"><h1 id="call-for-paper">Call for Paper</h1>
+
+<p>We invite researchers, engineers, and practitioners from academia and industry to submit original contributions to the <strong>International Symposium on Threat Analysis (ISTA) 2026</strong>. The symposium will be held on <strong>August 10, 2026</strong> in <strong>Sichuan, China</strong>.</p>
+
+<p>As cyber threats grow in scale and sophistication, proactive threat analysis has become central to building resilient digital infrastructure. ISTA 2026 provides a premier forum for exchanging cutting-edge research and real-world experience on threat identification, assessment, response, and prevention across modern networked environments.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>We welcome submissions on a wide range of topics within the field of threat analysis and network security, including but not limited to:</p>
+
+<ul>
+  <li><strong>Threat Detection and Hunting</strong>
+    <ul>
+      <li>AI and machine learning for proactive threat hunting</li>
+      <li>Modeling and detection of Advanced Persistent Threats (APT)</li>
+      <li>Intrusion Detection Systems (IDS) and network traffic anomaly analysis</li>
+      <li>Behavioral analysis of malware and sandbox technologies</li>
+    </ul>
+  </li>
+  <li><strong>Vulnerability and Risk Assessment</strong>
+    <ul>
+      <li>Automated vulnerability discovery and risk assessment</li>
+      <li>Threat modeling methodologies and frameworks</li>
+      <li>Security assessment for Industrial Internet of Things (IIoT)</li>
+      <li>Adversarial simulation and red team techniques</li>
+    </ul>
+  </li>
+  <li><strong>Emerging Environment Security</strong>
+    <ul>
+      <li>Threat analysis in cloud and edge computing environments</li>
+      <li>Threat perception within Zero Trust architectures</li>
+      <li>Security of containerized and microservice-based systems</li>
+      <li>Supply chain security and third-party risk analysis</li>
+    </ul>
+  </li>
+  <li><strong>Threat Intelligence and Response</strong>
+    <ul>
+      <li>Threat intelligence sharing protocols and collaborative defense</li>
+      <li>Automated incident response and security orchestration</li>
+      <li>Network forensics and attack attribution techniques</li>
+      <li>Deception technologies and honeypot systems</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<ul>
+  <li><strong>Originality</strong>: All submissions must be original and not published or currently under review elsewhere.</li>
+  <li><strong>Format</strong>: Papers must be submitted in PDF format using the IEEE two-column conference template, not exceeding <strong>10 pages</strong> including references and appendices. Submissions must be properly anonymized with author identities hidden during review.</li>
+  <li><strong>Artifact Submission</strong>: Authors are encouraged to submit supplementary artifacts (e.g., code, datasets, tools). If the paper’s claims rely on these artifacts, they should be accessible to reviewers.</li>
+  <li><strong>Review Process</strong>: All submissions will undergo <strong>double-blind peer review</strong> by the program committee. Acceptance decisions are based on novelty, technical soundness, clarity, and potential impact.</li>
+  <li><strong>Language</strong>: English only.</li>
+</ul>
+
+<p>Submissions are accepted via the conference portal: <a href="https://easychair.org/conferences/?conf=ista2026">https://easychair.org/conferences/?conf=ista2026</a></p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Milestone</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paper Submission Deadline</td>
+      <td>May 31, 2026</td>
+    </tr>
+    <tr>
+      <td>Notification of Acceptance</td>
+      <td>July 1, 2026</td>
+    </tr>
+    <tr>
+      <td>Camera-Ready Submission</td>
+      <td>July 20, 2026</td>
+    </tr>
+    <tr>
+      <td>Conference</td>
+      <td>August 10, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="publication">Publication</h2>
+
+<p>Accepted papers will be published in the <strong>ISTA 2026 Proceedings</strong> and submitted for indexing by IEEE Xplore®, Scopus, and DBLP. Outstanding papers will be recommended for publication in special issues of high-impact journals.</p>
+
+<h2 id="conference-chairs-and-organizers">Conference Chairs and Organizers</h2>
+
+<ul>
+  <li><strong>General Chairs</strong>:
+    <ul>
+      <li>Yueqi Chen, Sichuan University, China</li>
+      <li>Wenbo Zeng, Sichuan University, China</li>
+    </ul>
+  </li>
+  <li><strong>Organizers</strong>: School of Cyber Science and Engineering, Sichuan University</li>
+</ul>
+
+<h2 id="contact">Contact</h2>
+
+<ul>
+  <li><strong>Email</strong>: ista2026@scu.edu.cn</li>
+  <li><strong>Website</strong>: www.ista2026.org</li>
+</ul>
+
+<p>We look forward to your contributions and to welcoming you to Sichuan in August 2026!</p>
+:ET

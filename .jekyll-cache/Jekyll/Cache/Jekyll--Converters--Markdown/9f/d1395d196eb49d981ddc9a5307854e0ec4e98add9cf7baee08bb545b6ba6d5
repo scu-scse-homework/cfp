@@ -1,0 +1,295 @@
+I"�F<h1 id="2026-international-symposium-on-ai-security-and-privacy-aisecp-2026">2026 International Symposium on AI Security and Privacy (AISecP 2026)</h1>
+
+<h2 id="call-for-papers">Call for Papers</h2>
+
+<p><strong>Official Abbreviation</strong>: AISecP 2026</p>
+
+<p><strong>Conference Dates</strong>: December 19–22, 2026</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Venue</strong>: Chengdu, China</td>
+      <td>Hybrid (In-Person + Virtual Online)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Official Website</strong>: https://aisecp2026.org</p>
+
+<p><strong>Submission System</strong>: https://aisecp2026.hotcrp.com</p>
+
+<p><strong>Sponsor</strong>: School of Cyber Science and Engineering, Sichuan University</p>
+
+<hr />
+
+<h2 id="1-conference-scope--mission">1. Conference Scope &amp; Mission</h2>
+
+<p>The International Symposium on AI Security and Privacy (AISecP 2026) is an international forum for researchers, practitioners, and industry experts working at the intersection of artificial intelligence, cybersecurity, privacy, and trustworthy computing.</p>
+
+<p>AISecP 2026 aims to foster the development of scientifically rigorous, practically relevant, and ethically responsible research addressing the security and privacy challenges posed by modern AI systems. The symposium welcomes original research contributions spanning theoretical foundations, empirical studies, system designs, benchmarks, measurement studies, and real-world deployments.</p>
+
+<p>The conference particularly encourages interdisciplinary work bridging machine learning, systems security, cryptography, privacy engineering, human-centered security, and AI governance.</p>
+
+<hr />
+
+<h2 id="2-topics-of-interest">2. Topics of Interest</h2>
+
+<p>We solicit submissions across the full spectrum of AI security and privacy research, including but not limited to the following areas:</p>
+
+<ul>
+  <li><strong>Adversarial Machine Learning</strong>: Novel attacks and defenses for ML/LLM systems, evasion, poisoning, backdoor attacks, robustness evaluation, and certified defenses</li>
+  <li><strong>Foundation Model &amp; LLM Security</strong>: Alignment and jailbreaking defense, prompt injection, model theft and watermarking, output safety, hallucination mitigation, and red teaming for LLMs</li>
+  <li><strong>AI Privacy &amp; Confidential Computing</strong>: Privacy-preserving ML, differential privacy, federated learning, secure multi-party computation for AI, model and data privacy leakage, and membership inference attacks</li>
+  <li><strong>Multi-modal AI Security</strong>: Security risks and defenses for vision-language models, diffusion models, generative AI, deepfake detection, and AI-generated content (AIGC) safety</li>
+  <li><strong>Formal Verification for AI</strong>: Formal methods for AI system safety, robustness verification, logical consistency checking, and trustworthy AI certification</li>
+  <li><strong>AI System &amp; Supply Chain Security</strong>: AI model supply chain attacks, dataset integrity, open-source AI component security, and AI infrastructure security</li>
+  <li><strong>AI for Cybersecurity</strong>: AI-driven threat detection, vulnerability discovery, malware analysis, intrusion detection, and security automation</li>
+  <li><strong>Edge &amp; Embedded AI Security</strong>: Security and privacy for on-device AI, IoT AI systems, and lightweight AI model protection</li>
+  <li><strong>AI Security Governance, Ethics &amp; Regulation</strong>: AI security compliance, risk assessment frameworks, ethical AI design, and legal and policy implications of AI security</li>
+  <li><strong>Systematization of Knowledge (SoK)</strong>: Critical reviews, benchmarking, and systematic analysis of existing research in AI security and privacy</li>
+  <li><strong>Emerging Topics</strong>: Novel security and privacy challenges in AGI, embodied AI, quantum AI, and other cutting-edge AI paradigms</li>
+</ul>
+
+<hr />
+
+<h2 id="3-paper-categories">3. Paper Categories</h2>
+
+<p>AISecP 2026 accepts four categories of submissions, all of which will undergo the same rigorous double-blind peer review process:</p>
+
+<ol>
+  <li><strong>Research Papers</strong>: Full-length papers presenting original, high-impact research with complete theoretical analysis, experimental validation, and novel contributions. Page limit: 13 pages of main text, with unlimited additional pages for references and well-marked appendices. Reviewers are not required to read appendices.</li>
+  <li><strong>Systematization of Knowledge (SoK) Papers</strong>: Papers that consolidate, clarify, and critically evaluate existing research in a major area of AI security. SoK papers must go beyond literature surveys, identifying key research gaps, challenging widely held assumptions, and providing new insights to guide future research. Page limit: 13 pages of main text. Titles must be prefixed with “SoK:”.</li>
+  <li><strong>Short Papers</strong>: Concise papers presenting preliminary but promising research results, innovative ideas, proof-of-concept implementations, or focused case studies. Page limit: 6 pages of main text, including references.</li>
+  <li><strong>Poster &amp; Demo Papers</strong>: Papers describing work-in-progress, system demonstrations, educational tools, or practical security implementations relevant to the AI security community. Page limit: 4 pages of main text, including references.</li>
+</ol>
+
+<hr />
+
+<h2 id="4-important-dates">4. Important Dates</h2>
+
+<p>All deadlines are <strong>23:59 Anywhere on Earth (AoE, UTC-12)</strong>. No extensions will be granted for any deadlines.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Deadline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Abstract Registration Mandatory Deadline</td>
+      <td>August 13, 2026</td>
+    </tr>
+    <tr>
+      <td>Full Paper Submission Deadline</td>
+      <td>August 20, 2026</td>
+    </tr>
+    <tr>
+      <td>Conflict of Interest (COI) Declaration Deadline</td>
+      <td>August 27, 2026</td>
+    </tr>
+    <tr>
+      <td>Rebuttal Period</td>
+      <td>October 31 – November 3, 2026</td>
+    </tr>
+    <tr>
+      <td>Acceptance Notification</td>
+      <td>November 7, 2026</td>
+    </tr>
+    <tr>
+      <td>Camera-Ready Paper &amp; Copyright Form Submission</td>
+      <td>November 28, 2026</td>
+    </tr>
+    <tr>
+      <td>Author Registration Deadline</td>
+      <td>December 5, 2026</td>
+    </tr>
+    <tr>
+      <td>Artifact Submission Deadline</td>
+      <td>December 2, 2026</td>
+    </tr>
+    <tr>
+      <td>Conference Dates</td>
+      <td>December 19–22, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="5-submission-policies--guidelines">5. Submission Policies &amp; Guidelines</h2>
+
+<h3 id="51-format-requirements">5.1 Format Requirements</h3>
+
+<ul>
+  <li>All submissions must be in PDF format, typeset in <strong>two-column, 10-point Times Roman font on 12-point leading</strong>, using the official IEEE Computer Society Proceedings LaTeX template (<code class="language-plaintext highlighter-rouge">\documentclass[conference,compsoc]{IEEEtran}</code>). The template is available for download on the conference website.</li>
+  <li>Manuscripts must be in English, with clear logical structure, proper academic formatting, and intelligible figures and tables when printed in grayscale.</li>
+  <li>Papers that exceed the page limit or violate formatting requirements will be <strong>desk-rejected without review</strong>.</li>
+</ul>
+
+<h3 id="52-double-blind-review--anonymity-policy">5.2 Double-Blind Review &amp; Anonymity Policy</h3>
+
+<p>AISecP 2026 employs a <strong>strict double-blind peer review process</strong>. Failure to comply with anonymity requirements will result in immediate desk rejection.</p>
+
+<ul>
+  <li>The title page, main text, appendices, and supplementary materials must <strong>not contain any author names, affiliations, funding numbers, acknowledgments, or any other identifying information</strong>.</li>
+  <li>When referencing your own prior work, you must cite it in the third person, as if it were written by unrelated authors. Self-citations that reveal author identity are strictly prohibited.</li>
+  <li>Links to supplementary materials (code, datasets, etc.) must be to <strong>anonymized repositories</strong> (e.g., Anonymous GitHub). The linked content must not contain any identifying information about the authors.</li>
+  <li>Authors may post preprints of their work on arXiv or other platforms, but <strong>must not update the preprint during the review period, must not include a link to the submitted paper, and must not publicize the submission to the conference</strong>. Preprints must not be used to reveal author identity to reviewers.</li>
+</ul>
+
+<h3 id="53-originality--dual-submission-policy">5.3 Originality &amp; Dual Submission Policy</h3>
+
+<ul>
+  <li>All submissions must be <strong>original, unpublished work</strong>, and must not be under review at any other conference, journal, or publication venue at the time of submission. Concurrent dual submission is strictly prohibited.</li>
+  <li>Submissions may not extend work that has been previously published in a peer-reviewed venue, unless the extension contains significant novel contributions (at least 30% new technical content) and clearly cites the prior work.</li>
+  <li>Papers that violate the originality policy will be rejected immediately, and the authors will be reported to their institutions.</li>
+</ul>
+
+<h3 id="54-conflict-of-interest-coi-policy">5.4 Conflict of Interest (COI) Policy</h3>
+
+<p>All authors must declare all potential conflicts of interest with Program Committee (PC) members during the abstract registration phase, in accordance with IEEE TCSP guidelines. A conflict of interest exists if:</p>
+
+<ul>
+  <li>A PC member is a co-author of the paper.</li>
+  <li>A PC member has been affiliated with the same institution as any author within the past 2 years.</li>
+  <li>A PC member has collaborated on a research publication with any author within the past 2 years.</li>
+  <li>A PC member has a close personal or professional relationship with any author that could bias the review process.</li>
+  <li>For student authors, a conflict exists with their PhD supervisors and members of their home research group.</li>
+</ul>
+
+<p>Failure to declare all relevant COIs will result in desk rejection of the paper.</p>
+
+<h3 id="55-ethics--responsible-research-policy">5.5 Ethics &amp; Responsible Research Policy</h3>
+
+<p>All submissions must adhere to the highest standards of ethical research.</p>
+
+<ul>
+  <li>Research involving human subjects must include a statement confirming that the study was approved by the relevant Institutional Review Board (IRB) and that informed consent was obtained from participants.</li>
+  <li>Papers describing offensive security research (e.g., LLM jailbreaking, adversarial attacks) must include a responsible disclosure plan, a detailed discussion of mitigation strategies, and a clear justification for the public benefit of the work. We will not accept papers that only present harmful attacks without corresponding defenses.</li>
+  <li>Authors must disclose any potential biases, limitations, or negative societal impacts of their research.</li>
+  <li>Papers that violate ethical guidelines will be rejected immediately, regardless of technical merit.</li>
+</ul>
+
+<h3 id="56-reproducibility--artifact-policy">5.6 Reproducibility &amp; Artifact Policy</h3>
+
+<p>AISecP 2026 prioritizes the reproducibility of research results.</p>
+
+<ul>
+  <li>All submissions are strongly encouraged to include anonymized supplementary materials (code, datasets, experimental configurations, etc.) to support reproducibility at the time of submission.</li>
+  <li>All accepted papers are <strong>required to submit their artifacts</strong> for availability verification by the Artifact Evaluation Committee (AEC). Authors are expected to openly share their artifacts, or provide a clear justification for why sharing is not possible (e.g., proprietary data, legal restrictions).</li>
+  <li>Authors may optionally submit their artifacts for full functionality and reproducibility assessment. Accepted artifacts will receive official badges, and outstanding artifacts will be awarded the Distinguished Artifact Award.</li>
+  <li>Artifact submission will not affect the paper review process, as artifacts will only be shared with the AEC after paper acceptance decisions are finalized.</li>
+</ul>
+
+<h3 id="57-use-of-generative-ai-tools">5.7 Use of Generative AI Tools</h3>
+
+<p>Authors may use generative AI tools (e.g., large language models) for limited assistance in language editing or code completion. However, authors are fully responsible for the accuracy, originality, and integrity of all submitted content.</p>
+
+<p>Generative AI tools may not be listed as authors. Submissions containing fabricated results, fake citations, or AI-generated content without proper human verification may be rejected for academic misconduct.</p>
+
+<hr />
+
+<h2 id="6-review-process">6. Review Process</h2>
+
+<p>All valid submissions will undergo a rigorous, multi-stage review process aligned with the top cybersecurity conferences:</p>
+
+<ol>
+  <li><strong>Desk Reject Screening</strong>: The Program Chairs will first screen all submissions for compliance with formatting, anonymity, originality, and scope requirements. Non-compliant papers will be desk-rejected without entering the full review process.</li>
+  <li><strong>PC Review</strong>: Each valid submission will be assigned to at least 3 independent PC members with relevant expertise, and will receive at least 3 detailed peer reviews. Reviews will be based on <strong>novelty, technical rigor, scientific soundness, real-world impact, and clarity of presentation</strong>.</li>
+  <li><strong>Rebuttal Phase</strong>: Authors will have a 4-day window to respond to factual errors or misunderstandings in the reviews. Authors may not add new technical content or experimental results during the rebuttal period.</li>
+  <li><strong>PC Meeting</strong>: The Program Committee will hold a virtual meeting to discuss all submissions, taking into account the reviews and author rebuttals, and make final acceptance decisions.</li>
+  <li><strong>Final Notification</strong>: Authors will be notified of acceptance or rejection, along with the full set of reviews and detailed feedback.</li>
+</ol>
+
+<hr />
+
+<h2 id="7-publication--indexing">7. Publication &amp; Indexing</h2>
+
+<ul>
+  <li>Accepted papers will be submitted for inclusion into <strong>IEEE Xplore</strong>, subject to IEEE approval.</li>
+  <li>Proceedings will be submitted for indexing to <strong>EI Compendex, Scopus, and the Computer Science Bibliography (DBLP)</strong>.</li>
+  <li>Selected high-quality papers may be invited to submit extended versions to <strong>special issues of reputable journals in cybersecurity and AI security.</strong></li>
+  <li>Accepted papers will be made available via open access on the conference website after the conference, in compliance with IEEE open access policies.</li>
+</ul>
+
+<hr />
+
+<h2 id="8-registration--presentation-requirements">8. Registration &amp; Presentation Requirements</h2>
+
+<ul>
+  <li>At least <strong>one author of each accepted paper must complete full conference registration by the author registration deadline</strong>. Student registrations are only eligible for papers where the first author is a full-time student.</li>
+  <li>Every accepted paper must be presented at the conference, either via an oral presentation (for Research and SoK papers) or a poster presentation (for Short, Poster &amp; Demo papers).</li>
+  <li>Papers without a registered author and a confirmed presentation will be <strong>removed from the proceedings and the IEEE Xplore Digital Library</strong>, and will not be indexed. No exceptions will be made.</li>
+  <li>Registration fees, policies, and details are available on the official conference website.</li>
+</ul>
+
+<hr />
+
+<h2 id="9-awards">9. Awards</h2>
+
+<p>AISecP 2026 will present the following awards to recognize outstanding research contributions:</p>
+
+<ul>
+  <li>Best Paper Award</li>
+  <li>Best Student Paper Award (for papers where the first author is a full-time student)</li>
+  <li>Best SoK Paper Award</li>
+  <li>Distinguished Artifact Award</li>
+  <li>Best Poster Award</li>
+  <li>Best Demo Award</li>
+</ul>
+
+<p>All award winners will receive official certificates from the IEEE Computer Society, and selected winners will receive cash prizes and travel grants to support their attendance at the conference.</p>
+
+<hr />
+
+<h2 id="10-organizing-committee">10. Organizing Committee</h2>
+
+<h3 id="general-chairs">General Chairs</h3>
+
+<ul>
+  <li>LXH, Sichuan University, China</li>
+  <li>YJ, Sichuan University, China</li>
+  <li>YHJ, Sichuan University, China</li>
+</ul>
+
+<h3 id="program-committee-chairs">Program Committee Chairs</h3>
+
+<ul>
+  <li>LXH, Sichuan University, China</li>
+</ul>
+
+<h3 id="artifact-evaluation-committee-chairs">Artifact Evaluation Committee Chairs</h3>
+
+<ul>
+  <li>YJ, Sichuan University, China</li>
+</ul>
+
+<h3 id="organizing-committee-chair">Organizing Committee Chair</h3>
+
+<ul>
+  <li>YHJ, Sichuan University, China</li>
+</ul>
+
+<h3 id="program-committee">Program Committee</h3>
+
+<p>The full list of Program Committee members is available on the conference website: https://aisecp2026.org/committee</p>
+
+<hr />
+
+<h2 id="11-contact--code-of-conduct">11. Contact &amp; Code of Conduct</h2>
+
+<h3 id="general-inquiries">General Inquiries</h3>
+
+<p>Email: info@aisecp2026.org</p>
+
+<h3 id="program-committee-inquiries">Program Committee Inquiries</h3>
+
+<p>Email: pc-chairs@aisecp2026.org</p>
+
+<h3 id="code-of-conduct">Code of Conduct</h3>
+
+<p>AISecP 2026 follows the IEEE Code of Conduct and the ACM Anti-Harassment Policy. All conference participants, including authors, reviewers, and attendees, are expected to adhere to these policies. The full code of conduct is available on the conference website. Violations will be addressed promptly, including removal from the conference and reporting to relevant institutions.</p>
+:ET

@@ -1,0 +1,80 @@
+I"�<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The proliferation of large-scale networked systems—spanning cloud platforms, edge computing infrastructures, Internet-of-Things (IoT) ecosystems, and 5G/6G networks—has introduced unprecedented cybersecurity challenges. Meanwhile, Artificial Intelligence (AI) and Machine Learning (ML) techniques have demonstrated remarkable potential in automating threat detection, vulnerability analysis, and adaptive defense. However, AI itself also introduces new attack surfaces, including adversarial machine learning, model poisoning, and privacy leakage through inference attacks.</p>
+
+<p>The <strong>International Workshop on AI-Driven Security for Networked Systems (AISec-Net)</strong> aims to bring together researchers, practitioners, and industry professionals to explore the intersection of AI/ML and cybersecurity in the context of modern networked systems. The workshop focuses on both leveraging AI to enhance network security and understanding the security risks introduced by AI components embedded in networked environments.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>AISec-Net 2026 solicits original research contributions on topics including but not limited to:</p>
+
+<ul>
+  <li>AI/ML for network intrusion detection and anomaly detection</li>
+  <li>
+    <p>Malware traffic analysis and threat intelligence using AI</p>
+  </li>
+  <li>Reinforcement learning for adaptive network defense</li>
+  <li>Large language models (LLMs) for cybersecurity applications</li>
+  <li>Adversarial attacks and defenses for AI systems</li>
+  <li>Privacy-preserving and trustworthy AI in networked environments</li>
+  <li>AI security for SDN, NFV, 5G/6G, and edge computing</li>
+  <li>AI-driven security for IoT, CPS, and vehicular networks</li>
+  <li>Blockchain and decentralized AI for secure networking</li>
+  <li>Benchmark datasets, explainable AI, and evaluation frameworks for cybersecurity</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<h2 id="paper-format">Paper Format</h2>
+
+<ul>
+  <li>All submissions must follow the <strong>IEEE Conference Proceedings format</strong> (double-column, 10pt font). LaTeX and Word templates are available on the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE Author Tools page</a>.</li>
+  <li><strong>Full papers</strong>: up to <strong>10 pages</strong>, excluding references and appendices.</li>
+  <li><strong>Short papers / Work-in-Progress</strong>: up to <strong>6 pages</strong>, excluding references and appendices.</li>
+  <li><strong>Systematization of Knowledge (SoK) papers</strong>: up to <strong>12 pages</strong>, excluding references. SoK submissions must include the prefix “SoK:” in the title.</li>
+  <li>Appendices may be included but will be read at the discretion of the reviewers.</li>
+</ul>
+
+<h2 id="review-process">Review Process</h2>
+
+<ul>
+  <li>The review process will be <strong>double-blind</strong>. Authors must remove their names, affiliations, and any identifying information from the submitted document. Self-citations should be written in the third person.</li>
+  <li>Each submission will be reviewed by at least <strong>three</strong> members of the Technical Program Committee (TPC).</li>
+  <li>Papers will be evaluated on the basis of <strong>originality, technical soundness, significance, relevance to the workshop themes, clarity of presentation</strong>, and <strong>reproducibility</strong>.</li>
+  <li>The workshop adopts a <strong>one-shot revision</strong> policy: borderline papers may receive a conditional accept with a required revision, which will be verified by a shepherd before final acceptance.</li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<ul>
+  <li>Submissions must be in Portable Document Format (.pdf).</li>
+  <li>Submissions must represent <strong>original, unpublished work</strong> that is not currently under review at any other venue. Concurrent submissions to journals, conferences, or other workshops are <strong>not permitted</strong>.</li>
+  <li>Accepted papers will be published in the <strong>IEEE Workshop Proceedings</strong> and made available through <strong>IEEE Xplore Digital Library</strong>.</li>
+  <li>At least one author of each accepted paper must register for the workshop and present the paper in person.</li>
+</ul>
+
+<h2 id="open-science-policy">Open Science Policy</h2>
+
+<ul>
+  <li>Authors are strongly encouraged to make their code, datasets, and experimental artifacts publicly available upon acceptance to promote reproducibility. Papers with available artifacts will be eligible for the <strong>Artifact Evaluation Badge</strong>.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p>All deadlines are <strong>11:59 PM AoE (Anywhere on Earth)</strong>.</p>
+
+<ul>
+  <li><strong>Abstract Registration Deadline</strong>: June 1, 2026</li>
+  <li><strong>Full Paper Submission Deadline</strong>: June 8, 2026</li>
+  <li><strong>Author Notification</strong>: July 3, 2026</li>
+  <li><strong>Camera-Ready Deadline</strong>: July 25, 2026</li>
+  <li><strong>Workshop Dates</strong>: September 15–16, 2026</li>
+</ul>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Yanxi He, Sichuan University</li>
+  <li>Yinuo Jin, Sichuan University</li>
+</ul>
+:ET

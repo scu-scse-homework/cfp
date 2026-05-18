@@ -1,0 +1,57 @@
+I"�<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The Symposium on Data Security (SDS 2025) invites submissions of original research addressing challenges and innovations in data security and privacy. This symposium serves as a platform for graduate students to present their work, receive feedback, and engage with peers and experts in the field. Submissions should focus on novel theoretical, practical, or empirical contributions to data security.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>Submissions are solicited in all areas of data security, including but not limited to:</p>
+
+<ul>
+  <li>Applied Cryptography</li>
+  <li>Data-Driven Security and Measurement Studies</li>
+  <li>Privacy-Preserving Computation</li>
+  <li>Data Anonymity and Transparency</li>
+  <li>Secure Data Storage and Transmission</li>
+  <li>Data Integrity and Authentication</li>
+  <li>Machine Learning for Data Security</li>
+  <li>Threat Detection and Mitigation in Data Systems</li>
+  <li>Ethical and Legal Considerations in Data Handling</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<h2 id="paper-format-and-page-limits">Paper Format and Page Limits</h2>
+
+<p>Submitted papers may include up to 13 pages of text and up to 5 pages for references and appendices, totaling no more than 18 pages. All text and figures past page 13 must be clearly marked as part of the appendix. The final camera-ready paper must be no more than 18 pages, although, at the PC chairs’ discretion, additional pages may be allowed. Reviewers are not required to read appendices.</p>
+
+<p>Papers must be formatted for US letter (not A4) size paper. All submissions must use the IEEE “compsoc” conference proceedings template.  LaTeX submissions using the IEEE templates must use IEEEtran.cls version 1.8b with options “conference,compsoc.” (That is, begin your LaTeX document with the line \documentclass[conference,compsoc]{IEEEtran}.). See the “IEEE Demo Template for Computer Society Conferences” <a href="https://www.overleaf.com/latex/templates/ieee-demo-template-for-computer-society-conferences/hzzszpqfkqky">Overleaf template</a> for an example. We are not aware of an MS Word template that matches this style.</p>
+
+<p>Papers that fail to use the “compsoc” template (including using the non-compsoc IEEE conference template), modify margins, font, or line spacing, or use egregious space scrunching are subject to rejection without review. <strong>Authors are responsible for verifying the paper format (e.g., compare with the above linked Overleaf template)</strong>. Note that some LaTeX packages (e.g., \usepackage{usenix}) override the compsoc formatting and must be removed.</p>
+
+<p>Submissions must be in Portable Document Format (.pdf). Links to submission</p>
+
+<p>servers:<a href="https://easychair.org/my/conference?conf=sds2025012">https://easychair.org/my/conference?conf=sds2025012</a></p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li><strong>Paper submissions due</strong>: Wednesday, June 4, 2025, 23:59</li>
+  <li><strong>Notification to authors</strong>: Wednesday, June 18, 2025</li>
+  <li><strong>Camera-ready deadline</strong>: Friday, June 20, 2025</li>
+  <li><strong>Start of Conference</strong>: Tuesday, June 24, 2025</li>
+  <li><strong>End of Conference</strong>: Wednesday, June 25, 2025</li>
+</ul>
+
+<h2 id="publication-and-presentation">Publication and Presentation</h2>
+
+<p>Accepted papers will be published in the symposium proceedings. At least one author must register and present the work virtually via a live or pre-recorded session.</p>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Kechao Su, Sichuan University</li>
+  <li>Jie Li, Sichuan University</li>
+  <li>Haocheng Pei, Sichuan University</li>
+</ul>
+
+:ET

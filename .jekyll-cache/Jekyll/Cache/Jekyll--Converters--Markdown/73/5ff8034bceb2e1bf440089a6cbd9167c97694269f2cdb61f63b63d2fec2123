@@ -1,0 +1,74 @@
+I"<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The <strong>Workshop on Digital Watermarking 2026 (DWM 2026)</strong> invites original submissions on the theory, design, implementation, and evaluation of digital watermarking techniques. The workshop focuses on research problems arising from copyright protection, media authentication, tamper detection, provenance tracking, and trustworthy dissemination of digital content.</p>
+
+<p>DWM 2026 aims to provide a focused venue for researchers and practitioners working on watermarking in images, video, audio, text, and multimodal content. With the rapid growth of generative models and large-scale online media platforms, watermarking is increasingly important for content ownership verification, traceability, and the detection of manipulated or synthetic media. The workshop welcomes both foundational and applied work.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>Topics of interest include, but are not limited to, the following:</p>
+
+<ul>
+  <li>Robust watermarking for image, audio, video, text, and multimodal data</li>
+  <li>Fragile watermarking for integrity verification and tamper localization</li>
+  <li>Watermarking methods for AI-generated and synthetic content</li>
+  <li>Blind, semi-blind, and informed detection or extraction techniques</li>
+  <li>Reversible data hiding and lossless watermarking schemes</li>
+  <li>Watermark security models, attacks, and removal resistance</li>
+  <li>Adversarial analysis of watermark embedding and detection</li>
+  <li>Watermarking for copyright management and ownership verification</li>
+  <li>Content provenance, traceability, and distribution tracking</li>
+  <li>Watermark deployment in social media, cloud, and streaming systems</li>
+  <li>Privacy, fairness, and ethical issues in watermark applications</li>
+  <li>Datasets, benchmarks, evaluation metrics, and reproducibility studies</li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<ul>
+  <li>Submissions must describe original, unpublished work that is not under review by any other conference, workshop, or journal.</li>
+  <li>The review process is <strong>double-blind</strong>. Submitted manuscripts must not reveal the identities or affiliations of the authors.</li>
+  <li>Each paper will be evaluated by at least <strong>two reviewers</strong> on originality, technical soundness, significance, clarity of presentation, and relevance to the workshop.</li>
+  <li>Manuscripts must be written in <strong>English</strong>, prepared in <strong>PDF</strong> format, and follow the standard <strong>IEEE two-column conference template</strong>.</li>
+  <li>The maximum length is <strong>6 pages</strong>, excluding references. Authors may include an appendix only for supplementary, non-essential material.</li>
+  <li>Accepted papers will be included in the workshop program and presented either as oral presentations or posters, depending on the final scheduling.</li>
+  <li>At least one author of each accepted paper must complete registration and present the paper at the workshop.</li>
+  <li>Submission instructions and the final submission link will be announced by the organizing committee.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paper submission deadline</td>
+      <td>September 15, 2026</td>
+    </tr>
+    <tr>
+      <td>Review notification</td>
+      <td>October 20, 2026</td>
+    </tr>
+    <tr>
+      <td>Camera-ready deadline</td>
+      <td>November 5, 2026</td>
+    </tr>
+    <tr>
+      <td>Workshop date</td>
+      <td>November 28, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>Zhenying Wu, Sichuan University</li>
+  <li>Jie Xiong, Sichuan University</li>
+</ul>
+:ET

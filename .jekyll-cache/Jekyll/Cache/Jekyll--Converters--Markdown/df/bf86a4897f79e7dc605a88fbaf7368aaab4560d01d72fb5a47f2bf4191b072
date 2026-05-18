@@ -1,0 +1,57 @@
+I"R<h2 id="call-for-papers">Call for Papers</h2>
+
+<p>Smart phone has become an indispensable tool in People’s Daily work and life with its powerful information processing ability and fast and portable performance. In recent years, a growing number of people use smart phones to communicate, send and receive emails, manage company business, conduct online banking, invest in stocks, shop online and so on. Smartphone development and applications are exploding.</p>
+
+<p>The personalized and diversified applications provided by mobile Internet have greatly enriched people’s lives. However, the security of smart mobile terminals is also facing severe challenges. Spam messages, mobile phone viruses, malicious software and other phenomena are becoming increasingly rampant, bringing great trouble to the users of smart terminals. As a result, the security of smartphones and related mobile systems has become a major concern and the focus of many research institution-funded studies.</p>
+
+<p>The purpose of this workshop is to bring together researchers from different fields with a focus on security, privacy, and digital forensics of mobile systems and networks, including but not limited to Android, iOS and Windows Mobile operating systems, smartphones and applications for these platforms and devices, as well as cellular networks. And design innovative solutions with the help of the most advanced related technologies.</p>
+
+<p>Topics of interests include (but are not limited to) :</p>
+<ul>
+  <li>Android, iOS, and Windows Mobile security and privacy</li>
+  <li>Digital forensics on mobile operating systems, applications, and smartphones</li>
+  <li>Intrusion detection and recovery on mobile OS, applications, smartphones, and cellular networks</li>
+  <li>Mobile application security and digital forensics</li>
+  <li>Mobile user authentication and authorization</li>
+  <li>Multi-factor mobile authentication</li>
+  <li>Mobile user privacy</li>
+  <li>Mobile vulnerability detection and remediation</li>
+  <li>Mobile device management</li>
+  <li>Secure mobile application development</li>
+  <li>Secure mobile edge and edge computing</li>
+  <li>Smartphone device/hardware security</li>
+  <li>Social network security and privacy</li>
+  <li>Secure cloud for mobile environment</li>
+  <li>4G and 5G security</li>
+</ul>
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+<h3 id="paper-format">Paper Format</h3>
+<p>Submissions must be a PDF file in double-column ACM format. It should be at most 6 print pages (about 3000-3500 words plus 4-6 average size tables and figures), have at most 18 references, and be understandable to a broad audience interested in security, privacy and dependability. The writing style should be down-to-earth, practical, and original. Note that reviewers are not required to read the appendices, authors should ensure that the body part of the paper is complete and self-contained.</p>
+
+<h3 id="review-policy">Review Policy</h3>
+<p>All submissions must comply with the “double blind” review policy. This means that the reviewer does not know who the author is, and the author does not know who the reviewer of the paper is. Please prepare your paper according to the following requirements.</p>
+
+<ul>
+  <li>Do not put the author’s name under the title.</li>
+  <li>Avoid phrases such as “our previous work” when referring to the author’s earlier publications.</li>
+  <li>Remove information that might identify the author in the acknowledgments.</li>
+  <li>Avoid links to author-identifying sites.</li>
+</ul>
+
+<p><strong>Please note any papers that violate the formatting requirements or review policy will be rejected.</strong></p>
+
+<h2 id="important-dates">Important Dates</h2>
+<ul>
+  <li><strong>Paper submission deadline:</strong> 1st, June</li>
+  <li><strong>Notification of Acceptance:</strong>  8th, June</li>
+  <li><strong>Publication:</strong> As per the policy of journal</li>
+</ul>
+
+<h2 id="guest-editors">Guest Editors</h2>
+<p><strong>Yilin Zhang</strong>, Sichuan University, China</p>
+
+<p><strong>Kaiyan Xing</strong>, Sichuan University, China</p>
+
+<p><strong>Linrui Li</strong>, Sichuan University, China</p>
+:ET

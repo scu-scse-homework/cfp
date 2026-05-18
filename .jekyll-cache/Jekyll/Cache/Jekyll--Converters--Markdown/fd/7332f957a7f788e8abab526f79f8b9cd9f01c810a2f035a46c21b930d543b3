@@ -1,0 +1,120 @@
+I"�<h1 id="call-for-papers">Call for Papers</h1>
+
+<p>The Workshop on Trustworthy Generative Media and Deepfake Defense (TGMDD) invites original research, system designs, datasets, benchmarks, and position papers on the security, reliability, and governance of AI-generated media. The rapid progress of generative models has made synthetic images, videos, voices, and multimodal content easier to create and harder to verify. These advances bring useful creative and educational applications, but they also create new risks for identity abuse, misinformation, financial fraud, copyright infringement, and evidence tampering.</p>
+
+<p>TGMDD aims to provide a focused forum for researchers and practitioners in cybersecurity, machine learning, multimedia forensics, privacy, and human-computer interaction. The workshop welcomes work that improves the detection, attribution, robustness, interpretability, and responsible deployment of generative media systems. We especially encourage submissions that connect technical methods with realistic threat models, measurable evaluation protocols, and practical deployment constraints.</p>
+
+<h1 id="topics-of-interest">Topics of Interest</h1>
+
+<p>Relevant topics include, but are not limited to:</p>
+
+<ul>
+  <li>Deepfake image, video, audio, and multimodal content detection</li>
+  <li>Robustness and generalization of synthetic media detectors</li>
+  <li>Cross-dataset, cross-model, and open-world evaluation protocols</li>
+  <li>Watermarking, provenance tracking, and content authentication</li>
+  <li>Identity consistency modeling for face and voice forgery detection</li>
+  <li>Adversarial attacks and defenses for media forensic systems</li>
+  <li>Dataset construction, annotation quality, and benchmark design</li>
+  <li>Detection of AI-generated text-image-video misinformation</li>
+  <li>Privacy-preserving and federated approaches to media forensics</li>
+  <li>Explainability, uncertainty estimation, and human-centered verification</li>
+  <li>Security risks of diffusion models, GANs, and multimodal large language models</li>
+  <li>Legal, ethical, and social implications of generative media abuse</li>
+  <li>Practical systems for moderation, incident response, and digital evidence analysis</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p>Submissions should present original, unpublished work or clearly identified work-in-progress. Papers may be submitted in English or Chinese, but the title, abstract, and author information should include English versions to support international review and indexing.</p>
+
+<p>All submissions must be prepared in PDF format using a standard double-column conference template such as ACM <code class="language-plaintext highlighter-rouge">sigconf</code> or IEEE conference style. Authors should not change margins, fonts, or line spacing. The workshop accepts the following paper types:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Paper Type</th>
+      <th style="text-align: right">Page Limit</th>
+      <th>Expected Contribution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Full paper</td>
+      <td style="text-align: right">8 pages plus references</td>
+      <td>Completed research with clear methodology, evaluation, and discussion</td>
+    </tr>
+    <tr>
+      <td>Short paper</td>
+      <td style="text-align: right">4 pages plus references</td>
+      <td>Early results, focused technical contributions, or negative results</td>
+    </tr>
+    <tr>
+      <td>Position paper</td>
+      <td style="text-align: right">4 pages plus references</td>
+      <td>Well-argued perspectives on emerging challenges, policy, benchmarks, or deployment</td>
+    </tr>
+    <tr>
+      <td>Dataset or system paper</td>
+      <td style="text-align: right">6 pages plus references</td>
+      <td>Reusable datasets, tools, benchmarks, or operational systems with documentation</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Submissions should include a concise abstract, a clear problem statement, related work, method or system design, evaluation setup, key results, limitations, and broader impact when applicable. Dataset and system papers should describe availability, licensing, intended use, and known risks.</p>
+
+<p>TGMDD uses double-blind peer review. Submitted papers must be anonymized and should not include author names, affiliations, acknowledgments, or obvious self-identifying statements. Each submission will receive at least three reviews. Reviewers will evaluate relevance, technical soundness, novelty, clarity, reproducibility, ethical consideration, and potential impact on trustworthy generative media research.</p>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<p>All deadlines are 23:59 Anywhere on Earth (AoE).</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Milestone</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paper registration deadline</td>
+      <td>September 15, 2026</td>
+    </tr>
+    <tr>
+      <td>Submission deadline</td>
+      <td>September 22, 2026</td>
+    </tr>
+    <tr>
+      <td>Review notification</td>
+      <td>October 30, 2026</td>
+    </tr>
+    <tr>
+      <td>Camera-ready deadline</td>
+      <td>November 13, 2026</td>
+    </tr>
+    <tr>
+      <td>Workshop date</td>
+      <td>December 12, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="review-and-publication-policy">Review and Publication Policy</h1>
+
+<p>Accepted papers will be presented as oral talks or posters. At least one author of each accepted paper must register for the workshop and present the work. The workshop will publish accepted papers on the workshop website. Authors may choose whether to include their papers in a formal online proceeding, subject to the publication policy of the host conference.</p>
+
+<p>Papers that involve human subjects, personal data, biometric information, or realistic impersonation scenarios must clearly describe ethical safeguards. Work that releases datasets or tools should discuss potential misuse and provide reasonable access control, redaction, or documentation when necessary.</p>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>张佳宁, <em>School of Cyber Science and Engineering, Sichuan University</em>, China</li>
+  <li>吴传旭, <em>School of Cyber Science and Engineering, Sichuan University</em>, China</li>
+</ul>
+
+<h1 id="contact">Contact</h1>
+
+<p>Questions about submissions, reviewing, and workshop organization can be sent to the workshop organizers through the submission system or by email after the workshop website is announced.</p>
+:ET

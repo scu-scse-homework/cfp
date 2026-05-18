@@ -1,0 +1,109 @@
+I"@<h1 id="wisp-2022-call-for-papers">WISP 2022 Call For Papers</h1>
+<p>In recent years, the vicious incidents about information security and privacy have increased in numbers and sophistication. We witnessed the disclosure of NSA PRISM, the data breach of 533 million Facebook users, and the crimes of cryptocurrency, which were only a few examples in a long list of threats. Furthermore, the emergence and rapid development of various new technologies, while providing convenience and creativity, have also brought more risks, especially in artificial intelligence, machine learning, big data, cloud computing, Internet of Things (IoT) and blockchain, etc. As a result, information security and privacy has already become an issue of high concern.</p>
+
+<p>WISP is an upcoming workshop where researchers from different groups have the opportunity to showcase their cutting-edge innovations in information security and privacy-preserving technologies.This workshop aims to build a bridge for researchers from different communities and solicit their latest research advances in information security, privacy-preserving technologies, and specific application for mitigating breach of inforamation. We invite individuals to submit research articles, case studies, position papers, research-in-progress, and panel discussion proposals that address all interesting aspects of information security and privacy.</p>
+
+<h1 id="topics-of-interest">Topics of Interest</h1>
+<p>Topics of interest to W include but are not limited to the following:</p>
+<ul>
+  <li>Applications of cryptography
+    <ul>
+      <li>New cryptographic protocols with real-world application</li>
+      <li>Analysis of deployed cryptography and cryptographic protocols</li>
+      <li>Cryptographic implementation analysis</li>
+    </ul>
+  </li>
+  <li>Privacy-enhancing technologies, anonymity, and censorship</li>
+  <li>Authentication, access control, and authorization</li>
+  <li>Machine learning security and privacy
+    <ul>
+      <li>Privacy-preserving Federated Learning</li>
+      <li>Attacks against privacy with novel insights, techniques, or results</li>
+      <li>Privacy-enhancing technologies for machine learning</li>
+    </ul>
+  </li>
+  <li>Security and privacy in wireless networks
+    <ul>
+      <li>Security challenges related to SDN/SDMN</li>
+      <li>Network function virtualization related security issues</li>
+      <li>MEC and related security issues</li>
+      <li>Network slicing related security issues</li>
+      <li>End-to-End data privacy, etc.</li>
+    </ul>
+  </li>
+  <li>Blockchains and distributed ledger security and privacy</li>
+  <li>Security and privacy in cloud computing</li>
+  <li>Distributed systems data security</li>
+  <li>Data security and privacy protection for IoT</li>
+  <li>Security and privacy metrics
+    <ul>
+      <li>Security architectures for sensitive information systems</li>
+      <li>Analysis of network and security protocol</li>
+      <li>Network infrastructure data security</li>
+    </ul>
+  </li>
+  <li>Social issues and information security
+    <ul>
+      <li>Protecting and understanding at-risk users</li>
+      <li>Emerging threats, harassment, extremism, and online abuse</li>
+      <li>Information manipulation, misinformation, and disinformation</li>
+    </ul>
+  </li>
+  <li>Data security and privacy policies
+    <ul>
+      <li>Research on surveillance and censor</li>
+      <li>Research on information security law and policies
+WISP welcomes submissions on inter-disciplinary work, as long as there are clear contributions to information security and privacy.</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<ul>
+  <li>Submission deadline: May 16, 2022</li>
+  <li>Rebuttal period: May 17-24, 2022</li>
+  <li>Author notification: May 25, 2022</li>
+  <li>Resubmission of revised papers: May 31, 2022</li>
+  <li>Final acceptance/rejection notification: June 7 , 2022</li>
+  <li>Publication: June 19, 2022</li>
+</ul>
+
+<h1 id="submission-guidelines">Submission Guidelines</h1>
+
+<h3 id="paper-format">Paper Format</h3>
+
+<ul>
+  <li>English submission must be a PDF file in double-column ACM format (see https://www.acm.org/publications/proceedings-template, with a simpler version at https://github.com/acmccs/format), no more than 12 pages long, excluding the bibliography, well-marked appendices, and supplementary material. Note that reviewers are not required to read the appendices or any supplementary material. Authors should not change the font or the margins of the ACM format. Submissions not following the required format may be rejected without review.</li>
+  <li>For submission in Chinese, please use the template of the Engineering Science Edition of the Journal of Sichuan University(Get it from additional link:https://jsuese.scu.edu.cn/jsuese_cn/ch/reader/view_news.aspx?id=20171225053712633)</li>
+</ul>
+
+<h3 id="manuscript-multisubmission-and-manuscript-multipublication">Manuscript Multisubmission And Manuscript Multipublication</h3>
+
+<p>Submitted papers must not substantially overlap with papers that have been published or accepted for publication, or that are simultaneously in submission to a journal, conference, or workshop with published proceedings.</p>
+
+<h3 id="anonymous-submission">Anonymous Submission</h3>
+
+<p>The review process will be double-blind. Papers must be submitted in a form suitable for anonymous review:</p>
+
+<ul>
+  <li>The title page should not contain any author names or affiliations.</li>
+  <li>Authors should carefully review figures and appendices (especially survey instruments) to ensure affiliations are not accidentally included.</li>
+  <li>When referring to your previous work, do so in the third person, as though it were written by someone else. Only blind the reference itself in the (unusual) case that a third-person reference is infeasible</li>
+  <li>Authors may include links to websites that contain source code, tools, or other supplemental material. Neither the link in the paper nor the website itself should contain the authors’ names or affiliations.</li>
+</ul>
+
+<p>Papers that are not properly anonymized may be rejected without review.</p>
+
+<h1 id="publication--presentation">Publication &amp; Presentation</h1>
+<p>Authors are responsible for obtaining appropriate publication clearances. One of the authors of the accepted paper is expected to present the paper at the conference.</p>
+
+<h1 id="organizer">Organizer</h1>
+<p>Sichuan University，School of Cyber Science and Engineering</p>
+
+<h1 id="program-chairpersonseminar-chairperson">Program Chairperson/Seminar Chairperson</h1>
+<ul>
+  <li>Jiawei Wang, Sichuan University, China</li>
+  <li>Xueshi Liu, Sichuan University, China</li>
+</ul>
+:ET

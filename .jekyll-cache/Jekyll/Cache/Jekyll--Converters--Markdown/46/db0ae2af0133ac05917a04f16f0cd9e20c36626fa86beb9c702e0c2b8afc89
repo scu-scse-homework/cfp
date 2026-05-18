@@ -1,0 +1,49 @@
+I"�<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>Neural networks are a powerful machine learning technique that can handle complex data and tasks, such as image recognition, natural language processing, anomaly detection, etc. Cybersecurity is a very important field that involves methods and tools to protect systems, networks and data from digital attacks. With the increase in the scale and complexity of the Internet and cyber attacks, developing new cybersecurity tools has become very important, especially for Internet of Things (IoT) networks. Neural networks provide new opportunities and challenges for cybersecurity, such as how to use neural networks to improve the efficiency, robustness and interpretability of cybersecurity, and how to prevent neural networks themselves from being attacked by adversarial attacks, tampering or stealing.</p>
+
+<p>The NNSS conference aims to promote academic exchange and collaboration in the field of neural networks and cybersecurity, showcase the latest research results and application cases, and discuss future research directions and challenges. We invite SCU students to submit original, unpublished research papers covering but not limited to the following topics:</p>
+
+<ul>
+  <li>Applications of neural networks in cybersecurity tasks such as intrusion detection, malware detection, anomaly detection, etc.</li>
+  <li>Applications of neural networks in cybersecurity technologies such as encryption, privacy protection, blockchain, etc.</li>
+  <li>Security issues and solutions of neural networks in emerging network architectures such as IoT, edge computing, cloud computing, etc.</li>
+  <li>Theory and practice of neural networks in adversarial attacks, adversarial defense, adversarial learning, etc.</li>
+  <li>Research on interpretability, trustworthiness, verifiability, etc. of neural networks in cybersecurity</li>
+  <li>New models, algorithms, frameworks and tools of neural networks in cybersecurity</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p>The review process will be double-blind. The authors must remove their names and
+affiliations in the submitted document.</p>
+
+<p>The submitted paper must be the PDF format.</p>
+
+<ul>
+  <li>Papers should be written in 简体中文 or English and follow the ACM conference format template. See https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc for details.</li>
+  <li>Papers should have more than 4000 words and not exceed 10 pages (including references), with up to 5 pages of appendices (not counted for review).</li>
+  <li>Papers should be submitted through SCU mailbox zhuwenjun@stu.scu.edu.cn.</li>
+  <li>Papers should be original, unpublished or under submission to other conferences or journals.</li>
+  <li>Papers will be reviewed through a peer review process based on quality, originality, relevance and readability.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>Title and abstract Submission 30 April 2023</li>
+  <li>Full Paper Submission deadline 30 May 2023</li>
+  <li>Notification deadline 28 June 2023</li>
+  <li>Start of Workshop 15 July 2023</li>
+  <li>End of Workshop 30 July 2023</li>
+</ul>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Workshop co-chair(s): Wenjun Zhu，Sichuan University</li>
+</ul>
+
+<p><strong>(Only applicable when <code class="language-plaintext highlighter-rouge">only-for-homework</code> is <code class="language-plaintext highlighter-rouge">false</code>)</strong></p>
+
+:ET

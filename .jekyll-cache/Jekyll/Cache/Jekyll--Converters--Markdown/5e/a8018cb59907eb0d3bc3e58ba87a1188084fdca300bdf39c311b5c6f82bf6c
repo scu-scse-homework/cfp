@@ -1,0 +1,111 @@
+I"<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The objective of ICIFS2024 is to foster research in digital forensics and computer security, while also facilitating scientific exchange among researchers, practitioners, scientists, students, and engineers within the broader security domain and its related disciplines.One primary objective is to motivate and empower members of the Internet community to utilize, implement, and progress practical security technologies.</p>
+
+<p>ICIFS2024 will explore various facets of computer security, including multimedia security,machine learning security,software and application security,etc. Emphasis will be placed on innovative technologies, solutions, and methodologies applicable to both offensive and defensive security measures, ultimately driving advancements in computer security.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>Submissions are solicited in all areas related to computer security, including but not limited to:</p>
+
+<ul>
+  <li>Multimedia security(Deep learning for multimedia security,Multimedia steganography and steganalysis,Fake multimedia forensics and anti-forensics)</li>
+  <li>Web Security</li>
+  <li>Machine Learning and Security</li>
+  <li>Image and video forensics</li>
+  <li>Traceability of cyber criminals and forensics(e.g,anti-fraud techniques,anti-phishing)</li>
+  <li>Data Privacy</li>
+  <li>Anomaly detection</li>
+  <li>Security and privacy of systems based on deep learning</li>
+  <li>Software and application security</li>
+  <li>Cloud computing security</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ul>
+  <li>The manuscript should represent the author’s research findings, with data that is both authentic and reliable, possessing significant academic or practical value. It must not have been previously published in any domestic or international journals or conference proceedings, and should not be concurrently submitted elsewhere.</li>
+  <li>Prior to submission, authors are advised to meticulously review the “paper format” guidelines to ensure compliance with the journal’s requirements.</li>
+  <li>Manuscripts should be submitted via email to the journal’s editorial office at alkarssec@gmail.com. Authors are required to provide contact information for all contributors and to prefix the submission title with “ICIFS2024”.</li>
+</ul>
+
+<h2 id="paper-format">Paper Format</h2>
+
+<ul>
+  <li>Submissions must be in English.</li>
+  <li>Manuscripts must adhere to academic standards, including：
+    <ul>
+      <li>Precise argumentation</li>
+      <li>Reliable sources</li>
+      <li>Accurate data</li>
+      <li>Concise language</li>
+    </ul>
+  </li>
+  <li>Manuscripts are limited to:
+    <ul>
+      <li>Review papers:do not exceed 5000 words, which corresponds to approximately 10 to 12 pages.</li>
+      <li>Other sections:do not exceed 4000 words, corresponding to approximately 8 to 10 pages.</li>
+    </ul>
+  </li>
+  <li>LaTeX formatting is mandatory.Templates are available <a href="https://www.overleaf.com/latex/templates/arxiv-and-prime-ai-style-template/qdnhqytdqzsc">here</a> . Authors should ensure their manuscripts adhere to the journal’s formatting guidelines.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">IMPORTANT DATE</th>
+      <th style="text-align: center">DATE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Submission Deadline</td>
+      <td style="text-align: center">June 30, 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Review Results Notification</td>
+      <td style="text-align: center">July 31, 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Revised Manuscript Submission Deadline</td>
+      <td style="text-align: center">September 28, 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Final Review Deadline</td>
+      <td style="text-align: center">August 15, 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Publication Date</td>
+      <td style="text-align: center">September 28, 2024</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>(Outstanding articles may be given priority for online publication on ICIFS)</em></p>
+
+<h1 id="organization">Organization</h1>
+
+<ul>
+  <li><strong>Organizer</strong>: International Conference on Information Forensics and Security</li>
+  <li><strong>Hosts</strong>: Sichuan University, School of Cyber Science and Engineering</li>
+  <li><strong>Conference Papers Chairs</strong>：
+    <ul>
+      <li>Chang You, School of Cyber Science and Engineering, Sichuan University</li>
+      <li>Kaifeng Chen, School of Cyber Science and Engineering, Sichuan University</li>
+      <li>Zeqing Li, School of Cyber Science and Engineering, Sichuan University</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="contact">Contact</h1>
+
+<ul>
+  <li><strong>Editorial Office Email</strong>: alkarssec@gmail.com</li>
+  <li><strong>Editorial Office Phone</strong>: 19980848384</li>
+  <li><strong>Editorial Office Address</strong>: Editorial Department of Journal of Sichuan University (International Conference on Information Forensics and Security), Sichuan University, Shuangliu District, Chengdu City, Sichuan Province,</li>
+  <li><strong>Postal Code</strong>: 610064</li>
+  <li><strong>Website</strong>: http://ICIFS.scu.edu.cn</li>
+</ul>
+:ET

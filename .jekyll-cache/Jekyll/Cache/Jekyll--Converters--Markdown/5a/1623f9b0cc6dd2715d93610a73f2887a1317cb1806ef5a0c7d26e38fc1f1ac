@@ -1,0 +1,31 @@
+I"L
+<h3 id="scope-and-motivation">Scope and Motivation</h3>
+
+<hr />
+
+<p>Smart grid is a typical information physical fusion system, which integrates power system engineering technology and communication information technology. At the same time, it also integrates many distributed elements, including electric vehicles, micro grid, energy storage unit and so on. Nowadays, computers and communication networks themselves are vulnerable to network attacks. The smart grid, which has introduced a large number of new technologies, also has many security risks, exposing privacy and security problems. There are a wide variety of attacks that can interfere with or tamper with communication data, disrupt the control mechanisms of power systems and even cause equipment failures and system crashes, including DoS, FDIA, replay attacks and so on. Securing the smart grid is critical, and many challenging issues remain in this area. Therefore, our STSG seminar hopes to gather researchers from different groups to discuss the security issues in smart grid and apply network security technology to the field of smart grid to solve the above challenges.</p>
+
+<h3 id="topics-of-interest">Topics of Interest</h3>
+
+<p>The aim of the STSG symposium is to bring together researchers from both academia and industry to share and disseminate cutting-edge theories and applications in the field of smart grid network security. Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Privacy issues and privacy protection technology in smart grid communication</li>
+  <li>Cyber-physical security in smart grid systems</li>
+  <li>Artificial intelligence and machine learning technology in smart grid security</li>
+  <li>Construction of smart grid information security defense system</li>
+  <li>Boundary protection for smart grids and ubiquitous electric Internet of Things</li>
+  <li>Situational awareness and risk assessment for smart grid security</li>
+  <li>Communication protocol in smart grid dispatching</li>
+</ul>
+
+<h3 id="submission-instructions">Submission Instructions</h3>
+<p>All papers for technical symposia should be submitted through the following link: https://boom.paper.com. Any content you submit must be original and have not been published elsewhere.  The review process will be <strong>double-blind</strong>. And your papers will be judged on novelty, significance, clarity, relevance, and correctness.</p>
+
+<h3 id="important-dates">Important Dates</h3>
+<ul>
+  <li>Submission Deadline: 30 June 2021</li>
+  <li>Acceptance Notification: 20 July 2021</li>
+  <li>Deadline for final paper submission: 1 October 2021</li>
+</ul>
+:ET

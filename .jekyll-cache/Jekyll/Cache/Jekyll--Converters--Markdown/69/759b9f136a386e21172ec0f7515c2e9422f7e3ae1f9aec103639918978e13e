@@ -1,0 +1,96 @@
+I"D<h1 id="call-for-paper">Call for Paper</h1>
+
+<h2 id="csvcc-2024">CSVCC 2024</h2>
+
+<p>We are pleased to announce a call for papers on “Security in Virtualization and Cloud Computing” for an upcoming conference. As the technological landscape continues to evolve, virtualization and cloud computing have emerged as pivotal paradigms revolutionizing the IT industry. However, alongside the benefits they offer, security challenges have become increasingly prevalent and complex. This conference aims to bring together researchers, practitioners, and experts to explore the various dimensions of security challenges and solutions in virtualized and cloud environments.</p>
+
+<p>This conference marks the continuation of a successful series that began in Chengdu, China, where the inaugural event was hosted by the School of Cyberspace Security at Sichuan University. Building upon the success of the previous editions, we are excited to invite researchers, practitioners, and experts to submit their original papers and actively participate in shaping the conversation on security in virtualization and cloud computing. For submission guidelines and important dates, please visit our conference website. Together, let us advance our understanding and implementation of security measures in virtualized and cloud environments.</p>
+
+<h2 id="organizers">Organizers</h2>
+
+<p>Jiahao Duan, Sichuan University
+Botao Xu, Sichuan University
+Shuo Ma, Sichuan University</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>This workshop looks for papers on topics including but not limited to:</p>
+
+<ul>
+  <li>Threat modeling and risk assessment in virtualized and cloud environments</li>
+  <li>Security challenges in multi-tenant cloud environments</li>
+  <li>Virtual network security and isolation techniques</li>
+  <li>Secure virtualization technologies and hypervisor security</li>
+  <li>Security implications of containerization and orchestration platforms (e.g., Docker, Kubernetes)</li>
+  <li>Secure migration of virtualized workloads across cloud platforms</li>
+  <li>Security considerations in serverless computing and Function-as-a-Service (FaaS) architectures</li>
+  <li>Data encryption and key management in cloud storage and virtualized environments</li>
+  <li>Identity federation and single sign-on (SSO) for cloud-based applications</li>
+  <li>Security aspects of software-defined networking (SDN) and network function virtualization (NFV)</li>
+  <li>Compliance, governance, and regulatory issues in cloud security (e.g., GDPR, HIPAA)</li>
+</ul>
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<p>All submissions should be made electronically via our conference management system. All submissions must be received by 11:59 PM AoE (UTC-12) on the day of the corresponding deadline. Please adhere to the following submission guidelines:</p>
+
+<ul>
+  <li>
+    <p>Formatting Requirements: Papers must comply with the Springer format specified by the conference and must be in PDF format. LaTeX users can use the “pdflatex” command to convert a LaTeX document into PDF format. Please carefully read and adhere to the requirements outlined in the paper template before submission. Please also make sure your submission, and all embedded figures, are intelligible when printed in grayscale.</p>
+  </li>
+  <li>
+    <p>Page Limit: Regular papers should be up <strong>12-16</strong> pages (content) in length while short papers should be <strong>6-10</strong> pages (content) in length.  (both excluding appendices, references, appreciation,…). Be mindful of the page limit for your paper and ensure it falls within the specified range. Papers exceeding the page limit may be rejected or requested for revision.</p>
+  </li>
+  <li>
+    <p>Review Policy: Submitted papers will be evaluated based on their originality, relevance, correctness, and clarity. All papers will undergo a thorough peer review process prior to the final decision and publication. This process is facilitated by experts in the Technical Program Committee during a dedicated conference period. Ensure that your paper clearly and accurately describes the research content and provides sufficient experimental results and analysis.</p>
+  </li>
+  <li>
+    <p>Duplicate Submissions: Submitted papers must not substantially overlap with papers that have been published or accepted for publication, or that are simultaneously in submission to a journal, conference, or workshop with published proceedings. Duplicate submissions may result in rejection or be considered academic misconduct.</p>
+  </li>
+  <li>
+    <p>Other nitices: All submissions should be properly anonymized; papers not properly anonymized may be rejected without review. Note that no modifications to the author list on a paper may be made after submission.</p>
+  </li>
+</ul>
+
+<p>Questions? Please visit our conference website or email us directly at sec24chairs@csvcc.org. We look forward to your participation and anticipate that your paper will contribute to fostering the security of virtualization and cloud computing environments.</p>
+<h3 id="important-dates">Important Dates</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Important Dates</th>
+      <th style="text-align: center">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Paper Registration Deadline</td>
+      <td style="text-align: center">March 8, 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Paper Submission Deadline</td>
+      <td style="text-align: center">March 15, 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Notification of Acceptance</td>
+      <td style="text-align: center">May 20, 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Final Manuscript Submission</td>
+      <td style="text-align: center">June 10, 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Conference Dates</td>
+      <td style="text-align: center">July 10-12, 2024</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="polices">Polices</h2>
+
+<p>In submitting a manuscript to CSVCC, the authors acknowledge that no paper substantially similar in content has been or will be submitted to another conference or workshop during the review period (March 15, 2024 – May 20, 2024). Please refer to the Author Guidelines on the conference web site for additional details on dual submissions and guidelines concerning prior work.</p>
+
+<p>By submitting a paper to CSVCC, the authors agree to the review process and understand that papers are processed by CSVCC chairs to match each manuscript to the best possible area reviewers.</p>
+
+<p>Please ensure that you and your co-authors <a href="https://orcid.org/register">obtain an ORCID ID</a>, so you can complete the publishing process for your accepted paper. All registered papers will be submitted for publishing by <strong>Springer</strong> and made available through SpringerLink Digital Library.</p>
+:ET

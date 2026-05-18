@@ -1,0 +1,54 @@
+I"W<h2 id="call-for-papers">Call for Papers</h2>
+
+<h3 id="overview">Overview</h3>
+
+<p>With the rapid development of Internet-of-Things (IoT), more smart devices can be connected to the Internet, resulting in a dramatic increase of data transmission and communication. <strong>Software-Defined Networking (SDN)</strong>, which separates the control planes and data planes, is considered as a promising solution to provide the scale and versatility necessary for IoT. However, there are still many security issues that need to be addressed in this network architecture before the widespread adoption of SDN.<strong>SISDN</strong> set a goal to become a premier symposium and an international forum for presentation and discussion of cutting-edge research in SDN security.</p>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<ul>
+  <li>Anonymity period begins: April 28,2021</li>
+  <li>Submission deadline (long &amp; short papers): May 21, 2021</li>
+  <li>Author reponse period: June 4-18, 2021</li>
+  <li>Notification of acceptance (long &amp;short papers): June 30, 2021</li>
+  <li>Camera-ready papers due (long &amp;short papers)：July 10, 2021</li>
+  <li>Main conference: July 20-22, 2021</li>
+  <li>Workshops and tutorials: July 23-23, 2021</li>
+</ul>
+
+<p><strong>All deadlines are 11.59 pm UTC - 12h</strong></p>
+
+<h3 id="submissions">Submissions</h3>
+
+<p>we take a broad view of SDN security research, which includes but not limited to the following topics:</p>
+
+<ul>
+  <li>
+    <p>SDN Access Control Mechanisms</p>
+  </li>
+  <li>
+    <p>SDN Application Security</p>
+  </li>
+  <li>
+    <p>Application risks in the SDN control layer</p>
+  </li>
+  <li>
+    <p>Risk of application configuration at SDN control layer</p>
+  </li>
+  <li>
+    <p>SDN-based DDoS Attack Defense System</p>
+  </li>
+  <li>
+    <p>Challenges of SDN Distributed Control Layer</p>
+  </li>
+  <li>
+    <p>SDN southbound &amp; northbound interfaces Security</p>
+  </li>
+  <li>
+    <p>Design and implementation of northbound interface of transport-SDN</p>
+  </li>
+  <li>
+    <p>Detection and Defense against Timing-based Side Channel Attacks in SDN</p>
+  </li>
+</ul>
+:ET

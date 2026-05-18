@@ -1,0 +1,52 @@
+I"�<h1 id="call-for-papers">Call For Papers</h1>
+<h2 id="dnnbad-2023">DNNBAD 2023</h2>
+
+<p><em>China Chengdu</em>
+_The 1st Meeting of the Deep Neural Network Backdoor Attack and Defense
+ShuangLiu, ChengDu, April 2</p>
+
+<p>Deep neural network (DNN) backdoor attack refers to a malicious modification of the DNN model that inserts a “backdoor” signal that can be triggered under specific input conditions. This results in incorrect predictions or classifications on certain data inputs, which is usually desirable for the attacker. Such attacks can pose a significant threat to artificial intelligence systems.
+In order to prevent neural network backdoor attacks, it is necessary to adopt both passive and active methods. Among them, passive defense measures include data set quality control, input data filtering, etc., and encryption technology can also be used to ensure data security. Active defense measures rely on improving machine learning algorithms to enhance the robustness and security of the model. For example, some deep learning counter sample techniques can be used to improve the security of the model, while also emphasizing user privacy and data security to reduce the risk of backdoor attacks. The technical scope of this special issue includes, but is not limited to:</p>
+
+<ul>
+  <li>Machine learning algorithms</li>
+  <li>Data sampling and preprocessing methods</li>
+  <li>Adversarial attack techniques</li>
+  <li>Rule-based secure design methods</li>
+  <li>Model pruning technology</li>
+  <li>Encryption technology</li>
+  <li>Security auditing</li>
+  <li>Explainable machine learning</li>
+  <li>Support vector machine technology</li>
+  <li>User privacy protection technology</li>
+</ul>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+
+<p>DNNBAD 2023 welcomes paper submissions. The submission methods are as follows:</p>
+
+<ul>
+  <li>Originality and copyrights：All submissions must be original works and have not been published or recorded in other publications or media. Contributors must obtain prior written authorization from the relevant person if they include any copyrighted material in their manuscript. The authors are solely responsible for the writing, and the opinions expressed by them do not represent the position of this seminar.</li>
+  <li>Authors’ information：Contributors, please list the information of all authors on the first page, including: name, title, affiliation, and contact information (such as address, contact number, fax number and email address, etc.).</li>
+  <li>Style and format：Manuscripts must be written in accordance with the publication guidelines established by DNNBAD (Second Edition).</li>
+  <li>Language and length：Manuscripts must be written in English and should be between 5,000 and 7,000 words.</li>
+  <li>The abstract is about 150 to 200 words and should be placed at the beginning of the article. Keywords Up to 5 keywords, placed below the abstract. References are in accordance with the publication guidelines of DNNBAD (Second Edition).</li>
+  <li>Submit documents as PDF</li>
+</ul>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<p>Submission Deadline: 15 May 2023, 5:00 pm US Eastern Time
+Decision Notification: 20 June 2023
+Final Version Due：June 30,2023</p>
+
+<h3 id="contact-information">Contact Information</h3>
+
+<p>Email: 17671200459@163.com</p>
+
+<h3 id="organizing-committee">Organizing Committee</h3>
+
+<p>Zhang Siqi (Sichuan University)
+Fan Qi (Sichuan University)
+Wu Chunlu (Sichuan University)</p>
+:ET

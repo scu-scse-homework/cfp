@@ -1,0 +1,58 @@
+I"C<h1 id="call-for-papers">Call For Papers</h1>
+<h2 id="mdssp--mobile-device-system-security-and-privacy-conference">MDSSP : Mobile Device System Security and Privacy conference</h2>
+
+<p>With the coming of the mobile Internet era, almost all Internet users have a smartphone and become more and more dependent on smartphones with the increasing functionality of smartphones. People use communication software such as Facebook and WeChat to communicate, online shopping software such as Amazon and Taobao to purchase, and mobile payment has gradually become a daily payment method. Unfortunately, smartphone systems need to fit the limited hardware resources and various personalized customizations, so several security issues may be neglected during designing the system, which makes the system more vulnerable to those who want to take advantage of the opportunity to damage the system to gain benefits.</p>
+
+<p>We focus on the Android and IOS, which are the two smartphone systems currently widely used around the world. Smartphone security issues have attracted widespread public attention, countries have gradually established comprehensive policies to protect privacy data on the Internet. How to protect Android smartphones from malware attacks, how to protect user privacy data from theft, and how to prevent unnecessary loss of user property, etc., these issues have attracted the attention of the industry. The root cause of the various attacks that have occurred is the various vulnerabilities in the smartphone system and its application software. The system vulnerabilities and related defensive measures found in the current study are far from sufficient, and there are still many security issues that need to be detected and resolved. Topics of interest include, but are not limited to the following：</p>
+
+<ul>
+  <li>Vulnerability mining and exploitation in smartphone systems</li>
+  <li>Automated vulnerability detection for smartphone systems</li>
+  <li>Analysis of malware in smartphone systems</li>
+  <li>Fuzzy testing tools for mobile smartphone systems</li>
+  <li>Reverse engineering and anti-reverse engineering of mobile application software</li>
+  <li>Security analysis of mobile application development component libraries</li>
+  <li>Analysis and countermeasures against Android dynamic loading techniques</li>
+  <li>Secure position and location privacy protection</li>
+  <li>NFC and smart payment application security</li>
+  <li>Identification and protection of private data in smartphone systems</li>
+  <li>Mobile application privacy compliance detection</li>
+  <li>Smartphone system intrusion and prevention</li>
+  <li>Smartphone system forensics</li>
+</ul>
+
+<h2 id="important-dates">Important dates</h2>
+<p>Paper Submission Deadlines: May 31, 2022(PDT)</p>
+
+<p>Notification of acceptance: June 20, 2022</p>
+
+<p>Final Version Due：June 30,2022</p>
+
+<p>Main Conference: July 7-July 9, 2022</p>
+
+<p>Workshops: July 10, 2022</p>
+
+<h2 id="submission-guidelines">Submission Guidelines：</h2>
+<p>Authors are invited to submit papers through the conference Submission System by May 31, 2022. Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for this conference.</p>
+
+<p>The proceedings of the conference will be published by Journal of Sichuan University(Natural Science Edition)(To be confirmed).</p>
+
+<p>The manuscript should be written in English, and 10-18 pages are recommended, including references and appendices.</p>
+
+<p>Papers must be typeset in Latex in A4 format using the MDSSP template.</p>
+
+<h2 id="conference-papers-chairs">Conference Papers Chairs:</h2>
+<p>Xiao Chen, Sichuan University</p>
+
+<p>Yulin Zhang, Sichuan University</p>
+
+<h2 id="organization">Organization：</h2>
+<p>Organizer: the Committee of Mobile Device System Security and Privacy conference</p>
+
+<p>Hosts: Sichuan University, School of Cyber Science and Engineering</p>
+
+<h2 id="contacts">Contacts：</h2>
+<p>Email: chenxiao2@stu.scu.edu.com</p>
+
+<p>Address: Room 816, School of Cyber Science and Engineering, Sichuan University, Chengdu, Sichuan Province, China</p>
+:ET

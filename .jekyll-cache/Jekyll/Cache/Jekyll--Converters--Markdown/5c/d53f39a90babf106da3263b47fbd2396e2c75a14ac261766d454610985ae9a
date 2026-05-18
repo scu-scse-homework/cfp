@@ -1,0 +1,76 @@
+I"F<h1 id="call-for-papers">Call for Papers</h1>
+
+<p>With the rapid development of industrial digitalization, intelligent manufacturing, smart grids, industrial Internet of Things, and critical information infrastructure, industrial control systems have become increasingly connected, intelligent, and data-driven. While these technologies greatly improve production efficiency and system automation, they also introduce new cybersecurity risks and attack surfaces. Traditional industrial control systems were often designed for reliability and real-time operation, but many of them lack sufficient security protection against modern cyber threats.</p>
+
+<p>In recent years, attacks targeting industrial control networks, smart grids, manufacturing systems, transportation systems, and energy infrastructures have become more frequent and sophisticated. Threats such as false data injection attacks, malicious command injection, unauthorized access, industrial malware, supply chain attacks, and advanced persistent threats may seriously affect the safety, stability, and continuity of industrial systems. Therefore, cybersecurity in industrial control systems has become an important research topic for both academia and industry.</p>
+
+<p>This conference aims to provide a platform for researchers, engineers, and practitioners to exchange the latest research results and practical experience in the field of industrial control system cybersecurity. The conference welcomes high-quality submissions on security theories, key technologies, system design, attack detection, risk assessment, secure communication, privacy protection, and intelligent defense mechanisms for industrial control environments.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>Submissions are solicited in all areas related to industrial control system cybersecurity, including but not limited to:</p>
+
+<ul>
+  <li>Industrial control system security architecture</li>
+  <li>Industrial Internet of Things security</li>
+  <li>Identity authentication and access control for industrial systems</li>
+  <li>Secure communication protocols for industrial control networks</li>
+  <li>Post-quantum cryptography for industrial control systems</li>
+  <li>Smart grid cybersecurity and attack detection</li>
+  <li>False data injection attack detection and defense</li>
+  <li>Intrusion detection for industrial control networks</li>
+  <li>Vulnerability discovery and patching in industrial devices</li>
+  <li>Security of PLCs, RTUs, sensors, and edge devices</li>
+  <li>Industrial malware detection and analysis</li>
+  <li>Digital twin-based industrial security testing</li>
+  <li>Industrial big model security and trustworthy AI</li>
+  <li>Large language models for industrial security operation</li>
+  <li>Adversarial attacks against AI-based industrial security systems</li>
+  <li>Privacy protection and data security in industrial environments</li>
+  <li>Security risk assessment for critical information infrastructure</li>
+  <li>Security monitoring and situational awareness in industrial networks</li>
+  <li>Secure data sharing and trusted computing for industrial systems</li>
+  <li>Cyber-physical system security and resilience</li>
+  <li>Industrial security policies, standards, and compliance</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ol>
+  <li>Papers should be written in English and comply with academic paper formatting requirements.</li>
+  <li>Paper Formatting Requirements: Please use the IEEE format. The template can be obtained from <a href="https://gitee.com/link?target=https%3A%2F%2Fwww.ieee.org%2Fconferences%2Fpublishing%2Ftemplates.html">https://www.ieee.org/conferences/publishing/templates.html</a>.</li>
+  <li>Page Limit: Papers should not exceed 10 pages, including the main text, references, figures, tables, and appendices.</li>
+  <li>Review Policy: All submitted papers will undergo double-blind peer review. The identities of authors and reviewers will remain anonymous during the review process. Review criteria include originality, technical quality, methodology, practical significance, and innovation.</li>
+  <li>Presentation: Accepted papers will be presented at the conference as oral presentations or posters.</li>
+</ol>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<p>Submission Deadline: June 1, 2026</p>
+
+<p>Acceptance Notification: July 1, 2026</p>
+
+<p>Meeting Date: August 1-3, 2026</p>
+
+<h1 id="contact-information">Contact Information</h1>
+
+<p>For any inquiries or further information, please contact 123456@scu.com.</p>
+
+<h1 id="important-note">Important Note</h1>
+
+<p>Please ensure that your paper aligns with the conference theme and submission requirements. We welcome submissions from universities, research institutes, enterprises, and industrial organizations. We look forward to your active participation and high-quality research contributions.</p>
+
+<h1 id="organizers">Organizers</h1>
+
+<p><strong>Yaoxuan Wang</strong></p>
+
+<p>Sichuan University, Chengdu, China</p>
+
+<p><strong>Chengqi Hou</strong></p>
+
+<p>Sichuan University, Chengdu, China</p>
+
+<p><strong>Jiacheng Feng</strong></p>
+
+<p>Sichuan University, Chengdu, China</p>
+:ET

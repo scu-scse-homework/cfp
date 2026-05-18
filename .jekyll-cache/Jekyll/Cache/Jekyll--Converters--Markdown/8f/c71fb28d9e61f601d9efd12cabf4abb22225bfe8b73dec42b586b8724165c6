@@ -1,0 +1,118 @@
+I"�<h1 id="call-for-paper">Call for paper</h1>
+
+<p>The Workshop on AI-Driven Cybersecurity and Defense (AIDef 2026) invites submissions of original research addressing the intersection of artificial intelligence and cybersecurity, focusing on AI-powered offense, defense, and the security challenges introduced by machine learning systems themselves.
+As cyber threats grow more sophisticated and automated, AI/ML is transforming both offensive attack vectors and defensive strategies. This workshop aims to explore cutting-edge research on leveraging AI to enhance security resilience, while addressing the vulnerabilities, biases, and adversarial risks of AI systems in critical security applications.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>Submissions are solicited in all areas of data security, including but not limited to:</p>
+
+<ul>
+  <li>AI-Powered Offensive Cybersecurity
+    <ul>
+      <li>Automated vulnerability discovery and exploit generation</li>
+      <li>AI-driven phishing, social engineering, and adversarial deception</li>
+      <li>ML-assisted penetration testing and red-teaming automation</li>
+      <li>Generative AI for malware and attack payload obfuscation</li>
+    </ul>
+  </li>
+  <li>AI-Driven Defensive Mechanisms
+    <ul>
+      <li>Machine learning for intrusion detection and threat hunting</li>
+      <li>Anomaly detection in network, host, and IoT environments</li>
+      <li>AI-powered threat intelligence and predictive defense</li>
+      <li>Automated incident response and security orchestration</li>
+    </ul>
+  </li>
+  <li>Security of AI/ML Systems
+    <ul>
+      <li>Adversarial attacks on ML models (evasion, poisoning, backdoors)</li>
+      <li>Defenses against adversarial examples and model theft</li>
+      <li>Privacy-preserving machine learning for security applications</li>
+      <li>Robustness and reliability of ML-based security tools</li>
+    </ul>
+  </li>
+  <li>Emerging Paradigms and Challenges
+    <ul>
+      <li>AI security in zero-trust and cloud-native environments</li>
+      <li>Large language models (LLMs) for cybersecurity: opportunities and risks</li>
+      <li>Federated learning and distributed AI security</li>
+      <li>Bias, fairness, and explainability in AI-driven security decisions</li>
+      <li>Legal, ethical, and governance aspects of AI in cybersecurity</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<h2 id="evaluation-rules">Evaluation Rules</h2>
+
+<p>AIDef 2026 adopts a <strong>double-blind peer review</strong> process to ensure fairness and objectivity throughout the evaluation procedure.</p>
+
+<p>Authors must anonymize their submissions and must not include any identifying information in the manuscript, such as author names, affiliations, email addresses, acknowledgments, or self-identifying references.</p>
+
+<h2 id="language">Language</h2>
+
+<p>All submissions must be written in clear and professional English.</p>
+
+<p>Authors are responsible for ensuring grammatical correctness, readability, and compliance with academic writing standards. Authors are strongly encouraged to proofread their manuscripts carefully before submission.</p>
+
+<h2 id="paper-format-and-page-limits">Paper Format and Page Limits</h2>
+
+<p>Submitted papers may include up to <strong>13 pages of text</strong> (including figures and tables). References may use up to <strong>2 additional pages</strong> (not counted within the 13 pages). An optional appendix may be added using up to <strong>3 additional pages</strong> (beyond the 13+2 pages). The total page limit (text + references + appendix) is <strong>18 pages</strong>.</p>
+
+<ul>
+  <li>Reviewers are <strong>not required to read the appendix</strong>; the main contribution must be understandable from the first 13 pages of text and the references.</li>
+  <li>The camera-ready paper must not exceed the 18‑page total. At the PC chairs’ discretion, a small number of additional pages may be allowed.</li>
+</ul>
+
+<p>Papers must be formatted for <strong>US letter (preferred) or A4</strong> paper.</p>
+
+<ul>
+  <li>For LaTeX: use <code class="language-plaintext highlighter-rouge">\documentclass[conference,compsoc]{IEEEtran}</code> with <code class="language-plaintext highlighter-rouge">IEEEtran.cls</code> <strong>version 1.8b or any later compatible version</strong> (e.g., 1.9, 2.0).</li>
+  <li>The document class options shall <strong>not</strong> override the compsoc margins, font, or spacing. Packages that alter the layout (e.g., <code class="language-plaintext highlighter-rouge">\usepackage{usenix}</code>) are forbidden.</li>
+  <li>For A4 paper, add the <code class="language-plaintext highlighter-rouge">a4paper</code> option: <code class="language-plaintext highlighter-rouge">\documentclass[a4paper,conference,compsoc]{IEEEtran}</code>. The resulting PDF will be correctly formatted for A4 while preserving the required type area and font sizes.</li>
+</ul>
+
+<p><strong>Microsoft Word users</strong> are strongly advised to use the LaTeX template. If using Word is unavoidable, you must manually replicate the compsoc style (margins: top/bottom 0.75 in, left/right 0.625 in; main font: 10 pt Times New Roman; line spacing: single with 10 pt after headings). A verified Word template is not provided by the conference; authors are solely responsible for matching the compsoc layout exactly.</p>
+
+<p>All submissions must be in <strong>PDF</strong> format.</p>
+
+<p><strong>Papers that fail to use the correct paper size (US letter or A4) or deviate from the compsoc style (margins, font, spacing, or space scrunching) are subject to rejection without review.</strong> Authors must verify their format against the reference <a href="https://www.overleaf.com/latex/templates/ieee-demo-template-for-computer-society-conferences/hzzszpqfkqky">Overleaf template</a>.</p>
+
+<p>Links to submission:<a href="https://easychair.org/my/conference?conf=aidef2026">AIDef 2026</a></p>
+
+<h2 id="originality">Originality</h2>
+
+<p>Submitted papers must satisfy the following originality requirements:</p>
+
+<ul>
+  <li>The work must be original and unpublished.</li>
+  <li>The submission must not be under review or submitted simultaneously to another conference, journal, or publication venue.</li>
+  <li>The manuscript must not contain plagiarism, fabricated data, or any form of academic misconduct.</li>
+</ul>
+
+<p>Authors are solely responsible for any copyright disputes or ethical violations related to their submissions.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p><strong>Paper submissions due</strong>: Wednesday, June 17, 2026, 23:59</p>
+
+<p><strong>Notification to authors</strong>:Friday, July 10, 2026</p>
+
+<p><strong>Camera-ready deadline</strong>:Tuesday, July 21, 2026</p>
+
+<p><strong>Workshop dates</strong>:Thursday, August 20, 2026 – Friday, August 21, 2026</p>
+
+<h2 id="publication-and-presentation">Publication and Presentation</h2>
+
+<p>Accepted papers will be published in the workshop proceedings. At least one author must register and present the work at the workshop (either in-person or virtually via a live or pre-recorded session).</p>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Yuying Rao，Sichuan University</li>
+  <li>Zixin Yan，Sichuan University</li>
+  <li>Zijie Ye， Sichuan University</li>
+</ul>
+:ET

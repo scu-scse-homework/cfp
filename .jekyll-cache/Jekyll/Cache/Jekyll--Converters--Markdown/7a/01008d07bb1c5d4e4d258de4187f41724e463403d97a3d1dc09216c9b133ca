@@ -1,0 +1,56 @@
+I"N
+<h1 id="call-for-paper">Call for Paper</h1>
+
+<p><strong>Workshop on Secure Multi-Party Computation (SMPC 2025)</strong></p>
+
+<p>Secure Multi-Party Computation (SMPC) is a subfield of cryptography and privacy-preserving computation that allows multiple parties to jointly compute a function over their inputs while keeping those inputs private. As privacy and data security become increasingly vital in our interconnected world, SMPC is finding practical applications in areas such as finance, healthcare, machine learning, and cloud computing.</p>
+
+<p>The <strong>SMPC 2025 Workshop</strong> aims to bring together researchers, practitioners, and system builders from academia and industry to share their latest results, ideas, developments, and perspectives in the area of secure computation.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>We welcome original contributions on topics including, but not limited to:</p>
+
+<ul>
+  <li>Foundations and theory of secure multi-party computation</li>
+  <li>New cryptographic protocols for SMPC</li>
+  <li>Practical implementations and optimizations of SMPC protocols</li>
+  <li>Applications of SMPC in privacy-preserving machine learning</li>
+  <li>Secure computation over encrypted data</li>
+  <li>Oblivious transfer and garbled circuits</li>
+  <li>Secret sharing schemes and threshold cryptography</li>
+  <li>Blockchain and decentralized applications using MPC</li>
+  <li>Post-quantum secure MPC protocols</li>
+  <li>Formal verification of secure computation protocols</li>
+  <li>Use cases in healthcare, finance, and cloud computing</li>
+  <li>Performance benchmarks and comparisons of SMPC systems</li>
+</ul>
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<ul>
+  <li>All papers must be original and not simultaneously submitted to another journal or conference.</li>
+  <li>Submissions must be written in English and formatted according to the [Springer LNCS format].</li>
+  <li>Paper length: Up to [Up to 10 pages (excluding references and appendices)] excluding references and appendices.</li>
+  <li>Submission link: [https://easychair.org/conferences/?conf=smpc2025]</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>
+    <p><strong>Paper Submission Deadline</strong>: July 15, 2025</p>
+  </li>
+  <li><strong>Notification of Acceptance</strong>: August 15, 2025</li>
+  <li><strong>Camera-Ready Deadline</strong>: September 10, 2025</li>
+  <li><strong>Workshop Date</strong>: October 20, 2025</li>
+</ul>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Dongkai Hao, Sichuan University</li>
+  <li>KaiLe Wang, Sichuan University</li>
+</ul>
+
+:ET

@@ -1,0 +1,154 @@
+I"<h1 id="call-for-paper">Call for Paper</h1>
+
+<h2 id="international-workshop-on-security-of-ai-agent-systems-agentsec-2026">International Workshop on Security of AI Agent Systems (AgentSec 2026)</h2>
+
+<p>The rapid proliferation of AI agent systems — autonomous software entities powered by large language models (LLMs) that perceive their environment, reason over goals, and execute multi-step actions through tools and APIs — has introduced a fundamentally new attack surface in the security landscape. Unlike traditional software, AI agents operate with broad capabilities, access to external resources, and a degree of autonomy that makes conventional security models insufficient.</p>
+
+<p>The AgentSec workshop brings together researchers and practitioners from the security, AI, and systems communities to advance understanding of threats, defenses, and formal guarantees for AI agent systems. As agentic AI is deployed in high-stakes settings — including software development, financial decision-making, scientific research automation, and critical infrastructure management — the need for rigorous security foundations has never been more urgent.</p>
+
+<p>We solicit original, high-quality papers on all aspects of AI agent security, from foundational threat modeling to practical defensive techniques. We particularly encourage work that bridges the gap between the AI safety and traditional security communities.</p>
+
+<hr />
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>Submissions are invited on all topics related to the security and trustworthiness of AI agent systems, including but not limited to:</p>
+
+<p><strong>Attacks on AI Agent Systems</strong></p>
+
+<ul>
+  <li>Prompt injection and indirect prompt injection in agentic pipelines</li>
+  <li>Jailbreaking autonomous agents and bypassing safety guardrails</li>
+  <li>Adversarial manipulation of agent memory and context windows</li>
+  <li>Tool misuse and privilege escalation via agent-controlled interfaces</li>
+  <li>Supply chain attacks on agent toolkits, plugins, and MCP servers</li>
+  <li>Data exfiltration through agent-mediated channels</li>
+  <li>Cross-agent contamination in multi-agent orchestration systems</li>
+</ul>
+
+<p><strong>Defenses and Secure Agent Design</strong></p>
+
+<ul>
+  <li>Sandboxing and capability restriction for autonomous agents</li>
+  <li>Formal authorization models for agent-to-tool and agent-to-agent interaction</li>
+  <li>Input/output filtering and policy enforcement for agent actions</li>
+  <li>Provenance tracking and audit logging for agent-executed operations</li>
+  <li>Least-privilege design patterns for agentic architectures</li>
+  <li>Secure prompt engineering and system prompt hardening</li>
+</ul>
+
+<p><strong>Formal Methods and Verification</strong></p>
+
+<ul>
+  <li>Threat modeling frameworks specific to AI agent systems</li>
+  <li>Formal specification of agent security policies</li>
+  <li>Verification of agent behavior bounds and containment guarantees</li>
+  <li>Benchmark datasets and evaluation methodologies for agent security</li>
+</ul>
+
+<p><strong>Multi-Agent System Security</strong></p>
+
+<ul>
+  <li>Trust establishment and authentication in agent-to-agent communication</li>
+  <li>Coordinated attacks and collusion in multi-agent environments</li>
+  <li>Byzantine fault tolerance for LLM-based agent collectives</li>
+  <li>Isolation and compartmentalization in hierarchical agent pipelines</li>
+</ul>
+
+<p><strong>Privacy and Data Security</strong></p>
+
+<ul>
+  <li>Membership inference and data extraction attacks via agent interactions</li>
+  <li>Differential privacy in agent memory and retrieval systems</li>
+  <li>Sensitive data handling across long-horizon agent tasks</li>
+  <li>Privacy-preserving RAG (Retrieval-Augmented Generation) for agents</li>
+</ul>
+
+<p><strong>Alignment, Safety, and Governance</strong></p>
+
+<ul>
+  <li>Adversarial robustness of RLHF-aligned agents</li>
+  <li>Deceptive alignment and goal misgeneralization in deployed agents</li>
+  <li>Regulatory and compliance frameworks for autonomous agent deployment</li>
+  <li>Human oversight mechanisms for high-stakes agentic systems</li>
+</ul>
+
+<hr />
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<ul>
+  <li><strong>Originality</strong>: Submissions must present original research not previously published and not currently under review at another venue. Concurrent submissions are not permitted.</li>
+  <li><strong>Format</strong>: Papers must follow the ACM double-column proceedings format (<code class="language-plaintext highlighter-rouge">\documentclass[sigconf,review,anonymous]{acmart}</code>). Do not alter fonts or margins.</li>
+  <li><strong>Length</strong>: Full papers must not exceed <strong>8 pages</strong> (excluding references and well-marked appendices). Short papers and position papers must not exceed <strong>4 pages</strong>.</li>
+  <li><strong>Anonymity</strong>: The review process is <strong>double-blind</strong>. All author names, affiliations, and identifying information must be removed from the submission. Self-references should be written in the third person.</li>
+  <li><strong>Language</strong>: All submissions must be written in English.</li>
+  <li><strong>Submission Portal</strong>: Papers should be submitted in PDF format via the workshop submission system (link to be announced on the official website).</li>
+  <li><strong>Presentation</strong>: At least one author of each accepted paper must register and present the work in person at the workshop. Failure to do so will result in removal from the proceedings.</li>
+</ul>
+
+<hr />
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Milestone</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Abstract registration deadline</td>
+      <td>March 13, 2026</td>
+    </tr>
+    <tr>
+      <td>Full paper submission deadline</td>
+      <td>March 20, 2026</td>
+    </tr>
+    <tr>
+      <td>Acceptance notification</td>
+      <td>May 8, 2026</td>
+    </tr>
+    <tr>
+      <td>Camera-ready deadline</td>
+      <td>May 29, 2026</td>
+    </tr>
+    <tr>
+      <td>Workshop dates</td>
+      <td>June 22–23, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>All deadlines are 23:59 AoE (Anywhere on Earth, UTC−12).</em></p>
+
+<hr />
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li><strong>Workshop Chair</strong>: Weiguo Kong, Sichuan University, Chengdu, China</li>
+  <li><strong>Invited Talk</strong>: Kai Gao, Sichuan University, Chengdu, China</li>
+</ul>
+
+<hr />
+
+<h2 id="program-committee">Program Committee</h2>
+
+<p>To be announced. Researchers interested in serving on the program committee are encouraged to contact the organizers.</p>
+
+<hr />
+
+<h2 id="contact">Contact</h2>
+
+<p>For inquiries regarding submissions or the workshop program, please contact:</p>
+
+<ul>
+  <li><strong>General Inquiries</strong>: agentsec2026@example.org</li>
+  <li><strong>Submission Questions</strong>: agentsec2026-pc@example.org</li>
+</ul>
+
+<p><em>AgentSec 2026 is committed to fostering an inclusive and respectful research community. All participants are expected to follow the ACM Code of Ethics and Professional Conduct.</em></p>
+:ET

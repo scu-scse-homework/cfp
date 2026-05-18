@@ -1,0 +1,99 @@
+I"<p><img src="cfp/2023/WNAD.png" alt="" /></p>
+
+<h1 id="call-for-papers">Call For Papers</h1>
+
+<h2 id="wnad-2023">WNAD 2023</h2>
+
+<p><em>China,Chengdu</em>
+<em>The 1st Meeting of the Workshop on Network Attack and Defenses
+Shuangliu,Chengdu,May 24, 2023</em></p>
+
+<p>Network security plays a crucial role in countering cyber threats, and network attack and defense (NAD) is an important means to achieve this. NAD involves using technical means to attack or protect target systems, networks, or data by exploiting vulnerabilities or weaknesses in computer or internet systems. Its development has gone through multiple stages, from technical security in the cold war era to expanding into diverse and complex areas. Today, NAD faces new challenges and opportunities, with the potential for artificial intelligence to be one solution for enhancing network security.
+We welcome papers that cover theoretical, empirical, and practical aspects of network security. Submissions should provide novel contributions to the field, including new approaches and  methodologies.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>
+    <p>Cloud Security and Privacy</p>
+  </li>
+  <li>
+    <p>Network Security and Cryptography</p>
+  </li>
+  <li>
+    <p>Vulnerability Analysis and Assessment</p>
+  </li>
+  <li>
+    <p>Cyber Threat Intelligence and Analytics</p>
+  </li>
+  <li>
+    <p>Cyber Physical Systems and IoT Security</p>
+  </li>
+  <li>
+    <p>Digital Forensics and Incident Response</p>
+  </li>
+  <li>
+    <p>Network Intrusion Detection and Prevention</p>
+  </li>
+  <li>
+    <p>Blockchain and Distributed Ledger Technologies</p>
+  </li>
+  <li>
+    <p>Cybersecurity Policies, Standards, and Regulations</p>
+  </li>
+  <li>
+    <p>Human Factors and Social Engineering in Cybersecurity</p>
+  </li>
+</ul>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+<p>The workshop aims to facilitate conversations on the current advancements and 
+trends in Network Attack and Defenses. The authors  are also invited to submit research papers on related topics that have not been mentioned above. Furthermore, adhering to the WNAD 2023 Paper Submission Guidelines is mandatory for all submissions.</p>
+
+<ul>
+  <li><strong>Article Content:</strong> The article should focus on the subject of network attack and defense and explore the new trends and technological developments in this field. The article should be both academic and practical, containing clear views and research conclusions.</li>
+  <li><strong>Evaluation Rules:</strong> To ensure objectivity and fairness in the review process, this conference adopts a double-blind review approach, where authors and reviewers remain anonymous to each other to protect the privacy of both parties. Authors are requested not to reveal any identifying information in their papers.</li>
+  <li><strong>Paper Format:</strong> Please submit your paper in PDF format using LaTeX and double-column ACM format(available at <a href="https://www.acm.org/publications/proceedings-template">https://www.acm.org/publications/proceedings-template</a>). The paper should have 10 references at least. Please ensure that the references are relevant to the theme and content of your paper, and have been certified by authoritative academic institutions or publishers.</li>
+  <li><strong>Language:</strong> Papers should be written in English and proofread by professionals for language and grammar. We encourage authors to use clear and concise language, and ensure that the text body is complete and self-contained.</li>
+  <li><strong>Originality:</strong> The author is required to ensure the originality of the submitted manuscript and that it is free from plagiarism issues. If any copyright dispute arises later, the author voluntarily accepts any corresponding consequences.</li>
+  <li><strong>Number of Keywords:</strong> Between 5~8 keywords for each paper.</li>
+</ul>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<ul>
+  <li>Paper submissions due: May 24, 2023</li>
+  <li>Final notification to authors: June 3, 2023</li>
+  <li>Publication: June 19 - 25, 2023</li>
+</ul>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li><strong>Organizer</strong>: International Cyber Security Symposium</li>
+  <li>
+    <p><strong>Hosts</strong>: Sichuan University, School of Cyber Science and Engineering</p>
+  </li>
+  <li>
+    <p><strong>General Chairs</strong>:</p>
+
+    <ul>
+      <li>
+        <p>Zhou Pengju,Sichuan University,2022xxxxxx001.scu.edu.cn</p>
+      </li>
+      <li>
+        <p>Dai Wanying,Sichuan University,2022xxxxxx003.scu.edu.cn</p>
+      </li>
+      <li>
+        <p>Wang Zhan,Sichuan University,2022xxxxxx006.scu.edu.cn</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="contact-information">Contact Information</h3>
+
+<p>Please send your paper to xxxxx@wnad.com</p>
+:ET

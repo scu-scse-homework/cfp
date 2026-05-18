@@ -1,0 +1,56 @@
+I"`<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>With the rapidly evolving cyber threats, cyber-crimes against critical infrastructure, operational technology, IoT, and large organizations have become more complex and hybridized and are executed at machine speed. Traditional security strategies struggle to defend against persistent, advanced threats in a timely and effective manner.  To combat these attacks, security practitioners transition from manual and reactive approaches to more automated and proactive, summarize and exchange their knowledge about attacks across organizations in the form of cyber threat intelligence (CTI) reports. CTI allows security teams to benefit from increased situational awareness and thus minimize their organizations’ attack surfaces. Based on the detection maturity of an organization, such intelligence can update cyber defense components in an automated manner based on the established trust between the entity sharing the intelligence and the entity consuming it, or in more proactive approaches such as threat hunting and risk assessment. For example, TTPs utilized in adversarial operations can support threat hunting efforts where the objective is to detect unidentified malicious activity that evaded existing security solutions. The CTIH conference aims to present research in the areas of cyber-threat hunting, cyber-threat intelligence, and security orchestration, automation, and response.</p>
+
+<p>The conference welcomes research in the following areas.</p>
+
+<ul>
+  <li>Cyber Threat Intelligence</li>
+  <li>Models for forecasting cyber-attacks and measuring impact</li>
+  <li>Threat actor groups &amp; techniques</li>
+  <li>Semantic modeling, data representation and fusion for CTI</li>
+  <li>Indicators of compromise and behavior and how to detect/mitigate</li>
+  <li>Visualization techniques for intelligence analysis and investigation</li>
+  <li>Legal, privacy and ethical factors in intelligence analysis</li>
+  <li>Threat Hunting</li>
+  <li>Intrusion and anomaly detection and prevention</li>
+  <li>Monetization of cybercrime</li>
+  <li>Open source cybersecurity tools</li>
+  <li>Intelligence-driven incident response</li>
+  <li>Intelligence (knowledge) representation, management, and dissemination (symbolic AI/ontologies/templating approaches)</li>
+  <li>Visualisation techniques for CTI</li>
+  <li>Security automation</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p>1.The authors are invited to submit a full-length paper (up to 10 pages) or short papers (up to 6 pages). 
+2.All kinds of falsification and other academic misconduct are strictly prohibited. Violators will be punished heavily.
+3.At least two reviewers will conduct double-blind review for the originality, relevance, authenticity, etc. of the paper. All authors must avoid providing information that can identify the author of the paper.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p>Submission deadline and notification will be notified later.</p>
+
+<h2 id="paper-formatting">Paper Formatting</h2>
+
+<p>1.Full paper must be written in English, typed using Times New Roman (normal style and font size 12)All text (except non-Latin scripts and mathematical formulas) should be set in Times Roman. If Times Roman is unavailable, you may use Times New Roman or Computer Modern Roman.</p>
+
+<p>2.Page size should be A4, single column with 2.5 cm margin on both sides with single line spacing.</p>
+
+<p>3.All pages of the manuscript (including Tables and Figures) should be numbered.</p>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Organizer: International Conference on Cyber Threat Intelligence and Hunting</li>
+  <li>Hosts: Sichuan University, School of Cyber Science and Engineering</li>
+  <li>General Chairs:
+    <ul>
+      <li>Lerong Li, Sichuan University, Chengdu, China</li>
+      <li>Mingshan Du, Sichuan University, Chengdu, China</li>
+    </ul>
+  </li>
+</ul>
+
+:ET

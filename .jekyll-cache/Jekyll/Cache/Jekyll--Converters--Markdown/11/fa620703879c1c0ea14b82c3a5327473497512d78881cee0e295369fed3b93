@@ -1,0 +1,54 @@
+I"¾<h2 id="overview">Overview</h2>
+
+<p>Nowadays, advanced threat operators bypass traditional means of cyber defense mechanisms and cross the line to achieve their goals of espionage.  Whatâ€™s worse, according to the anonymity of cyberspace, they launch stealthy attacks continuously without revealing their identities. The WOATH aims to bring together researchers and practitioners in computer security to present the latest technologies in advanced threat hunting, helping the world to detect and trace advanced threats.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+<p>Refereed paper submissions are solicited in all areas related to advanced threat hunting, including but not limited to:</p>
+
+<ul>
+  <li>Advanced threat detection
+    <ul>
+      <li>detection and mitigation of binary exploitation</li>
+      <li>detection of vulnerabilities below the operating system (VBOS)</li>
+      <li>detection of covert channels</li>
+      <li>detection and analysis of hardware trojan</li>
+      <li>detection of supply chain attacks</li>
+    </ul>
+  </li>
+  <li>Cyber attribution
+    <ul>
+      <li>Malware family classification</li>
+      <li>TTPs extraction techniques</li>
+      <li>Frameworks for threat attribution</li>
+      <li>Vulnerability analysis on offensive tools</li>
+      <li>Social engineering attacks against threat operators</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p><strong>Submission Deadline</strong>: April 20,2022</p>
+
+<p><strong>Notification Due</strong>: April 30,2022</p>
+
+<h2 id="paper-submission">Paper Submission</h2>
+
+<ol>
+  <li>Please submit only full papers intended for review, not abstracts.</li>
+  <li>Please submit only PDF formated paper, not docx and so on.</li>
+  <li>Please submit via email directly to: 2018XXXXXXX045@stu.scu.edu.cn</li>
+</ol>
+
+<h2 id="general-chairs">General Chairs</h2>
+
+<p>Juefei Pu, Sichuan University, Chengdu, China.</p>
+
+<p>Yifei Wu, Sichuan University, Chengdu, China.</p>
+
+<p>Yanxin Wang, Sichuan University, Chengdu, China.</p>
+
+<h2 id="for-questions-regarding-this-special-issue-please-contact">For questions regarding this special issue, please contact</h2>
+
+<p>Mr. Pu via email directly to 2018XXXXXX104@stu.scu.edu.cn</p>
+:ET

@@ -1,0 +1,123 @@
+I"*<h1 id="call-for-papers-workshop-on-trustworthy-agentic-ai-for-cybersecurity-operations">Call for Papers: Workshop on Trustworthy Agentic AI for Cybersecurity Operations</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>The rapid progress of large language models, tool-using agents, and autonomous workflow systems is changing the way cybersecurity tasks are performed. Security teams are beginning to use agentic AI systems for vulnerability triage, malware analysis assistance, penetration testing support, incident response, threat intelligence summarization, and security policy management. These systems can reduce repetitive work and connect heterogeneous security tools, but they also introduce new risks: hallucinated evidence, unsafe tool execution, prompt injection, privacy leakage, over-trust by analysts, and unclear accountability when an automated decision affects a real system.</p>
+
+<p>The Workshop on Trustworthy Agentic AI for Cybersecurity Operations (TAAI-CyberOps 2026) aims to bring together researchers and practitioners working on the design, evaluation, deployment, and governance of AI agents in operational cybersecurity environments. The workshop focuses on trustworthy AI-enabled security workflows rather than general artificial intelligence or general cybersecurity. We welcome work that studies how AI agents can assist security operations while remaining reliable, auditable, privacy-aware, and robust against adversarial manipulation.</p>
+
+<h2 id="workshop-scope">Workshop Scope</h2>
+
+<p>TAAI-CyberOps focuses on agentic AI systems that interact with cybersecurity data, tools, analysts, or infrastructure. The workshop is interested in methods that improve the dependability of these systems, measurements that reveal their limitations, and case studies that connect technical design with realistic security operations.</p>
+
+<p>Submissions should clearly explain the cybersecurity task, the agentic or AI-assisted workflow, and the trustworthiness problem being addressed. Papers that only benchmark a single model without security context, or only describe a generic cybersecurity method without AI-agent interaction, are outside the main scope of the workshop.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Trustworthy AI agents for security operations centers</li>
+  <li>LLM-assisted vulnerability discovery, triage, and patch analysis</li>
+  <li>Agentic workflows for malware analysis, phishing analysis, and incident response</li>
+  <li>Safe tool use, permission control, and sandboxing for cybersecurity agents</li>
+  <li>Prompt injection, data poisoning, and adversarial manipulation against security agents</li>
+  <li>Evaluation datasets and metrics for AI-assisted cybersecurity workflows</li>
+  <li>Explainability, provenance tracking, and evidence attribution in agent decisions</li>
+  <li>Human-AI collaboration, analyst oversight, and escalation policies</li>
+  <li>Privacy-preserving processing of logs, alerts, and threat intelligence data</li>
+  <li>Reproducible benchmarks for multi-step cybersecurity reasoning</li>
+  <li>Responsible disclosure and ethical constraints for autonomous security testing</li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<p>Authors are invited to submit original research papers, short papers, system papers, and position papers related to the workshop scope.</p>
+
+<ul>
+  <li>Full papers: up to 12 pages, excluding references and appendices.</li>
+  <li>Short, system, and position papers: up to 8 pages, excluding references and appendices.</li>
+  <li>Language: English.</li>
+  <li>Format: PDF, using the <a href="https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ">ACM conference template</a> in two-column format.</li>
+  <li>Anonymity: submissions must be anonymized for double-blind review.</li>
+  <li>Originality: submissions must not substantially overlap with published work or work under review elsewhere.</li>
+  <li>Ethics: papers involving real systems, real users, vulnerability disclosure, or sensitive operational data must describe the relevant ethical and legal considerations.</li>
+  <li>Submission site: papers should be submitted through the workshop submission system at <a href="https://easychair.org/conferences/?conf=taaicyberops2026">https://easychair.org/conferences/?conf=taaicyberops2026</a>.</li>
+</ul>
+
+<p>Accepted papers will be presented at the workshop. At least one author of each accepted paper must register for the workshop and deliver the presentation.</p>
+
+<h2 id="review-process">Review Process</h2>
+
+<p>TAAI-CyberOps 2026 will use a double-blind peer-review process. Each submission will be reviewed by at least two program committee members. Reviews will consider:</p>
+
+<ul>
+  <li>relevance to trustworthy agentic AI for cybersecurity operations;</li>
+  <li>technical soundness and methodological clarity;</li>
+  <li>novelty of the problem, system, evaluation, or insight;</li>
+  <li>quality of evidence, including experiments, case studies, or analysis;</li>
+  <li>reproducibility and clarity of presentation;</li>
+  <li>consideration of safety, privacy, ethics, and responsible deployment.</li>
+</ul>
+
+<p>The program committee may recommend acceptance as an oral presentation, poster presentation, or discussion paper depending on the maturity and contribution type of the submission.</p>
+
+<h2 id="program-and-presentation-format">Program and Presentation Format</h2>
+
+<p>The workshop will be organized as a one-day academic event. The tentative program includes:</p>
+
+<ul>
+  <li>invited keynote talk by a faculty member or industry expert in AI security;</li>
+  <li>oral presentations for accepted full papers;</li>
+  <li>poster and lightning-talk sessions for short, system, and position papers;</li>
+  <li>a panel discussion on responsible deployment of AI agents in security operations;</li>
+  <li>open discussion on benchmark construction and reproducibility.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p>All deadlines are 23:59 Beijing Time (UTC+8).</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paper submission deadline</td>
+      <td>June 7, 2026</td>
+    </tr>
+    <tr>
+      <td>Notification of acceptance</td>
+      <td>June 21, 2026</td>
+    </tr>
+    <tr>
+      <td>Camera-ready deadline</td>
+      <td>June 28, 2026</td>
+    </tr>
+    <tr>
+      <td>Workshop date</td>
+      <td>July 10, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="invited-talk">Invited Talk</h2>
+
+<p>We plan to invite a professor or senior researcher working on AI security, software security, or network security to give a keynote talk on the opportunities and risks of deploying agentic AI systems in real cybersecurity operations.</p>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>Jiajun Li, Sichuan University, Chengdu, China</li>
+  <li>Chenxi Guo, Sichuan University, Chengdu, China</li>
+</ul>
+
+<h2 id="contact">Contact</h2>
+
+<p>For questions about the workshop, please contact the organizers at <a href="mailto:submissions@TAAI-CyberOps.org">submissions@TAAI-CyberOps.org</a>.</p>
+
+:ET

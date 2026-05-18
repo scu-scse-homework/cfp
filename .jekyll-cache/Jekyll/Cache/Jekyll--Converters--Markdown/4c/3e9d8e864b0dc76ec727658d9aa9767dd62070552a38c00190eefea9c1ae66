@@ -1,0 +1,73 @@
+I"£<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>In an increasingly interconnected and digitized world, traditional security measures are proving to be insufficient in safeguarding sensitive data and critical infrastructure. As organizations continue to grapple with evolving cyber threats, the concept of Zero Trust has emerged as a revolutionary approach to cybersecurity.</p>
+
+<p>Zero Trust challenges the conventional perimeter-based security model by assuming that threats exist both inside and outside the network. It emphasizes strict identity verification and access controls, continuous monitoring, and least privilege principles to mitigate risks effectively. By adopting a Zero Trust architecture, organizations can enhance their security posture, mitigate insider threats, and protect against advanced persistent threats.</p>
+
+<p>We invite researchers, practitioners, and academicians to contribute original research papers, case studies, and reviews that explore the various facets of Zero Trust in the digital era.</p>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Zero Trust principles and frameworks</li>
+  <li>Implementation challenges and best practices</li>
+  <li>Zero Trust architecture for cloud environments</li>
+  <li>Zero Trust network access (ZTNA)</li>
+  <li>Zero Trust and identity management</li>
+  <li>Zero Trust and endpoint security</li>
+  <li>Zero Trust in IoT and OT environments</li>
+  <li>Zero Trust and regulatory compliance</li>
+  <li>Case studies and real-world implementations</li>
+  <li>Evaluating the effectiveness of Zero Trust models</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ul>
+  <li>The review process will be double-blind. The authors must remove their names and affiliations in the submitted document.</li>
+  <li>The submitted paper must be the PDF format, usually no more than 15 pages, including the references and appendices.</li>
+  <li>Manuscripts must be original and not previously published or under review elsewhere.</li>
+  <li>Submissions should adhere to the formatting and style guidelines provided by the conference or journal.</li>
+  <li>All submissions will undergo a rigorous peer-review process by experts in the field.</li>
+  <li>Papers should be submitted electronically through the conference or journal submission system.</li>
+</ul>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Matter</th>
+      <th>Deadline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Submissions deadline</td>
+      <td>Wednesday May 8, 2024</td>
+    </tr>
+    <tr>
+      <td>Notification of acceptance</td>
+      <td>Monday June 29, 2024</td>
+    </tr>
+    <tr>
+      <td>Conference Dates</td>
+      <td>Thursday September 12, 2024</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Note: All deadlines are in accordance with Beijing time (GMT+8).</strong></p>
+
+<h1 id="publication-opportunities">Publication Opportunities</h1>
+
+<p>Selected papers from the conference will be invited for publication in a special issue of [Computers and Security], subject to further peer review.</p>
+
+<p>Join us in exploring the transformative potential of Zero Trust in reshaping cybersecurity strategies and safeguarding digital assets in an era of persistent threats. Together, letâ€™s pave the way towards a more resilient and secure digital future.</p>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Workshop co-chair(s): Song Yang , Lingwei Li</li>
+</ul>
+:ET

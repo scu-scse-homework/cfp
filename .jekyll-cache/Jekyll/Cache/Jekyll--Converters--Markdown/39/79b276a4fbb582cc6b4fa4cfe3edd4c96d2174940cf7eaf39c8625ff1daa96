@@ -1,0 +1,73 @@
+I"�<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The ACM Conference on Computer and Communications Security (CCS) is the flagship annual conference of the ACM Special Interest Group on Security, Audit and Control (SIGSAC). For over three decades, CCS has been the premier forum for presenting and discussing novel research in computer security, cybersecurity, and privacy. As the digital landscape continues to evolve rapidly—fueled by emerging technologies such as artificial intelligence, quantum computing, decentralized systems, and large-scale data infrastructures—security and privacy research is more critical than ever.</p>
+
+<p>ACM CCS 2025 invites high-quality, original research contributions that advance the state of the art in the theory, design, implementation, analysis, and application of secure systems. We welcome work from academia, industry, and government that spans disciplines, challenges assumptions, and explores innovative directions in security and privacy. Submissions will be evaluated based on scientific merit, novelty, relevance, and potential impact.</p>
+
+<p>Join us at CCS 2025 as we shape the future of secure computing together.</p>
+
+<h1 id="topics-of-interest">Topics of interest</h1>
+
+<ul>
+  <li>Software Security</li>
+  <li>Web Security</li>
+  <li>Network Security</li>
+  <li>Formal Methods and Programming Languages</li>
+  <li>Hardware, Side Channels, and Cyber Physical Systems</li>
+  <li>Applied Cryptography</li>
+  <li>Machine Learning and Security</li>
+  <li>Security Usability and Measurement</li>
+  <li>Blockchain and Distributed Systems</li>
+  <li>Privacy and Anonymity</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ol>
+  <li><strong>Format</strong>: Submissions must be in PDF format, using the double-column ACM format (sigconf style).</li>
+  <li><strong>Length</strong>: Maximum of 12 pages, excluding bibliography, well-marked appendices, and supplementary material.</li>
+  <li><strong>Anonymization</strong>: All submissions should be properly anonymized; papers not properly anonymized may be rejected without review.</li>
+  <li><strong>Formatting Compliance</strong>: Do not alter fonts or margins. Submissions not adhering to the required format may be rejected without review.</li>
+  <li><strong>Review Strategy</strong>: All submitted papers will be evaluated based on their merits, particularly their importance to practical aspects of computer and communications security and privacy, novelty, quality of execution, and presentation. For papers that might raise ethical concerns, authors are expected to convince reviewers that proper procedures (such as IRB approval or responsible disclosure) have been followed, and due diligence has been made to minimize potential harm.</li>
+</ol>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>IMPORTANT DATE</th>
+      <th>DATE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paper submission deadline</td>
+      <td>Jun 28, 2025</td>
+    </tr>
+    <tr>
+      <td>Notification of early-rejection papers</td>
+      <td>Jul 27, 2025</td>
+    </tr>
+    <tr>
+      <td>Author rebuttal period</td>
+      <td>Aug 18-22, 2025</td>
+    </tr>
+    <tr>
+      <td>Rebuttal deadline</td>
+      <td>Aug 22, 2025</td>
+    </tr>
+    <tr>
+      <td>Author notification</td>
+      <td>Sep 3, 2025</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Yani Xu, <em>Sichuan University</em>, China</li>
+  <li>Xinyao Tang, <em>Sichuan University</em>, China</li>
+</ul>
+:ET

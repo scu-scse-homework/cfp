@@ -1,0 +1,74 @@
+I"�<h2 id="workshop-on-trustworthy-large-language-models-for-cybersecurity-tllmsec-2026">Workshop on Trustworthy Large Language Models for Cybersecurity (TLLMSec 2026)</h2>
+
+<p>Large language models (LLMs) are rapidly changing the practice of cybersecurity. They are now used to assist vulnerability discovery, malware analysis, phishing detection, incident response, security education, and automated reasoning over logs, code, and threat intelligence. At the same time, LLMs introduce new risks: prompt injection, data leakage, hallucinated security advice, adversarial manipulation, unsafe autonomous actions, and the difficulty of evaluating model behavior in realistic security environments.</p>
+
+<p>The Workshop on Trustworthy Large Language Models for Cybersecurity (TLLMSec 2026) aims to provide a focused forum for researchers, students, and practitioners interested in the intersection of LLMs, security automation, and trustworthy AI. The workshop welcomes early-stage ideas, system prototypes, empirical studies, benchmarks, and position papers. We especially encourage work that goes beyond showing that LLMs can be used in a security task and instead analyzes when, why, and under what safeguards such systems can be trusted.</p>
+
+<h3 id="topics-of-interest">Topics of Interest</h3>
+
+<p>TLLMSec 2026 solicits submissions on, but not limited to, the following topics:</p>
+
+<ul>
+  <li>LLM-assisted vulnerability discovery, patch generation, and secure code review</li>
+  <li>LLM-based malware analysis, reverse engineering, and behavior summarization</li>
+  <li>Security operations copilots for log analysis, alert triage, and incident response</li>
+  <li>Phishing, fraud, and social engineering detection with LLMs</li>
+  <li>Red teaming, jailbreaking, prompt injection, and defense mechanisms for LLM systems</li>
+  <li>Privacy risks, data leakage, and memorization in security-oriented LLM applications</li>
+  <li>Trustworthy tool use and safe agentic workflows in cybersecurity environments</li>
+  <li>Evaluation benchmarks, datasets, and metrics for LLMs in security tasks</li>
+  <li>Human-in-the-loop security analysis and collaboration between analysts and LLMs</li>
+  <li>Explainability, calibration, uncertainty estimation, and reliability of LLM security outputs</li>
+  <li>Responsible disclosure, ethics, and academic norms in AI-assisted cybersecurity research</li>
+  <li>Educational applications of LLMs in secure programming and cyber defense training</li>
+</ul>
+
+<h3 id="submission-types">Submission Types</h3>
+
+<p>We invite the following types of submissions:</p>
+
+<ul>
+  <li><strong>Full papers</strong>: up to 6 pages, presenting mature research, complete systems, or substantial empirical studies.</li>
+  <li><strong>Short papers</strong>: up to 4 pages, presenting preliminary results, focused technical contributions, or negative results.</li>
+  <li><strong>Position papers</strong>: up to 3 pages, presenting well-argued viewpoints, open problems, or research agendas.</li>
+  <li><strong>Poster abstracts</strong>: up to 2 pages, presenting early-stage ideas, datasets, demos, or student projects.</li>
+</ul>
+
+<p>Page limits exclude references and appendices. Appendices may be submitted, but reviewers are not required to read them.</p>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+
+<p>Submissions in English or Chinese are accepted. Authors are encouraged to provide an English title and abstract to support broader academic communication.</p>
+
+<p>All papers should use the IEEE two-column conference format and be submitted as PDF files. Submissions must be original, must not plagiarize prior work, and should clearly distinguish the authors’ own contributions from related work, open-source tools, datasets, and AI-generated assistance. If generative AI tools are used in preparing a paper, authors should disclose the scope of use in an acknowledgment or ethics statement.</p>
+
+<p>The workshop will use a double-blind peer review process. Authors should remove names, affiliations, acknowledgments, and obvious self-identifying information from the submitted manuscript. Each submission will be reviewed by at least two reviewers. Reviewers will evaluate relevance to the workshop, novelty, technical soundness, clarity of writing, reproducibility, ethical considerations, and potential to stimulate discussion.</p>
+
+<p>Accepted papers will be presented as oral talks or posters. At least one author of each accepted paper is expected to attend the workshop and participate in the discussion session. The final program may include a keynote talk, paper sessions, a poster session, and a panel on the trustworthy deployment of LLM-based security systems.</p>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<ul>
+  <li>Submission deadline: July 20, 2026, Anywhere on Earth</li>
+  <li>Notification of acceptance: August 10, 2026</li>
+  <li>Camera-ready deadline: August 24, 2026</li>
+  <li>Workshop date: September 2026, Chengdu, China, with hybrid participation</li>
+</ul>
+
+<h3 id="review-and-selection-policy">Review and Selection Policy</h3>
+
+<p>TLLMSec 2026 values constructive peer review. Reviews should focus on the paper rather than the authors, provide evidence for major claims, and offer actionable suggestions for improvement. Borderline papers may be discussed by the program committee, with attention to reviewer expertise and the workshop’s goal of encouraging meaningful academic exchange.</p>
+
+<p>The workshop is particularly interested in submissions that identify realistic limitations and failure cases. A clear negative result, a careful benchmark, or an honest discussion of deployment risks may be considered valuable even if the system performance is not state of the art.</p>
+
+<h3 id="organizers">Organizers</h3>
+
+<ul>
+  <li>朱熠杭, 2025226245035, School of Cyber Science and Engineering, Sichuan University</li>
+  <li>周铭杰, 2025226245067, School of Cyber Science and Engineering, Sichuan University</li>
+</ul>
+
+<h3 id="contact">Contact</h3>
+
+<p>For questions about submissions, review policy, or workshop organization, please contact the organizers.</p>
+:ET

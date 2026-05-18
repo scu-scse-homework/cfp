@@ -1,0 +1,72 @@
+I"�<h1 id="call-for-paper">Call for Paper</h1>
+
+<h2 id="journal-theme">Journal Theme</h2>
+<p>This special issue of ​<strong>​IEEE Transactions on Information Forensics and Security (TIFS)​</strong>​ invites high-quality submissions on cutting-edge research in information security, digital forensics, and privacy-preserving technologies. Topics of interest include but are not limited to:</p>
+<ul>
+  <li>​<strong>​Information Forensics​</strong>​: Digital watermarking, steganography, multimedia hashing, and tampering detection<a href="@ref">1,8</a></li>
+  <li>​<strong>​Cybersecurity​</strong>​: Cryptographic protocols, network intrusion detection, hardware security, and blockchain applications<a href="@ref">3,8</a></li>
+  <li>​<strong>​Biometrics &amp; Surveillance​</strong>​: Face recognition, fingerprint analysis, and AI-driven anomaly detection systems<a href="@ref">1,8</a></li>
+  <li>​<strong>​AI/ML in Security​</strong>​: Adversarial machine learning, privacy-preserving federated learning, and explainable AI for threat analysis<a href="@ref">1,5</a></li>
+  <li>​<strong>​Emerging Threats​</strong>​: Side-channel attacks mitigation (e.g., cache-based vulnerabilities), zero-day exploit prevention<a href="@ref">3,4</a></li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+<h3 id="1-format-requirements">1. ​<strong>​Format Requirements​</strong>​</h3>
+<ul>
+  <li>Manuscripts must follow ​<strong>​IEEE double-column format​</strong>​ (template: <a href="https://template-selector.ieee.org/">IEEE LaTeX Template</a>)</li>
+  <li>Page limit: ​<strong>​12 pages​</strong>​ (including references and appendices)</li>
+  <li>Mandatory inclusion of ​<strong>​reproducible code​</strong>​ and ​<strong>​datasets​</strong>​ (via GitHub/CodeOcean links)<a href="@ref">4,5</a></li>
+</ul>
+
+<h3 id="2-review-policy">2. ​<strong>​Review Policy​</strong>​</h3>
+<ul>
+  <li>​<strong>​Two-phase review​</strong>​: Initial screening for technical soundness (4 weeks) followed by in-depth peer review<a href="@ref">1,7</a></li>
+  <li>​<strong>​Double-blind evaluation​</strong>​: Remove author names/affiliations and avoid self-referential statements<a href="@ref">6</a></li>
+  <li>​<strong>​Novelty emphasis​</strong>​: Submissions must demonstrate ​<strong>​&gt;30% improvement​</strong>​ over state-of-the-art methods (quantitative validation required)<a href="@ref">4,5</a></li>
+</ul>
+
+<h3 id="3-submission-portal">3. ​<strong>​Submission Portal​</strong>​</h3>
+<ul>
+  <li>Deadline: ​<strong>​October 31, 2025​</strong>​ (strict enforcement via <a href="https://mc.manuscriptcentral.com/tifs-ieee">Manuscript Central</a>)<a href="@ref">1,8</a></li>
+  <li>Select special issue: ​<strong>​”SI: Next-Gen Security Frontiers”​</strong>​ during submission</li>
+</ul>
+
+<h2 id="organizing-committee">Organizing Committee</h2>
+<p>| Role | Name | Affiliation |<br />
+|——|——|————-|<br />
+| ​<strong>​Editor-in-Chief​</strong>​ | Prof. Mauro Barni | University of Siena, Italy |<br />
+| ​<strong>​Guest Editors​</strong>​ | Dr. Fangyu Zheng | Chinese Academy of Sciences, China<a href="@ref">3</a> |<br />
+| | Prof. Luis Sobrevia | Pontificia Universidad Católica de Chile<a href="@ref">2</a> |<br />
+| | Dr. Qing Wang | Wuhan University, China<a href="@ref">4</a> |<br />
+| ​<strong>​TPC Members​</strong>​ | 30+ experts from academia/industry (see <a href="http://tifs-ieee.org/committees">full list</a>) |</p>
+
+<h2 id="key-dates">Key Dates</h2>
+<ul>
+  <li>Submission opens: ​<strong>​May 1, 2025​</strong>​</li>
+  <li>Abstract pre-check deadline: ​<strong>​September 15, 2025​</strong>​ (optional but recommended)</li>
+  <li>Final notification: ​<strong>​March 2026​</strong>​</li>
+</ul>
+
+<h2 id="contact">Contact</h2>
+<ul>
+  <li>For technical queries: ​<strong>​tifs2025-special@ieee.org​</strong>​</li>
+  <li>Submission system support: ​<strong>​tifs-support@ieee.org​</strong>​</li>
+</ul>
+
+<hr />
+
+<p>​<strong>​Why Submit to TIFS?​</strong>​</p>
+<ul>
+  <li>​<strong>​High impact​</strong>​: 2025 JCR Q1, IF=6.3, CCF-A ranking<a href="@ref">1,8</a></li>
+  <li>​<strong>​Fast publication​</strong>​: Average 6.8 months from submission to decision<a href="@ref">1</a></li>
+  <li>​<strong>​Global visibility​</strong>​: Indexed by IEEE Xplore, Scopus, and Web of Science</li>
+</ul>
+
+<p><a href="@ref">1</a>: TIFS journal metrics and scope<br />
+<a href="@ref">2</a>: Guest editor expertise in metabolic disease mechanisms<br />
+<a href="@ref">3</a>: CAS achievements in cache side-channel defense<br />
+<a href="@ref">4</a>: Wildcard query encryption innovations<br />
+<a href="@ref">5</a>: Privacy-preserving statistical analysis frameworks<br />
+<a href="@ref">6</a>: General CFP structure guidelines<br />
+<a href="@ref">8</a>: Expanded scope with AI/ML security applications</p>
+:ET

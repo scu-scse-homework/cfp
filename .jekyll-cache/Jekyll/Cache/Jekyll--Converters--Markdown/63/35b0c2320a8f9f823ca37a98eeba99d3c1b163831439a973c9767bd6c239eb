@@ -1,0 +1,52 @@
+I"º	<h2 id="call-for-papers">Call For Papers</h2>
+
+<p>Anomaly detection (AD) , also known as outlier detection or novelty detection, has been a lasting yet active research area in various research communities for several decades. Due to the critical and interesting insights they often provide, anomaly detection technologies play important roles in various application domains. Such as the abnormal trajectory and moving object detection, fraud detection, emerging topic detection, and medical information detection. The AD problem depends on the nature of input data (points, sequences, functions, graphs, images, objects of different nature), on the type of anomaly (point anomalies, contextual or behavioral anomalies, or their combination), on the availability of labeled data for training/validation of the AD techniques (leading to unsupervised AD and supervised AD), and on the type of output of AD (scores or label).</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>It is not possible to establish a single mathematical framework to deal with AD because it depends on the type of application. This special issue will cope with review, methodological and applied articles. Topics include, but are not limited to, the following:</p>
+
+<ul>
+  <li>
+    <p>Classification techniques</p>
+  </li>
+  <li>
+    <p>Robust regression</p>
+  </li>
+  <li>
+    <p>Robust PCA</p>
+  </li>
+  <li>
+    <p>Robust signal processing</p>
+  </li>
+  <li>
+    <p>Robust image processing</p>
+  </li>
+  <li>
+    <p>Clustering techniques</p>
+  </li>
+  <li>
+    <p>Information theory techniques</p>
+  </li>
+  <li>
+    <p>Artificial Intelligence</p>
+  </li>
+  <li>
+    <p>AD Application to any field</p>
+  </li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<p>Submitted papers must contain original work, which has neither been previously published nor it is currently under review by another journal or conference. Previously published or accepted conference papers must contain at least 40% new material to be considered for the special issue.
+All papers will be peer-reviewed by at least three independent reviewers. Requests for additional information should be addressed to the corresponding guest editor.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>Submission deadline: June 4, 2022</li>
+  <li>Initial notification: June 5, 2022</li>
+  <li>Final acceptance/rejection notification: June 18 , 2022</li>
+  <li>Publication: As per the policy of journal</li>
+</ul>
+:ET

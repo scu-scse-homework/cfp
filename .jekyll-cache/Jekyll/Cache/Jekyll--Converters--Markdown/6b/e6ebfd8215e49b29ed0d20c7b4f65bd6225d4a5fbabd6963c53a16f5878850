@@ -1,0 +1,44 @@
+I"�<h2 id="overview">Overview</h2>
+<p>With the rapid development of computer science, more and more advanced technologies are used in various fields. When we use the products provided by these technologies, we only focus on the convenience it provides but forget the security risks it brings.It will lead to a devastating disaster when a new vulnerability in technology is exploited by malicious organizations. State-of-the-art offense explores these questions pragmatically, gathering material for generalizations that lead to better models and more trustworthy systems.</p>
+
+<p>WOAT provides a forum for high-quality peer review of attack tools and techniques. The submission should reflect the latest technology of attack technology, reveal little knowledge of the mechanism, propose novel attacks, highlight the limitations of published attacks and defenses.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+<p>Submission topics include, but are not limited to, attacks on and offensive research into:</p>
+<ul>
+  <li>Cyber attack</li>
+  <li>Protocol attack</li>
+  <li>Lateral movement</li>
+  <li>Application attack</li>
+  <li>Side channel attack</li>
+  <li>Virtual machine escape</li>
+  <li>Machine Learning attack</li>
+  <li>Operating systems attack</li>
+  <li>Internet of Things attack</li>
+  <li>Cryptographic systems attack</li>
+  <li>Intelligent Automobile attack</li>
+  <li>Cyber-physical systems attack</li>
+  <li>Malware design, implementation and analysis</li>
+  <li>Security solution product bypass(WAF, AV, EDR and etc.)</li>
+  <li>Automating software testing such as fuzzing for novel targets</li>
+  <li>Analysis of mitigations and automating how they can be bypassed</li>
+  <li>Browser and general client-side attack (runtimes, JITs, sandboxing)</li>
+  <li>Hardware, including software-based exploitation of hardware vulnerabilities</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p><strong>Paper Submission Deadline</strong>: May 16,2022</p>
+
+<p><strong>Notification Date</strong>: May 31,2022</p>
+
+<p><strong>Workshop Date</strong>: June 21,2022</p>
+
+<h2 id="paper-submission">Paper Submission</h2>
+
+<p>Submissions must be in PDF format. Papers should be succinct but thorough in presenting the work. The contribution needs to be well motivated, clearly exposed, and compared to the state of the art. Typical research papers are at least 4 pages, and maximum 10 pages long (not counting bibliography and appendix). Yet, papers whose lengths are incommensurate with their contributions will be rejected.</p>
+
+<p>The submission should be formatted in 2-columns, using 10-point Times Roman type on 12-point leading, in a text block of 6.5” x 9”. Please number the pages. Authors must use the IEEE templates, this is address: https://www.ieee.org/conferences/publishing/templates.html</p>
+
+<p>Submissions are double blind: submissions should be anonymized and avoid obvious self-references (authors are allowed to release technical reports and present their work elsewhere such as at DefCon or BlackHat).</p>
+:ET

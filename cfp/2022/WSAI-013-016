@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>International Workshop on Web Security and Artificial Intelligence</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="This is the website that stores the CFPs for the course "Ethics and Academic Writing".">
+    <link rel="canonical" href="/cfp/2022/WSAI-013-016">
+
+
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+
+
+    <body id="page-top" class="index">
+        <div class="cfp-meta">
+<h1><strong>INTERNATIONAL WORKSHOP ON WEB SECURITY AND ARTIFICIAL INTELLIGENCE</strong></h1>
+<ul class="meta-list">
+  <li class="meta-item">
+    <label>Organizers: </label>
+    <ul>
+      
+      <li>许益家</li>
+      
+      <li>刘中临</li>
+      
+    </ul>
+  </li>
+  <li = "meta-item">
+    <label>Institution: </label>
+    <span>School of Cyber Science and Engineering</span>
+  </li>
+  </ul>
+</div>
+
+<hr>
+
+<div class="cfp-content">
+![wsai][1]
+
+# Call for Paper
+
+The 1st International Workshop on Web Security and Artificial Intelligence (WSAI) will be held in Sichuan University, Chengdu, May 27, 2022. 
+
+WSAI provide an excellent international forum for sharing knowledge and achievements in the theory, method and application of Web Security and Artificial Intelligence. The workshop looks for significant contributions to all major fields of the Web Security and Artificial Intelligence in theoretical and practical aspects.
+
+Authors are invited to contribute to the workshop by submitting research results, projects, measurement work, and industrial experiences that describe significant advances in cybersecurity and artificial intelligence. Now we invite you to submit your papers to WSAI 2022 in Chengdu, China.
+
+# Topic
+- Cyber attacks
+- Web security
+- Web vulnerability mining
+- Web attack detection 
+- Web security bypass
+- Web defense
+- Software vulnerabilities
+- Malware analysis
+- Computer networks
+- Computer performance
+- Computer peripherals
+- Computer science
+- Computer security
+- Open systems
+- Data systems
+- Machine learning
+- Artificial intelligence
+- High performance computing
+- Probabilistic computing
+- Probability computing
+- Security Circuits, Designs, and Detection
+
+# Important Dates
+| Matter  | Deadline  |
+|  ----  | ----  |
+| Manuscript Submission Deadline  | April 4, 2022 |
+| Initial Decision Date  | April 22, 2022 |
+| Revised Manuscript Due  | May 9, 2022 |
+| Final Decision Date  | May 20, 2022 |
+| Final Manuscript Due  | May 27, 2022 |
+| Publication Date  | July, 2022 |
+Note: All deadlines are in according with Beijing time.
+
+# Submission Information
+WSAI 2022 welcome both long and short papers and uses a double-blind review process. Each submission will be reviewed by 3 program committee members. Each submission should follow the WSAI 2022 guidelines.
+
+# About The Paper Length
+If you choose long papers, then you must describe substantial, original, completed, and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. (At least 8 pages)
+
+As for short paper, submissions also need describe original and unpublished work. And you should have a point that can be made in a few pages (such as 4 pages).
+
+Formatting Requirements: Manuscripts should conform to the standard format as indicated in the Information for Authors section of the Paper Submission Guidelines. Submissions that do not conform to the required styles will be rejected.
+
+# Presentation Requirement
+All accepted papers should prepare a 5-minute video and poster PDF. In addition, all papers will have a "live session" where attendees can meet the authors via a video link to discuss the paper. See details below:
+
+(1) A 5-minute video presentation
+Authors should prepare a 5-minute video presentation of their work. Videos will be made available on the workshop platform for viewing at any time during the workshop. Attendees will be able to post questions to the authors asynchronously via a text Q/A box associated with each paper. Videos should be encoded in an MP4 format, at 1920x1080p, using H264 compression. Please ensure that your associated audio is clear and at the appropriate level. The maximum video file size allowed by the virtual platform is 2GB, however, we recommend a much smaller file size (e.g., 50MB) to avoid issues with uploading/downloading. Note that our virtual platform provider has a feature where you can record audio to slides instead of an MP4 file. Please enable closed captioning.
+
+(2) A poster-PDF
+Authors should also prepare a poster PDF for their paper. The virtual platform has a feature to browse all posters in a paper session. Posters can also be used as a talking point for the live sessions.
+
+#Contact Information Email:
+675158604@qq.com
+
+# General Chair
+Yijia Xu (Sichuan University)
+
+Questions about submissions can be sent to the workshop contact email: 11340134@qq.com (Zhonglin Liu)
+
+
+  [1]: http://zfx338.bvimg.com/15939/c9069a55ec771847.png
+  
+</div>
+
+    </body>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+
+    <script
+			  src="https://code.jquery.com/jquery-3.6.0.min.js"
+			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+			  crossorigin="anonymous">
+    </script>
+    <script>
+     $.fn.shuffleChildren = function() {
+         $.each(this.get(), function(index, el) {
+             var $el = $(el);
+             var $find = $el.children();
+
+             $find.sort(function() {
+                 return 0.5 - Math.random();
+             });
+
+             $el.empty();
+             $find.appendTo($el);
+         });
+     };
+
+     $(".shuffle").shuffleChildren();
+     $(".shuffle").addClass('show');
+ </script>
+</html>

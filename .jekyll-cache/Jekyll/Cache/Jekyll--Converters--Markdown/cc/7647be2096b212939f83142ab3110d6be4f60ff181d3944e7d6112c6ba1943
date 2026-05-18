@@ -1,0 +1,77 @@
+I"�<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The International Conference on Foundations and Frontiers of Artificial Intelligence (ICFFAI) is a premier annual forum dedicated to advancing the theoretical foundations, methodological innovations, and frontier applications of artificial intelligence. As AI systems transition from laboratory curiosities to ubiquitous infrastructure—powering everything from scientific discovery and medical diagnosis to autonomous transportation and financial markets—the need for rigorous, foundational research has never been more pressing. ICFFAI brings together leading researchers, practitioners, and students from academia and industry to present cutting-edge work that pushes the boundaries of what intelligent systems can achieve.</p>
+
+<p>Artificial intelligence is at a pivotal moment. Large language models, multimodal systems, and foundation models have demonstrated remarkable capabilities while simultaneously revealing profound limitations in reasoning, robustness, interpretability, and generalization. Addressing these challenges requires not only incremental advances but also fundamental breakthroughs in our understanding of learning, inference, representation, and decision-making under uncertainty. ICFFAI 2026 invites high-quality, original research contributions that advance the state of the art across all areas of artificial intelligence, from theoretical insights to practical implementations.</p>
+
+<p>We welcome submissions that span the full spectrum of AI research, including but not limited to machine learning, computer vision, natural language processing, knowledge representation, planning, robotics, multi-agent systems, and AI ethics. Submissions will be evaluated based on technical novelty, rigor of methodology, clarity of presentation, and potential for impact on the broader AI community. Join us at ICFFAI 2026 to shape the next generation of intelligent systems.</p>
+
+<h1 id="topics-of-interest">Topics of interest</h1>
+
+<ul>
+  <li>Machine Learning: Deep Learning, Reinforcement Learning, Transfer Learning, Federated Learning</li>
+  <li>Computer Vision: Image Recognition, Video Understanding, 3D Vision, Generative Models</li>
+  <li>Natural Language Processing: Language Modeling, Translation, Dialogue Systems, Information Extraction</li>
+  <li>Knowledge Representation and Reasoning: Ontologies, Semantic Web, Common Sense Reasoning</li>
+  <li>Planning and Decision-Making: Classical Planning, Probabilistic Planning, Multi-Agent Planning</li>
+  <li>Robotics: Perception, Control, Manipulation, Human-Robot Interaction</li>
+  <li>Multi-Agent Systems: Game Theory, Mechanism Design, Cooperative AI</li>
+  <li>AI Fairness, Accountability, Transparency, and Ethics</li>
+  <li>Trustworthy and Explainable AI</li>
+  <li>Efficient AI: Model Compression, Acceleration, Green AI</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ol>
+  <li><strong>Format</strong>: Submissions must be in PDF format, using the double-column ACM format (sigconf style).</li>
+  <li><strong>Length</strong>: Maximum of 10 pages for the main paper, excluding references and well-marked appendices.</li>
+  <li><strong>Anonymization</strong>: All submissions must be fully anonymized for double-blind review. Author names, affiliations, and any identifying information should be removed. Papers that do not comply may be rejected without review.</li>
+  <li><strong>Originality</strong>: Submissions must represent original work that has not been previously published nor is currently under review elsewhere.</li>
+  <li><strong>Supplementary Material</strong>: Authors may submit additional supplementary material (code, data, proofs, videos) as a single zip file, though reviewers are not obligated to consider it.</li>
+  <li><strong>Ethical Compliance</strong>: For research involving human subjects, datasets with ethical concerns, or dual-use risks, authors must provide appropriate ethical statements and disclosures.</li>
+</ol>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>IMPORTANT DATE</th>
+      <th>DATE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paper submission deadline</td>
+      <td>May 15, 2026</td>
+    </tr>
+    <tr>
+      <td>Notification of early-rejection</td>
+      <td>June 20, 2026</td>
+    </tr>
+    <tr>
+      <td>Author rebuttal period</td>
+      <td>July 10-17, 2026</td>
+    </tr>
+    <tr>
+      <td>Rebuttal deadline</td>
+      <td>July 17, 2026</td>
+    </tr>
+    <tr>
+      <td>Final author notification</td>
+      <td>August 5, 2026</td>
+    </tr>
+    <tr>
+      <td>Conference dates</td>
+      <td>October 12-15, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Haowen Zheng, <em>Sichuan University</em>, China</li>
+</ul>
+:ET

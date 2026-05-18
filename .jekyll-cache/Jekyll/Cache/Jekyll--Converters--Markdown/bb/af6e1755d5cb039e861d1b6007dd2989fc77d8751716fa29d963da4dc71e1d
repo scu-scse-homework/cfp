@@ -1,0 +1,106 @@
+I"¿<h1 id="call-for-papers">Call for Papers</h1>
+
+<h2 id="the-1st-international-conference-on-intelligent-network-and-distributed-systems-security-2026">The 1st International Conference on Intelligent Network and Distributed Systems Security 2026</h2>
+
+<hr />
+
+<h2 id="1-conference-theme">1. Conference Theme</h2>
+
+<p><strong>Conference Name:</strong> The 1st International Conference on Intelligent Network and Distributed Systems Security 2026 
+<strong>Abbreviation:</strong> INDSS Security 2026 
+<strong>Theme:</strong> Intelligent Network and Distributed Systems Security: Attacks, Defenses, Privacy, and Trustworthy Governance for AI, Cloud-Edge Computing, and Critical Infrastructure</p>
+
+<p>INDSS Security 2026 focuses on emerging challenges in network security, distributed systems security, and intelligent systems security. The conference welcomes research on security threats, defense mechanisms, privacy protection, and trustworthy governance in areas such as artificial intelligence, large language models, cloud computing, edge computing, the Internet of Things, industrial control systems, and critical infrastructure.</p>
+
+<p>The conference solicits original research papers that address real networked systems, practical attack scenarios, and verifiable security mechanisms. Submissions may present theoretical contributions, system designs, empirical studies, measurement results, or practical defense techniques.</p>
+
+<h3 id="topics-of-interest">Topics of Interest</h3>
+
+<p>Submissions are invited on topics including, but not limited to:</p>
+
+<ul>
+  <li>Network intrusion detection, anomaly detection, and attack prevention</li>
+  <li>DDoS attack analysis, mitigation, and network resilience</li>
+  <li>Malware analysis, botnet detection, phishing defense, and cybercrime investigation</li>
+  <li>Security of cloud computing, edge computing, container systems, and distributed platforms</li>
+  <li>Security and privacy of artificial intelligence, machine learning, federated learning, and large language models</li>
+  <li>Adversarial attacks, data poisoning, model extraction, and privacy leakage in intelligent systems</li>
+  <li>Security of the Internet of Things, smart homes, industrial control systems, and cyber-physical systems</li>
+  <li>Web security, mobile platform security, browser security, and application security</li>
+  <li>Blockchain security, smart contract analysis, cryptocurrency security, and decentralized identity</li>
+  <li>Network protocol security, routing security, DNS security, and public key infrastructure</li>
+  <li>Privacy-enhancing technologies, anonymous communication, and secure data sharing</li>
+  <li>Software vulnerability discovery, fuzzing, program analysis, and secure software engineering</li>
+  <li>Digital forensics, incident response, threat intelligence, and security measurement</li>
+  <li>Usable security, security governance, risk assessment, and responsible vulnerability disclosure</li>
+</ul>
+
+<hr />
+
+<h2 id="2-paper-submission-guidelines">2. Paper Submission Guidelines</h2>
+
+<h3 id="21-format-requirements">2.1 Format Requirements</h3>
+
+<ul>
+  <li>Papers must use the official LaTeX or Word template provided by the conference.</li>
+  <li>Submissions must be in PDF format.</li>
+  <li>The main text must use a font size of 10 points or larger.</li>
+  <li>Papers should follow a two-column format with standard margins, spacing, and font settings.</li>
+  <li>Authors must not manipulate margins, spacing, font size, figures, or tables to bypass the page limit.</li>
+</ul>
+
+<h3 id="22-page-limit">2.2 Page Limit</h3>
+
+<ul>
+  <li>Full research papers must not exceed <strong>12 pages</strong> for the main body.</li>
+  <li>References and appendices are not included in the 12-page limit.</li>
+  <li>Appendices may include additional experimental details, proofs, or supplementary data, but reviewers are not required to read them.</li>
+</ul>
+
+<h3 id="23-anonymous-submission">2.3 Anonymous Submission</h3>
+
+<ul>
+  <li>INDSS Security 2026 uses a <strong>double-blind review</strong> process.</li>
+  <li>Submissions must not include author names, affiliations, acknowledgements, or other information that clearly reveals author identities.</li>
+  <li>Authors should refer to their own prior work in the third person where appropriate.</li>
+  <li>During the review period, authors should not actively publicize submitted papers in a way that may compromise anonymous review.</li>
+</ul>
+
+<h3 id="24-originality-requirement">2.4 Originality Requirement</h3>
+
+<ul>
+  <li>Submissions must present original work that has not been previously published.</li>
+  <li>Papers must not be under review at another conference, journal, or workshop with formal proceedings at the time of submission.</li>
+  <li>If a submission is related to the authorsâ€™ previous work, the paper must clearly explain the differences and new contributions.</li>
+</ul>
+
+<h3 id="25-review-strategy">2.5 Review Strategy</h3>
+
+<p>The Program Committee will evaluate submissions according to the following criteria:</p>
+
+<ul>
+  <li><strong>Originality:</strong> Whether the paper proposes a new problem, method, system, attack model, or defense mechanism.</li>
+  <li><strong>Technical Quality:</strong> Whether the methodology, experiments, implementation, and analysis are rigorous and reliable.</li>
+  <li><strong>Security Contribution:</strong> Whether the paper makes a clear contribution to network security, systems security, or privacy protection.</li>
+  <li><strong>Practical Relevance:</strong> Whether the work addresses real systems, realistic threats, or application scenarios with deployment value.</li>
+  <li><strong>Clarity:</strong> Whether the paper is well organized, clearly written, and supported by understandable figures, tables, and results.</li>
+  <li><strong>Reproducibility:</strong> Whether the paper provides sufficient experimental details, data descriptions, or implementation information to support its conclusions.</li>
+</ul>
+
+<p>Review outcomes include acceptance, conditional acceptance after revision, and rejection. For promising papers that require improvement, the Program Committee may request revisions within a specified period, followed by a final assessment by designated reviewers.</p>
+
+<hr />
+
+<h2 id="3-organizer-information">3. Organizer Information</h2>
+
+<h3 id="31-host-organization">3.1 Host Organization</h3>
+
+<p>International Alliance for Intelligent Network and Distributed Systems Security</p>
+
+<h3 id="32-general-chairs">3.2 General Chairs</h3>
+
+<ul>
+  <li>Changkun Wang</li>
+  <li>Rongyu Liu</li>
+</ul>
+:ET

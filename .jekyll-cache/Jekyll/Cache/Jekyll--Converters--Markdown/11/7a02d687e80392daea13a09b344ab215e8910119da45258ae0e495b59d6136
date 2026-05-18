@@ -1,0 +1,105 @@
+I"6<h1 id="scucrypto-conference-2025-call-for-papers">SCUCrypto Conference 2025 Call for Papers</h1>
+
+<p>We invite paper submissions!</p>
+
+<p>The Sichuan University Cryptography and Applications Conference (SCUCrypto) is a premier platform dedicated to advancing research and practice in cryptography and its applications. SCUCrypto 2025 will be held at Sichuan University Jiang’an Campus from June 23 to June 27, 2025. This conference targets researchers, practitioners, and enthusiasts interested in cryptographic techniques and their real-world implementations. Our goal is to foster collaboration and innovation in cryptographic solutions for securing networks, systems, and data in the digital age.</p>
+
+<p>We seek technical papers. Authors are encouraged to craft abstracts and introductions that make their findings accessible and engaging to a broad cryptography audience. All submissions will be evaluated by the Program Committee, and accepted papers will be published by Sichuan University Press in the <em>Proceedings of SCUCrypto 2025</em>, freely accessible via the Sichuan University academic website. Authors may post final versions on personal or institutional repositories with proper copyright notice. Reproduction for commercial purposes is prohibited without prior consent.</p>
+
+<h2 id="paper-submission-guidelines">Paper Submission Guidelines</h2>
+
+<p>SCUCrypto 2025 features a single review cycle: the <em>Summer Submission Cycle</em>. Deadlines are set for 11:59 PM AoE (UTC-12). See “Important Dates” below for details.</p>
+
+<p>Each submission will receive one of the following decisions:</p>
+<ul>
+  <li><strong>Accept</strong>: Accepted for publication and presentation.</li>
+  <li><strong>Minor Revision</strong>: Accepted contingent on satisfactory minor revisions.</li>
+  <li><strong>Major Revision</strong>: Promising papers requiring significant rework; resubmission allowed within six weeks of notification.</li>
+  <li><strong>Reject</strong>: Not accepted, with no resubmission permitted for SCUCrypto 2025.</li>
+</ul>
+
+<p>The review process includes two rounds:</p>
+<ol>
+  <li><strong>Round 1</strong>: Filters papers for further consideration.</li>
+  <li><strong>Round 2</strong>: Finalizes acceptances.</li>
+</ol>
+
+<p>Authors will receive Round 1 feedback and early rejection notices. Papers advancing to Round 2 allow authors to rebut reviews and engage in interactive discussions with reviewers.</p>
+
+<p>Authors of accepted papers must ensure presentation at the conference per the participation policy.</p>
+
+<h3 id="paper-formatting">Paper Formatting</h3>
+<ul>
+  <li>Maximum 12 pages (excluding references and appendices).</li>
+  <li>Language: English.</li>
+  <li>Format: LaTeX.</li>
+  <li>Template: Use the <a href="https://github.com/Cryptosaurus/iacrtrans/blob/master/template.tex">IACR template</a>.</li>
+  <li>Submission format: PDF.</li>
+  <li>Note: Ensure readability in black-and-white printing; avoid problematic fonts or images.</li>
+</ul>
+
+<h3 id="double-submissions-and-ethics">Double Submissions and Ethics</h3>
+<ul>
+  <li>Papers must not overlap significantly with published works or concurrent submissions elsewhere; double submissions will be rejected outright.</li>
+  <li>Papers involving human subjects or ethical/legal concerns must disclose ethics reviews (e.g., IRB) and address these issues.</li>
+  <li>High-impact vulnerability reports require a responsible disclosure plan.</li>
+</ul>
+
+<h3 id="anonymity">Anonymity</h3>
+<ul>
+  <li>SCUCrypto 2025 uses double-blind review; omit author names and affiliations.</li>
+  <li>Refer to prior work in the third person or anonymize citations.</li>
+  <li>Non-compliant submissions will be rejected without review.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<h3 id="summer-review-cycle">Summer Review Cycle</h3>
+<ul>
+  <li><strong>Fri, May 30, 2025</strong>: Paper submission deadline</li>
+  <li><strong>Wed, June 4, 2025</strong>: Round 1 notification (early reject or Round 2 advancement)</li>
+  <li><strong>Thu, June 5 - Fri, June 6, 2025</strong>: Author rebuttal period</li>
+  <li><strong>Sat, June 7 - Sun, June 8, 2025</strong>: Interactive discussion with reviewers</li>
+  <li><strong>Mon, June 10, 2025</strong>: Final notification</li>
+  <li><strong>Wed, June 12, 2025</strong>: Major Revision resubmission deadline</li>
+  <li><strong>Sun, June 15, 2025</strong>: Major Revision notification</li>
+  <li><strong>Wed, June 18, 2025</strong>: Camera-ready deadline</li>
+</ul>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>We welcome submissions in, but not limited to, the following areas:</p>
+<ul>
+  <li>Advanced cryptographic primitives (e.g., post-quantum cryptography, homomorphic encryption)</li>
+  <li>Cryptographic protocols for secure communication (e.g., zero-knowledge proofs, secure multi-party computation)</li>
+  <li>Blockchain and cryptocurrency security</li>
+  <li>Cryptanalysis of symmetric and asymmetric algorithms</li>
+  <li>Privacy-preserving technologies (e.g., differential privacy, anonymous credentials)</li>
+  <li>Cryptography for IoT and resource-constrained devices</li>
+  <li>Applications of cryptography in cloud and edge computing</li>
+  <li>Machine learning and cryptography (e.g., encrypted ML models, adversarial cryptography)</li>
+  <li>Key management, distribution, and revocation systems</li>
+  <li>Cryptographic defenses against side-channel and physical attacks</li>
+  <li>Formal verification of cryptographic implementations</li>
+  <li>Cryptography in emerging networks (e.g., 6G, quantum networks)</li>
+  <li>Usable cryptography for end-user applications</li>
+  <li>Case studies on cryptographic deployment in real-world systems</li>
+</ul>
+
+<p><strong>Note</strong>: SCUCrypto prioritizes papers with clear ties to practical cryptographic applications or systems. Purely theoretical work must demonstrate relevance to real-world use cases.</p>
+
+<h2 id="organizers">Organizers</h2>
+
+<h3 id="program-chair">Program Chair</h3>
+<p>Junyu Zhou, Sichuan University</p>
+
+<h3 id="program-vice-chair">Program Vice Chair</h3>
+<p>Siyi Wang, Sichuan University
+Dingming Liu, Sichuan University</p>
+
+<h2 id="submission-process">Submission Process</h2>
+
+<p>Submit papers for the Summer Review Cycle at <a href="https://SCUCrypto2025.com">https://SCUCrypto2025.com</a>.</p>
+
+<p>For inquiries, contact the Program Chair at <a href="mailto:helloworld@junyu33.me">helloworld@junyu33.me</a>.</p>
+:ET

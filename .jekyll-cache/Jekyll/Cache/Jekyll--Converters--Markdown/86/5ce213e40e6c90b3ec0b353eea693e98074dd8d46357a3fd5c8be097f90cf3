@@ -1,0 +1,98 @@
+I"É<h2 id="overview">Overview</h2>
+
+<p>Ever since the advent of computers, the security and privacy issues of computer
+systems have been a concern. Through the last few decades, almost every aspect
+of modern society has been empowered by computer systems.</p>
+
+<p>The International Seminar of Computer System Security and Privacy (CSSP) has
+always been a venue for researchers to present their novel contribution on all
+real-world security and privacy issues on computer systems. While traditional
+security research areas continue attracting interest, recent booming generative
+AI technologies has motivated a new wave of research interest of AI systems.
+CSSP 2024 aims to cover the newest research trends in security and privacy, not
+limited to theoretical nor practical works.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>Topics of interest includes (but not limited to) the following areas:</p>
+
+<ul>
+  <li>Applied cryptography</li>
+  <li>Attacks with novel insights, techniques, or results</li>
+  <li>Cloud computing security</li>
+  <li>Cyber physical systems security</li>
+  <li>Distributed systems security</li>
+  <li>Economics of security and privacy</li>
+  <li>Formal methods and verification</li>
+  <li>Hardware security</li>
+  <li>Human-centered security and privacy</li>
+  <li>Machine learning and computer security</li>
+  <li>Malware and unwanted software</li>
+  <li>Network security and measurement</li>
+  <li>Operating systems security</li>
+  <li>Privacy-enhancing technologies, anonymity, and censorship</li>
+  <li>Program and binary analysis</li>
+  <li>Protocol security</li>
+  <li>Security and privacy metrics</li>
+  <li>Security and privacy policies</li>
+  <li>Security architectures</li>
+  <li>Software supply chain security</li>
+  <li>Systems security</li>
+  <li>User studies for security and privacy</li>
+  <li>Web security and privacy</li>
+  <li>Wireless and mobile security/privacy</li>
+</ul>
+
+<p>This year, CSSP encourages more research works about <strong>generative AI</strong>. Other
+works are also welcome.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p><strong>Submission Deadline</strong>: June 4,2024</p>
+
+<p><strong>Notification Due</strong>: June 13,2024</p>
+
+<h2 id="instructions-paper-submission">Instructions Paper Submission</h2>
+
+<h3 id="page-limit-and-formatting">Page Limit and Formatting</h3>
+
+<ul>
+  <li>Submitted papers may include up to <strong><em>8</em></strong> pages of text and unlimited
+pages for references and appendices, totaling no more than <strong><em>12</em></strong> pages.
+Reviewers are not required to read appendices.</li>
+  <li>If you are using LaTeX, you may make use of <a href="https://www.overleaf.com/latex/templates/acm-hypertext-conference-template/pchbkqfnmxgr">this template for ACM conference
+proceedings</a>.</li>
+</ul>
+
+<h3 id="submission-server">Submission Server</h3>
+
+<p>Submissions must be in Portable Document Format (.pdf). Links to submission servers:</p>
+
+<ul>
+  <li><a href="https://scu-cssp24.hotcrp.com/">https://scu-cssp24.hotcrp.com/</a></li>
+</ul>
+
+<h2 id="review-policy">Review Policy</h2>
+
+<p>All submitted papers will be reviewed based on their quality and relevance through
+double-blind policy, where the identities of the authors are withheld from
+the reviewers and vice versa.</p>
+
+<h2 id="presentation">Presentation</h2>
+
+<p>CSSP will be held at classroom <strong><em>XXX</em></strong> on June 23 (the date and location are
+not determined yet, please donâ€™t miss our mail notification). One of the authors
+of the accepted paper is expected to register and present the paper at the
+seminar. The quality of the presentation and research will be considered in the
+final decision of the best paper award. Please try to make your speech simple
+and try to extract and convey the core idea of your research.</p>
+
+<h2 id="organizing-committee">Organizing Committee</h2>
+
+<p>The following chairs are responsible for all preparations:</p>
+
+<ul>
+  <li>Luo Jian, Sichuan University</li>
+  <li>Chen Yi Xin, Sichuan University</li>
+</ul>
+:ET

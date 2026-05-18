@@ -1,0 +1,101 @@
+I"�<h1 id="iastw-2023-international-automated-software-testing-workshop">IASTW 2023: International Automated Software Testing Workshop</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>Software becomes an indispensable component in both industry and digital society, for its conciseness and effectiveness in completing tasks. Meanwhile, software security has caused great attention now for the emerging needs of both industry and digital society. However, the potential risk of time-consuming, design errors and poor integrations may lead to unreliable testing. The challenges for software testing are quite clear: how to test automatically and how to make sure the software is reliable and high-quality.</p>
+
+<p>International Automated Software Testing Workshop encourages the submission of high-quality technical research papers, experience reports, demonstrations, and short papers about emerging topics on software test automation.</p>
+
+<hr />
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>Submissions on IASTW 2023 theme are especially encouraged, but papers on other topics relevant to automated software testing are also welcome. Topics of interest include, but are not limited to the following:</p>
+
+<ul>
+  <li>Fuzzing</li>
+  <li>Automated Test Generation: Techniques and Tools</li>
+  <li>Test Automation in Software Process and Evolution, DevOps, Agile, CI/CD flows</li>
+  <li>Theoretical foundations of test automation</li>
+  <li>Search-based Software Testing</li>
+  <li>Fuzzer Benchmarking and Evaluation</li>
+  <li>Reproducibility Studies</li>
+  <li>Test-driven development</li>
+  <li>Test automation of large complex system</li>
+  <li>Testing with software usage models</li>
+  <li>Automated software testing for AI applications</li>
+  <li>AI for Automated Software Testing</li>
+</ul>
+
+<hr />
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<p>The workshop welcomes the presentation and discussion of new ideas and emerging problems. We sincerely hope to provide an environment to present and discuss your work at different stages of maturity. Therefore, we have three submission formats:</p>
+
+<ul>
+  <li>Full papers (up to 14 pages), which will be included in the proceedings;</li>
+  <li>Position papers (up to 4 pages), for work in progress, ideas in early stages;</li>
+  <li>Quick talks about entirely new ideas/projects and/or demos.</li>
+</ul>
+
+<p>Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for IASTW.</p>
+
+<p>To submit a paper please use the official “ACM Master article template”, which can be obtained from the <a href="https://www.acm.org/publications/proceedings-template">ACM Proceedings Template pages</a>.  IASTW will employ a <strong>double-anonymous policy</strong> for all submissions. Please ensure that the authors remain anonymous in your submission. Use the sigconf option as well as review and anonymous, i.e., place the following at the start of the latex document: <code class="language-plaintext highlighter-rouge">\documentclass[sigconf,review,anonymous]{acmart}</code>.</p>
+
+<p>Submit your papers via the <a href="">IASTW 2023 submission website</a>.</p>
+
+<p>Each submission will be reviewed by two members of the program committee. Authors will have an opportunity to respond to reviews during a rebuttal period. Submissions will be evaluated based on originality, the importance of contribution, soundness, evaluation, quality of presentation, and appropriate comparison to related work.</p>
+
+<p>Authors with further questions on submission are encouraged to contact the General Chair by email.</p>
+
+<hr />
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Matter</th>
+      <th>Deadline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Submission deadline</td>
+      <td>Sun 30 Apr 2023</td>
+    </tr>
+    <tr>
+      <td>Author response</td>
+      <td>Mon 29 - Tue 30 May 2023</td>
+    </tr>
+    <tr>
+      <td>Notification of accetpance</td>
+      <td>Fri 30 Jun 2023</td>
+    </tr>
+    <tr>
+      <td>Camera-ready deadline</td>
+      <td>Sun 30 Jul 2023</td>
+    </tr>
+    <tr>
+      <td>Conference</td>
+      <td>Mon 28 - Tue 29 Aug 2023</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li><strong>Organizer</strong>: International Automated Software Testing Workshop</li>
+  <li><strong>Hosts</strong>: Sichuan University, School of Cyber Science and Engineering</li>
+  <li><strong>General Chairs</strong>:
+    <ul>
+      <li>Rui Pan, Sichuan University, <a href="mailto:2022xxxxxx029@stu.scu.edu.cn">2022xxxxxx029@stu.scu.edu.cn</a></li>
+      <li>Rong Liu, Sichuan University, <a href="mailto:2022xxxxxx032@stu.scu.edu.cn">2022xxxxxx032@stu.scu.edu.cn</a></li>
+    </ul>
+  </li>
+</ul>
+:ET

@@ -1,0 +1,114 @@
+I"<h1 id="wmsa-2022workshop-on-multimedia-security-and-application">WMSA 2022:Workshop on Multimedia Security and Application</h1>
+
+<h2 id="overview">Overview</h2>
+<p>With the rapid development of Internet, communication technology and electronic equipment, multimedia becomes a significant component in our daily lives. While facilitating our lives, it also brings many security issues, such as multimedia information tampering, digital information plagiarism, confidentiality of multimedia information, etc. Multimedia information security and application has drawn great attention in recent years.</p>
+
+<p>The workshop on Multimedia Security and Application (WMSA) spotlights cutting-edge researches in multimedia information security, multimedia information forensics, surveillance and system applications related to this field. WMSA 2022 calls for research papers presenting novel, thought-provoking ideas and promising results in realizing these ideas.</p>
+
+<hr />
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>Original papers offering novel research contributions on all aspects of multimedia security are solicited for submission to WMSA 2022. Areas of interest include, but are not limited to:</p>
+
+<p><strong>Image processing :</strong></p>
+<ul>
+  <li>Image Restoration and Image Reconstruction</li>
+  <li>Image Denoising</li>
+  <li>Image Edit and Inpainting</li>
+</ul>
+
+<p><strong>Video processing:</strong></p>
+<ul>
+  <li>Video Editing</li>
+  <li>Video Generation and Video Synthesis</li>
+  <li>Action and Activity Recognition</li>
+  <li>Object Tracking and Surveillance</li>
+</ul>
+
+<p><strong>Face:</strong></p>
+<ul>
+  <li>Facial Recognition and Detection</li>
+  <li>Face Generation, Face Synthesis, Face Reconstruction and Face Editing</li>
+  <li>Face Forgery and Face Anti-Spoofing</li>
+</ul>
+
+<p><strong>Data Hiding and Watermarking：</strong></p>
+<ul>
+  <li>Coding and Decoding Methods</li>
+  <li>Anonymous Communication</li>
+  <li>Watermarking for Copyright Protection</li>
+</ul>
+
+<hr />
+
+<h2 id="paper-submission-guidelines">Paper Submission Guidelines</h2>
+
+<ul>
+  <li>Authors are invited to submit papers through the Submission System by <strong>June 4, 2022</strong>.</li>
+  <li>Submissions must be original and should not have been published previously or be under consideration for publication while being
+evaluated for this conference.</li>
+  <li>Paper submissions should be formatted according to the IEEE standard double-column format with a font size of 10 pt or larger. The standard page length is 8 pages for full papers and 6 pages for short papers. Please refer to the <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">IEEE formatting instruction</a> for details.</li>
+  <li>The review process will be double-blind. The authors must remove their names and affiliations in the submitted document.</li>
+  <li>If you have any other questions, please contact the conference chair by email.</li>
+</ul>
+
+<hr />
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Matter</th>
+      <th style="text-align: center">Deadline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Submission Deadline</td>
+      <td style="text-align: center">June 4, 2022</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Initial Decision Date</td>
+      <td style="text-align: center">June 10,  2022</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Author response period starts</td>
+      <td style="text-align: center">June 15, 2022</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Notification of acceptance</td>
+      <td style="text-align: center">June 20, 2022</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Final versions of papers due</td>
+      <td style="text-align: center">June 25, 2022</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Main conference</td>
+      <td style="text-align: center">July 2, 2022</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="organization">Organization</h2>
+
+<ul>
+  <li>
+    <p>Organizer: The Workshop of Multimedia Security and Application (WMSA)</p>
+  </li>
+  <li>
+    <p>Hosts: Sichuan University, School of Cyber Science and Engineering</p>
+  </li>
+  <li>
+    <p>General Chairs:</p>
+    <ul>
+      <li>Rongchuan Zhang, Sichuan University, <a href="mailto:2018xxxxxx087@stu.scu.edu.cn">2018xxxxxx087@stu.scu.edu.cn</a></li>
+      <li>Jiaping Lin, Sichuan University, <a href="mailto:2018xxxxxx013@stu.scu.edu.cn">2018xxxxxx013@stu.scu.edu.cn</a></li>
+    </ul>
+  </li>
+</ul>
+:ET

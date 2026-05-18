@@ -1,0 +1,89 @@
+I"<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The International Conference on Cloud-Native Security (ICCNS) invites researchers and practitioners to submit original and unpublished work on all aspects of security for cloud-native applications and infrastructures. ICCNS aims to bring together experts from academia, industry, and government to share their knowledge, insights, and experiences in this rapidly evolving field.</p>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Cloud-native security architectures and patterns</li>
+  <li>Secure development and deployment of cloud-native applications</li>
+  <li>Container and Kubernetes security</li>
+  <li>Serverless security</li>
+  <li>Service mesh security</li>
+  <li>Cloud infrastructure security</li>
+  <li>Secure supply chain for cloud-native environments</li>
+  <li>Cloud security posture management</li>
+  <li>Threat detection and response in cloud-native environments</li>
+  <li>Incident response and forensics for cloud-native systems</li>
+  <li>Security considerations for microservices and distributed systems</li>
+  <li>Policy enforcement and compliance in cloud-native environments</li>
+  <li>Security automation and DevSecOps for cloud-native applications</li>
+  <li>Cloud-native security use cases and real-world experiences</li>
+</ul>
+
+<p>ICCNS 2024 solicits submissions in the following categories:</p>
+
+<ul>
+  <li>Full Papers Track – original research, at most 12 pages, excluding references</li>
+  <li>Short Papers Track – original research, at most 6 pages, excluding references</li>
+  <li>Posters with Extended Abstract Track – original work presented as a poster, accompanied by an extended abstract in the conference proceedings</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<ul>
+  <li>Submissions should be in the form of technical papers, position papers, or case studies.</li>
+  <li>Papers should be written in English and follow the IEEE conference format.</li>
+  <li>Submissions must not exceed 8 pages (including references).</li>
+  <li>Submissions should be original and unpublished work.</li>
+  <li>Submissions will undergo a double-blind peer-review process.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Matter</th>
+      <th>Deadline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Submission deadline</td>
+      <td>Sun 30 Apr 2024</td>
+    </tr>
+    <tr>
+      <td>Author response</td>
+      <td>Mon 29 - Tue 30 May 2024</td>
+    </tr>
+    <tr>
+      <td>Notification of acceptance</td>
+      <td>Fri 30 Jun 2024</td>
+    </tr>
+    <tr>
+      <td>Camera-ready deadline</td>
+      <td>Sun 30 Jul 2024</td>
+    </tr>
+    <tr>
+      <td>Conference</td>
+      <td>Mon 28 - Tue 29 Aug 2024</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>
+    <p><strong>General Chairs</strong>:</p>
+
+    <ul>
+      <li>Jie Wu,Sichaun University,&lt;2023xxxxxxxxx.scu.edu.cn&gt;</li>
+    </ul>
+  </li>
+</ul>
+
+:ET

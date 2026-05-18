@@ -1,0 +1,72 @@
+I"�<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>With the rapid advancement of generative artificial intelligence, multimedia processing, and large-scale content distribution platforms, the boundary between authentic and manipulated digital content is becoming increasingly blurred. While modern intelligent systems significantly improve the efficiency of content creation and dissemination, they simultaneously introduce unprecedented challenges in copyright protection, ownership verification, and media authenticity.</p>
+
+<p>Traditional copyright protection mechanisms primarily rely on centralized registration, metadata labeling, or legal enforcement procedures. However, such approaches often fail to provide robust protection in highly distributed digital ecosystems where content can be duplicated, modified, or redistributed within seconds. In particular, the emergence of diffusion models, large language models, and neural rendering technologies has enabled the generation of highly realistic synthetic media, making unauthorized reproduction and copyright infringement more difficult to detect and trace.</p>
+
+<p>At the technical level, digital watermarking technologies are evolving from conventional visible and frequency-domain methods toward intelligent, adaptive, and imperceptible embedding mechanisms. Modern watermarking systems are expected not only to survive compression, cropping, and adversarial perturbations, but also to support ownership authentication, tamper localization, and traceability in cross-platform environments. The integration of deep learning further enables semantic-aware watermarking strategies capable of balancing robustness, invisibility, and computational efficiency.</p>
+
+<p>Meanwhile, the rapid proliferation of deepfake technologies presents another critical challenge to the digital copyright ecosystem. Deepfake content generated through generative adversarial networks and neural synthesis frameworks can imitate voices, faces, and behaviors with remarkable realism, threatening the credibility of digital evidence and media authenticity. As a result, reliable detection frameworks, provenance verification mechanisms, and trustworthy content authentication systems have become essential research directions.</p>
+
+<p>In addition, emerging paradigms such as blockchain-based copyright management, trusted execution environments, federated learning, and privacy-preserving AI are reshaping the future of digital rights protection. These technologies aim to establish decentralized and verifiable trust infrastructures capable of protecting intellectual property while maintaining scalability, privacy, and interoperability.</p>
+
+<p>Therefore, continuously understanding the technologies and mechanisms adopted in digital watermarking, deepfake detection, media forensics, and trustworthy AI is essential for building secure and reliable copyright protection systems in the next-generation digital environment.</p>
+
+<h1 id="topics-of-interest">Topics of Interest</h1>
+
+<p>This conference invites original research contributions related to copyright protection and multimedia security, including but not limited to:</p>
+
+<ul>
+  <li>Digital watermarking and fingerprinting techniques</li>
+  <li>Robust and imperceptible watermark embedding</li>
+  <li>AI-generated content identification and provenance tracking</li>
+  <li>Deepfake detection and synthetic media analysis</li>
+  <li>Multimedia forensics and tamper localization</li>
+  <li>Copyright authentication for images, audio, and video</li>
+  <li>Adversarial attacks and defenses in watermarking systems</li>
+  <li>Blockchain-based copyright management and traceability</li>
+  <li>Privacy-preserving copyright verification</li>
+  <li>Trusted media distribution architectures</li>
+  <li>Neural network watermarking and model ownership protection</li>
+  <li>Federated learning for secure multimedia applications</li>
+  <li>Detection of AI-generated text and multimedia content</li>
+  <li>Secure content sharing in social media platforms</li>
+  <li>Explainable AI for media authenticity analysis</li>
+  <li>Real-time copyright monitoring and infringement detection</li>
+  <li>Watermark robustness against compression and transformation</li>
+  <li>Ethical and legal issues in synthetic media governance</li>
+  <li>Security challenges in metaverse and virtual content ownership</li>
+  <li>Benchmark datasets and evaluation metrics for deepfake detection</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p>Authors are invited to submit original and unpublished research papers written in English. Submitted manuscripts must not be under consideration for publication elsewhere.</p>
+
+<ul>
+  <li><strong>Paper Format:</strong> IEEE Conference Template</li>
+  <li><strong>Paper Length:</strong> 6–8 pages, including figures and references</li>
+  <li><strong>Submission Language:</strong> English</li>
+  <li><strong>Submission System:</strong> Online submission portal</li>
+  <li><strong>Review Process:</strong> Double-blind peer review</li>
+  <li><strong>Evaluation Criteria:</strong> Originality, technical quality, relevance, clarity, and practical impact</li>
+</ul>
+
+<p>All accepted papers will be included in the conference proceedings and presented during the conference sessions.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>Paper Submission Deadline: August 15, 2026</li>
+  <li>Notification of Acceptance: September 20, 2026</li>
+  <li>Camera-Ready Submission: October 5, 2026</li>
+  <li>Conference Date: October 25–27, 2026</li>
+</ul>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>Yuhang Chen, Sichuan University, Email: <a href="mailto:1760304164@qq.com">1760304164@qq.com</a></li>
+  <li>Xinyi Huang, Sichuan University, Email: <a href="mailto:2297731900@qq.com">2297731900@qq.com</a></li>
+</ul>
+:ET

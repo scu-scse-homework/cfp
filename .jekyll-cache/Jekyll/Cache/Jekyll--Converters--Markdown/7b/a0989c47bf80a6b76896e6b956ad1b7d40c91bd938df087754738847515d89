@@ -1,0 +1,36 @@
+I"p<h2 id="overview">Overview</h2>
+
+<p>Fuzz testing, also known as fuzzing, is a software testing technique aimed at 
+identifying software vulnerabilities. In recent decades, fuzzing has gained increasing 
+popularity in the research community. However, existing studies led by fuzzing experts 
+mainly focus on improving the coverage and performance of fuzzing techniques. That is, 
+there is still a gap in empirical knowledge regarding fuzzing, especially about the 
+challenges developers face when they adopt fuzzing. Understanding these challenges can 
+provide valuable insights to both practitioners and researchers on how to further improve 
+fuzzing processes and techniques.This call for papers invites researchers, practitioners, 
+and enthusiasts to contribute their insights and findings related to fuzzing.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<ul>
+  <li>Fuzzing Techniques and Strategies</li>
+  <li>Fuzzing Tools and Frameworks</li>
+  <li>Case Studies and Vulnerability Discovery</li>
+  <li>Integration with Development Workflows</li>
+  <li>Fuzzing Web Applications and APIs</li>
+  <li>Fuzzing Binary Protocols and File Formats</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p><strong>Submission Deadline</strong>: April 4,2024</p>
+
+<p><strong>Notification Due</strong>: April 18,2024</p>
+
+<h2 id="paper-submission">Paper Submission</h2>
+
+<p>Authors are invited to submit papers through the Submission System
+by <strong>April 4, 2024</strong>. Submissions must be original and should not have been
+published previously or be under consideration for publication while being
+evaluated for this conference.</p>
+:ET

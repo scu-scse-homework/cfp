@@ -1,0 +1,66 @@
+I"e
+<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>We are pleased to announce the first edition of COLLM 2025, a premier international conference dedicated to the exploration, development, and application of Large Language Models (LLMs). The rapid advancements in generative AI and transformer-based architectures are revolutionizing how machines understand and generate human language. COLLM aims to bring together researchers, practitioners, and industry leaders to advance the frontiers of LLM research and applications.</p>
+
+<p>We invite submissions of high-quality, original research papers that address theoretical, technical, or practical aspects of large language models.</p>
+
+<h2 id="topics-of-interest">Topics of interest</h2>
+
+<p>Submissions are solicited in all areas related to Large Language Models, including but not limited to:</p>
+
+<ul>
+  <li><strong>Model Architecture &amp; Pretraining</strong></li>
+  <li><strong>Training, Fine-tuning &amp; Optimization</strong></li>
+  <li><strong>Capabilities &amp; Evaluation</strong></li>
+  <li><strong>Interpretability &amp; Alignment</strong></li>
+  <li><strong>Applications &amp; Systems</strong></li>
+  <li><strong>Infrastructure &amp; Deployment</strong></li>
+  <li><strong>Ethics, Policy &amp; Societal Impact</strong></li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ul>
+  <li><strong>Paper format</strong>:  ACM / IEEE / NeurIPS format, as preferred.</li>
+  <li><strong>Paper Length</strong>: There will be a strict upper limit of 9 pages for the main text of the submission, with unlimited additional pages for citations.</li>
+  <li><strong>Review process</strong>:  Submissions will be double blind.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">IMPORTANT DATE</th>
+      <th style="text-align: center">DATE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Paper Submission Deadline</td>
+      <td style="text-align: center">May 10, 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Notification of Acceptance</td>
+      <td style="text-align: center">May 31, 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Camera-Ready Submission</td>
+      <td style="text-align: center">June 10, 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Conference Dates</td>
+      <td style="text-align: center">July 6-8, 2025</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Fei Wu, Sichuan University</li>
+  <li>Kaiyu Xu, Sichuan University</li>
+  <li>Shuo Feng, Sichuan University</li>
+</ul>
+:ET

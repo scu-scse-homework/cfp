@@ -1,0 +1,312 @@
+I"?<h1 id="call-for-papers-autopen-2026">Call for Papers: AutoPen 2026</h1>
+
+<h2 id="the-1st-workshop-on-automated-penetration-testing">The 1st Workshop on Automated Penetration Testing</h2>
+
+<p><strong>Co-located with ACM CCS 2026</strong>
+October 2026 · Chengdu, China
+https://example.org/autopen2026/</p>
+
+<hr />
+
+<h2 id="overview">Overview</h2>
+
+<p>The 1st Workshop on Automated Penetration Testing (AutoPen) seeks submissions presenting novel contributions related to the <strong>automated discovery, exploitation, and reporting of security vulnerabilities</strong> in real-world systems. As networked infrastructure grows in scale and complexity, manual penetration testing can no longer keep pace with the attack surface exposed by modern software and hardware deployments. Automated approaches—spanning program analysis, fuzzing, reinforcement learning, and large language model (LLM)-guided agents—are rapidly reshaping how security assessments are conducted.</p>
+
+<p>Theoretical papers must make a convincing case for the relevance of their results to practice. Authors are encouraged to write the abstract and introduction of their paper in a way that makes the results accessible and compelling to a general computer-security researcher. In particular, authors should bear in mind that any member of the program committee may be asked to review any paper.</p>
+
+<p><strong>AutoPen is a single-topic workshop.</strong> Submissions must directly address automated penetration testing. Papers that merely touch on topics such as vulnerability databases, manual red-teaming methodology, or general fuzzing without a penetration-testing application will be considered out of scope and may be desk-rejected.</p>
+
+<p>AutoPen 2026 has <strong>two review cycles</strong>. For each submission, one of the following decisions will be made:</p>
+
+<ul>
+  <li><strong>Accept</strong>: Papers in this category will be accepted for publication in the proceedings and presentation at the workshop, possibly after making minor changes with the oversight of a shepherd.</li>
+  <li><strong>Minor Revision</strong>: Papers in this category are considered promising but require limited additional work (e.g., minor experiments or clarification of claims). Authors will be given the opportunity to resubmit with revisions and a note explaining how reviewer comments were addressed. The revised paper will be re-evaluated and either accepted or rejected.</li>
+  <li><strong>Reject</strong>: Papers in this category are declined. Papers rejected from the first review cycle may not be resubmitted to the second review cycle.</li>
+</ul>
+
+<p>Authors of each accepted paper must ensure that at least one author registers for the workshop and that the paper is presented in-person.</p>
+
+<hr />
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>AutoPen 2026 solicits original research on <strong>automated penetration testing only</strong>. Relevant topics include, but are not limited to:</p>
+
+<p><strong>Vulnerability Discovery and Exploitation</strong></p>
+<ul>
+  <li>Automated exploit generation (AEG) for memory-safety, logic, and configuration vulnerabilities</li>
+  <li>Coverage-guided and structure-aware fuzzing targeting penetration-testing scenarios</li>
+  <li>Symbolic and concolic execution for automated vulnerability discovery</li>
+  <li>Automated privilege escalation and lateral movement in enterprise networks</li>
+</ul>
+
+<p><strong>AI and LLM-Driven Penetration Testing</strong></p>
+<ul>
+  <li>LLM-based agents for end-to-end penetration test planning and execution</li>
+  <li>Reinforcement learning for autonomous attack path discovery</li>
+  <li>Foundation models for automated vulnerability triage and exploit adaptation</li>
+  <li>Benchmarks and evaluation frameworks for AI-driven penetration testing</li>
+</ul>
+
+<p><strong>Network and Infrastructure Penetration Testing</strong></p>
+<ul>
+  <li>Automated reconnaissance and attack-surface mapping</li>
+  <li>Automated exploitation of network protocols and services</li>
+  <li>Automated assessment of firewall rules, ACLs, and network segmentation</li>
+  <li>Automated penetration testing of cloud infrastructure and container orchestration</li>
+</ul>
+
+<p><strong>Web and Application Penetration Testing</strong></p>
+<ul>
+  <li>Automated detection and exploitation of OWASP Top 10 vulnerabilities</li>
+  <li>Automated crawling and state-space exploration for web application testing</li>
+  <li>Automated API penetration testing (REST, GraphQL, gRPC)</li>
+  <li>Automated business-logic vulnerability identification</li>
+</ul>
+
+<p><strong>Embedded and IoT Penetration Testing</strong></p>
+<ul>
+  <li>Automated firmware analysis and emulation for vulnerability discovery</li>
+  <li>Automated testing of embedded communication protocols (MQTT, CoAP, BLE, Zigbee)</li>
+  <li>Automated attack path analysis for cyber-physical systems</li>
+</ul>
+
+<p><strong>Penetration Testing Automation Platforms and Tooling</strong></p>
+<ul>
+  <li>Design and evaluation of automated penetration testing frameworks</li>
+  <li>Automated report generation and remediation suggestion</li>
+  <li>Reproducibility, benchmarking, and ground-truth datasets for automated pentest research</li>
+</ul>
+
+<p><strong>Ethics, Safety, and Legal Aspects of Automation</strong></p>
+<ul>
+  <li>Safe automation of offensive security techniques</li>
+  <li>Responsible disclosure workflows integrated into automated testing pipelines</li>
+  <li>Legal and policy frameworks governing automated vulnerability assessment tools</li>
+</ul>
+
+<hr />
+
+<h2 id="paper-submission-information">Paper Submission Information</h2>
+
+<p>All submissions must be received by <strong>11:59 PM AoE (UTC−12)</strong> on the day of the corresponding deadline. Submitted papers must not substantially overlap with papers that have been published, accepted for publication, or are simultaneously under submission to a journal, conference, or workshop with published proceedings. All submissions must be properly anonymized.</p>
+
+<p>Authors must avoid revealing their identity in the text. When referring to their own prior work, authors are required to cite it in the third person without identifying themselves. In the unusual case where a third-person reference is infeasible, authors may blind the reference itself. Papers not properly anonymized may be rejected without review.</p>
+
+<p>All submitted papers will be evaluated based on their <strong>novelty, technical depth, relevance to automated penetration testing, quality of execution, and presentation</strong>. For papers that may raise ethical concerns, authors are expected to convince reviewers that proper procedures (e.g., IRB approval, responsible disclosure, use of controlled testbeds) have been followed and that due diligence has been exercised to minimize potential harm.</p>
+
+<p>Submitted papers may be rejected for being out of scope at the discretion of the PC chairs. Authors with questions about whether their paper is in scope are encouraged to contact the PC chairs in advance. No modifications to the author list may be made after submission.</p>
+
+<hr />
+
+<h2 id="mandatory-reviewing">Mandatory Reviewing</h2>
+
+<p>Authors submitting <strong>2 or more papers</strong> may be required to review papers submitted to AutoPen 2026. Such authors will be asked to provide information for review matching and to complete an attestation of reviewing ethics. Authors failing to provide the requested information may see their paper(s) desk-rejected.</p>
+
+<p>Reviewers are expected to submit fair and thoughtful reviews on time. Reviews that are exceptionally short, generated by LLMs, irrelevant to the submitted paper, or that miss a substantial portion of the paper will be flagged and may be grounds for desk rejection of the reviewer’s own papers at the discretion of the PC chairs.</p>
+
+<hr />
+
+<h2 id="withdrawing-policy">Withdrawing Policy</h2>
+
+<p>A paper may be withdrawn at any point before reviews have been sent to the authors. Once reviews have been sent, the paper may not be withdrawn.</p>
+
+<hr />
+
+<h2 id="paper-format">Paper Format</h2>
+
+<p>Submissions must be a <strong>PDF file</strong> in double-column ACM format using the <code class="language-plaintext highlighter-rouge">sigconf</code> two-column style, <strong>no more than 12 pages</strong> in length, excluding the bibliography, well-marked appendices, and supplementary material. Reviewers are not required to read appendices or supplementary material.</p>
+
+<p>Authors must not change the font size or margins of the ACM format. ACM metadata fields must be retained. The teaser figure is optional. Submissions not following the required format may be rejected without review.</p>
+
+<ul>
+  <li>Template: <a href="https://www.acm.org/publications/proceedings-template">https://www.acm.org/publications/proceedings-template</a></li>
+  <li>Overleaf mirror: <a href="https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty">https://www.overleaf.com/latex/templates/acm-sig-proceedings-template</a></li>
+</ul>
+
+<hr />
+
+<h2 id="artifact-submission-and-evaluation">Artifact Submission and Evaluation</h2>
+
+<p>Submissions whose claimed contributions rely on artifacts (e.g., exploit code, fuzzing harnesses, automated testing tools, datasets, or evaluation environments) are <strong>expected to make these accessible to reviewers</strong>, unless there are well-justified reasons not to do so, which must be stated in the submission. An anonymous link to a resource (with anonymized contents) is acceptable.</p>
+
+<p>AutoPen 2026 introduces an <strong>optional Artifact Evaluation (AE)</strong> process for accepted papers. Each artifact will be reviewed by the Artifact Evaluation Committee (AEC) against the criteria of <strong>functionality, reusability, and reproducibility</strong>. A dedicated call for artifacts will be issued after the author notification date.</p>
+
+<hr />
+
+<h2 id="conflicts-of-interest">Conflicts of Interest</h2>
+
+<p>Authors must report all program-committee members who, in their opinion, have a conflict of interest. Mandatory declared conflicts include current or former doctoral advisor/advisee relationships, members of the same institution, close family members, and recent co-authors (within the past 2 years). For any other declared conflict, authors must explain the nature of the conflict at submission time; the PC chairs reserve the right to remove non-mandatory conflicts.</p>
+
+<p>Program-committee members with a genuine conflict of interest with a paper will be excluded from evaluation and discussion of that paper.</p>
+
+<hr />
+
+<h2 id="ethical-considerations">Ethical Considerations</h2>
+
+<p>Research on automated penetration testing inherently involves offensive security techniques. Authors are strongly encouraged to:</p>
+
+<ul>
+  <li>Conduct all experiments in <strong>controlled environments</strong> (dedicated testbeds, CTF environments, or systems for which explicit authorization has been obtained).</li>
+  <li>Follow <strong>responsible disclosure</strong> practices when vulnerabilities in real systems are discovered during research.</li>
+  <li>Obtain <strong>IRB or equivalent ethics board approval</strong> for any human-subjects research component.</li>
+  <li>Clearly describe the ethical procedures followed in the paper.</li>
+</ul>
+
+<p>Papers that fail to address ethical considerations adequately may be rejected.</p>
+
+<hr />
+
+<h2 id="diversity-and-inclusion">Diversity and Inclusion</h2>
+
+<p>AutoPen is committed to promoting diversity and inclusion. We encourage submissions from researchers at all career stages, including students and early-career researchers, and from groups historically underrepresented in security research. Authors are encouraged to be mindful of not using language or examples that marginalize or stereotype any group of people. Reviewers will be empowered to request changes if such issues arise in submitted papers.</p>
+
+<p>If you have suggestions, concerns, or complaints related to bias or harassment, please contact the PC chairs. All such reports will be handled confidentially.</p>
+
+<hr />
+
+<h2 id="important-dates">Important Dates</h2>
+
+<h3 id="first-review-cycle">First Review Cycle</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Abstract submission deadline <em>(mandatory)</em></td>
+      <td>July 1, 2026</td>
+    </tr>
+    <tr>
+      <td>Full paper submission deadline</td>
+      <td>July 8, 2026</td>
+    </tr>
+    <tr>
+      <td>Early-rejection notification</td>
+      <td>July 25, 2026</td>
+    </tr>
+    <tr>
+      <td>Author rebuttal period</td>
+      <td>Aug 4–8, 2026</td>
+    </tr>
+    <tr>
+      <td>Author notification</td>
+      <td>Aug 15, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="second-review-cycle">Second Review Cycle</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Abstract submission deadline <em>(mandatory)</em></td>
+      <td>July 22, 2026</td>
+    </tr>
+    <tr>
+      <td>Full paper submission deadline</td>
+      <td>July 29, 2026</td>
+    </tr>
+    <tr>
+      <td>Early-rejection notification</td>
+      <td>Aug 10, 2026</td>
+    </tr>
+    <tr>
+      <td>Author rebuttal period</td>
+      <td>Aug 18–22, 2026</td>
+    </tr>
+    <tr>
+      <td>Author notification</td>
+      <td>Sep 1, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="post-acceptance">Post-Acceptance</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Camera-ready deadline</td>
+      <td>Sep 15, 2026</td>
+    </tr>
+    <tr>
+      <td>Artifact submission deadline</td>
+      <td>Sep 20, 2026</td>
+    </tr>
+    <tr>
+      <td>Workshop date</td>
+      <td>Oct 12, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>All deadlines are 23:59:59 AoE (Anywhere on Earth, UTC−12).</strong></p>
+
+<hr />
+
+<h2 id="submission-site">Submission Site</h2>
+
+<ul>
+  <li>Cycle A: https://autopen2026a.hotcrp.com/</li>
+  <li>Cycle B: https://autopen2026b.hotcrp.com/</li>
+</ul>
+
+<p>Abstract submission is <strong>mandatory</strong> prior to full paper submission for both cycles. Papers without a registered abstract will not be reviewed.</p>
+
+<hr />
+
+<h2 id="organizers">Organizers</h2>
+
+<h3 id="program-co-chairs">Program Co-Chairs</h3>
+
+<ul>
+  <li>彭佳仁，四川大学网络空间安全学院</li>
+  <li>王彦，四川大学网络空间安全学院</li>
+</ul>
+
+<h3 id="organizing-committee">Organizing Committee</h3>
+
+<ul>
+  <li>罗梦轩，四川大学物理学院</li>
+</ul>
+
+<h3 id="program-committee">Program Committee</h3>
+
+<p><em>(To be announced)</em></p>
+
+<hr />
+
+<h2 id="policy-for-peer-review-integrity">Policy for Peer-Review Integrity</h2>
+
+<p>All workshop participants are required to follow ACM policies against harassment (<a href="https://www.acm.org/about-acm/policy-against-harassment">https://www.acm.org/about-acm/policy-against-harassment</a>) and the ACM Code of Ethics and Professional Conduct (<a href="https://www.acm.org/code-of-ethics">https://www.acm.org/code-of-ethics</a>). All authors, PC members, and reviewers are required to uphold the integrity of the peer review process and avoid conflicts of interest of any form. Violations will be penalized in accordance with ACM policies (<a href="https://www.acm.org/publications/policies/penalties-for-publication-violations">https://www.acm.org/publications/policies/penalties-for-publication-violations</a>).</p>
+
+<hr />
+
+<h2 id="contact">Contact</h2>
+
+<p>For questions regarding the scope, submission requirements, or organization of AutoPen 2026, please contact the PC chairs at:</p>
+
+<p><strong>autopen2026-chairs@example.org</strong></p>
+
+<hr />
+
+<p><em>By submitting to AutoPen 2026, authors acknowledge that they and their co-authors are subject to all ACM Publications Policies, including ACM’s policy on research involving human participants. Please ensure all authors obtain an ORCID ID prior to camera-ready submission.</em></p>
+:ET

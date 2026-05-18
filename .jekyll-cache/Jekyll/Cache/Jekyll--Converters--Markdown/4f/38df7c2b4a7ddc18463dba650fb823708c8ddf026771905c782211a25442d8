@@ -1,0 +1,91 @@
+I"<h1 id="call-for-papers">Call for papers</h1>
+
+<p>Cloud native is growing faster than people can imagine, and the entire life cycle of the software supply chain is tied to the cloud. The security challenge under cloud native ecology is undoubtedly one of the issues that academia and industry should pay attention to. We are committed to finding novel, reliable, practical cloud native security solutions and ideas.</p>
+
+<p>We solicit original contributions on all aspects of cloud native security. We particularly encourage submissions on the research, development, practice, and experience of cloud native network security, database security, container security, cluster security. Specific topics of interest include but are not limited to the following, when related to the cloud native security:</p>
+
+<ul>
+  <li>Administration and Manageability</li>
+  <li>Attack Methods and Defense for Datacenter</li>
+  <li>Blockchain Systems</li>
+  <li>Chaotic Engineering</li>
+  <li>Cloud Computing Platform Security</li>
+  <li>Cloud Native Infrastructure Security, e.g., Kubernetes Security Policy and etcd Security</li>
+  <li>Cloud Provider Security</li>
+  <li>Cluster Security Policy</li>
+  <li>Container and Virtualization Security</li>
+  <li>Datacenter Security</li>
+  <li>DevSecOps</li>
+  <li>Fault Tolerance, High Availability, and Reliability</li>
+  <li>Microservice Fuzz Testing</li>
+  <li>Multi-Party Secure Computation</li>
+  <li>Network Measurement and Tracking in Datacenter Network and Edge Computing Network</li>
+  <li>New Network Protocols</li>
+  <li>Privacy of Data and Computation</li>
+  <li>Privacy Protection</li>
+  <li>SND Security</li>
+</ul>
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<p>Submission Instructions including paper categories, submission guidelines, paper formatting and other information are as follows.</p>
+
+<h3 id="submission-categories">Submission categories</h3>
+
+<p><strong>Research papers (12 pages)</strong>: papers of a research or theoretical nature. Describe the origin of the research, the thinking, highlight innovation and forward-looking, and can demonstrate the value of future engineering transformation.</p>
+
+<p><strong>Engineer-Driven and System Design Papers (12 pages)</strong>: practice is the sole criterion for testing truth. The paper should show practical value and have sufficient data to support the advancement of the work done.</p>
+
+<p><strong>Vision Papers (6 pages)</strong>: describe speculative but well-reasoned and thought-provoking ideas, where insight is a primary consideration. Papers should have sufficient insights to address security challenges in the cloud native ecosystem. Can point to the security challenges that cloud computing will face.</p>
+
+<h3 id="submission-guidelines">Submission guidelines</h3>
+
+<p>Authors must submit original papers <strong>that are not being considered for publication in other forums</strong>. Submissions cannot be accompanied by nondisclosure, confidentiality, or similar agreements. Further, <strong>all submitted papers must cite and clearly differentiate from relevant prior publications, including workshop papers from the same or other authors</strong>.</p>
+
+<p><strong>Reviewing is double-anonymous</strong>. Authors must make a good faith effort to anonymize their submissions, and <strong>they should not identify themselves either explicitly or by implication</strong> (e.g., through the references or acknowledgments). Submissions violating the detailed formatting and anonymization rules will not be considered for review.</p>
+
+<h3 id="formatting">Formatting</h3>
+
+<p>Submissions can have up to 12 pages for Research and Engineer-Driven and System Design papers, and 6 pages for Vision papers; this limit includes the title, abstract, and appendices. Bibliographic references are not included in the page limit. Use US letter paper size, with all text and figures fitting inside a (7 x 9 in) block centered on the page, using two columns separated by 0.33 in of whitespace. Use 10-point font on 12-point (single-spaced) leading. Graphs and figures should be readable when printed in grayscale, without magnification. All pages should be numbered and references within the paper should be hyperlinked.</p>
+
+<p>Submissions violating these rules will not be considered for publication, and there will be no extensions for fixing violations. We encourage you to upload an early draft of the paper well before the deadline to check if the paper meets the formatting rules.</p>
+
+<p>Most of these rules are automatically applied when using the official <a href="https://www.acm.org/publications/authors/submissions">SIGPLAN Latex or MS Word templates from the ACM</a>, which we recommend using for submission. For Latex, we recommend you use:</p>
+
+<div class="language-latex highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code><span class="k">\documentclass</span><span class="na">[sigplan,10pt]</span><span class="p">{</span>acmart<span class="p">}</span>
+<span class="k">\renewcommand\footnotetextcopyrightpermission</span><span class="na">[1]</span><span class="p">{}</span>
+<span class="k">\pagestyle</span><span class="p">{</span>plain<span class="p">}</span>
+. . .
+<span class="k">\settopmatter</span><span class="p">{</span>printfolios=true<span class="p">}</span>
+<span class="k">\maketitle</span>
+</code></pre>
+  </div>
+</div>
+
+<h3 id="submission-site">Submission site</h3>
+
+<p>The paper submission site is now online at https://socns22.sub-paper.com/.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p><strong>Registration deadline: April 21 2022 at 5:00 pm</strong>
+You can register new submissions until this deadline.
+<strong>Submission deadline: April 28 2022 at 5:00 pm</strong>
+Papers must be submitted by this deadline to be reviewed.
+<strong>Author Response Period: May 16-18, 2022</strong>
+<strong>Author Notification: May 27, 2022</strong></p>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>Co-chair(s)&amp;Reviewer: <strong>Li Zonglin</strong>, Sichuan University, Chengdu, China.</li>
+  <li>Co-chair(s)&amp;Reviewer: <strong>Jiang Tao</strong>, Sichuan University, Chengdu, China.</li>
+  <li>Co-chair(s)&amp;Reviewer: <strong>Yao Yuan</strong>, Sichuan University, Chengdu, China.</li>
+</ul>
+
+<h2 id="questions">Questions?</h2>
+
+<p>Email any questions you have to the PC chairs: Li Zonglin (<strong>lizonglingo@gmail.com</strong>).</p>
+:ET

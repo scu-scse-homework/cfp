@@ -1,0 +1,62 @@
+I"Ý<h1 id="call-for-papers">Call for Papers</h1>
+
+<p>The field of computer systems and network security encompasses a range of technologies and policies aimed at attacking or protecting target systems, networks, or data, preventing unauthorized access or disclosure of sensitive information by exploiting vulnerabilities or weaknesses. With the continuous expansion and diversification of digital ecosystems, the demand for powerful network security measures has become increasingly important.</p>
+
+<p>The 1st Sichuan University Conference on Computer Systems and Network Security will be held from August 14th to 16th, 2024 in Shuangliu District, Chengdu City, Sichuan Province, China. The conference brings together researchers, practitioners, system programmers, and others interested in computer systems and network security, and encourages all researchers to submit papers covering novel and scientifically significant practical work in computer security.</p>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<ul>
+  <li>Paper submissions due: <strong>Thursday, February 8, 2024, 11:59 pm AoE</strong></li>
+  <li>Early reject notification: <strong>Monday, March 18, 2024</strong></li>
+  <li>Rebuttal Period: <strong>April 24â€“26, 2024</strong></li>
+  <li>Notification to authors: <strong>Wednesday, May 8, 2024</strong></li>
+  <li>Final paper files due: <strong>Thursday, June 13, 2024</strong></li>
+</ul>
+
+<h1 id="organizers">Organizers</h1>
+
+<h2 id="program-co-chairs">Program Co-Chairs</h2>
+
+<p>Kai Gao, <em>SiChuan University</em>, <em>China</em></p>
+
+<h2 id="program-vice-co-chairs">Program Vice Co-Chairs</h2>
+
+<p>Yuntao Yang, <em>SiChuan University</em>, <em>China</em></p>
+
+<p>Jiyang Song, <em>SiChuan University</em>, <em>China</em></p>
+
+<h1 id="conference-topics">Conference Topics</h1>
+
+<ul>
+  <li>System security
+    <ul>
+      <li>Operating systems security</li>
+      <li>Web security</li>
+      <li>Mobile systems security</li>
+      <li>Distributed systems security</li>
+      <li>Cloud computing security</li>
+    </ul>
+  </li>
+  <li>Network security
+    <ul>
+      <li>Intrusion and anomaly detection and prevention</li>
+      <li>Network infrastructure security</li>
+      <li>Denial-of-service attacks and countermeasures</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="refereed-papers">Refereed Papers</h1>
+
+<ul>
+  <li>The workshop aims to facilitate conversations on the current advancements and trends in Computer Systems and Network Security. The authors are also invited to submit research papers on related topics that have not been mentioned above. Furthermore, the format of the paper should meet the following requirements:</li>
+  <li>Article Content: The article should focus on the subject of computer systems and network security and explore the new trends and technological developments in this field. The article should be both academic and practical, containing clear views and research conclusions.</li>
+  <li>Evaluation Rules: To ensure objectivity and fairness in the review process, this conference adopts a double-blind review approach, where authors and reviewers remain anonymous to each other to protect the privacy of both parties. Authors are requested not to reveal any identifying information in their papers.</li>
+  <li>Paper Format: Please submit your paper in PDF format using LaTeX and double-column ACM format. The paper should have 10 references at least. Please ensure that the references are relevant to the theme and content of your paper, and have been certified by authoritative academic institutions or publishers.</li>
+  <li>Language: The conference accepts submissions of papers and technical reports in Chinese or English, with a maximum length of 10 pages (including references).</li>
+  <li>Originality: The author is required to ensure the originality of the submitted manuscript and that it is free from plagiarism issues. If any copyright dispute arises later, the author voluntarily accepts any corresponding consequences.</li>
+  <li>Number of Keywords: Between 5~8 keywords for each paper.</li>
+</ul>
+
+:ET

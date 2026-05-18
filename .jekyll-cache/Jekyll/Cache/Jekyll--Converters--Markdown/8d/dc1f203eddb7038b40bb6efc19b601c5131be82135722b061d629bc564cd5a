@@ -1,0 +1,80 @@
+I"<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>Cloud computing has revolutionized the way businesses operate and store their data. However, it has also brought new security challenges that need to be addressed. As more organizations move their operations to the cloud, the need for strong cloud security measures has become increasingly important. Therefore, we invite researchers, academics, and industry experts to submit their papers on cloud security for our upcoming workshop.</p>
+
+<p>We welcome papers that cover theoretical, empirical, and practical aspects of cloud security. Submissions should provide novel contributions to the field, including new approaches, methodologies, or solutions to cloud security challenges. We also encourage papers that evaluate and compare existing cloud security solutions.</p>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Cloud data privacy and confidentiality</li>
+  <li>Cloud access control and authentication</li>
+  <li>Cloud encryption and key management</li>
+  <li>Cloud security auditing and compliance</li>
+  <li>Cloud security governance and risk management</li>
+  <li>Cloud threat detection and prevention</li>
+  <li>Cloud incident response and disaster recovery</li>
+  <li>Cloud security for mobile devices</li>
+  <li>Cloud security for Internet of Things (IoT) devices</li>
+  <li>Cloud security for artificial intelligence (AI) applications</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ul>
+  <li>The review process will be double-blind. The authors must remove their names and affiliations in the submitted document.</li>
+  <li>The submitted paper must be the PDF format, usually no more than 12 pages, including the references and appendices.</li>
+  <li>The submitted papers are submitted directly by e-mail, and the e-mail address includes:
+    <ul>
+      <li><a href="mailto:2022xxxxxx077@stu.scu.edu.cn">2022xxxxxx077@stu.scu.edu.cn</a></li>
+      <li><a href="mailto:2022xxxxxx059@stu.scu.edu.cn">2022xxxxxx059@stu.scu.edu.cn</a></li>
+      <li><a href="mailto:2022xxxxxx023@stu.scu.edu.cn">2022xxxxxx023@stu.scu.edu.cn</a></li>
+    </ul>
+  </li>
+  <li>For each submission, one of the following decisions will be made:
+    <ul>
+      <li>Accept: Papers belonging to this category will be deemed suitable for publication in the workshop’s proceedings and presentation, possibly requiring minor modifications under the guidance of a shepherd.</li>
+      <li>Major Revision: Papers classified under this category are regarded as promising but require further work, such as additional experiments, proofs, or implementations. Authors will have the opportunity to resubmit their papers with appropriate revisions, including a clearly marked appendix that addresses the reviewers’ comments. The revised paper will then undergo re-evaluation and may be either accepted or rejected.</li>
+      <li>Reject: Papers falling into this category will not be considered for inclusion in the workshop. Papers that were rejected in the first review cycle cannot be submitted again, even if revised, in the second review cycle.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Matter</th>
+      <th>Deadline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Submissions due</td>
+      <td>Wednesday May 24, 2023</td>
+    </tr>
+    <tr>
+      <td>Notification of acceptance</td>
+      <td>Wednesday June 7, 2023</td>
+    </tr>
+    <tr>
+      <td>Main workshop</td>
+      <td>Thursday June 22, 2023</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Note: All deadlines are in accordance with Beijing time (GMT+8).</strong></p>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>
+    <p>Workshop co-chair(s): Kai Gao</p>
+  </li>
+  <li>
+    <p>Invited talk: Kai Gao</p>
+  </li>
+</ul>
+:ET

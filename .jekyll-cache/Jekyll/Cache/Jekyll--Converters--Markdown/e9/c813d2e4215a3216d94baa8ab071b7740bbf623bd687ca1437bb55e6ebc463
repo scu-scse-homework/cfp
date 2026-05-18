@@ -1,0 +1,58 @@
+I"œ<h1 id="call-for-paper">Call for Paper</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>Information security refers to the confidentiality, integrity, verifiability, and non repudiation of information transmitted in a network. Cryptography, as the core technology and fundamental support for network information security, plays an irreplaceable role in ensuring information security in communication systems. In recent years, with the rise of new generation information technologies such as big data and artificial intelligence, the popularity of password technology applications has greatly increased.</p>
+
+<p>CCAT 2023 will be held from July 10th to 23th, 2023 at Sichuan University in Chengdu, Sichuan Province, China. CCAT 2023 will be organized by the unnamed group of Sichuan University.The proceedings of CCAT 2023 will be published on the Lecture Notes in Computer Science (LNCS) by Springer.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>The conference solicited original contributions on all technical aspects of cryptography. Welcome to submit comments on any cryptographic technology topic, including but not limited to:</p>
+
+<ul>
+  <li>foundational theory and mathematics</li>
+  <li>the design, proposal, and analysis of cryptographic primitives and protocols</li>
+  <li>secure implementation and optimization in hardware or software</li>
+  <li>applied aspects of cryptography</li>
+  <li>cryptography in information security</li>
+</ul>
+
+<h2 id="paper-submission-guidelines">Paper Submission Guidelines</h2>
+
+<h3 id="paper-formatting-requirements">Paper formatting requirements</h3>
+
+<p>Papers should be submitted in PDF format and must use the Springer LNCS format with the default margins and font. Please ensure that the paper length does not exceed 30 pages (including references and appendices).</p>
+
+<h3 id="anonymity-requirements">Anonymity requirements:</h3>
+
+<p>To ensure fairness in the review process, papers should remove all personal information of the authors, such as names, contact information, affiliations, etc. Also, any reference, citation, or acknowledgment that may reveal the authorâ€™s identity should be removed. Please confirm that your paper is anonymous before submission.</p>
+
+<h3 id="content-requirements">Content requirements</h3>
+
+<p>Papers should have clear research questions and contributions, provide detailed research methods and experimental results, and be described in clear and accurate language. At the same time, papers should demonstrate the originality and significance of the research. In the paper, please clearly state the contribution of the research and the differences from other relevant work.</p>
+
+<h3 id="citation-formatting-requirements">Citation formatting requirements</h3>
+
+<p>All cited references must be marked in the text, and the format should follow the international standard. List all referenced literature in the references section, and ensure that the citation format is clear and understandable.</p>
+
+<h3 id="other-requirements">Other requirements</h3>
+
+<p>Please make sure to include an abstract and keywords in your submitted paper. The abstract should summarize the research question, contribution, and novelty, while the keywords should express the main direction and research methods of the research.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>Title and abstract Submission 25 April 2023</li>
+  <li>Full Paper Submission deadline 25 May 2023</li>
+  <li>Notification deadline 23 June 2023</li>
+  <li>Start of Workshop 10 July 2023</li>
+  <li>End of Workshop 23 July 2023</li>
+</ul>
+
+<h2 id="organizers">Organizers</h2>
+
+<p>Xiaoyu Liu (Sichuan University)
+Lingtao Wang (Sichuan University)
+Hongsheng Zuo (Sichuan University)</p>
+:ET

@@ -1,0 +1,44 @@
+I",<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>The Workshop on Virtualization in High­-Performance Cloud Computing (VHPC) aims to bring together researchers and industrial practitioners facing the challenges posed by virtualization in HPC/Cloud scenarios to foster discussion, collaboration, mutual exchange of knowledge and experience, enabling research to ultimately provide novel solutions for virtualized computing systems.</p>
+
+<p>Containers and virtualization technologies constitute key enabling factors for flexible resource management in modern data centers, particularly in cloud environments. Cloud providers need to manage complex infrastructures seamlessly to support the highly dynamic and heterogeneous workloads and hosted applications customers deploy. Similarly, HPC environments have been increasingly adopting techniques that enable flexible management of vast computing and networking resources, close to marginal provisioning cost, which is unprecedented in the history of scientific and commercial computing.</p>
+
+<p>Various virtualization-containerization technologies contribute to the overall picture in different ways: machine virtualization, with its capability to enable consolidation of multiple under­utilized servers with heterogeneous software and operating systems (OSes), and its capability to live­-migrate a fully operating virtual machine (VM) with very short downtime, enables novel and dynamic ways to manage physical servers; OS-­level virtualization (i.e., containerization), with its capability to isolate multiple user­-space environments and to allow for their co­existence within the same OS kernel, promises to provide many of the advantages of machine virtualization with high levels of responsiveness and performance; lastly, unikernels provide for many virtualization benefits with a minimized OS/library surface. I/O virtualization, in turn, allows physical network interfaces to exchange traffic with multiple VMs or containers; network virtualization, with its capability to create logical network overlays independently from the underlying physical topology, is another fundamental enabling technology for Cloud/HPC infrastructures. Last, storage virtualization needs to evolve to support increasingly demanding requirements in terms of performance and reliability for the managed application data.</p>
+
+<p>The VHPC program committee solicits original, high-quality submissions related to virtualization across the entire software stack with a special focus on the intersection of HPC, containers-virtualization and cloud computing. Specific topics of interest to VHPC include, but are not limited to:</p>
+<ul>
+  <li>Intrusion detection and prevention</li>
+  <li>Computer, network, and cloud computing security</li>
+  <li>Mobile Security</li>
+  <li>Web security and privacy</li>
+  <li>Cyber physical systems security and threats against critical infrastructures</li>
+  <li>IoT security</li>
+  <li>Denial-of-Service attacks and defenses</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p>The review process will be double-blind. The authors must remove their names and affiliations in the submitted document. Furthermore, authors should avoid obvious self-references, and should cite their own previous work in third person, whenever necessary. Papers that are not properly anonymized risk being rejected without review.</p>
+
+<p>Submissions must be original work and may not be under submission to another venue at the time of review. At least one author of each accepted paper is required to physically present the submitted work at the conference, for the paper to be included in the proceedings.</p>
+
+<p>Submissions must be a PDF file in double-column ACM format (see <a href="https://www.acm.org/publications/proceedings-template">ACM Proceedings Template</a>, using the sigconf style, e.g., \documentclass[sigconf, review, anonymous]{acmart}), no more than 8 pages long, excluding the bibliography, well-marked appendices, and supplementary material. Note that authors should not change the font or the margins of the ACM format. Submissions not following the required format may be rejected without review.</p>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<ul>
+  <li>Title and abstract Submission 16 May 2024</li>
+  <li>Full Paper Submission deadline 25 May 2024</li>
+  <li>Notification deadline 25 July 2024</li>
+  <li>Start of Workshop 15 August 2024</li>
+  <li>End of Workshop 20 August 2024</li>
+</ul>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Workshop co-chair(s): Yue Chen, Qingquan Zhang, Yixin Xu</li>
+  <li>Invited talk: Kai Gao</li>
+</ul>
+:ET

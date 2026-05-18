@@ -1,0 +1,88 @@
+I"�<h3 id="overview">Overview</h3>
+
+<p>The basic concept of the Internet-of-Things is perception, control, transmission and intelligence. Technical tools can be used to realize the cooperative relationship between things, people and things and people to form a larger complex network based on a network of sensors, the Internet and a mobile network. The exposure of resource-limited IoT devices to Internet threats opens the door to a number of potential IoT security and privacy risks, such as attacks on IoT systems and unauthorized access to end-users’ personal information.</p>
+
+<p>Security risks and threats continue to increase as the Internet of Things (IoT) will penetrate almost all areas of society, such as retail, transport, healthcare, energy supply and smart cities, and this security weakness can have catastrophic effects on real users and the physical world. Such risks may undermine public confidence in the deployment of internet technologies. It is therefore urgent to explore and introduce security mechanisms, models and schemes that are better aligned with the real needs of the Internet of Things, in order to further ensure its security and reliability.</p>
+
+<p>This workshop aims to provide an excellent venue to showcase and discuss security threats in the Internet of Things, as well as the technical challenges and latest developments related to privacy protection technology for Internet of Things security. The topics include but are not limited to the following:</p>
+
+<ul>
+  <li>Hardware security for Internet-of-Things</li>
+  <li>Malware for Internet-of-Things</li>
+  <li>Internet-of-Things vulnerabilities</li>
+  <li>Intrusion detection and prevention for Internet-of-Things</li>
+  <li>Security for future IoT architectures and designs.</li>
+  <li>Secure wireless communication protocols in the Internet-of-Things.</li>
+  <li>Security measurement and visualization techniques for Internet-of-Things</li>
+  <li>Secure crowdsourcing in Internet-of-Things.</li>
+  <li>Security and privacy of wireless IoT systems based on machine learning.</li>
+  <li>Internet-of-Things authentication</li>
+  <li>Privacy in Internet-of-Things-based services and applications.</li>
+  <li>Privacy-preserving data aggregation and analysis in Internet-of-Things applications.</li>
+  <li>Privacy in mobile and wireless communications for Internet-of-Things.</li>
+  <li>Privacy-preserving authentication in Internet-of-Things.</li>
+</ul>
+
+<h3 id="important-dates">Important dates</h3>
+
+<ul>
+  <li>
+    <p>Submission deadline: June 5, 2023</p>
+  </li>
+  <li>
+    <p>Initial notification: June 6, 2023</p>
+  </li>
+  <li>
+    <p>Final acceptance/rejection notification: June 18 , 2023</p>
+  </li>
+  <li>
+    <p>Publication: As per the policy of journal</p>
+  </li>
+</ul>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+
+<ul>
+  <li><strong>Language:</strong> The manuscript can only be written in English, usually no more than 10 pages.</li>
+  <li><strong>Paper Originality:</strong> Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for this conference.</li>
+  <li><strong>File Format:</strong> Submitted report drafts should include no less than 4 pages, <em>excluding</em> references. There are no page limits on the references. Papers must be formatted according to the [IFW- requirements].Papers must be in PDF format.</li>
+  <li><strong>Paper Anomynity:</strong> All submitted materials will go through a double-blind review process, so the author’s name or affiliation should not appear on the title page, and the document should avoid showing its identity in the text and document metadata. All submissions should be properly anonymized; papers not properly anonymized may be rejected without review.</li>
+  <li><strong>Double-blind Review:</strong> ISTSP2023 uses a double-blind review process. Each submission will be reviewed by at least three independent program committee members. And your papers will be judged on novelty, significance, clarity, practical relevance, and potential impact.</li>
+  <li><strong>Valid Contact:</strong> Contributors must provide a valid email address and mobile phone number.</li>
+  <li><strong>Attendance Responsibilities:</strong> For each paper accepted by the conference, the author should promise that at least one author will attend the conference for communication. Papers not attending the meeting will not be published.</li>
+</ul>
+
+<h3 id="organization">Organization</h3>
+
+<ul>
+  <li>
+    <p>Organizer: Internet-of-Things Security Threats and Security Protection (ISTSP)</p>
+  </li>
+  <li>
+    <p>Hosts: Sichuan University, School of Cyber Science and Engineering</p>
+  </li>
+  <li>
+    <p>General Chairs:</p>
+    <ul>
+      <li>Yaning Chen, Sichuan University</li>
+      <li>Puying Wang, Sichuan University</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="contacts">Contacts</h3>
+
+<ul>
+  <li>Conference Papers Chairs:</li>
+</ul>
+
+<p>Yaning Chen, Sichuan University, China</p>
+
+<p>Puying Wang, Sichuan University, China</p>
+
+<p><strong>(Only applicable when <code class="language-plaintext highlighter-rouge">only-for-homework</code> is <code class="language-plaintext highlighter-rouge">false</code>)</strong></p>
+
+<ul>
+  <li>Invited talk: Kai Gao</li>
+</ul>
+:ET

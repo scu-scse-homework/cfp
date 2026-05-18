@@ -1,0 +1,178 @@
+I"�0<h1 id="call-for-papers-workshop-on-security-and-privacy-of-ai-agents-in-cyber-operations">Call for Papers: Workshop on Security and Privacy of AI Agents in Cyber Operations</h1>
+
+<p><strong>SPAAC 2026</strong></p>
+
+<h2 id="overview">Overview</h2>
+
+<p>The rapid development of large language models, autonomous agents, tool-using AI systems, and automated security platforms is changing the way cyber operations are conducted. AI agents can assist with vulnerability discovery, malware analysis, incident response, penetration testing, security monitoring, threat intelligence, and secure software engineering. At the same time, these systems introduce new security and privacy risks, including prompt injection, tool misuse, data leakage, insecure agent workflows, unreliable autonomous decisions, adversarial manipulation, and unclear accountability.</p>
+
+<p>The <strong>Workshop on Security and Privacy of AI Agents in Cyber Operations (SPAAC 2026)</strong> aims to bring together students, researchers, and practitioners interested in the security, privacy, reliability, and governance of AI-agent-based cyber systems. The workshop welcomes both mature research and early-stage ideas, especially work that can stimulate discussion on how AI agents should be designed, evaluated, deployed, and governed in realistic cybersecurity scenarios.</p>
+
+<h2 id="motivation-and-scope">Motivation and Scope</h2>
+
+<p>AI agents are increasingly connected with external tools, code repositories, browsers, security scanners, knowledge bases, cloud platforms, and enterprise systems. Compared with traditional machine learning models, agentic systems have stronger autonomy, more complex action chains, and larger attack surfaces. A vulnerable or misaligned AI agent may leak sensitive data, execute unsafe commands, misuse security tools, generate misleading reports, or amplify attackers’ capabilities.</p>
+
+<p>SPAAC 2026 focuses on the intersection of <strong>AI agents</strong> and <strong>cyber operations</strong>. We are interested in work that studies how AI agents can be attacked, how they can be defended, how they should be evaluated, and how they can be responsibly used in security-sensitive environments.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>Security of AI agents, LLM agents, multi-agent systems, and tool-using AI systems</li>
+  <li>Prompt injection, indirect prompt injection, jailbreaks, and instruction hierarchy attacks</li>
+  <li>Data leakage, privacy risks, and confidentiality protection in AI-agent workflows</li>
+  <li>Secure design of AI agents for vulnerability discovery, penetration testing, and red teaming</li>
+  <li>AI agents for malware analysis, reverse engineering, digital forensics, and incident response</li>
+  <li>AI-assisted security operations centers, alert triage, threat intelligence, and log analysis</li>
+  <li>Security risks of autonomous cyber-defense and autonomous cyber-offense systems</li>
+  <li>Misuse prevention, policy enforcement, sandboxing, and access control for AI agents</li>
+  <li>Evaluation benchmarks, datasets, and metrics for agentic cybersecurity systems</li>
+  <li>Reliability, robustness, and explainability of AI agents in security tasks</li>
+  <li>Human-in-the-loop control, usability, and trust calibration for AI-assisted security tools</li>
+  <li>Software supply chain risks introduced by AI coding agents and automated patch generation</li>
+  <li>Security of agent memory, retrieval-augmented generation, plugins, APIs, and external tools</li>
+  <li>Privacy-preserving AI agents for enterprise, cloud, mobile, IoT, and network environments</li>
+  <li>Case studies of real-world AI-agent failures, attacks, or deployments</li>
+  <li>Ethical, legal, and governance issues in AI-enabled cyber operations</li>
+  <li>Systematization of knowledge on AI agents in cybersecurity</li>
+</ul>
+
+<p>Submissions without a clear connection to cybersecurity, privacy, or cyber operations are considered out of scope.</p>
+
+<h2 id="submission-categories">Submission Categories</h2>
+
+<p>SPAAC 2026 welcomes the following types of submissions:</p>
+
+<h3 id="regular-papers">Regular Papers</h3>
+
+<p>Regular papers should present original research, complete technical results, or substantial system designs. A regular paper may include new attacks, defenses, measurements, tools, datasets, evaluations, or theoretical analysis related to AI agents in cyber operations.</p>
+
+<p>Regular papers must be no more than <strong>8 pages</strong>, excluding references and well-marked appendices.</p>
+
+<h3 id="short-papers-and-work-in-progress-papers">Short Papers and Work-in-Progress Papers</h3>
+
+<p>Short papers may present early-stage research, preliminary results, new ideas, negative results, position papers, or open research problems. Short papers will be evaluated based on novelty, clarity, technical promise, and potential to stimulate workshop discussion.</p>
+
+<p>Short papers must be no more than <strong>4 pages</strong>, excluding references and well-marked appendices.</p>
+
+<h3 id="poster-and-demo-abstracts">Poster and Demo Abstracts</h3>
+
+<p>Poster and demo abstracts may describe research ideas, prototypes, tools, datasets, benchmarks, or ongoing projects. Submissions in this category are especially suitable for student projects and early-stage work.</p>
+
+<p>Poster and demo abstracts must be no more than <strong>2 pages</strong>, excluding references.</p>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<p>All submissions must be written in English and submitted as PDF files.</p>
+
+<p>Submissions should use a standard two-column academic conference format, such as ACM <code class="language-plaintext highlighter-rouge">sigconf</code> or IEEE conference format. The submitted PDF must be readable, clearly structured, and must not change the template margins, font size, or line spacing.</p>
+
+<p>The review process will be <strong>double-blind</strong>. Submissions must not include author names, affiliations, acknowledgements, funding information, or other information that directly reveals the authors’ identities. Authors should refer to their own prior work in the third person where possible.</p>
+
+<p>Submissions must describe original work that has not been published elsewhere and is not under simultaneous review by another conference, journal, or workshop with proceedings.</p>
+
+<p>Appendices and supplementary materials may be included, but reviewers are not required to read them. The main paper should be self-contained.</p>
+
+<h2 id="ethics-artifacts-and-ai-usage">Ethics, Artifacts, and AI Usage</h2>
+
+<p>Submissions involving human subjects, sensitive data, vulnerability discovery, malware, offensive security experiments, or real-world systems should include an <strong>Ethical Considerations</strong> section. This section should explain how the authors reduce potential harm, protect sensitive information, and handle responsible disclosure when applicable.</p>
+
+<p>Authors are encouraged to make research artifacts available when appropriate, including code, datasets, prompts, evaluation scripts, experimental environments, or anonymized logs. If artifacts cannot be released, the paper should briefly explain the reason.</p>
+
+<p>The use of large language models or other generative AI tools in preparing the submission is allowed, but authors remain fully responsible for the correctness, originality, and integrity of the paper. If such tools are used for writing, coding, data analysis, or figure generation, authors should include a short <strong>AI Usage Statement</strong> at the end of the paper.</p>
+
+<h2 id="review-process">Review Process</h2>
+
+<p>Each regular paper and short paper will receive at least <strong>three reviews</strong> whenever possible. Poster and demo abstracts will receive at least <strong>two reviews</strong> whenever possible.</p>
+
+<p>Reviewers will evaluate submissions based on the following criteria:</p>
+
+<ul>
+  <li><strong>Relevance:</strong> Is the paper clearly related to security, privacy, and AI agents in cyber operations?</li>
+  <li><strong>Novelty:</strong> Does the paper provide a new problem, method, system, dataset, benchmark, insight, or perspective?</li>
+  <li><strong>Technical Soundness:</strong> Are the assumptions, methods, experiments, and conclusions reasonable?</li>
+  <li><strong>Practical Impact:</strong> Does the work help understand or improve real-world cybersecurity practice?</li>
+  <li><strong>Reproducibility:</strong> Does the paper provide enough detail for others to understand or reproduce the result?</li>
+  <li><strong>Ethical Awareness:</strong> Does the paper properly consider potential harm, privacy, and responsible disclosure?</li>
+  <li><strong>Presentation Quality:</strong> Is the paper clearly written and well organized?</li>
+</ul>
+
+<p>Each review will include a paper summary, strengths, weaknesses, comments for improvement, writing-quality assessment, and an overall recommendation. Reviews should be constructive, evidence-based, and focused on the paper rather than the authors.</p>
+
+<p>Possible decisions are:</p>
+
+<ul>
+  <li><strong>Accept as regular presentation</strong></li>
+  <li><strong>Accept as short presentation</strong></li>
+  <li><strong>Accept as poster/demo</strong></li>
+  <li><strong>Reject</strong></li>
+</ul>
+
+<p>The program committee may recommend that a regular paper be accepted as a short presentation or poster if the work is promising but not yet complete.</p>
+
+<h2 id="workshop-format">Workshop Format</h2>
+
+<p>SPAAC 2026 is planned as a half-day workshop. The tentative program is:</p>
+
+<ul>
+  <li>Opening remarks and workshop introduction</li>
+  <li>Invited talk on AI agents and cybersecurity</li>
+  <li>Regular paper presentations</li>
+  <li>Short paper lightning talks</li>
+  <li>Poster and demo session</li>
+  <li>Panel discussion: “Should AI agents be allowed to conduct autonomous cyber operations?”</li>
+  <li>Best paper and best poster announcement</li>
+</ul>
+
+<p>At least one author of each accepted submission is expected to present the work at the workshop.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p>All deadlines are <strong>23:59:59 Anywhere on Earth (AoE)</strong>.</p>
+
+<ul>
+  <li>Paper submission deadline: <strong>June 5, 2026</strong></li>
+  <li>Author notification: <strong>June 12, 2026</strong></li>
+  <li>Camera-ready deadline: <strong>June 18, 2026</strong></li>
+  <li>Workshop date: <strong>June 26, 2026</strong></li>
+</ul>
+
+<h2 id="publication-policy">Publication Policy</h2>
+
+<p>Accepted papers, short papers, and poster abstracts will be listed on the workshop website. Authors may choose whether to include their accepted work in the informal workshop proceedings.</p>
+
+<p>Because SPAAC 2026 is a course workshop, the proceedings are intended for academic communication and teaching purposes. Authors retain copyright to their work.</p>
+
+<h2 id="expected-audience-and-scale">Expected Audience and Scale</h2>
+
+<p>SPAAC 2026 is designed for graduate students and researchers in cybersecurity, artificial intelligence, software security, network security, privacy, and secure systems. The expected number of submissions is <strong>10 to 20</strong>, and the expected number of participants is <strong>30 to 50</strong>.</p>
+
+<p>The workshop aims to accept high-quality work while maintaining an interactive discussion-oriented format. The expected acceptance rate is approximately <strong>40% to 60%</strong>, depending on the quality and number of submissions.</p>
+
+<h2 id="organization">Organization</h2>
+
+<h3 id="workshop-organizers">Workshop Organizers</h3>
+
+<ul>
+  <li>
+    <p>Qingzhe Li, School of Cyber Science and Engineering, Sichuan University</p>
+  </li>
+  <li>
+    <p>Haoyu Pan, School of Cyber Science and Engineering, Sichuan University</p>
+  </li>
+  <li>
+    <p>Yang Wu, School of Cyber Science and Engineering, Sichuan University</p>
+  </li>
+</ul>
+
+<h3 id="program-committee">Program Committee</h3>
+
+<p>The tentative program committee will consist of graduate students and invited reviewers with backgrounds in cybersecurity, artificial intelligence, network security, software security, and privacy. Each reviewer will be asked to provide fair, constructive, and evidence-based reviews.</p>
+
+<h3 id="contact">Contact</h3>
+
+<p>For questions about submissions, topics, or workshop organization, please contact:</p>
+
+<p>XXXXXXXXX@XXXX.com</p>
+:ET

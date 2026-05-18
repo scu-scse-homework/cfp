@@ -1,0 +1,144 @@
+I"<h1 id="call-for-papers">Call for Papers</h1>
+
+<p>The International Conference on Cloud-Native Security (ICCNS) cordially invites submissions of original, unpublished research addressing all security dimensions of cloud-native applications and infrastructure ecosystems. As a premier interdisciplinary forum, ICCNS facilitates knowledge exchange among distinguished researchers, industry leaders, and government experts to advance the state-of-the-art in this dynamically evolving domain.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>Researchers from both the industry and academia are encouraged to submit their original research contributions in all major areas, which include, but not limited to:</p>
+
+<h3 id="emerging-technologies">Emerging Technologies</h3>
+
+<ul>
+  <li>Security for serverless architectures</li>
+  <li>Confidential computing in cloud-native environments</li>
+  <li>AI/ML-powered cloud security solutions</li>
+  <li>Post-quantum cryptography for cloud-native systems</li>
+</ul>
+
+<h3 id="infrastructure-security">Infrastructure Security</h3>
+
+<ul>
+  <li>Zero trust architectures for cloud-native</li>
+  <li>Secure multi-cloud and hybrid-cloud deployments</li>
+  <li>Hardware-based security for cloud infrastructure</li>
+  <li>Edge computing security challenges</li>
+</ul>
+
+<h3 id="development--operations">Development &amp; Operations</h3>
+
+<ul>
+  <li>Secure software supply chain for cloud-native</li>
+  <li>Policy-as-code implementations</li>
+  <li>Automated security remediation</li>
+  <li>Observability-driven security</li>
+</ul>
+
+<h3 id="special-themes-for-iccns">Special Themes for ICCNS</h3>
+
+<ul>
+  <li>Security implications of WebAssembly in cloud-native</li>
+  <li>Sustainable security for green cloud computing</li>
+  <li>Regulatory compliance automation</li>
+  <li>Metaverse infrastructure security</li>
+</ul>
+
+<h2 id="submission-tracks">Submission Tracks</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Track</th>
+      <th>Page Limit</th>
+      <th>Presentation Format</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Research Papers</td>
+      <td>12 pages</td>
+      <td>25-minute talk</td>
+    </tr>
+    <tr>
+      <td>Industry Reports</td>
+      <td>8 pages</td>
+      <td>20-minute talk</td>
+    </tr>
+    <tr>
+      <td>Work-in-Progress</td>
+      <td>6 pages</td>
+      <td>15-minute talk</td>
+    </tr>
+    <tr>
+      <td>Demo/Poster</td>
+      <td>3 pages</td>
+      <td>Interactive session</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="submission-guidelines">Submission Guidelines</h1>
+
+<h2 id="formatting-requirements">Formatting Requirements</h2>
+
+<ul>
+  <li>Use ACM SIGCONF template (available on conference website)</li>
+  <li>Anonymous submission for double-blind review</li>
+  <li>Supplementary materials (max 50MB) allowed</li>
+  <li>Mandatory artifact availability statement</li>
+</ul>
+
+<h2 id="review-process">Review Process</h2>
+
+<ul>
+  <li>Three-phase review with author rebuttal</li>
+  <li>Artifact evaluation for reproducibility</li>
+  <li>Conflict-of-interest aware assignment</li>
+  <li>Cross-disciplinary reviewer matching</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Abstract Submission Deadline</td>
+      <td>June 1, 2025</td>
+    </tr>
+    <tr>
+      <td>Full Paper Submission Deadline</td>
+      <td>June 15, 2025</td>
+    </tr>
+    <tr>
+      <td>Author Notification</td>
+      <td>July 1, 2025</td>
+    </tr>
+    <tr>
+      <td>Camera-Ready Deadline</td>
+      <td>July 15, 2025</td>
+    </tr>
+    <tr>
+      <td>Conference Dates</td>
+      <td>September 15-17, 2025</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="organizing-committee">Organizing Committee</h1>
+
+<h2 id="conference-chairs">Conference Chairs</h2>
+
+<ul>
+  <li>Junpeng Yao, Sichuan University</li>
+  <li>Ninghao Liu, Sichuan University</li>
+</ul>
+
+<p>For inquiries: <a href="mailto:iccns2025@scu.edu.cn">iccns2025@scu.edu.cn</a><br />
+Website: <www.iccns2025.scu.edu.cn> (to be launched May 2025)</www.iccns2025.scu.edu.cn></p>
+
+:ET

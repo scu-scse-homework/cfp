@@ -1,0 +1,42 @@
+I"Ç<h3 id="call-for-papers">Call For Papers</h3>
+<p>In the Internet age, multimedia data such as audio, image and video have become the main medium of information. Meanwhile, the rapid development of multimedia technology and the popularity of smart devices have made data sharing an indispensable part of peopleâ€™s lives. However, multimedia data usually has the characteristics of easy reproduction, processing and dissemination, and more and more tools are capable of generating and processing multimedia data, making it easier to perform illegal operations on data, such as maliciously tamper, illegally copy, and even abusing private data. By compromising the integrity and authenticity of multimedia data, attackers can obtain illegal benefits. Undoubtedly, ensuring the integrity and authenticity of multimedia data has become a critical research issue.</p>
+
+<p>This workshop is open to researchers in academia and industry and aims to explore and share new ideas, methods, theories, and practices focused on addressing the integrity and authenticity of multimedia data in real-world applications. Authors are invited to submit original research and high-quality survey articles on topics including, but not limited to:</p>
+
+<ul>
+  <li>Multimedia steganography and steganalysis</li>
+  <li>Theoretical steganology</li>
+  <li>Fake multimedia forensics and anti-forensics</li>
+  <li>Media source forensics and identification</li>
+  <li>Digital watermarking and Multimedia content protection</li>
+  <li>Information theoretic, stochastic and capacity aspects of data hiding</li>
+  <li>Encryption of multimedia data</li>
+  <li>Multimedia content hash</li>
+  <li>Blockchains for multimedia</li>
+  <li>Biometric-based media protection</li>
+  <li>Deep learning for multimedia security</li>
+</ul>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+<p>Paper size: A4, 6-8 pages, including references
+Paper format: the LNCS template (available from http://www.springeronline.com/lncs )</p>
+
+<p>All submissions will be anonymized for a double-blind review, with final acceptance decisions made by the organizers based on reviewer comments. Simultaneous submissions of papers to multiple venues is not allowed. Submissions not meeting these guidelines risk rejection without consideration of their merits. Authors of accepted papers must agree with IAM copyright and guarantee that their papers will be presented at the workshop.</p>
+
+<h3 id="important-dates">Important Dates</h3>
+<ul>
+  <li>Paper submission deadline: 20<sup>th</sup> April, 2022</li>
+  <li>Rebuttal: 1<sup>st</sup>-10<sup>th</sup> June, 2022</li>
+  <li>Notification of Paper Acceptance: 11<sup>st</sup> June, 2022</li>
+  <li>Camera-read Submission: 1<sup>st</sup> July, 2022</li>
+</ul>
+
+<h3 id="contact-information">Contact Information</h3>
+<p>Email: IAMcfp@gmail.com</p>
+
+<h3 id="editorial-board-members">Editorial Board Members</h3>
+<ul>
+  <li>Sijiang Meng, Sichuan University, China</li>
+  <li>Yuyuan Xiang, Sichuan University, China</li>
+</ul>
+:ET

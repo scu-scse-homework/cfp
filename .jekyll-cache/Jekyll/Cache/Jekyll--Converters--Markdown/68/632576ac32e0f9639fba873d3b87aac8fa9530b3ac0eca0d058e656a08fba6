@@ -1,0 +1,112 @@
+I"&<h1 id="sigir-2026-full-papers-track-call-for-papers">SIGIR 2026 Full Papers Track Call for Papers</h1>
+
+<p>We invite full paper submissions!</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>The annual SIGIR conference is the major international forum for presenting new research results, systems, and techniques in the broad field of information retrieval (IR). The 49th ACM SIGIR conference will be held in person from July 20 to July 24, 2026, in Melbourne</td>
+      <td>Naarm, Australia.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>For the full paper track, SIGIR 2026 welcomes high-impact original papers related to any aspect of information retrieval and access, including theories, foundations, algorithms, evaluation, analysis, and applications.</p>
+
+<h2 id="paper-submission-guidelines">Paper Submission Guidelines</h2>
+
+<p>SIGIR 2026 Full Papers Track uses OpenReview as the conference management system. Full paper submission is not possible without a previously submitted abstract. All authors must be registered in OpenReview before the abstract submission deadline and must complete their OpenReview profiles.</p>
+
+<p>Each submission will be reviewed by at least three PC members and one senior PC member. The review process is double-anonymous. Acceptance decisions will consider novelty, technical depth, elegance, practical or theoretical impact, and presentation.</p>
+
+<p>Authors of accepted papers must ensure that at least one author registers for and attends the conference.</p>
+
+<h3 id="paper-formatting">Paper Formatting</h3>
+<ul>
+  <li>Maximum 9 pages, excluding references.</li>
+  <li>Accepted papers may add one extra page in the camera-ready version, for a total of 10 pages plus references.</li>
+  <li>Language: English.</li>
+  <li>Format: ACM two-column conference format.</li>
+  <li>Template: Use the ACM “sigconf” proceedings template.</li>
+  <li>Submission format: PDF.</li>
+  <li>ACM CCS concepts and keywords are required.</li>
+  <li>For LaTeX, use:
+<code class="language-plaintext highlighter-rouge">\documentclass[sigconf,natbib=true,anonymous=true]{acmart}</code></li>
+</ul>
+
+<h3 id="double-submissions-and-ethics">Double Submissions and Ethics</h3>
+<ul>
+  <li>Papers must describe original work that has not been previously published, accepted elsewhere, or simultaneously submitted to another journal, conference, or SIGIR 2026 track.</li>
+  <li>Concurrent submissions, plagiarism, self-plagiarism, author/reviewer collusion, and other ethics violations may be referred to the Ethics &amp; Plagiarism Committee of the ACM Publications Board.</li>
+  <li>All submissions must comply with ACM and SIGIR 2026 policies, including policies on authorship, ethics, use of AI, and research involving human participants.</li>
+</ul>
+
+<h3 id="anonymity">Anonymity</h3>
+<ul>
+  <li>SIGIR 2026 uses double-anonymous review.</li>
+  <li>Submissions must omit author names and institutional affiliations.</li>
+  <li>Source code and artifacts may be included, but links must not reveal author identities or affiliations.</li>
+  <li>Obvious anonymity violations may result in desk rejection.</li>
+  <li>No changes to authorship are permitted after the abstract submission deadline.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<h3 id="full-papers-track">Full Papers Track</h3>
+<ul>
+  <li><strong>January 15, 2026</strong>: Full paper abstract submission deadline</li>
+  <li><strong>January 22, 2026</strong>: Full paper submission deadline</li>
+  <li><strong>April 2, 2026</strong>: Full paper notification</li>
+  <li><strong>April 29, 2026</strong>: Camera-ready submission deadline</li>
+  <li><strong>April 29, 2026</strong>: Author registration deadline</li>
+</ul>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>We welcome submissions in, but not limited to, the following areas:</p>
+<ul>
+  <li>Search and ranking</li>
+  <li>Queries and query analysis</li>
+  <li>Web search</li>
+  <li>Retrieval models and ranking</li>
+  <li>Theoretical models and foundations of information retrieval and access</li>
+  <li>Efficient and scalable indexing, crawling, compression, and search</li>
+  <li>Energy efficiency and green computing for IR</li>
+  <li>Search engine architecture, distributed search, metasearch, peer-to-peer search, cloud search, and edge IR</li>
+  <li>Recommender systems</li>
+  <li>Cross-domain, socially-aware, context-aware, and multi-stakeholder recommendation</li>
+  <li>Machine learning for IR</li>
+  <li>Deep learning, reinforcement learning, and generative IR</li>
+  <li>Click models and learning from interactions</li>
+  <li>Natural language processing for IR</li>
+  <li>Large language models for IR</li>
+  <li>Retrieval Augmented Generation (RAG)</li>
+  <li>Question answering</li>
+  <li>Conversational and agentic IR</li>
+  <li>Session-based search and recommendation</li>
+  <li>Conversational question answering, dialog systems, spoken language interfaces, and intelligent assistants</li>
+  <li>User studies, user interfaces, visualization, and user modeling</li>
+  <li>Benchmarks, test collections, metrics, and evaluation methodology</li>
+  <li>Fairness, accountability, transparency, ethics, and explainability in IR</li>
+  <li>Multimedia search and retrieval</li>
+  <li>Maps and spatial search</li>
+  <li>Domain-specific IR applications, including local, mobile, social, structured data, education, legal, and health search</li>
+  <li>Information extraction, knowledge acquisition, document representation, content analysis, and information security</li>
+</ul>
+
+<p><strong>Note</strong>: SIGIR 2026 welcomes high-impact original research on information retrieval and access, including theoretical, algorithmic, evaluative, analytical, and applied contributions.</p>
+
+<h2 id="organizers">Organizers</h2>
+
+<h3 id="program-chairs">Program Chairs</h3>
+<p>Binquan Huang, Sichuan University</p>
+
+<h3 id="program-vice-chairs">Program Vice Chairs</h3>
+<p>Shiwen Wang, Sichuan University</p>
+
+<h2 id="submission-process">Submission Process</h2>
+
+<p>Submit papers as PDF files via OpenReview.</p>
+
+<p>For inquiries, contact the Program Chairs at <a href="mailto:program-chairs@sigir2026.org">program-chairs@sigir2026.org</a>.</p>
+:ET

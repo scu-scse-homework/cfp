@@ -1,0 +1,64 @@
+I"<h1 id="call-for-papers">Call For Papers</h1>
+
+<h2 id="csics-2022">CSICS 2022</h2>
+
+<hr />
+<p><em>Full name: 2022 1st Cyber Security in Industrial Control System (CSICS 2022)</em></p>
+
+<p><em>Date: December 16-18, 2022</em></p>
+
+<p><em>Held in: Chengdu, China</em></p>
+
+<p><em>Hosted-by: Sichuan University</em></p>
+
+<p>Industrial control system cyber security is related to industrial production and operation, national economic security, people’s life and property security. Supervisory control and data acquisition (SCADA), distributed control system (DCS), process control system (PCS), programmable logic controller (PLC) and other industrial control systems are widely used in industry, energy, transportation, water conservancy, municipal administration and other fields. With the development of computer and network technology, especially the deep integration of informatization and industrialization and the rapid development of the Internet of Things, industrial control system products increasingly use general protocols, general hardware and general software. Connecting to public networks such as the Internet in various ways, this close connection makes the physically isolated ICS face the possibility of being attacked by cyber viruses. The main security problem currently faced by industrial control systems is network security vulnerabilities. The forms of network security vulnerabilities mainly include vulnerabilities in system software/hardware or communication protocol design used in industrial control networks, and database security vulnerabilities. Attackers can use these vulnerabilities to hinder or interrupt the normal work of the system, and can also gain access and control rights to the system without authorization, thereby compromising the safe operation of the industrial control system. From this, the problem of information security of industrial control systems has become increasingly prominent. Technical scope of this special issue includes, but is not limited to:</p>
+
+<ul>
+  <li>Industrial Cyber-Physical Systems</li>
+  <li>Industrial IoT Systems</li>
+  <li>ntelligent Computer Control Systems</li>
+  <li>Industrial Communications, Networked Embedded Systems</li>
+  <li>Computer Vision and its Industrial Applications</li>
+  <li>Real-Time Control and Communication System</li>
+  <li>Flexible and Collaborative Intelligent Manufacturing Systems</li>
+  <li>ndustrial Informatics Aspects in Software-Defined Vehicles and Robotics</li>
+  <li>Industrial Smart Grid, Power and Energy Systems</li>
+  <li>Systems Interoperability and Human Machine Interaction</li>
+  <li>AI Enhanced Intelligent Systems and its Industrial Applications</li>
+  <li>Signal Processing &amp; Analysis</li>
+</ul>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+<hr />
+<p>The following aspects should be considered by all authors:</p>
+
+<ul>
+  <li>Papers are reviewed on the basis that they do not contain plagiarized material and have not been submitted to any other conference at the same time (double submission);</li>
+  <li>The subject of the paper must be in accordance with Technical scopes;</li>
+  <li>Papers should be addressed to the industrial audience and contain useful procedures and methodologies. Theoretical and academic divagations (theorems and proofs) should be avoided;
+Authors should not focus only on the technical subject, but also on how to present the subject in an easy-to-understand way. This can be accomplished by synergistic use of the text, graphics, equations, examples, and experiments;</li>
+  <li>Presented results should be compared to results obtained with other methodologies;</li>
+  <li>The page length limit for all initial submissions for review is SIX (6) printed pages (10-point font) and must be written in English. Initial submissions longer than SIX (6) pages will be rejected without review;</li>
+</ul>
+
+<h3 id="important-dates">Important Dates</h3>
+<hr />
+<p>Paper Submissions: 16 April 2022</p>
+
+<p>Initial notification: 10 July, 2022</p>
+
+<p>Final acceptance/rejection notification: 25 July 2022</p>
+
+<h3 id="contact-information">Contact Information</h3>
+<hr />
+
+<p>Please address all questions to the CSICS 2022 Conference Chairs:</p>
+
+<p>Yujie Chang, Sichuan University, CHN</p>
+
+<p>Email: 192837465@scu.edu.cn</p>
+
+<p>Youtong Chen, Sichuan University, CHN</p>
+
+<p>Email: 019283745@scu.edu.cn</p>
+:ET

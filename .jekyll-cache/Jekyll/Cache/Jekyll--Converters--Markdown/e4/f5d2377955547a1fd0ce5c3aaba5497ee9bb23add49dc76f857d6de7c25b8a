@@ -1,0 +1,71 @@
+I"˜<h1 id="call-for-paper">Call for Paper</h1>
+
+<h2 id="theme"><strong>Theme</strong></h2>
+
+<p>The Workshop on Cyber Threat Intelligence Entity Extraction aims to bring together researchers, cybersecurity professionals, and industry experts to explore cutting-edge advancements in automatically identifying and classifying entities within cyber threat intelligence (CTI). As cyberattacks grow in sophistication, extracting actionable insights from unstructured threat data (e.g., reports, logs, dark web forums) is critical for proactive defense. This workshop seeks to foster innovation in entity extraction techniques, tools, and frameworks to enhance threat analysis, attribution, and response.</p>
+
+<hr />
+
+<h2 id="topics-of-interest"><strong>Topics of Interest</strong></h2>
+
+<p>We invite submissions related to, but not limited to, the following topics:</p>
+
+<ul>
+  <li><strong>Entity Recognition Algorithms</strong>: Novel methods for detecting threat-related entities (e.g., attackers, malware families, vulnerabilities, campaigns) in unstructured text, network logs, or multimodal data.</li>
+  <li><strong>Cross-Lingual and Cross-Platform Extraction</strong>: Techniques for handling multilingual threat intelligence or entities across diverse platforms (e.g., social media, dark web, IoT).</li>
+  <li><strong>Knowledge Graph Integration</strong>: Linking extracted entities to structured threat knowledge bases or ontologies for contextual analysis.</li>
+  <li><strong>Adversarial Entity Obfuscation</strong>: Detecting and mitigating adversarial tactics to obscure malicious entities (e.g., typosquatting, encoding).</li>
+  <li><strong>Benchmark Datasets</strong>: Development and evaluation of annotated datasets for CTI entity extraction tasks.</li>
+  <li><strong>Real-World Applications</strong>: Case studies on integrating entity extraction into threat-hunting systems, SIEM tools, or incident response pipelines.</li>
+  <li><strong>Ethical and Privacy Considerations</strong>: Addressing challenges in handling sensitive data, attribution risks, and compliance with privacy regulations.</li>
+</ul>
+
+<hr />
+
+<h2 id="submission-instructions"><strong>Submission Instructions</strong></h2>
+
+<p>Authors are invited to submit original research papers, work-in-progress reports, or position papers. Submissions should adhere to the following guidelines:</p>
+
+<ul>
+  <li><strong>Format</strong>: Papers must follow the conference template (e.g., ACM, IEEE).</li>
+  <li><strong>Page Limit</strong>: Full papers (8 pages max), short papers (4 pages max), and extended abstracts (2 pages max).</li>
+  <li><strong>Double-Blind Review</strong>: Author names and affiliations must be anonymized.</li>
+  <li><strong>Language</strong>: Submissions must be in English.</li>
+  <li><strong>Supplementary Materials</strong>: Publicly sharable datasets, code, or tools are encouraged but optional.</li>
+</ul>
+
+<hr />
+
+<h2 id="review-process"><strong>Review Process</strong></h2>
+
+<p>All submissions will undergo a rigorous double-blind peer review by at least three domain experts. Criteria for evaluation include:</p>
+
+<ul>
+  <li><strong>Originality</strong>: Novelty of the proposed approach or insights.</li>
+  <li><strong>Technical Rigor</strong>: Methodological soundness and reproducibility.</li>
+  <li><strong>Impact</strong>: Potential to advance CTI analysis or operational cybersecurity practices.</li>
+  <li><strong>Clarity</strong>: Coherence of presentation and adherence to ethical guidelines.</li>
+</ul>
+
+<p>Accepted papers will be presented at the workshop and published in the conference proceedings. Outstanding contributions may be invited for extended versions in a partner journal.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>Paper Submission Deadline: April 30, 2025</li>
+  <li>Notification of Acceptance: May 15, 2025</li>
+  <li>Camera-Ready Paper Due: June 1, 2025</li>
+  <li>Workshop Date: July 15, 2025</li>
+</ul>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>Lijun He (Sichuan University)</li>
+  <li>Puting Luo (Sichuan University)</li>
+  <li>Jianyou Liao (Sichuan University)</li>
+</ul>
+
+<p>Join us in shaping the future of automated cyber threat intelligence! We look forward to your contributions.</p>
+
+:ET

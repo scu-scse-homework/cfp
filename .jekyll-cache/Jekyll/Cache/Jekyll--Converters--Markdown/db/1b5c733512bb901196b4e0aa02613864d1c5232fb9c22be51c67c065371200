@@ -1,0 +1,77 @@
+I"�<h3 id="overview">Overview</h3>
+
+<p>The core concept of the Internet of Things lies in perception, control, transmission and intelligence. Through technical means, the collaborative relationship between things, people and things and people can be realized, so as to form a larger complex network system based on the sensor network, Internet and mobile communication network. The exposure of resource-constrained IoT devices to the dangers of the Internet opens the door to a number of potential security and privacy risks to the IoT, such as attacks on IoT systems and unauthorized access to end users’ private information.</p>
+
+<p>Security risks and threats continue to grow as the Internet of Things begins to infiltrate almost all areas of society, such as retail, transportation, healthcare, energy supply and smart cities, and such security vulnerabilities can have a catastrophic impact on real users and the physical world. Such threats could undermine public confidence in the adoption of IoT technologies. Therefore, it is urgent to study and deploy security mechanisms, models and schemes more in line with the actual needs of the Internet of Things to further ensure its security and reliability.</p>
+
+<p>This workshop aims to provide an excellent venue to showcase and discuss technical challenges and recent advances related to security threats and privacy protection technologies in the Internet of Things. Topics will include, but not be limited to, the following:</p>
+
+<ul>
+  <li>Intrusion detection and prevention for IoT</li>
+  <li>Hardware security for IoT</li>
+  <li>Malware for IoT</li>
+  <li>Security for future IoT architectures and designs.</li>
+  <li>Secure crowdsourcing in IoT.</li>
+  <li>Secure wireless communication protocols in the IoT.</li>
+  <li>Security measurement and visualization techniques for IoT</li>
+  <li>Security and privacy of wireless IoT systems based on machine learning.</li>
+  <li>Privacy in IoT-based services and applications.</li>
+  <li>Privacy in mobile and wireless communications for IoT.</li>
+  <li>Privacy-preserving authentication in IoT.</li>
+  <li>Privacy-preserving data aggregation and analysis in IoT applications.</li>
+</ul>
+
+<h3 id="important-dates">Important dates</h3>
+
+<p>Paper Submission Deadlines: June 1, 2022(Tentative)</p>
+
+<p>Notification of acceptance: June 15, 2022</p>
+
+<p>Workshops: July 23, 2022</p>
+
+<p>Main Conference:  June 22-June 29, 2022</p>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+
+<ul>
+  <li><strong>Language:</strong> The manuscript can only be written in English, usually no more than 10 pages.</li>
+  <li><strong>Paper Originality:</strong> Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for this conference.</li>
+  <li><strong>File Format:</strong> The conference use manuscript templates provided by <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE eXpress Conference Publishing</a>. Submissions not following the required format may be rejected without review.</li>
+  <li><strong>Paper Anomynity:</strong> All submitted materials will go through a double-blind review process, so the author’s name or affiliation should not appear on the title page, and the document should avoid showing its identity in the text and document metadata. All submissions should be properly anonymized; papers not properly anonymized may be rejected without review.</li>
+  <li><strong>Double-blind Review:</strong> WSTPPI2022 uses a double-blind review process. Each submission will be reviewed by at least three independent program committee members. And your papers will be judged on novelty, significance, clarity, practical relevance, and potential impact.</li>
+  <li><strong>Paper Submission:</strong> The submitter should adjust the completed paper into a standard format before the deadline and submit it via <a href="https://easychair.org/conferences/?conf=wstppi2022">EasyChair</a>.</li>
+  <li><strong>Valid Contact:</strong> Contributors must provide a valid email address and mobile phone number.</li>
+  <li><strong>Attendance Responsibilities:</strong> For each paper accepted by the conference, the author should promise that at least one author will attend the conference for communication. Papers not attending the meeting will not be published.</li>
+</ul>
+
+<h3 id="organization">Organization</h3>
+
+<ul>
+  <li>
+    <p>Organizer: Workshop on Security Threats and Privacy Protection in Internet-of-Things (WSTPPI)</p>
+  </li>
+  <li>
+    <p>Hosts: Sichuan University, School of Cyber Science and Engineering</p>
+  </li>
+  <li>
+    <p>General Chairs:</p>
+    <ul>
+      <li>Yufei Mu, Sichuan University</li>
+      <li>Di Jin, Sichuan University</li>
+      <li>Fei Yang, Sichuan University</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="contacts">Contacts</h3>
+
+<ul>
+  <li>Conference Papers Chairs:</li>
+</ul>
+
+<p>Yufei Mu, Sichuan University, China</p>
+
+<p>Di Jin, Sichuan University, China</p>
+
+<p>Fei Yang, Sichuan University, China</p>
+:ET

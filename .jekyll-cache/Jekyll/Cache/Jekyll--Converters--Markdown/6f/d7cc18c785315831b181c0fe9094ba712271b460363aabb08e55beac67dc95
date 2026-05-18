@@ -1,0 +1,50 @@
+I"U<h1 id="call-for-papers">Call For Papers</h1>
+<h2 id="bdrce-2021--by-backred">BDRCE 2021 | BY BackRed</h2>
+
+<p><em>China Chengdu</em>
+<em>The 1st Meeting of the Backup and Disaster Recovery in Cloud Environment
+ShuangLiu, ChengDu, April 4-28</em></p>
+
+<p>In the modern world all the peoples having a smart device to access the whole world beyond the limit with the use of the internet so cloud computing take the major part to store the real world processed information like MicroBlog, AliPay, WechatPay, Taobao, online ticket booking web sites, etc. Major problem in now a day is a data security issue because trillion and trillions of people are storing the information in the cloud. Unfortunately, there are several issues reduce the cloud computing security, such as data missing, lack of backup services, API and storage gateway. The security problem is considered a major factor that could prevent the development of cloud computing.
+Cloud backup service is ideally suitable for those who wish to provide valuable data backup solution and hold data safely beyond data center. When a natural or man-made disaster occurs data centers and IT server farms may fully or partially go down. Disaster recovery (DR) mechanisms have been devised that should guarantee business continuity. The affordability, multi-region availability, agility, and adaptability of cloud environments have inspired worldwide enterprises to embrace the cloud idea, which is especially true when it comes to fulfilling the distinct goals of disaster recovery.
+With the rapid development of computer technology, IT hardware price continues to decrease. Equipment is no longer important, while data is becoming increasingly vital. However, the challenge in backup and disaster recovery in cloud environment is yet to be addressed such as recovery rate problem.Technical scope of this special issue includes, but is not limited to:</p>
+
+<ul>
+  <li>Performance analysis of Replicate data to the cloud or between clouds</li>
+  <li>The cost efficiency of storage in the cloud</li>
+  <li>The reliability of DR environment</li>
+  <li>The security of the secondary site</li>
+  <li>Cloud backup services in the personal computing environment</li>
+  <li>Deduplication for cloud backup services</li>
+  <li>Backup resource allocation in cloud</li>
+  <li>Auditing a cloud provider’s compliance with data backup requirements</li>
+  <li>Cloud storage system based on distributed storage systems</li>
+  <li>Data reduction and encryption of personal data in cloud backup services</li>
+</ul>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+
+<p>Electronic submissions will include the following:</p>
+
+<ul>
+  <li>Select Presentation Format (Workshop, General Session, Breakout, Solutions Track, Panel Session/Roundtable Discussion)</li>
+  <li>Contact Information (name, address, title, company, email, etc.)</li>
+  <li>Brief biography (1-2 sentences)</li>
+  <li>Synopsis (with clear definition of session and take-aways, 250-word limit)</li>
+</ul>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<p>Manuscript Submission Deadline: 15 June 2021, 3:00 pm US Eastern Time
+Decision Notification: 25 June, 2021</p>
+
+<h3 id="contact-information">Contact Information</h3>
+
+<p>Email: 1246530298@qq.com</p>
+
+<h3 id="general-chairs">General chairs</h3>
+
+<p>Luo Rui (Sichuan University)
+Liu Guoying (Sichuan University)
+Mao Yiping (Sichuan University)</p>
+:ET

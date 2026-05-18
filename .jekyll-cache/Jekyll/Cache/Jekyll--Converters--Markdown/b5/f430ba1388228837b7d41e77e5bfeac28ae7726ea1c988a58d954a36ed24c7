@@ -1,0 +1,42 @@
+I"é	<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>As mobile devices and the Internet of Things become ubiquitous, federated learning has emerged as a promising approach to training machine learning models in a decentralized and privacy-preserving manner. Federated learning enables multiple devices to collaboratively learn a global model while keeping data local, which reduces the privacy risks associated with centralized data aggregation. However, federated learning also poses significant technical and practical challenges that need to be addressed to fully realize its potential.</p>
+
+<p>This workshop aims to bring together researchers and practitioners from academia and industry to discuss recent advances and challenges in federated learning. We welcome submissions of original research papers, survey papers, and position papers on topics related to federated learning, including but not limited to:</p>
+
+<ul>
+  <li>Federated learning algorithms and architectures</li>
+  <li>Privacy and security in federated learning</li>
+  <li>Communication-efficient federated learning</li>
+  <li>Federated transfer learning and domain adaptation</li>
+  <li>Heterogeneous and non-IID data in federated learning</li>
+  <li>Federated learning for edge devices and IoT</li>
+  <li>Federated learning in healthcare and other sensitive domains</li>
+  <li>Federated learning in large-scale and dynamic environments</li>
+  <li>Theoretical analysis of federated learning</li>
+  <li>Practical implementation and deployment of federated learning systems</li>
+  <li>Clustered Federated Learning</li>
+</ul>
+
+<p>All submissions will be peer-reviewed, and accepted papers will be presented at the workshop and published in the proceedings. We also plan to invite keynote speakers and organize panel discussions to facilitate lively discussions on federated learning.</p>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<p>Papers should be submitted in PDF format via the workshopâ€™s EasyChair submission page. Submissions should be in English, follow the NeurIPS format, and not exceed 8 pages (excluding references and supplementary material).</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p>Paper Submission Deadline: July 15, 2023
+Notification of Acceptance: August 15, 2023
+Camera-Ready Deadline: September 1, 2023
+Workshop Date: November 1, 2023</p>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Xiangrun Liu, Sichuan University</li>
+  <li>Anqi Wang, Sichuan University</li>
+  <li>Zhehao Zen, Sichuan University</li>
+</ul>
+
+:ET

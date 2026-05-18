@@ -1,0 +1,50 @@
+I"W
+<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>Vulnerability mining and software testing techniques are crucial areas of research in the field of software engineering. These techniques aim to improve the security and reliability of software systems by detecting and mitigating vulnerabilities and defects early in the development cycle.</p>
+
+<p>The ISST provides a platform for researchers and practitioners to present and discuss their latest research findings, innovations, and challenges in the areas of software testing and analysis. The symposium covers a wide range of topics, including but not limited to: automated testing, debugging, verification, security testing, and vulnerability analysis.</p>
+
+<h2 id="topics-of-interest">Topics of Interest</h2>
+
+<p>We invite submissions of original research papers on the topic of vulnerability mining and software testing techniques. The goal of this special issue is to bring together researchers and practitioners from academia and industry to share their latest findings and ideas on developing effective vulnerability mining and software testing techniques.</p>
+
+<p>Topics of interest include, but are not limited to:</p>
+<ul>
+  <li>Vulnerability mining and detection techniques</li>
+  <li>Automated vulnerability scanning</li>
+  <li>Machine learning and deep learning for vulnerability detection</li>
+  <li>Software security testing</li>
+  <li>Fuzz testing and mutation-based testing</li>
+  <li>Static and dynamic analysis for vulnerability detection</li>
+  <li>Vulnerability assessment and management</li>
+  <li>Formal methods for software testing and verification</li>
+  <li>Tools and frameworks for vulnerability mining and software testing</li>
+</ul>
+
+<h1 id="submission-instructions">Submission Instructions</h1>
+
+<ul>
+  <li>Papers must be in English, with clear arguments, concise language, and clear illustrations.</li>
+  <li>Authors of published papers should submit the full paper for peer review.</li>
+  <li>The review process will be double-blind. The authors must remove their names and
+affiliations in the submitted document.</li>
+  <li>The paper should be written in accordance with the conference official website template, no less than 6 pages</li>
+  <li>The submitted paper must be the PDF format.</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>Paper submission deadline: June 30, 2023</li>
+  <li>Notification of acceptance: September 30, 2023</li>
+  <li>Final manuscript due: November 30, 2023</li>
+  <li>Publication date: early 2024</li>
+</ul>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Workshop co-chair(s): Ximing Fan, Qinglin Qi</li>
+</ul>
+:ET

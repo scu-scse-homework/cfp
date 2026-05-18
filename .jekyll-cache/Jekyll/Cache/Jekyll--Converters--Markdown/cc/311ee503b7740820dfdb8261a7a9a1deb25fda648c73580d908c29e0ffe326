@@ -1,0 +1,93 @@
+I"±<h4 id="call-for-paper">Call for Paper</h4>
+
+<h4 id="overview">Overview</h4>
+
+<p>In recent years, with the increasing emphasis on privacy protection and the gradual introduction of relevant regulations, it is difficult for Internet companies to obtain data arbitrarily; on the other hand, the saying that data is oil has become more and more popular, and artificial intelligence based on big data needs Connecting data silos and collecting more and more complete data can play a greater role. How to combine multi-party data for AI training and analysis under the premise of protecting privacy and data security has become a research and development hotspot in academia and industry.</p>
+
+<h4 id="topics-of-interest">Topics of interest</h4>
+
+<p>We encourage the submission of high-quality contributions regarding the recent advances in Privacy Preserving Machine Learning in Practice. Topics of interest include, but are not limited to the ones listed below.</p>
+
+<p>This workshop focuses on Privacy Preserving Machine Learning in Practice, including but not limited to the following technologies and applications:</p>
+
+<ul>
+  <li>
+    <p>Secure multi-party computation techniques(e.g., secret sharing and garbled circuit)</p>
+  </li>
+  <li>
+    <p>Homomorphic encryption techniques</p>
+  </li>
+  <li>
+    <p>Trusted execution environment (TEE) based approaches</p>
+  </li>
+  <li>
+    <p>Centralized and decentralized protocols for learning on encrypted data</p>
+  </li>
+  <li>
+    <p>Differential privacy</p>
+  </li>
+  <li>
+    <p>Privacy-preserving machine learning methods (e.g., privacy-preserving LR, privacy-preserving neural networks)</p>
+  </li>
+  <li>
+    <p>Collaborative learning / federated learning</p>
+  </li>
+  <li>
+    <p>(Privacy-preserving) transfer learningï¼šMulti-party secure fraud detection, Privacy-preserving recommendation, Privacy-preserving marketing / retailing, Privacy-preserving crowdsourcing / mobile crowdsourcing</p>
+  </li>
+</ul>
+
+<h4 id="paper-submission-guidelines">Paper Submission Guidelines</h4>
+
+<ul>
+  <li>
+    <p>Submitted papers must contain original work, which has neither been previously published nor it is currently under review by another journal or conference.</p>
+  </li>
+  <li>
+    <p>All papers will be peer-reviewed by at least three independent reviewers. Requests for additional information should be addressed to the corresponding guest editor.</p>
+  </li>
+  <li>
+    <p>We invite submissions of full papers (8 pages), short papers (4 pages), and extended abstracts (2 pages). Page lengths are excluding references and metrics.</p>
+  </li>
+  <li>
+    <p>Please send your full paper to the email 2021326240017@stu.scu.edu.cn directly before the deadline.</p>
+  </li>
+</ul>
+
+<h4 id="paper-format">Paper Format</h4>
+
+<ul>
+  <li>
+    <p>Submissions must be in PDF format with sample templates. Submissions not following the required format may be rejected without review.</p>
+  </li>
+  <li>
+    <p><a href="https://www.latextemplates.com/actions/action_download_template?template=journal-article&amp;type=Preview+Template+PDF">You can click here to download conference templete.</a></p>
+  </li>
+</ul>
+
+<h4 id="important-dates">Important Dates</h4>
+
+<ul>
+  <li>Submission deadline: July 15, 2022</li>
+  <li>Initial notification: July 20, 2022</li>
+  <li>Final acceptance/rejection notification: July 25 , 2022</li>
+  <li>Publication: As per the policy of journal</li>
+</ul>
+
+<h4 id="origanizers">Origanizers</h4>
+
+<ul>
+  <li>
+    <p><strong>Hosts:</strong>  Sichuan University, School of Cyber Science and Engineering</p>
+  </li>
+  <li>
+    <p><strong>General Chairs:</strong></p>
+  </li>
+</ul>
+
+<p>Junpeng Hu, Sichuan University</p>
+
+<p>Yi Zhu, Sichuan University</p>
+
+<p>Zhenwu Xu, Sichuan University</p>
+:ET

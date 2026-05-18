@@ -1,0 +1,72 @@
+I"a<h1 id="call-for-paper">Call for Paper</h1>
+
+<p>As traditional perimeter-based security models become increasingly insufficient against advanced cyber threats, Zero Trust Architecture (ZTA) has emerged as a paradigm shift in modern cybersecurity. By assuming no implicit trust within the network, ZTA enforces strict identity verification, least privilege access, and continuous monitoring to safeguard critical assets.</p>
+
+<p>Particularly in critical infrastructure domains such as energy, healthcare, transportation, and finance, the adoption of ZTA is crucial to mitigate the risk of insider threats, supply chain attacks, and lateral movement. This workshop aims to provide a platform for researchers and practitioners to explore the latest advances, challenges, and real-world deployments of Zero Trust in critical infrastructure protection.</p>
+
+<h2 id="topics-of-interest-include-but-are-not-limited-to">Topics of interest include, but are not limited to:</h2>
+
+<ul>
+  <li>Zero Trust Principles and Models</li>
+  <li>ZTA Implementation in Critical Infrastructure</li>
+  <li>Access Control &amp; Continuous Authentication</li>
+  <li>Micro-Segmentation &amp; Network Isolation</li>
+  <li>AI and Analytics in Zero Trust</li>
+  <li>Security Architecture and Framework Design</li>
+  <li>Privacy, Compliance and Usability</li>
+  <li>Integration with Existing Security Infrastructures</li>
+  <li>Threat Modeling and Red-Teaming</li>
+  <li>Deep reinforcement learning for adaptive ZTA policy tuning</li>
+  <li>Explainable AI in dynamic trust evaluation</li>
+  <li>Federated learning for cross-infrastructure trust analytics</li>
+  <li>Outlier detection in real-time access logs for insider threat prevention</li>
+  <li>Synthetic attack simulation using generative models for ZTA testing</li>
+</ul>
+
+<h2 id="submission-instructions">Submission Instructions</h2>
+
+<ul>
+  <li>The review process will follow a double-blind policy. Authors must remove names and affiliations from the submitted PDF document.</li>
+  <li>The submitted paper must be in PDF format, with a length of no more than 12 pages including references and appendices.</li>
+  <li>
+    <p>All submissions should be sent directly via e-mail to:</p>
+
+    <p>2024xxxxxx014@stu.scu.edu.cn
+  2023xxxxxx017@stu.scu.edu.cn</p>
+  </li>
+  <li>
+    <p>For each submission, one of the following decisions will be made:</p>
+
+    <p>Accept: The paper will be included in the workshop proceedings and presented, possibly requiring minor modifications under the guidance of a shepherd.
+  Major Revision: Papers in this category show potential but need further development. Authors may resubmit with proper revisions and a detailed response to reviewers, after which the paper will be re-evaluated.
+  Reject: Papers in this category will not be considered further and cannot be resubmitted in the same review cycle.</p>
+  </li>
+</ul>
+
+<h3 id="important-dates">Important Dates:</h3>
+
+<p>Paper Submission Deadline: June 15, 2025 (23:59 AoE*)
+Notification of Acceptance: August 15, 2025
+Camera-Ready Papers Due: September 10, 2025
+Author Registration Deadline: September 10, 2025
+Conference Dates: October 20–22, 2025 (Singapore)
+| Matter | Deadline               |
+| —- |————————|
+| Paper Submission Deadline | June 15, 2025    |
+| Notification of Acceptance | August 15, 2025    |
+| Camera-Ready Papers Due | September 10, 2025 |
+| Author Registration Deadline | September 10, 2025 |
+| Conference Dates | October 20–22, 2025 (Singapore) |</p>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>
+    <p>Workshop co-chair(s): Lican Liao, Youjian Yao</p>
+  </li>
+  <li>
+    <p>Invited talk: Kai Gao</p>
+  </li>
+</ul>
+
+:ET
